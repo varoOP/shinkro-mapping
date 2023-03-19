@@ -1,0 +1,65 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "https://github.com/kyuketski/shinkuro-mapping/blob/main/schema.json",
+    "type": "object",
+    "default": {},
+    "title": "shinkuro custom mapping schema",
+    "required": [
+        "anime"
+    ],
+    "properties": {
+        "anime": {
+            "type": "array",
+            "default": [],
+            "items": {
+                "type": "object",
+                "required": [
+                    "title",
+                    "seasons"
+                ],
+                "properties": {
+                    "title": {
+                        "type": "string",
+                        "examples": [
+                            "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth",
+                            "One Piece",
+                            "Ijiranaide, Nagatoro-san",
+                            "Kage no Jitsuryokusha ni Naritakute!"
+                        ]
+                    },
+                    "seasons": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "required": [
+                                "season",
+                                "mal-id"
+                            ],
+                            "properties": {
+                                "season": {
+                                    "type": "integer",
+                                    "minimum": 0
+                                },
+                                "mal-id": {
+                                    "type": "integer",
+                                    "minimum": 1
+                                },
+                                "start": {
+                                    "type": "integer",
+                                    "minimum": 1
+                                }
+                            }
+                        }
+                    },
+                    "synonyms": {
+                        "type": "array",
+                        "default": [],
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

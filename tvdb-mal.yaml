@@ -1,5 +1,22 @@
 anime:
+  - title: "Boku no Hero Academia"
+    seasons:
+      - season: 1
+        mal-id: 31964
+      - season: 2
+        mal-id: 33486
+      - season: 3
+        mal-id: 36456
+      - season: 4
+        mal-id: 38408
+      - season: 5
+        mal-id: 41587
+      - season: 6
+        mal-id: 49918
+
   - title: "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth"
+    synonyms:
+      - "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     seasons:
       - season: 1
         mal-id: 28121
@@ -13,9 +30,62 @@ anime:
         mal-id: 53111
         start: 12
 
-  - title: "OP"
+  - title: "Genjitsu Shugi Yuusha no Oukoku Saikenki"
     synonyms:
-      - "One Piece"
+      - "How a Realist Hero Rebuilt the Kingdom"
+    seasons:
+      - season: 1
+        mal-id: 41710
+      - season: 2
+        mal-id: 49930
+        start: 14
+
+  - title: "Ijiranaide, Nagatoro-san"
+    seasons:
+      - season: 1
+        mal-id: 42361
+      - season: 2
+        mal-id: 50197
+
+  - title: "Kage no Jitsuryokusha ni Naritakute!"
+    seasons:
+      - season: 1
+        mal-id: 48316
+      - season: 2
+        mal-id: 54595
+
+  - title: "Kyokou Suiri"
+    seasons:
+      - season: 1
+        mal-id: 39017
+      - season: 2
+        mal-id: 44204
+
+  - title: "Mairimashita! Iruma-kun"
+    seasons:
+      - season: 1
+        mal-id: 39196
+      - season: 2
+        mal-id: 41402
+      - season: 3
+        mal-id: 49784
+
+  - title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou"
+    seasons:
+      - season: 1
+        mal-id: 40496
+      - season: 2
+        mal-id: 48417
+
+  - title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
+    seasons:
+      - season: 1
+        mal-id: 39535
+      - season: 1
+        mal-id: 45576
+        start: 12
+
+  - title: "One Piece"
     seasons:
       - season: 1
         mal-id: 21
@@ -80,69 +150,9 @@ anime:
         mal-id: 21
         start: 892
 
-  - title: "Ijiranaide, Nagatoro-san"
-    seasons:
-      - season: 1
-        mal-id: 42361
-      - season: 2
-        mal-id: 50197
-
-  - title: "Kage no Jitsuryokusha ni Naritakute!"
-    seasons:
-      - season: 1
-        mal-id: 48316
-      - season: 2
-        mal-id: 54595
-
-  - title: "Kyokou Suiri"
-    seasons:
-      - season: 1
-        mal-id: 39017
-      - season: 2
-        mal-id: 44204
-
-  - title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou"
-    seasons:
-      - season: 1
-        mal-id: 40496
-      - season: 2
-        mal-id: 48417
-
-  - title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
-    seasons:
-      - season: 1
-        mal-id: 39535
-      - season: 1
-        mal-id: 45576
-        start: 12
-
-  - title: "Boku no Hero Academia"
-    seasons:
-      - season: 1
-        mal-id: 31964
-      - season: 2
-        mal-id: 33486
-      - season: 3
-        mal-id: 36456
-      - season: 4
-        mal-id: 38408
-      - season: 5
-        mal-id: 41587
-      - season: 6
-        mal-id: 49918
-
   - title: "Vinland Saga"
     seasons:
       - season: 1
         mal-id: 37521
       - season: 2
         mal-id: 49387
-
-  - title: "Mairimashita! Iruma-kun"
-    seasons:
-      - season: 1
-        mal-id: 39196
-      - season: 2
-        mal-id: 41402
-      - season: 3
-        mal-id: 49784
