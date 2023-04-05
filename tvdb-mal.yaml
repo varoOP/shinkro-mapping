@@ -60,6 +60,21 @@ anime:
         mal-id: 39017
       - season: 2
         mal-id: 44204
+  
+  - title: "Mahou Tsukai no Yome"
+    synonyms:
+      - "The Ancient Magus' Bride"
+      - "Mahoyome"
+    seasons:
+      - season: 0
+        mal-id: 32902
+      - season: 0
+        mal-id: 48438
+        start: 36
+      - season: 1
+        mal-id: 35062
+      - season: 2
+        mal-id: 52955
 
   - title: "Mairimashita! Iruma-kun"
     seasons:
