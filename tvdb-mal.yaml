@@ -14,6 +14,18 @@ anime:
       - season: 6
         mal-id: 49918
 
+  - title: "Dr. Stone"
+    seasons:
+      - season: 0
+        mal-id: 50612
+        start: 2
+      - season: 1
+        mal-id: 38691
+      - season: 2
+        mal-id: 40852
+      - season: 3
+        mal-id: 48549
+
   - title: "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth"
     synonyms:
       - "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
