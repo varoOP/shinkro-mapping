@@ -66,13 +66,27 @@ anime:
       - season: 2
         mal-id: 54595
 
+  - title: "Kimetsu no Yaiba"
+    synonyms:
+      - "Blade of Demon Destruction"
+      - "Demon Slayer: Kimetsu no Yaiba"
+    seasons:
+      - season: 1
+        mal-id: 38000
+      - season: 2
+        mal-id: 49926
+      - season: 3
+        mal-id: 47778
+      - season: 4
+        mal-id: 51019
+
   - title: "Kyokou Suiri"
     seasons:
       - season: 1
         mal-id: 39017
       - season: 2
         mal-id: 44204
-  
+
   - title: "Mahou Tsukai no Yome"
     synonyms:
       - "The Ancient Magus' Bride"
