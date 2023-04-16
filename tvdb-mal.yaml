@@ -42,6 +42,13 @@ anime:
         mal-id: 53111
         start: 12
 
+  - title: "Edens Zero"
+    seasons:
+      - season: 1
+        mal-id: 42192
+      - season: 2
+        mal-id: 50002
+
   - title: "Genjitsu Shugi Yuusha no Oukoku Saikenki"
     synonyms:
       - "How a Realist Hero Rebuilt the Kingdom"
