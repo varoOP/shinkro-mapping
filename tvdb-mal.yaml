@@ -198,6 +198,22 @@ anime:
         mal-id: 21
         start: 892
 
+  - title: "Tonikaku Kawaii"
+    synonyms:
+      - "TONIKAWA: Over The Moon For You"
+      - "Generally Cute, Fly Me to the Moon"
+    seasons:
+      - season: 0
+        mal-id: 44931
+        start: 14
+      - season: 0
+        mal-id: 51533
+        start: 15
+      - season: 1
+        mal-id: 41389
+      - season: 2
+        mal-id: 50307
+
   - title: "Vinland Saga"
     seasons:
       - season: 1
