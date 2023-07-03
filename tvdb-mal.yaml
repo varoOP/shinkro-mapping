@@ -127,6 +127,9 @@ anime:
 
   - title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
     seasons:
+      - season: 0
+        mal-id: 55818
+        start: 2
       - season: 1
         mal-id: 39535
       - season: 1
