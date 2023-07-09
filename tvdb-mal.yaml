@@ -135,6 +135,8 @@ anime:
       - season: 1
         mal-id: 45576
         start: 12
+      - season: 2
+        mal-id: 51179
 
   - title: "One Piece"
     seasons:
