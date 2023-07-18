@@ -14,6 +14,12 @@ anime:
       - season: 6
         mal-id: 49918
 
+  - title: "Bleach"
+    seasons:
+      - season: 17
+        mal-id: 53998
+        start: 14
+
   - title: "Dr. Stone"
     seasons:
       - season: 0
