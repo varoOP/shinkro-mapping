@@ -1,9 +1,9 @@
 {
-    "$schema": "https://json-schema.org/draft/2019-09/schema",
-    "$id": "https://github.com/kyuketski/shinkuro-mapping/blob/main/schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://github.com/varoOP/shinkro-mapping/blob/main/schema.json",
     "type": "object",
     "default": {},
-    "title": "shinkuro custom mapping schema",
+    "title": "shinkro custom mapping schema",
     "required": [
         "anime"
     ],
