@@ -19,6 +19,8 @@ anime:
       - season: 17
         mal-id: 53998
         start: 14
+      - season: 15
+        start: 1
 
   - title: "Dr. Stone"
     seasons:
