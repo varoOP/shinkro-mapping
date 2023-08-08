@@ -21,3 +21,4 @@ jobs:
         uses: GrantBirki/json-yaml-validate@v2.0.0
         with:
           json_schema: "./schema.json"
+          use_gitignore: false
