@@ -23,3 +23,4 @@ jobs:
           json_schema: "./schema.json"
           use_gitignore: false
           yaml_as_json: true
+          exclude_file: "./.github/exclude"
