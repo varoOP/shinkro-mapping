@@ -1,0 +1,24 @@
+name: test
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: json-yaml-validate
+        uses: GrantBirki/json-yaml-validate@v2.0.0
+        with:
+          json_schema: "./schema.json"
+          use_gitignore: false
