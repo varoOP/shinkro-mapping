@@ -16,11 +16,58 @@ anime:
 
   - title: "Bleach"
     seasons:
+      - season: 1
+        mal-id: 269
+      - season: 2
+        mal-id: 269
+        start: 21
+      - season: 3
+        mal-id: 269
+        start: 42
+      - season: 4
+        mal-id: 269
+        start: 64
+      - season: 5
+        mal-id: 269
+        start: 92
+      - season: 6
+        mal-id: 269
+        start: 110
+      - season: 7
+        mal-id: 269
+        start: 132
+      - season: 8
+        mal-id: 269
+        start: 152
+      - season: 9
+        mal-id: 269
+        start: 168
+      - season: 10
+        mal-id: 269
+        start: 190
+      - season: 11
+        mal-id: 269
+        start: 206
+      - season: 12
+        mal-id: 53998
+        start: 213
+      - season: 13
+        mal-id: 269
+        start: 230
+      - season: 14
+        mal-id: 269
+        start: 266
+      - season: 15
+        mal-id: 269
+        start: 317
+      - season: 16
+        mal-id: 269
+        start: 343
+      - season: 17
+        mal-id: 41467
       - season: 17
         mal-id: 53998
         start: 14
-      - season: 15
-        start: 1
 
   - title: "Dr. Stone"
     seasons:
