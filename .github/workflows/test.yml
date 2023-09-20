@@ -10,8 +10,8 @@ permissions:
   contents: read
 
 jobs:
-  test:
-    name: Test
+  testTVDB:
+    name: TestTVDB
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -20,7 +20,22 @@ jobs:
       - name: json-yaml-validate
         uses: GrantBirki/json-yaml-validate@v2.0.0
         with:
-          json_schema: "./schema.json"
+          json_schema: "./.github/schema-tvdb.json"
           use_gitignore: false
           yaml_as_json: true
-          exclude_file: "./.github/exclude"
+          exclude_file: "./.github/exclude-tmdb"
+
+  testTMDB:
+    name: TestTMDB
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: json-yaml-validate
+        uses: GrantBirki/json-yaml-validate@v2.0.0
+        with:
+          json_schema: "./.github/schema-tmdb.json"
+          use_gitignore: false
+          yaml_as_json: true
+          exclude_file: "./.github/exclude-tvdb"

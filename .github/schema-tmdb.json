@@ -1,0 +1,41 @@
+{
+    "$id": "https://github.com/varoOP/shinkro-mapping/blob/main/.github/schema-tmdb.json",
+    "type": "object",
+    "default": {},
+    "title": "shinkro tmdb-mal custom mapping scheme",
+    "required": [
+        "animeMovies"
+    ],
+    "properties": {
+        "animeMovies": {
+            "type": "array",
+            "default": [],
+            "items": {
+                "type": "object",
+                "required": [
+                    "mainTitle",
+                    "tmdbid",
+                    "malid"
+                ],
+                "properties": {
+                    "mainTitle": {
+                        "type": "string",
+                        "examples": [
+                            "Tokyo Godfathers",
+                            "Ramayana: The Legend of Prince",
+                            "Bakemono no Ko"
+                        ]
+                    },
+                    "tmdbid": {
+                        "type": "integer",
+                        "minimum": 0
+                    },
+                    "malid": {
+                        "type": "integer",
+                        "minimum": 1
+                    }
+                }
+            }
+        }
+    }
+}

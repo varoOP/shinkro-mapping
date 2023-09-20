@@ -1,0 +1,20 @@
+animeMovies:
+    - mainTitle: Tokyo Godfathers
+      tmdbid: 13398
+      malid: 759
+
+    - mainTitle: 'One Piece: Jango no Dance Carnival'
+      tmdbid: 464154
+      malid: 2385
+
+    - mainTitle: 'One Piece: Mezase! Kaizoku Yakyuu Ou'
+      tmdbid: 464305
+      malid: 2490
+
+    - mainTitle: 'Ramayana: The Legend of Prince Rama'
+      tmdbid: 84092
+      malid: 4921
+
+    - mainTitle: 'One Piece 3D: Gekisou! Trap Coaster'
+      tmdbid: 462387
+      malid: 12001
