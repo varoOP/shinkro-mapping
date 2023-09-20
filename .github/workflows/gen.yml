@@ -1,0 +1,35 @@
+name: genMap
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  gentmdb-mal:
+    name: GenerateTMDB-MAL
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: SetupShinkrodb
+        uses: supplypike/setup-bin@v3
+        with:
+          uri: "https://github.com/varoOP/shinkrodb/releases/download/v0.1.1/shinkrodb_v0.1.1_linux_amd64.tar.gz"
+          name: "shinkrodb"
+          version: "0.1.1"
+
+      - name: GenerateMap
+        run: |
+            shinkrodb genmap
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+            commit_message: Update tmdb-mal.yaml
+
