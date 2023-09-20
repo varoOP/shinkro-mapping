@@ -15,6 +15,10 @@ animeMovies:
       tmdbid: 84092
       malid: 4921
 
+    - mainTitle: 'Sengoku Basara Movie: The Last Party'
+      tmdbid: 81531
+      malid: 9745
+
     - mainTitle: 'One Piece 3D: Gekisou! Trap Coaster'
       tmdbid: 462387
       malid: 12001
