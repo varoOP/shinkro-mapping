@@ -403,6 +403,10 @@ animeMovies:
       tmdbid: 0
       malid: 5868
 
+    - mainTitle: Hi no Ame ga Furu
+      tmdbid: 0
+      malid: 5929
+
     - mainTitle: High School! Kimengumi (Movie)
       tmdbid: 0
       malid: 5956
@@ -5967,10 +5971,6 @@ animeMovies:
       tmdbid: 0
       malid: 48279
 
-    - mainTitle: 'Dino King 3D: Journey to Fire Mountain'
-      tmdbid: 0
-      malid: 48310
-
     - mainTitle: Jeonsa Ryan
       tmdbid: 0
       malid: 48320
@@ -6270,10 +6270,6 @@ animeMovies:
     - mainTitle: Dead Dead Demons Dededede Destruction
       tmdbid: 0
       malid: 51358
-
-    - mainTitle: 'Sasaki to Miyano Movie: Sotsugyou-hen'
-      tmdbid: 0
-      malid: 51440
 
     - mainTitle: Kuro (Movie)
       tmdbid: 0
@@ -7558,4 +7554,8 @@ animeMovies:
     - mainTitle: Junk World
       tmdbid: 0
       malid: 56640
+
+    - mainTitle: Qing Chi Hong Xiaodou Ba! Hong Yu Lu
+      tmdbid: 0
+      malid: 56729
 
