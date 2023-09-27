@@ -1,16 +1,14 @@
-name: genMap
+name: formatMaps
 
 on:
-  push:
-    branches:
-      - main
+  pull_request:
 
 permissions:
   contents: write
 
 jobs:
-  gen-mal:
-    name: GenerateMaps
+  formatMaps:
+    name: FormatMaps
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -25,10 +23,10 @@ jobs:
           name: "shinkrodb"
           version: "0.1.2"
 
-      - name: GenerateMaps
+      - name: FormatMaps
         run: |
-          shinkrodb genmap
+          shinkrodb format
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Generate maps
+          commit_message: Format maps
