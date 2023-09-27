@@ -1,282 +1,542 @@
-anime:
-  - title: "Boku no Hero Academia"
-    seasons:
-      - season: 1
-        mal-id: 31964
-      - season: 2
-        mal-id: 33486
-      - season: 3
-        mal-id: 36456
-      - season: 4
-        mal-id: 38408
-      - season: 5
-        mal-id: 41587
-      - season: 6
-        mal-id: 49918
+AnimeMap:
+    - malid: 21
+      title: One Piece
+      type: tv
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+        - tvdbseason: 2
+          start: 9
+        - tvdbseason: 3
+          start: 31
+        - tvdbseason: 4
+          start: 48
+        - tvdbseason: 5
+          start: 61
+        - tvdbseason: 6
+          start: 70
+        - tvdbseason: 7
+          start: 92
+        - tvdbseason: 8
+          start: 131
+        - tvdbseason: 9
+          start: 144
+        - tvdbseason: 10
+          start: 196
+        - tvdbseason: 11
+          start: 227
+        - tvdbseason: 12
+          start: 326
+        - tvdbseason: 13
+          start: 382
+        - tvdbseason: 14
+          start: 482
+        - tvdbseason: 15
+          start: 517
+        - tvdbseason: 16
+          start: 579
+        - tvdbseason: 17
+          start: 629
+        - tvdbseason: 18
+          start: 747
+        - tvdbseason: 19
+          start: 780
+        - tvdbseason: 20
+          start: 878
+        - tvdbseason: 21
+          start: 892
 
-  - title: "Bleach"
-    seasons:
-      - season: 1
-        mal-id: 269
-      - season: 2
-        mal-id: 269
-        start: 21
-      - season: 3
-        mal-id: 269
-        start: 42
-      - season: 4
-        mal-id: 269
-        start: 64
-      - season: 5
-        mal-id: 269
-        start: 92
-      - season: 6
-        mal-id: 269
-        start: 110
-      - season: 7
-        mal-id: 269
-        start: 132
-      - season: 8
-        mal-id: 269
-        start: 152
-      - season: 9
-        mal-id: 269
-        start: 168
-      - season: 10
-        mal-id: 269
-        start: 190
-      - season: 11
-        mal-id: 269
-        start: 206
-      - season: 12
-        mal-id: 53998
-        start: 213
-      - season: 13
-        mal-id: 269
-        start: 230
-      - season: 14
-        mal-id: 269
-        start: 266
-      - season: 15
-        mal-id: 269
-        start: 317
-      - season: 16
-        mal-id: 269
-        start: 343
-      - season: 17
-        mal-id: 41467
-      - season: 17
-        mal-id: 53998
-        start: 14
+    - malid: 269
+      title: Bleach
+      type: tv
+      tvdbid: 74796
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+        - tvdbseason: 2
+          start: 21
+        - tvdbseason: 3
+          start: 42
+        - tvdbseason: 4
+          start: 64
+        - tvdbseason: 5
+          start: 92
+        - tvdbseason: 6
+          start: 110
+        - tvdbseason: 7
+          start: 132
+        - tvdbseason: 8
+          start: 152
+        - tvdbseason: 9
+          start: 168
+        - tvdbseason: 10
+          start: 190
+        - tvdbseason: 11
+          start: 206
+        - tvdbseason: 12
+          start: 213
+        - tvdbseason: 13
+          start: 230
+        - tvdbseason: 14
+          start: 266
+        - tvdbseason: 15
+          start: 317
+        - tvdbseason: 16
+          start: 343
 
-  - title: "Dr. Stone"
-    seasons:
-      - season: 0
-        mal-id: 50612
-        start: 2
-      - season: 1
-        mal-id: 38691
-      - season: 2
-        mal-id: 40852
-      - season: 3
-        mal-id: 48549
+    - malid: 28121
+      title: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
+      type: tv
+      tvdbid: 289882
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth"
-    synonyms:
-      - "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
-    seasons:
-      - season: 1
-        mal-id: 28121
-      - season: 2
-        mal-id: 37347
-      - season: 3
-        mal-id: 40454
-      - season: 4
-        mal-id: 47164
-      - season: 4
-        mal-id: 53111
-        start: 12
+    - malid: 31964
+      title: Boku no Hero Academia
+      type: tv
+      tvdbid: 305074
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Edens Zero"
-    seasons:
-      - season: 1
-        mal-id: 42192
-      - season: 2
-        mal-id: 50002
+    - malid: 32902
+      title: 'Mahoutsukai no Yome: Hoshi Matsu Hito'
+      type: ova
+      tvdbid: 316842
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Genjitsu Shugi Yuusha no Oukoku Saikenki"
-    synonyms:
-      - "How a Realist Hero Rebuilt the Kingdom"
-    seasons:
-      - season: 1
-        mal-id: 41710
-      - season: 2
-        mal-id: 49930
-        start: 14
+    - malid: 33486
+      title: Boku no Hero Academia 2nd Season
+      type: tv
+      tvdbid: 305074
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Ijiranaide, Nagatoro-san"
-    seasons:
-      - season: 1
-        mal-id: 42361
-      - season: 2
-        mal-id: 50197
+    - malid: 35062
+      title: Mahoutsukai no Yome
+      type: tv
+      tvdbid: 316842
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Kage no Jitsuryokusha ni Naritakute!"
-    seasons:
-      - season: 1
-        mal-id: 48316
-      - season: 2
-        mal-id: 54595
+    - malid: 36456
+      title: Boku no Hero Academia 3rd Season
+      type: tv
+      tvdbid: 305074
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Kimetsu no Yaiba"
-    synonyms:
-      - "Blade of Demon Destruction"
-      - "Demon Slayer: Kimetsu no Yaiba"
-    seasons:
-      - season: 1
-        mal-id: 38000
-      - season: 2
-        mal-id: 49926
-      - season: 3
-        mal-id: 47778
-      - season: 4
-        mal-id: 51019
+    - malid: 37347
+      title: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
+      type: tv
+      tvdbid: 289882
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Kyokou Suiri"
-    seasons:
-      - season: 1
-        mal-id: 39017
-      - season: 2
-        mal-id: 44204
+    - malid: 37521
+      title: Vinland Saga
+      type: tv
+      tvdbid: 359274
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Mahou Tsukai no Yome"
-    synonyms:
-      - "The Ancient Magus' Bride"
-      - "Mahoyome"
-    seasons:
-      - season: 0
-        mal-id: 32902
-      - season: 0
-        mal-id: 48438
-        start: 36
-      - season: 1
-        mal-id: 35062
-      - season: 2
-        mal-id: 52955
+    - malid: 38000
+      title: Kimetsu no Yaiba
+      type: tv
+      tvdbid: 348545
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Mairimashita! Iruma-kun"
-    seasons:
-      - season: 1
-        mal-id: 39196
-      - season: 2
-        mal-id: 41402
-      - season: 3
-        mal-id: 49784
+    - malid: 38408
+      title: Boku no Hero Academia 4th Season
+      type: tv
+      tvdbid: 305074
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou"
-    seasons:
-      - season: 1
-        mal-id: 40496
-      - season: 2
-        mal-id: 48417
+    - malid: 38691
+      title: Dr. Stone
+      type: tv
+      tvdbid: 355774
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
-    seasons:
-      - season: 0
-        mal-id: 55818
-        start: 2
-      - season: 1
-        mal-id: 39535
-      - season: 1
-        mal-id: 45576
-        start: 12
-      - season: 2
-        mal-id: 51179
+    - malid: 39017
+      title: Kyokou Suiri
+      type: tv
+      tvdbid: 368565
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "One Piece"
-    seasons:
-      - season: 1
-        mal-id: 21
-      - season: 2
-        mal-id: 21
-        start: 9
-      - season: 3
-        mal-id: 21
-        start: 31
-      - season: 4
-        mal-id: 21
-        start: 48
-      - season: 5
-        mal-id: 21
-        start: 61
-      - season: 6
-        mal-id: 21
-        start: 70
-      - season: 7
-        mal-id: 21
-        start: 92
-      - season: 8
-        mal-id: 21
-        start: 131
-      - season: 9
-        mal-id: 21
-        start: 144
-      - season: 10
-        mal-id: 21
-        start: 196
-      - season: 11
-        mal-id: 21
-        start: 227
-      - season: 12
-        mal-id: 21
-        start: 326
-      - season: 13
-        mal-id: 21
-        start: 382
-      - season: 14
-        mal-id: 21
-        start: 482
-      - season: 15
-        mal-id: 21
-        start: 517
-      - season: 16
-        mal-id: 21
-        start: 579
-      - season: 17
-        mal-id: 21
-        start: 629
-      - season: 18
-        mal-id: 21
-        start: 747
-      - season: 19
-        mal-id: 21
-        start: 780
-      - season: 20
-        mal-id: 21
-        start: 878
-      - season: 21
-        mal-id: 21
-        start: 892
+    - malid: 39196
+      title: Mairimashita! Iruma-kun
+      type: tv
+      tvdbid: 369144
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Tonikaku Kawaii"
-    synonyms:
-      - "TONIKAWA: Over The Moon For You"
-      - "Generally Cute, Fly Me to the Moon"
-    seasons:
-      - season: 0
-        mal-id: 44931
-        start: 14
-      - season: 0
-        mal-id: 51533
-        start: 15
-      - season: 1
-        mal-id: 41389
-      - season: 2
-        mal-id: 50307
+    - malid: 39535
+      title: 'Mushoku Tensei: Isekai Ittara Honki Dasu'
+      type: tv
+      tvdbid: 371310
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - title: "Vinland Saga"
-    seasons:
-      - season: 1
-        mal-id: 37521
-      - season: 2
-        mal-id: 49387
+    - malid: 40454
+      title: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III
+      type: tv
+      tvdbid: 289882
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40496
+      title: 'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou'
+      type: tv
+      tvdbid: 375927
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40852
+      title: 'Dr. Stone: Stone Wars'
+      type: tv
+      tvdbid: 355774
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 41389
+      title: Tonikaku Kawaii
+      type: tv
+      tvdbid: 385077
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 41402
+      title: Mairimashita! Iruma-kun 2nd Season
+      type: tv
+      tvdbid: 369144
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 41467
+      title: 'Bleach: Sennen Kessen-hen'
+      type: tv
+      tvdbid: 74796
+      tvdbseason: 17
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 41587
+      title: Boku no Hero Academia 5th Season
+      type: tv
+      tvdbid: 305074
+      tvdbseason: 5
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 41710
+      title: Genjitsu Shugi Yuusha no Oukoku Saikenki
+      type: tv
+      tvdbid: 389422
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 42192
+      title: Edens Zero
+      type: tv
+      tvdbid: 388645
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 42361
+      title: Ijiranaide, Nagatoro-san
+      type: tv
+      tvdbid: 385278
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 44204
+      title: Kyokou Suiri Season 2
+      type: tv
+      tvdbid: 368565
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 44931
+      title: 'Tonikaku Kawaii: SNS'
+      type: ova
+      tvdbid: 385077
+      tvdbseason: 0
+      start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 45576
+      title: 'Mushoku Tensei: Isekai Ittara Honki Dasu Part 2'
+      type: tv
+      tvdbid: 371310
+      tvdbseason: 1
+      start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 47164
+      title: 'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen'
+      type: tv
+      tvdbid: 289882
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 47778
+      title: 'Kimetsu no Yaiba: Yuukaku-hen'
+      type: tv
+      tvdbid: 348545
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 48316
+      title: Kage no Jitsuryokusha ni Naritakute!
+      type: tv
+      tvdbid: 407520
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 48417
+      title: 'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II'
+      type: tv
+      tvdbid: 375927
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 48438
+      title: 'Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi'
+      type: ova
+      tvdbid: 316842
+      tvdbseason: 0
+      start: 36
+      useMapping: false
+      animeMapping: []
+
+    - malid: 48549
+      title: 'Dr. Stone: New World'
+      type: tv
+      tvdbid: 355774
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49387
+      title: Vinland Saga Season 2
+      type: tv
+      tvdbid: 359274
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49784
+      title: Mairimashita! Iruma-kun 3rd Season
+      type: tv
+      tvdbid: 369144
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49918
+      title: Boku no Hero Academia 6th Season
+      type: tv
+      tvdbid: 305074
+      tvdbseason: 6
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49926
+      title: 'Kimetsu no Yaiba: Mugen Ressha-hen'
+      type: tv
+      tvdbid: 348545
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49930
+      title: Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2
+      type: tv
+      tvdbid: 389422
+      tvdbseason: 1
+      start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50002
+      title: Edens Zero 2nd Season
+      type: tv
+      tvdbid: 388645
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50197
+      title: Ijiranaide, Nagatoro-san 2nd Attack
+      type: tv
+      tvdbid: 385278
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50307
+      title: Tonikaku Kawaii 2nd Season
+      type: tv
+      tvdbid: 385077
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50612
+      title: 'Dr. Stone: Ryuusui'
+      type: special
+      tvdbid: 355774
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 51019
+      title: 'Kimetsu no Yaiba: Katanakaji no Sato-hen'
+      type: tv
+      tvdbid: 348545
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 51179
+      title: 'Mushoku Tensei II: Isekai Ittara Honki Dasu'
+      type: tv
+      tvdbid: 371310
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 51533
+      title: 'Tonikaku Kawaii: Seifuku'
+      type: special
+      tvdbid: 385077
+      tvdbseason: 0
+      start: 15
+      useMapping: false
+      animeMapping: []
+
+    - malid: 52955
+      title: Mahoutsukai no Yome Season 2
+      type: tv
+      tvdbid: 316842
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53111
+      title: 'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen'
+      type: tv
+      tvdbid: 289882
+      tvdbseason: 4
+      start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53998
+      title: 'Bleach: Sennen Kessen-hen - Ketsubetsu-tan'
+      type: tv
+      tvdbid: 74796
+      tvdbseason: 17
+      start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54595
+      title: Kage no Jitsuryokusha ni Naritakute! 2nd Season
+      type: tv
+      tvdbid: 407520
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55818
+      title: 'Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz'
+      type: special
+      tvdbid: 371310
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
