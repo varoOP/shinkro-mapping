@@ -6479,6 +6479,10 @@ animeMovies:
       tmdbid: 0
       malid: 52714
 
+    - mainTitle: 'Haikyuu!! Movie: Gomisuteba no Kessen'
+      tmdbid: 0
+      malid: 52742
+
     - mainTitle: Sihanpogtan
       tmdbid: 0
       malid: 52766
@@ -7215,10 +7219,6 @@ animeMovies:
       tmdbid: 0
       malid: 54643
 
-    - mainTitle: Precure All Stars Movie F
-      tmdbid: 0
-      malid: 54650
-
     - mainTitle: Turquoise Blue Honeymoon
       tmdbid: 0
       malid: 54660
@@ -7330,10 +7330,6 @@ animeMovies:
     - mainTitle: Yama no Kamisama
       tmdbid: 0
       malid: 55595
-
-    - mainTitle: Cannibal Seijin
-      tmdbid: 0
-      malid: 55607
 
     - mainTitle: Milk no Kevin the Movie
       tmdbid: 0
@@ -7511,6 +7507,10 @@ animeMovies:
       tmdbid: 0
       malid: 56507
 
+    - mainTitle: 'Gintama on Theater 2D: Baragaki-hen'
+      tmdbid: 0
+      malid: 56544
+
     - mainTitle: Nejikure Ojisan
       tmdbid: 0
       malid: 56550
@@ -7555,7 +7555,15 @@ animeMovies:
       tmdbid: 0
       malid: 56640
 
+    - mainTitle: 'Boku no Hero Academia: UA Heroes Battle'
+      tmdbid: 0
+      malid: 56685
+
     - mainTitle: Qing Chi Hong Xiaodou Ba! Hong Yu Lu
       tmdbid: 0
       malid: 56729
+
+    - mainTitle: Gozen 3-ji no Kamen Butoukai
+      tmdbid: 0
+      malid: 56749
 
