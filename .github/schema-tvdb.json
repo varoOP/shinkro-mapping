@@ -1,64 +1,69 @@
 {
     "$id": "https://github.com/varoOP/shinkro-mapping/blob/main/.github/schema-tvdb.json",
-    "type": "object",
-    "default": {},
     "title": "shinkro tvdb-mal custom mapping schema",
-    "required": [
-        "anime"
-    ],
+    "default": {},
+    "type": "object",
     "properties": {
-        "anime": {
+        "AnimeMap": {
             "type": "array",
-            "default": [],
             "items": {
                 "type": "object",
-                "required": [
-                    "title",
-                    "seasons"
-                ],
                 "properties": {
-                    "title": {
-                        "type": "string",
-                        "examples": [
-                            "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth",
-                            "One Piece",
-                            "Ijiranaide, Nagatoro-san",
-                            "Kage no Jitsuryokusha ni Naritakute!"
-                        ]
+                    "malid": {
+                        "type": "integer",
+                        "minimum": 1
                     },
-                    "seasons": {
+                    "title": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "tvdbid": {
+                        "type": "integer"
+                    },
+                    "tvdbseason": {
+                        "type": "integer"
+                    },
+                    "start": {
+                        "type": "integer"
+                    },
+                    "useMapping": {
+                        "type": "boolean"
+                    },
+                    "animeMapping": {
                         "type": "array",
                         "items": {
                             "type": "object",
-                            "required": [
-                                "season",
-                                "mal-id"
-                            ],
                             "properties": {
-                                "season": {
-                                    "type": "integer",
-                                    "minimum": 0
-                                },
-                                "mal-id": {
-                                    "type": "integer",
-                                    "minimum": 1
+                                "tvdbseason": {
+                                    "type": "integer"
                                 },
                                 "start": {
-                                    "type": "integer",
-                                    "minimum": 1
+                                    "type": "integer"
                                 }
-                            }
-                        }
-                    },
-                    "synonyms": {
-                        "type": "array",
-                        "default": [],
-                        "items": {
-                            "type": "string"
+                            },
+                            "required": [
+                                "tvdbseason",
+                                "start"
+                            ]
                         }
                     }
-                }
+                },
+                "required": [
+                    "malid",
+                    "title",
+                    "type",
+                    "tvdbid",
+                    "tvdbseason",
+                    "start",
+                    "useMapping",
+                    "animeMapping"
+                ]
             }
         }
-    }
+    },
+    "required": [
+        "AnimeMap"
+    ]
 }
