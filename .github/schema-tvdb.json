@@ -3,6 +3,9 @@
     "title": "shinkro tvdb-mal custom mapping schema",
     "default": {},
     "type": "object",
+    "required": [
+        "AnimeMap"
+    ],
     "properties": {
         "AnimeMap": {
             "type": "array",
@@ -62,8 +65,5 @@
                 ]
             }
         }
-    },
-    "required": [
-        "AnimeMap"
-    ]
+    }
 }
