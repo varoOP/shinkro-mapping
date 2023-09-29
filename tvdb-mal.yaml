@@ -442,6 +442,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 50184
+      title: Seiken Gakuin no Makentsukai
+      type: tv
+      tvdbid: 412076
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 50197
       title: Ijiranaide, Nagatoro-san 2nd Attack
       type: tv
@@ -466,6 +475,15 @@ AnimeMap:
       tvdbid: 355774
       tvdbseason: 0
       start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50695
+      title: MF Ghost
+      type: tv
+      tvdbid: 414207
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -496,6 +514,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 51794
+      title: 'Nanatsu no Taizai: Mokushiroku no Yonkishi'
+      type: tv
+      tvdbid: 420018
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 52955
       title: Mahoutsukai no Yome Season 2
       type: tv
@@ -514,6 +541,33 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53494
+      title: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta
+      type: tv
+      tvdbid: 426703
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53879
+      title: Kamonohashi Ron no Kindan Suiri
+      type: tv
+      tvdbid: 427919
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53887
+      title: Spy x Family Season 2
+      type: tv
+      tvdbid: 405920
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 53998
       title: 'Bleach: Sennen Kessen-hen - Ketsubetsu-tan'
       type: tv
@@ -523,12 +577,75 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54301
+      title: Overtake!
+      type: tv
+      tvdbid: 429994
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 54595
       title: Kage no Jitsuryokusha ni Naritakute! 2nd Season
       type: tv
       tvdbid: 407520
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54743
+      title: Dead Mount Death Play Part 2
+      type: tv
+      tvdbid: 427239
+      tvdbseason: 1
+      start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54803
+      title: 'Captain Tsubasa Season 2: Junior Youth-hen'
+      type: tv
+      tvdbid: 339203
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54852
+      title: Kikansha no Mahou wa Tokubetsu desu
+      type: tv
+      tvdbid: 432815
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55153
+      title: Yuzuki-san Chi no Yonkyoudai.
+      type: tv
+      tvdbid: 434312
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55644
+      title: 'Dr. Stone: New World Part 2'
+      type: tv
+      tvdbid: 355774
+      tvdbseason: 3
+      start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55742
+      title: Mahoutsukai no Yome Season 2 Part 2
+      type: tv
+      tvdbid: 316842
+      tvdbseason: 2
+      start: 13
       useMapping: false
       animeMapping: []
 
