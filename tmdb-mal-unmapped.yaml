@@ -1183,10 +1183,6 @@ animeMovies:
       tmdbid: 0
       malid: 12663
 
-    - mainTitle: Xevious
-      tmdbid: 0
-      malid: 12799
-
     - mainTitle: 'Umeboshi Denka: Uchuu no Hate kara Panparopan!'
       tmdbid: 0
       malid: 12861
@@ -4106,10 +4102,6 @@ animeMovies:
     - mainTitle: Kuakou de Qingwa
       tmdbid: 0
       malid: 43213
-
-    - mainTitle: Xiaomei De Meng
-      tmdbid: 0
-      malid: 43214
 
     - mainTitle: Hao Pengyou
       tmdbid: 0
@@ -7519,10 +7511,6 @@ animeMovies:
       tmdbid: 0
       malid: 56559
 
-    - mainTitle: 'Wanmei Zhi Cheng: Zui Yonggan de Xiaohai'
-      tmdbid: 0
-      malid: 56586
-
     - mainTitle: Balamui Moyang
       tmdbid: 0
       malid: 56587
@@ -7567,6 +7555,10 @@ animeMovies:
       tmdbid: 0
       malid: 56749
 
+    - mainTitle: Bakeneko Dance
+      tmdbid: 0
+      malid: 56750
+
     - mainTitle: Object
       tmdbid: 0
       malid: 56755
@@ -7574,4 +7566,12 @@ animeMovies:
     - mainTitle: Niu Lang Zhi Nu
       tmdbid: 0
       malid: 56756
+
+    - mainTitle: Mo Shi
+      tmdbid: 0
+      malid: 56769
+
+    - mainTitle: Detective Conan Movie 27
+      tmdbid: 0
+      malid: 56785
 
