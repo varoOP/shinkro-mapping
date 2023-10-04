@@ -298,6 +298,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 42249
+      title: Tokyo Revengers
+      type: tv
+      tvdbid: 393478
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 42361
       title: Ijiranaide, Nagatoro-san
       type: tv
@@ -469,6 +478,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 50608
+      title: 'Tokyo Revengers: Seiya Kessen-hen'
+      type: tv
+      tvdbid: 393478
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 50612
       title: 'Dr. Stone: Ryuusui'
       type: special
@@ -618,6 +636,15 @@ AnimeMap:
       type: tv
       tvdbid: 432815
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54918
+      title: 'Tokyo Revengers: Tenjiku-hen'
+      type: tv
+      tvdbid: 393478
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
