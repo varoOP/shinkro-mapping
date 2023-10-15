@@ -211,6 +211,10 @@ animeMovies:
       tmdbid: 0
       malid: 2682
 
+    - mainTitle: Totsuzen! Neko no Kuni Banipal Witt
+      tmdbid: 0
+      malid: 2715
+
     - mainTitle: MiniPato
       tmdbid: 0
       malid: 2733
@@ -346,10 +350,6 @@ animeMovies:
     - mainTitle: 'Pokemon: Pikapika Hoshizora Camp'
       tmdbid: 0
       malid: 4795
-
-    - mainTitle: Daikyouryuu Jidai
-      tmdbid: 0
-      malid: 4907
 
     - mainTitle: 'Ramayana: The Legend of Prince Rama'
       tmdbid: 84092
@@ -2402,10 +2402,6 @@ animeMovies:
     - mainTitle: Countdown
       tmdbid: 0
       malid: 29711
-
-    - mainTitle: Learn to Love
-      tmdbid: 0
-      malid: 29712
 
     - mainTitle: Maze Maze Wien
       tmdbid: 0
@@ -5595,10 +5591,6 @@ animeMovies:
       tmdbid: 0
       malid: 44879
 
-    - mainTitle: Mo Jing Qi Yuan
-      tmdbid: 0
-      malid: 44885
-
     - mainTitle: Mo Jing Qi Yuan 2
       tmdbid: 0
       malid: 44886
@@ -7531,10 +7523,6 @@ animeMovies:
       tmdbid: 0
       malid: 56595
 
-    - mainTitle: 'Kizumonogatari: Koyomi Vamp'
-      tmdbid: 0
-      malid: 56609
-
     - mainTitle: Junk World
       tmdbid: 0
       malid: 56640
@@ -7582,4 +7570,16 @@ animeMovies:
     - mainTitle: Boku ga Kowai Kuroi Mono
       tmdbid: 0
       malid: 56808
+
+    - mainTitle: Nappeungyejibae
+      tmdbid: 0
+      malid: 56891
+
+    - mainTitle: 'Pororo Movie: Superstar Daemoheom'
+      tmdbid: 0
+      malid: 56908
+
+    - mainTitle: Ddotty Yeongwonui Tab
+      tmdbid: 0
+      malid: 56910
 
