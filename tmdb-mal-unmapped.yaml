@@ -691,10 +691,6 @@ animeMovies:
       tmdbid: 0
       malid: 7752
 
-    - mainTitle: The Place Where We Were
-      tmdbid: 0
-      malid: 7844
-
     - mainTitle: 'Tottoko Hamtarou Movie 3: Ham Ham Grand Prix Aurora Tani no Kiseki - Ribon-chan Kiki Ippatsu!'
       tmdbid: 0
       malid: 8108
@@ -6131,6 +6127,10 @@ animeMovies:
       tmdbid: 0
       malid: 50241
 
+    - mainTitle: Beolineun Seom
+      tmdbid: 0
+      malid: 50245
+
     - mainTitle: Dis Covers
       tmdbid: 0
       malid: 50246
@@ -7210,6 +7210,10 @@ animeMovies:
     - mainTitle: Make a Girl
       tmdbid: 0
       malid: 54740
+
+    - mainTitle: Given Movie (2024)
+      tmdbid: 0
+      malid: 54791
 
     - mainTitle: 'Bloody Escape: Jigoku no Tousou Geki'
       tmdbid: 0
