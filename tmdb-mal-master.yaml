@@ -1,8 +1,4 @@
 animeMovies:
-    - mainTitle: Ace wo Nerae! (1979)
-      tmdbid: 0
-      malid: 313
-
     - mainTitle: Neko no Ongaeshi
       tmdbid: 0
       malid: 597
@@ -138,10 +134,6 @@ animeMovies:
     - mainTitle: 'Uchuu Kaizoku Captain Herlock: Arcadia-gou no Nazo'
       tmdbid: 0
       malid: 2470
-
-    - mainTitle: 'One Piece: Mezase! Kaizoku Yakyuu Ou'
-      tmdbid: 464305
-      malid: 2490
 
     - mainTitle: 'Touch 2: Sayonara no Okurimono'
       tmdbid: 0
@@ -686,10 +678,6 @@ animeMovies:
     - mainTitle: 'Nihon Mukashibanashi: Saru Kani'
       tmdbid: 0
       malid: 7713
-
-    - mainTitle: Bao Lian Deng
-      tmdbid: 0
-      malid: 7752
 
     - mainTitle: 'Tottoko Hamtarou Movie 3: Ham Ham Grand Prix Aurora Tani no Kiseki - Ribon-chan Kiki Ippatsu!'
       tmdbid: 0
@@ -1266,10 +1254,6 @@ animeMovies:
     - mainTitle: Tsukumo
       tmdbid: 0
       malid: 14853
-
-    - mainTitle: 'Onegai My Melody: Yuu & Ai'
-      tmdbid: 0
-      malid: 14947
 
     - mainTitle: Tsuki no Miya no Oujo-sama
       tmdbid: 0
@@ -4959,10 +4943,6 @@ animeMovies:
       tmdbid: 0
       malid: 43801
 
-    - mainTitle: 'Xiyou Ji: Wu Jian Baobei'
-      tmdbid: 0
-      malid: 43804
-
     - mainTitle: Wo Cuole
       tmdbid: 0
       malid: 43805
@@ -6335,10 +6315,6 @@ animeMovies:
       tmdbid: 0
       malid: 51858
 
-    - mainTitle: Xiangzhe Mingliang Na Fang
-      tmdbid: 0
-      malid: 51879
-
     - mainTitle: Climbing
       tmdbid: 0
       malid: 51957
@@ -6390,10 +6366,6 @@ animeMovies:
     - mainTitle: Letu
       tmdbid: 0
       malid: 52316
-
-    - mainTitle: 'Doraemon Movie 42: Nobita to Sora no Utopia'
-      tmdbid: 0
-      malid: 52318
 
     - mainTitle: Sono Saki no Taniji
       tmdbid: 0
@@ -6458,10 +6430,6 @@ animeMovies:
     - mainTitle: Shuizhong de Nuhai
       tmdbid: 0
       malid: 52714
-
-    - mainTitle: 'Haikyuu!! Movie: Gomisuteba no Kessen'
-      tmdbid: 0
-      malid: 52742
 
     - mainTitle: Sihanpogtan
       tmdbid: 0
@@ -7223,10 +7191,6 @@ animeMovies:
       tmdbid: 0
       malid: 54832
 
-    - mainTitle: 'Koukaku Kidoutai: SAC_2045 - Saigo no Ningen'
-      tmdbid: 0
-      malid: 54860
-
     - mainTitle: 'Blue Lock: Episode Nagi'
       tmdbid: 0
       malid: 54866
@@ -7355,7 +7319,7 @@ animeMovies:
       tmdbid: 0
       malid: 55846
 
-    - mainTitle: 'Doraemon Movie 43: Nobita no Chikyuu Koukyougaku'
+    - mainTitle: 'Doraemon Movie 43: Nobita no Chikyuu Symphony'
       tmdbid: 0
       malid: 55874
 
@@ -7586,4 +7550,20 @@ animeMovies:
     - mainTitle: Ddotty Yeongwonui Tab
       tmdbid: 0
       malid: 56910
+
+    - mainTitle: Zhong Sheng Xiang
+      tmdbid: 0
+      malid: 56970
+
+    - mainTitle: 'Magical: Gongjuleul Usgyeola'
+      tmdbid: 0
+      malid: 57016
+
+    - mainTitle: Eomma Katuri
+      tmdbid: 0
+      malid: 57017
+
+    - mainTitle: 'Eomma Katuri the Movie: Dosilo Gan Katuri Gajog'
+      tmdbid: 0
+      malid: 57018
 
