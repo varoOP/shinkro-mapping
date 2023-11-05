@@ -203,10 +203,6 @@ animeMovies:
       tmdbid: 0
       malid: 2682
 
-    - mainTitle: Totsuzen! Neko no Kuni Banipal Witt
-      tmdbid: 0
-      malid: 2715
-
     - mainTitle: MiniPato
       tmdbid: 0
       malid: 2733
@@ -623,7 +619,7 @@ animeMovies:
       tmdbid: 0
       malid: 7488
 
-    - mainTitle: Nonki na Tou-san Ryuuguu Mairi
+    - mainTitle: Nonki na Tousan Ryuuguu Mairi
       tmdbid: 0
       malid: 7495
 
@@ -1255,7 +1251,7 @@ animeMovies:
       tmdbid: 0
       malid: 14853
 
-    - mainTitle: Tsuki no Miya no Oujo-sama
+    - mainTitle: Tsuki no Miya no Oujosama
       tmdbid: 0
       malid: 15139
 
@@ -1314,10 +1310,6 @@ animeMovies:
     - mainTitle: 'Dokgotak: Taeyang-eul Hyanghae Deonjyeola'
       tmdbid: 0
       malid: 16572
-
-    - mainTitle: Robot King
-      tmdbid: 0
-      malid: 16620
 
     - mainTitle: Ojamanga Yamada-kun (Movie)
       tmdbid: 0
@@ -2335,6 +2327,10 @@ animeMovies:
       tmdbid: 0
       malid: 29623
 
+    - mainTitle: Otoko to Onna to Inu
+      tmdbid: 0
+      malid: 29635
+
     - mainTitle: Samurai
       tmdbid: 0
       malid: 29637
@@ -2382,6 +2378,10 @@ animeMovies:
     - mainTitle: Countdown
       tmdbid: 0
       malid: 29711
+
+    - mainTitle: Learn to Love
+      tmdbid: 0
+      malid: 29712
 
     - mainTitle: Maze Maze Wien
       tmdbid: 0
@@ -2458,10 +2458,6 @@ animeMovies:
     - mainTitle: Bunbuku Chagama (1958)
       tmdbid: 0
       malid: 29921
-
-    - mainTitle: Ou-sama Ninatta Kitsune
-      tmdbid: 0
-      malid: 29922
 
     - mainTitle: Goman-hiki
       tmdbid: 0
@@ -3990,10 +3986,6 @@ animeMovies:
     - mainTitle: Son Ogong
       tmdbid: 0
       malid: 42292
-
-    - mainTitle: 'Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki'
-      tmdbid: 0
-      malid: 42296
 
     - mainTitle: Sollo Talchul Gwi
       tmdbid: 0
@@ -7035,7 +7027,7 @@ animeMovies:
       tmdbid: 0
       malid: 54346
 
-    - mainTitle: 'Tobidasu Ojarumaru 3D: Maro wa Ou-sama'
+    - mainTitle: 'Tobidasu Ojarumaru 3D: Maro wa Ousama'
       tmdbid: 0
       malid: 54354
 
@@ -7566,4 +7558,8 @@ animeMovies:
     - mainTitle: 'Eomma Katuri the Movie: Dosilo Gan Katuri Gajog'
       tmdbid: 0
       malid: 57018
+
+    - mainTitle: The Button
+      tmdbid: 0
+      malid: 57040
 
