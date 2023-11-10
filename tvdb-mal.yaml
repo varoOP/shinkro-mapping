@@ -469,12 +469,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 50265
+      title: Spy x Family
+      type: tv
+      tvdbid: 405920
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 50307
       title: Tonikaku Kawaii 2nd Season
       type: tv
       tvdbid: 385077
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50602
+      title: Spy x Family Part 2
+      type: tv
+      tvdbid: 405920
+      tvdbseason: 1
+      start: 13
       useMapping: false
       animeMapping: []
 
