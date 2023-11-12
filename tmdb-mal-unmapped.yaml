@@ -3791,10 +3791,6 @@ animeMovies:
       tmdbid: 0
       malid: 40427
 
-    - mainTitle: Atomic World
-      tmdbid: 0
-      malid: 40476
-
     - mainTitle: Feed
       tmdbid: 0
       malid: 40499
@@ -6339,14 +6335,6 @@ animeMovies:
       tmdbid: 0
       malid: 52267
 
-    - mainTitle: An Introduction of Human Zoology
-      tmdbid: 0
-      malid: 52268
-
-    - mainTitle: BURP
-      tmdbid: 0
-      malid: 52269
-
     - mainTitle: '#1'
       tmdbid: 0
       malid: 52270
@@ -7562,4 +7550,24 @@ animeMovies:
     - mainTitle: The Button
       tmdbid: 0
       malid: 57040
+
+    - mainTitle: 'Gegege no Kitarou: Kappa no Terraforming'
+      tmdbid: 0
+      malid: 57107
+
+    - mainTitle: 'Miniforce: Saeloun Agdangui Seubgyeog'
+      tmdbid: 0
+      malid: 57121
+
+    - mainTitle: Miniforce X Movie
+      tmdbid: 0
+      malid: 57124
+
+    - mainTitle: 'Miniforce: Gonglyongwang Dino'
+      tmdbid: 0
+      malid: 57126
+
+    - mainTitle: 'Miniforce: Haembeogeogoemului Seubgyeog'
+      tmdbid: 0
+      malid: 57127
 
