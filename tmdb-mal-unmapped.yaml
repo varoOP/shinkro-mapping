@@ -151,6 +151,10 @@ animeMovies:
       tmdbid: 0
       malid: 2633
 
+    - mainTitle: 'Dorami-chan: Aoi Straw Hat'
+      tmdbid: 0
+      malid: 2642
+
     - mainTitle: 'Doraemon Movie: Boku, Momotarou no Nanna no Sa'
       tmdbid: 0
       malid: 2650
@@ -354,10 +358,6 @@ animeMovies:
     - mainTitle: 'Doraemon Movie 28: Nobita to Midori no Kyojin Den'
       tmdbid: 0
       malid: 5096
-
-    - mainTitle: 'Pyuu to Fuku! Jaguar: Ima, Fuki ni Yukimasu'
-      tmdbid: 0
-      malid: 5240
 
     - mainTitle: Coffee Tadaiku
       tmdbid: 0
@@ -6311,6 +6311,14 @@ animeMovies:
       tmdbid: 0
       malid: 51993
 
+    - mainTitle: 'Hibike! Euphonium: Ensemble Contest-hen'
+      tmdbid: 0
+      malid: 51995
+
+    - mainTitle: Garden of Remembrance
+      tmdbid: 0
+      malid: 52085
+
     - mainTitle: Share the Warmth
       tmdbid: 0
       malid: 52096
@@ -7518,6 +7526,10 @@ animeMovies:
     - mainTitle: Boku ga Kowai Kuroi Mono
       tmdbid: 0
       malid: 56808
+
+    - mainTitle: Guardy Girls
+      tmdbid: 0
+      malid: 56828
 
     - mainTitle: Nappeungyejibae
       tmdbid: 0
