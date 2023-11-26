@@ -819,10 +819,6 @@ animeMovies:
       tmdbid: 0
       malid: 8663
 
-    - mainTitle: 'Akage no Anne: Green Gables e no Michi'
-      tmdbid: 0
-      malid: 8950
-
     - mainTitle: Mahou no Princess Minky Momo vs. Mahou no Tenshi Creamy Mami
       tmdbid: 0
       malid: 8972
@@ -911,7 +907,7 @@ animeMovies:
       tmdbid: 0
       malid: 9745
 
-    - mainTitle: 'Detective Conan: Conan vs. Kid - Jet Black Sniper'
+    - mainTitle: 'Meitantei Conan: Conan vs. Kid - Shikkoku no Sniper'
       tmdbid: 0
       malid: 9786
 
@@ -1647,10 +1643,6 @@ animeMovies:
       tmdbid: 0
       malid: 19897
 
-    - mainTitle: Pipi Tobenai Hotaru
-      tmdbid: 0
-      malid: 19909
-
     - mainTitle: Huckleberry no Bouken (Movie)
       tmdbid: 0
       malid: 19957
@@ -1726,6 +1718,10 @@ animeMovies:
     - mainTitle: 'Sore Ike! Anpanman: Yakisobapanman to Black Sabotenman'
       tmdbid: 0
       malid: 21297
+
+    - mainTitle: Ikkyuu-san to Yancha Hime
+      tmdbid: 0
+      malid: 21467
 
     - mainTitle: Ikkyuu-san to Yancha Hime
       tmdbid: 0
@@ -2470,6 +2466,10 @@ animeMovies:
     - mainTitle: Crazy for It
       tmdbid: 0
       malid: 29943
+
+    - mainTitle: Kuchao
+      tmdbid: 0
+      malid: 29944
 
     - mainTitle: Chibikuro Sambo no Tora Taiji
       tmdbid: 0
@@ -3335,7 +3335,7 @@ animeMovies:
       tmdbid: 0
       malid: 36759
 
-    - mainTitle: 'Detective Conan: The Magician of Starlight'
+    - mainTitle: 'Meitantei Conan: Hoshikage no Majutsushi'
       tmdbid: 0
       malid: 36760
 
@@ -4011,7 +4011,7 @@ animeMovies:
       tmdbid: 0
       malid: 42456
 
-    - mainTitle: 'Detective Conan: The Burning Galactic Railway'
+    - mainTitle: 'Meitantei Conan: Shakunetsu no Ginga Tetsudou'
       tmdbid: 0
       malid: 42476
 
@@ -6215,10 +6215,6 @@ animeMovies:
       tmdbid: 0
       malid: 51357
 
-    - mainTitle: Dead Dead Demons Dededede Destruction
-      tmdbid: 0
-      malid: 51358
-
     - mainTitle: Kuro (Movie)
       tmdbid: 0
       malid: 51488
@@ -6607,7 +6603,7 @@ animeMovies:
       tmdbid: 0
       malid: 53499
 
-    - mainTitle: Detective Conan Manner Movie
+    - mainTitle: Meitantei Conan Manner Movie
       tmdbid: 0
       malid: 53517
 
@@ -6678,6 +6674,10 @@ animeMovies:
     - mainTitle: Wacha Wacha the Movie
       tmdbid: 0
       malid: 53779
+
+    - mainTitle: 'Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train'
+      tmdbid: 0
+      malid: 53780
 
     - mainTitle: Mayonaka no Inugoya Race
       tmdbid: 0
@@ -6811,7 +6811,7 @@ animeMovies:
       tmdbid: 0
       malid: 53975
 
-    - mainTitle: 'Detective Conan: Tantei-tachi no Starry Night'
+    - mainTitle: 'Meitantei Conan: Tantei-tachi no Starry Night'
       tmdbid: 0
       malid: 53976
 
@@ -7467,10 +7467,6 @@ animeMovies:
       tmdbid: 0
       malid: 56592
 
-    - mainTitle: Laoying Zhua Xiao Ji
-      tmdbid: 0
-      malid: 56593
-
     - mainTitle: Liqiu
       tmdbid: 0
       malid: 56594
@@ -7511,7 +7507,7 @@ animeMovies:
       tmdbid: 0
       malid: 56769
 
-    - mainTitle: Detective Conan Movie 27
+    - mainTitle: Meitantei Conan Movie 27
       tmdbid: 0
       malid: 56785
 
@@ -7543,6 +7539,10 @@ animeMovies:
       tmdbid: 0
       malid: 56910
 
+    - mainTitle: Xuyuan Shu
+      tmdbid: 0
+      malid: 56968
+
     - mainTitle: Zhong Sheng Xiang
       tmdbid: 0
       malid: 56970
@@ -7563,6 +7563,10 @@ animeMovies:
       tmdbid: 0
       malid: 57040
 
+    - mainTitle: Play House
+      tmdbid: 0
+      malid: 57089
+
     - mainTitle: 'Gegege no Kitarou: Kappa no Terraforming'
       tmdbid: 0
       malid: 57107
@@ -7582,4 +7586,28 @@ animeMovies:
     - mainTitle: 'Miniforce: Haembeogeogoemului Seubgyeog'
       tmdbid: 0
       malid: 57127
+
+    - mainTitle: Meiyi Duo Hua er
+      tmdbid: 0
+      malid: 57220
+
+    - mainTitle: Diqiu Shang Zuihou Yige Nanren
+      tmdbid: 0
+      malid: 57221
+
+    - mainTitle: Sheng ANIMA
+      tmdbid: 0
+      malid: 57222
+
+    - mainTitle: C9 Hui Jia
+      tmdbid: 0
+      malid: 57305
+
+    - mainTitle: 'Qingwa Wangguo: Jixian Yundong'
+      tmdbid: 0
+      malid: 57306
+
+    - mainTitle: 'Qingwa Wangguo: Qihuan Nuwang Lixian'
+      tmdbid: 0
+      malid: 57307
 
