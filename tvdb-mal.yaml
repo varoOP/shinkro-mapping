@@ -49,6 +49,8 @@ AnimeMap:
           start: 878
         - tvdbseason: 21
           start: 892
+        - tvdbseason: 22
+          start: 1086
 
     - malid: 269
       title: Bleach
