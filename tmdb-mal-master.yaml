@@ -1,4 +1,8 @@
 animeMovies:
+    - mainTitle: Ace wo Nerae! (1979)
+      tmdbid: 0
+      malid: 313
+
     - mainTitle: Neko no Ongaeshi
       tmdbid: 0
       malid: 597
@@ -459,7 +463,7 @@ animeMovies:
       tmdbid: 0
       malid: 6688
 
-    - mainTitle: 'Yatterman the Movie: Shin Yattermecha Osu Gou! Omocha no Kuni de Dai Ketsudan da Koron'
+    - mainTitle: 'Yatterman the Movie: Shin Yattermecha Dai Shuugou! Omocha no Kuni de Dai Ketsudan da Koron'
       tmdbid: 0
       malid: 6693
 
@@ -566,10 +570,6 @@ animeMovies:
     - mainTitle: Oni
       tmdbid: 0
       malid: 7171
-
-    - mainTitle: Shijin no Shougai
-      tmdbid: 0
-      malid: 7257
 
     - mainTitle: Tabi
       tmdbid: 0
@@ -1643,6 +1643,10 @@ animeMovies:
       tmdbid: 0
       malid: 19897
 
+    - mainTitle: Pipi Tobenai Hotaru
+      tmdbid: 0
+      malid: 19909
+
     - mainTitle: Huckleberry no Bouken (Movie)
       tmdbid: 0
       malid: 19957
@@ -1718,10 +1722,6 @@ animeMovies:
     - mainTitle: 'Sore Ike! Anpanman: Yakisobapanman to Black Sabotenman'
       tmdbid: 0
       malid: 21297
-
-    - mainTitle: Ikkyuu-san to Yancha Hime
-      tmdbid: 0
-      malid: 21467
 
     - mainTitle: Ikkyuu-san to Yancha Hime
       tmdbid: 0
@@ -2118,10 +2118,6 @@ animeMovies:
     - mainTitle: Kurumiwari Ningyou (2014)
       tmdbid: 0
       malid: 26043
-
-    - mainTitle: 'Yasuji no Pornorama: Yacchimae!!'
-      tmdbid: 0
-      malid: 26081
 
     - mainTitle: Okori Jizou
       tmdbid: 0
@@ -3183,10 +3179,6 @@ animeMovies:
       tmdbid: 0
       malid: 35091
 
-    - mainTitle: 'Haikyuu!! Movie 3: Sainou to Sense'
-      tmdbid: 0
-      malid: 35110
-
     - mainTitle: Shingeki no Kyotou
       tmdbid: 0
       malid: 35122
@@ -3546,10 +3538,6 @@ animeMovies:
     - mainTitle: Noise
       tmdbid: 0
       malid: 38867
-
-    - mainTitle: Blow Up 2
-      tmdbid: 0
-      malid: 38868
 
     - mainTitle: 4.Eyes Re-Mix 2005
       tmdbid: 0
@@ -5879,10 +5867,6 @@ animeMovies:
       tmdbid: 0
       malid: 48120
 
-    - mainTitle: Taikong Xiongmao Yingxiong Dansheng
-      tmdbid: 0
-      malid: 48121
-
     - mainTitle: 'Haidi Xiao Zongdui: Huoyan Zhi Huan'
       tmdbid: 0
       malid: 48128
@@ -6126,10 +6110,6 @@ animeMovies:
     - mainTitle: 'Imokawa Mukuzo: Tsuri no Maki'
       tmdbid: 0
       malid: 50577
-
-    - mainTitle: Mahoutsukai no Yoru
-      tmdbid: 0
-      malid: 50668
 
     - mainTitle: Pochi Hana
       tmdbid: 0
@@ -7171,10 +7151,6 @@ animeMovies:
       tmdbid: 0
       malid: 54791
 
-    - mainTitle: 'Bloody Escape: Jigoku no Tousou Geki'
-      tmdbid: 0
-      malid: 54793
-
     - mainTitle: 'Planetarium Chibi Maruko-chan: Minamijuujisei ni Miserarete'
       tmdbid: 0
       malid: 54832
@@ -7327,9 +7303,9 @@ animeMovies:
       tmdbid: 0
       malid: 56144
 
-    - mainTitle: Oomuro-ke
+    - mainTitle: 'Boku no Hero Academia: The Movie'
       tmdbid: 0
-      malid: 56175
+      malid: 56196
 
     - mainTitle: Niger Monogatari
       tmdbid: 0
@@ -7507,7 +7483,7 @@ animeMovies:
       tmdbid: 0
       malid: 56769
 
-    - mainTitle: Meitantei Conan Movie 27
+    - mainTitle: 'Meitantei Conan Movie 27: 100-man Dollar no Michishirube'
       tmdbid: 0
       malid: 56785
 
@@ -7535,13 +7511,13 @@ animeMovies:
       tmdbid: 0
       malid: 56908
 
-    - mainTitle: Ddotty Yeongwonui Tab
-      tmdbid: 0
-      malid: 56910
-
     - mainTitle: Xuyuan Shu
       tmdbid: 0
       malid: 56968
+
+    - mainTitle: Yaoguai Senlin
+      tmdbid: 0
+      malid: 56969
 
     - mainTitle: Zhong Sheng Xiang
       tmdbid: 0
@@ -7562,6 +7538,10 @@ animeMovies:
     - mainTitle: The Button
       tmdbid: 0
       malid: 57040
+
+    - mainTitle: Nanzoya
+      tmdbid: 0
+      malid: 57062
 
     - mainTitle: Play House
       tmdbid: 0
@@ -7610,4 +7590,84 @@ animeMovies:
     - mainTitle: 'Qingwa Wangguo: Qihuan Nuwang Lixian'
       tmdbid: 0
       malid: 57307
+
+    - mainTitle: Napolitan no Yoru
+      tmdbid: 0
+      malid: 57319
+
+    - mainTitle: Fiction Shigi Yama
+      tmdbid: 0
+      malid: 57364
+
+    - mainTitle: 'Kaixin Chaoren: Yingxiong de Xin'
+      tmdbid: 0
+      malid: 57384
+
+    - mainTitle: Zhu Luo Ji da Leyuan
+      tmdbid: 0
+      malid: 57385
+
+    - mainTitle: 'Fengle! Gui Bao: Sanxing Duo Bao'
+      tmdbid: 0
+      malid: 57386
+
+    - mainTitle: 'Mini Shijie: Juexing'
+      tmdbid: 0
+      malid: 57387
+
+    - mainTitle: 'Xiong Chumo: Nizhuan Shikong'
+      tmdbid: 0
+      malid: 57416
+
+    - mainTitle: 'Jiangtun: Feng Shi Wu'
+      tmdbid: 0
+      malid: 57418
+
+    - mainTitle: Huo Feng Zhong Tian
+      tmdbid: 0
+      malid: 57439
+
+    - mainTitle: Meitantei Conan vs. Kaitou Kid
+      tmdbid: 0
+      malid: 57441
+
+    - mainTitle: Fureru.
+      tmdbid: 0
+      malid: 57448
+
+    - mainTitle: Tian Jiang Daren
+      tmdbid: 0
+      malid: 57449
+
+    - mainTitle: Siji Tongnian
+      tmdbid: 0
+      malid: 57454
+
+    - mainTitle: 'Shuke Beita: Wujiao Feidie'
+      tmdbid: 0
+      malid: 57455
+
+    - mainTitle: 'Mayi Chuanqi: Zhongji Yi Zhan'
+      tmdbid: 0
+      malid: 57458
+
+    - mainTitle: 'Xin Zhu Zhu Xia Da Dianying: Chaoji Saiche'
+      tmdbid: 0
+      malid: 57461
+
+    - mainTitle: Chao Meng Shikong Baobei
+      tmdbid: 0
+      malid: 57462
+
+    - mainTitle: Kara He Mayi Lixian Ji
+      tmdbid: 0
+      malid: 57463
+
+    - mainTitle: 'Zhu Zhu Xia Da Dianying: Xingji Xingdong'
+      tmdbid: 0
+      malid: 57464
+
+    - mainTitle: 'Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki'
+      tmdbid: 0
+      malid: 57499
 
