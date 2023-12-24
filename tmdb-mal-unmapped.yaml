@@ -803,10 +803,6 @@ animeMovies:
       tmdbid: 0
       malid: 8524
 
-    - mainTitle: 'Dr. Slump Movie 10: Arale no Bikkuriman'
-      tmdbid: 0
-      malid: 8550
-
     - mainTitle: Chikyuu Monogatari Telepath 2500
       tmdbid: 0
       malid: 8563
@@ -4603,10 +4599,6 @@ animeMovies:
       tmdbid: 0
       malid: 43535
 
-    - mainTitle: Lao Shu Jia Nu
-      tmdbid: 0
-      malid: 43537
-
     - mainTitle: Hao Gua Gua
       tmdbid: 0
       malid: 43538
@@ -6059,6 +6051,10 @@ animeMovies:
       tmdbid: 0
       malid: 49478
 
+    - mainTitle: Tabi wa ni
+      tmdbid: 0
+      malid: 49743
+
     - mainTitle: Changbaekhan Eolkuldeul
       tmdbid: 0
       malid: 49956
@@ -7503,6 +7499,10 @@ animeMovies:
       tmdbid: 0
       malid: 56828
 
+    - mainTitle: 'Code Geass: Dakkan no Rozé'
+      tmdbid: 0
+      malid: 56835
+
     - mainTitle: Nappeungyejibae
       tmdbid: 0
       malid: 56891
@@ -7510,6 +7510,10 @@ animeMovies:
     - mainTitle: 'Pororo Movie: Superstar Daemoheom'
       tmdbid: 0
       malid: 56908
+
+    - mainTitle: Ddotty Yeongwonui Tab
+      tmdbid: 0
+      malid: 56910
 
     - mainTitle: Xuyuan Shu
       tmdbid: 0
@@ -7670,4 +7674,8 @@ animeMovies:
     - mainTitle: 'Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki'
       tmdbid: 0
       malid: 57499
+
+    - mainTitle: Tokyo
+      tmdbid: 0
+      malid: 57587
 
