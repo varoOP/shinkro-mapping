@@ -23,6 +23,10 @@ animeMovies:
       tmdbid: 0
       malid: 844
 
+    - mainTitle: 'Dragon Ball Movie 4: Saikyou e no Michi'
+      tmdbid: 0
+      malid: 893
+
     - mainTitle: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
       tmdbid: 0
       malid: 1078
@@ -2843,10 +2847,6 @@ animeMovies:
       tmdbid: 0
       malid: 32397
 
-    - mainTitle: 'Love Live! The School Idol Movie: Gekijou Manner CM'
-      tmdbid: 0
-      malid: 32476
-
     - mainTitle: 'Starry Tales: Seiza wa Toki wo Koete'
       tmdbid: 0
       malid: 32563
@@ -2870,10 +2870,6 @@ animeMovies:
     - mainTitle: Sensou no Tsukurikata
       tmdbid: 0
       malid: 32728
-
-    - mainTitle: Pepsi Nex x 009 Re:Cyborg
-      tmdbid: 0
-      malid: 32736
 
     - mainTitle: 'Aikatsu!: Nerawareta Mahou no Aikatsu! Card'
       tmdbid: 0
@@ -3339,21 +3335,9 @@ animeMovies:
       tmdbid: 0
       malid: 36835
 
-    - mainTitle: Toho Cinemas x Pokemon Go
-      tmdbid: 0
-      malid: 36836
-
     - mainTitle: 'Youtai Nuhai Zai Shanghai 2: Xianglian Mima'
       tmdbid: 0
       malid: 36843
-
-    - mainTitle: Tokyo Girls Collection 2016 A/W x Osomatsu-san Special Movie
-      tmdbid: 0
-      malid: 36865
-
-    - mainTitle: 'Toho Cinemas & I Love Snoopy: The Peanuts Movie Collab Logo Eizou'
-      tmdbid: 0
-      malid: 36868
 
     - mainTitle: Mirai no Mirai
       tmdbid: 0
@@ -3846,10 +3830,6 @@ animeMovies:
     - mainTitle: Anne's Secret Diary
       tmdbid: 0
       malid: 41280
-
-    - mainTitle: Go for 2020
-      tmdbid: 0
-      malid: 41298
 
     - mainTitle: Kuuchuu Gunkan Atlantis
       tmdbid: 0
@@ -7307,10 +7287,6 @@ animeMovies:
       tmdbid: 0
       malid: 56236
 
-    - mainTitle: 'Super Wings the Movie: Maximum Speed'
-      tmdbid: 0
-      malid: 56262
-
     - mainTitle: 'Sinbi Apateu Movie: Chawondokkaebiwa 7 Gaeui Segye'
       tmdbid: 0
       malid: 56291
@@ -7678,4 +7654,8 @@ animeMovies:
     - mainTitle: Tokyo
       tmdbid: 0
       malid: 57587
+
+    - mainTitle: Tori no Machi
+      tmdbid: 0
+      malid: 57619
 
