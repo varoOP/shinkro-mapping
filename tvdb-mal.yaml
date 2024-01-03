@@ -417,6 +417,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 49889
+      title: Tsuki ga Michibiku Isekai Douchuu 2nd Season
+      type: tv
+      tvdbid: 390832
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 49918
       title: Boku no Hero Academia 6th Season
       type: tv
@@ -543,6 +552,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 51180
+      title: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season
+      type: tv
+      tvdbid: 329822
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 51533
       title: 'Tonikaku Kawaii: Seifuku'
       type: special
@@ -576,6 +594,15 @@ AnimeMap:
       tvdbid: 289882
       tvdbseason: 4
       start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53488
+      title: Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd
+      type: tv
+      tvdbid: 400573
+      tvdbseason: 2
+      start: 0
       useMapping: false
       animeMapping: []
 
