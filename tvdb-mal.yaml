@@ -534,6 +534,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 51009
+      title: Jujutsu Kaisen 2nd Season
+      type: tv
+      tvdbid: 377543
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 51019
       title: 'Kimetsu no Yaiba: Katanakaji no Sato-hen'
       type: tv
