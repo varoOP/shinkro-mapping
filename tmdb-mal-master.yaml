@@ -23,10 +23,6 @@ animeMovies:
       tmdbid: 0
       malid: 844
 
-    - mainTitle: 'Dragon Ball Movie 4: Saikyou e no Michi'
-      tmdbid: 0
-      malid: 893
-
     - mainTitle: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
       tmdbid: 0
       malid: 1078
@@ -62,14 +58,6 @@ animeMovies:
     - mainTitle: 'Slam Dunk: Zenkoku Seiha Da! - Sakuragi Hanamichi'
       tmdbid: 0
       malid: 1861
-
-    - mainTitle: 'Urusei Yatsura Movie 3: Remember My Love'
-      tmdbid: 0
-      malid: 1922
-
-    - mainTitle: 'Urusei Yatsura Movie 6: Itsudatte My Darling'
-      tmdbid: 0
-      malid: 1925
 
     - mainTitle: Hana yori Dango (Movie)
       tmdbid: 0
@@ -1659,10 +1647,6 @@ animeMovies:
       tmdbid: 0
       malid: 20093
 
-    - mainTitle: Kazu & Yasu Hero Tanjou
-      tmdbid: 0
-      malid: 20143
-
     - mainTitle: Gamba to Kawauso no Bouken
       tmdbid: 0
       malid: 20175
@@ -2719,10 +2703,6 @@ animeMovies:
       tmdbid: 0
       malid: 31202
 
-    - mainTitle: Hikawa Maru Monogatari
-      tmdbid: 0
-      malid: 31235
-
     - mainTitle: Chieri to Cherry
       tmdbid: 0
       malid: 31236
@@ -2846,6 +2826,10 @@ animeMovies:
     - mainTitle: Saga-ken wo Meguru Animation
       tmdbid: 0
       malid: 32397
+
+    - mainTitle: 'Love Live! The School Idol Movie: Gekijou Manner CMs'
+      tmdbid: 0
+      malid: 32476
 
     - mainTitle: 'Starry Tales: Seiza wa Toki wo Koete'
       tmdbid: 0
@@ -3386,10 +3370,6 @@ animeMovies:
     - mainTitle: 'Hibike! Euphonium Movie: Photo Session e Youkoso'
       tmdbid: 0
       malid: 37577
-
-    - mainTitle: Ten Count
-      tmdbid: 0
-      malid: 37616
 
     - mainTitle: 'Turning Mecard W: Vandyne-ui Bimil - Teugbyeolpan'
       tmdbid: 0
@@ -5903,6 +5883,10 @@ animeMovies:
       tmdbid: 0
       malid: 48884
 
+    - mainTitle: 'Overlord Movie 3: Sei Oukoku-hen'
+      tmdbid: 0
+      malid: 48896
+
     - mainTitle: Minami e Itta Misuke
       tmdbid: 0
       malid: 48909
@@ -6106,6 +6090,10 @@ animeMovies:
     - mainTitle: Radio Wave
       tmdbid: 0
       malid: 50754
+
+    - mainTitle: 'Yamato yo, Towa ni: Rebel 3199'
+      tmdbid: 0
+      malid: 50855
 
     - mainTitle: Kakurenbo (2012)
       tmdbid: 0
@@ -7431,10 +7419,6 @@ animeMovies:
       tmdbid: 0
       malid: 56685
 
-    - mainTitle: Qing Chi Hong Xiaodou Ba! Hong Yu Lu
-      tmdbid: 0
-      malid: 56729
-
     - mainTitle: Gozen 3-ji no Kamen Butoukai
       tmdbid: 0
       malid: 56749
@@ -7543,10 +7527,6 @@ animeMovies:
       tmdbid: 0
       malid: 57126
 
-    - mainTitle: 'Miniforce: Haembeogeogoemului Seubgyeog'
-      tmdbid: 0
-      malid: 57127
-
     - mainTitle: Meiyi Duo Hua er
       tmdbid: 0
       malid: 57220
@@ -7615,10 +7595,6 @@ animeMovies:
       tmdbid: 0
       malid: 57448
 
-    - mainTitle: Tian Jiang Daren
-      tmdbid: 0
-      malid: 57449
-
     - mainTitle: Siji Tongnian
       tmdbid: 0
       malid: 57454
@@ -7658,4 +7634,12 @@ animeMovies:
     - mainTitle: Tori no Machi
       tmdbid: 0
       malid: 57619
+
+    - mainTitle: 'Kaixin Chaoren: Shikong Yingjiu'
+      tmdbid: 0
+      malid: 57743
+
+    - mainTitle: BanG Dream! It's MyGO!!!!! Movie
+      tmdbid: 0
+      malid: 57754
 
