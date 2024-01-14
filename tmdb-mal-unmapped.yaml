@@ -819,10 +819,6 @@ animeMovies:
       tmdbid: 0
       malid: 9163
 
-    - mainTitle: Mianhada Saranghanda
-      tmdbid: 0
-      malid: 9254
-
     - mainTitle: 'Hana no Ko Lunlun: Konnichiwa Sakura no Kuni'
       tmdbid: 0
       malid: 9264
@@ -1946,10 +1942,6 @@ animeMovies:
     - mainTitle: Yukiguni no Oujisama
       tmdbid: 0
       malid: 23345
-
-    - mainTitle: Kagirinaki Rakuen
-      tmdbid: 0
-      malid: 23569
 
     - mainTitle: Bunna yo Ki kara Orite Koi
       tmdbid: 0
@@ -6015,10 +6007,6 @@ animeMovies:
       tmdbid: 0
       malid: 49478
 
-    - mainTitle: Tabi wa ni
-      tmdbid: 0
-      malid: 49743
-
     - mainTitle: Changbaekhan Eolkuldeul
       tmdbid: 0
       malid: 49956
@@ -7579,10 +7567,6 @@ animeMovies:
       tmdbid: 0
       malid: 57416
 
-    - mainTitle: 'Jiangtun: Feng Shi Wu'
-      tmdbid: 0
-      malid: 57418
-
     - mainTitle: Huo Feng Zhong Tian
       tmdbid: 0
       malid: 57439
@@ -7623,6 +7607,10 @@ animeMovies:
       tmdbid: 0
       malid: 57464
 
+    - mainTitle: Kuramerukagari
+      tmdbid: 0
+      malid: 57478
+
     - mainTitle: 'Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki'
       tmdbid: 0
       malid: 57499
@@ -7642,4 +7630,8 @@ animeMovies:
     - mainTitle: BanG Dream! It's MyGO!!!!! Movie
       tmdbid: 0
       malid: 57754
+
+    - mainTitle: 'Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru - Saikai'
+      tmdbid: 0
+      malid: 57828
 
