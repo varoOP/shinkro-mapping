@@ -93,6 +93,42 @@ AnimeMap:
         - tvdbseason: 16
           start: 343
 
+    - malid: 15583
+      title: Date A Live
+      type: tv
+      tvdbid: 264663
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 17641
+      title: 'Date A Live: Date to Date'
+      type: ova
+      tvdbid: 264663
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 19163
+      title: Date A Live II
+      type: tv
+      tvdbid: 264663
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 22961
+      title: 'Date A Live II: Kurumi Star Festival'
+      type: ova
+      tvdbid: 264663
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 28121
       title: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
       type: tv
@@ -142,6 +178,15 @@ AnimeMap:
       title: Boku no Hero Academia 3rd Season
       type: tv
       tvdbid: 305074
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36633
+      title: Date A Live III
+      type: tv
+      tvdbid: 264663
       tvdbseason: 3
       start: 0
       useMapping: false
@@ -260,6 +305,15 @@ AnimeMap:
       type: tv
       tvdbid: 369144
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 41461
+      title: Date A Live IV
+      type: tv
+      tvdbid: 264663
+      tvdbseason: 4
       start: 0
       useMapping: false
       animeMapping: []
@@ -584,6 +638,15 @@ AnimeMap:
       type: tv
       tvdbid: 420018
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 52196
+      title: Date A Live V
+      type: tv
+      tvdbid: 264663
+      tvdbseason: 5
       start: 0
       useMapping: false
       animeMapping: []
