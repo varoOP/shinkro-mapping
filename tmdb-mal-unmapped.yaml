@@ -243,10 +243,6 @@ animeMovies:
       tmdbid: 0
       malid: 3067
 
-    - mainTitle: 'Megumi no Daigo: Kajiba no Baka Yarou'
-      tmdbid: 0
-      malid: 3147
-
     - mainTitle: Kinnikuman (Movie)
       tmdbid: 0
       malid: 3273
@@ -959,7 +955,7 @@ animeMovies:
       tmdbid: 0
       malid: 10199
 
-    - mainTitle: 'Bikkuriman: Moen Zone no Himitsu'
+    - mainTitle: 'Bikkuriman: Moen Zone no Hihou'
       tmdbid: 0
       malid: 10200
 
@@ -2947,10 +2943,6 @@ animeMovies:
       tmdbid: 0
       malid: 33474
 
-    - mainTitle: Kahei no Umi
-      tmdbid: 0
-      malid: 33607
-
     - mainTitle: 'Taka no Tsume 8: Yoshida-kun no Batten File'
       tmdbid: 0
       malid: 33662
@@ -2994,10 +2986,6 @@ animeMovies:
     - mainTitle: Kiraware Mono no Rasu
       tmdbid: 0
       malid: 34114
-
-    - mainTitle: Hitori de Nayamanaide Issho ni Kangaeyou
-      tmdbid: 0
-      malid: 34115
 
     - mainTitle: 'Kamisama Minarai: Himitsu no Cocotama Movie - Kiseki wo Okose♪ Tepple to Dokidoki Cocotama-kai'
       tmdbid: 0
@@ -5739,10 +5727,6 @@ animeMovies:
       tmdbid: 0
       malid: 45114
 
-    - mainTitle: Long Shen Zhizi
-      tmdbid: 0
-      malid: 45118
-
     - mainTitle: Xiao Po Hai Da Zhuangyuan
       tmdbid: 0
       malid: 45119
@@ -7115,7 +7099,7 @@ animeMovies:
       tmdbid: 0
       malid: 54872
 
-    - mainTitle: 'Sylvanian Families Movie: Flair kara no Okurimono'
+    - mainTitle: 'Sylvanian Families Movie: Freya kara no Okurimono'
       tmdbid: 0
       malid: 54989
 
@@ -7207,7 +7191,7 @@ animeMovies:
       tmdbid: 0
       malid: 55709
 
-    - mainTitle: Love Live! Nijigasaki Gakuen School Idol Doukoukai Movie
+    - mainTitle: Love Live! Nijigasaki Gakuen School Idol Doukoukai Kanketsu-hen
       tmdbid: 0
       malid: 55748
 
@@ -7634,4 +7618,8 @@ animeMovies:
     - mainTitle: 'Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru - Saikai'
       tmdbid: 0
       malid: 57828
+
+    - mainTitle: Tomoya!
+      tmdbid: 0
+      malid: 57875
 
