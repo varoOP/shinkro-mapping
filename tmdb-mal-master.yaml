@@ -155,7 +155,7 @@ animeMovies:
       tmdbid: 0
       malid: 2650
 
-    - mainTitle: 'Doraemon: Doraemon Comes Back (Movie)'
+    - mainTitle: 'Doraemon: Kaette Kita Doraemon (Movie)'
       tmdbid: 0
       malid: 2651
 
@@ -5679,10 +5679,6 @@ animeMovies:
       tmdbid: 0
       malid: 45066
 
-    - mainTitle: 'Liang Zhi Xiao Zhu: Yong Chuang Shenmi Dao'
-      tmdbid: 0
-      malid: 45067
-
     - mainTitle: Fuaxiao Chuanqi
       tmdbid: 0
       malid: 45068
@@ -5694,10 +5690,6 @@ animeMovies:
     - mainTitle: Chao Shikong Da Maoxian (Movie)
       tmdbid: 0
       malid: 45073
-
-    - mainTitle: Liang Ge Qiao Gongzhu
-      tmdbid: 0
-      malid: 45075
 
     - mainTitle: Wukong Qiyu Ji
       tmdbid: 0
@@ -7479,6 +7471,10 @@ animeMovies:
       tmdbid: 0
       malid: 57062
 
+    - mainTitle: Voyant
+      tmdbid: 0
+      malid: 57088
+
     - mainTitle: Play House
       tmdbid: 0
       malid: 57089
@@ -7603,6 +7599,10 @@ animeMovies:
       tmdbid: 0
       malid: 57587
 
+    - mainTitle: 'Oshiri Tantei Movie 5: Saraba Itoshiki Aibou (Oshiri) yo'
+      tmdbid: 0
+      malid: 57590
+
     - mainTitle: Tori no Machi
       tmdbid: 0
       malid: 57619
@@ -7619,7 +7619,51 @@ animeMovies:
       tmdbid: 0
       malid: 57828
 
+    - mainTitle: 'Yun Zhongju San Zi: Ni Nu Po'
+      tmdbid: 0
+      malid: 57837
+
     - mainTitle: Tomoya!
       tmdbid: 0
       malid: 57875
+
+    - mainTitle: Yodaka
+      tmdbid: 0
+      malid: 57905
+
+    - mainTitle: Pui Pui Molcar Movie
+      tmdbid: 0
+      malid: 57910
+
+    - mainTitle: Zou no Katachi
+      tmdbid: 0
+      malid: 57911
+
+    - mainTitle: Suu-funkan no Yell wo
+      tmdbid: 0
+      malid: 57915
+
+    - mainTitle: Ensoku Datta Hi
+      tmdbid: 0
+      malid: 57916
+
+    - mainTitle: Hontou no Watashi ga Mieru?
+      tmdbid: 0
+      malid: 57918
+
+    - mainTitle: Wu Chuang Yinxing Dao
+      tmdbid: 0
+      malid: 57928
+
+    - mainTitle: 'Senba Xingfu Dao: Wo Yao Hui Jia'
+      tmdbid: 0
+      malid: 57930
+
+    - mainTitle: 'Ba Jie: Tian Peng Xiajie'
+      tmdbid: 0
+      malid: 57931
+
+    - mainTitle: 'Xiong Haizi: Tanxian Xiong Bing'
+      tmdbid: 0
+      malid: 57933
 
