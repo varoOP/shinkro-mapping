@@ -487,10 +487,6 @@ animeMovies:
       tmdbid: 0
       malid: 6838
 
-    - mainTitle: Kaitei no Boukun
-      tmdbid: 0
-      malid: 6851
-
     - mainTitle: Da Nao Tiangong
       tmdbid: 0
       malid: 6855
@@ -7231,7 +7227,7 @@ animeMovies:
       tmdbid: 0
       malid: 56144
 
-    - mainTitle: 'Boku no Hero Academia: The Movie'
+    - mainTitle: 'Boku no Hero Academia the Movie 4: You''re Next'
       tmdbid: 0
       malid: 56196
 
@@ -7350,6 +7346,10 @@ animeMovies:
     - mainTitle: Nejikure Ojisan
       tmdbid: 0
       malid: 56550
+
+    - mainTitle: Kurayukaba
+      tmdbid: 0
+      malid: 56553
 
     - mainTitle: Longzhu Xun Youji
       tmdbid: 0
@@ -7666,4 +7666,12 @@ animeMovies:
     - mainTitle: 'Xiong Haizi: Tanxian Xiong Bing'
       tmdbid: 0
       malid: 57933
+
+    - mainTitle: Ran
+      tmdbid: 0
+      malid: 57971
+
+    - mainTitle: Kiiroi Kaiyou Kishoudai
+      tmdbid: 0
+      malid: 58014
 
