@@ -887,10 +887,6 @@ animeMovies:
       tmdbid: 0
       malid: 9786
 
-    - mainTitle: Bakusou Kyoudai Let's & Go!! WGP Bousou Mini Yonku Daitsuiseki
-      tmdbid: 0
-      malid: 9858
-
     - mainTitle: 'Hana no Mahoutsukai Mary Bell: Phoenix no Kagi'
       tmdbid: 0
       malid: 9862
@@ -1318,10 +1314,6 @@ animeMovies:
     - mainTitle: Mujeokcheorin Rambot
       tmdbid: 0
       malid: 16796
-
-    - mainTitle: Ttori wa Zeta Robot
-      tmdbid: 0
-      malid: 16798
 
     - mainTitle: Miraesonyeon Kunta Beomyuda 5000 Nyeon
       tmdbid: 0
@@ -3335,10 +3327,6 @@ animeMovies:
       tmdbid: 0
       malid: 37304
 
-    - mainTitle: 'K: Seven Stories - The Idol K'
-      tmdbid: 0
-      malid: 37308
-
     - mainTitle: 'No Game No Life: Zero - Manner Movie'
       tmdbid: 0
       malid: 37402
@@ -5003,10 +4991,6 @@ animeMovies:
       tmdbid: 0
       malid: 43897
 
-    - mainTitle: Xi Bai Po
-      tmdbid: 0
-      malid: 43898
-
     - mainTitle: Shaonian Yue Fei Chuanqi
       tmdbid: 0
       malid: 43899
@@ -5058,10 +5042,6 @@ animeMovies:
     - mainTitle: San Zhi Xiao Huli Zhai Putao
       tmdbid: 0
       malid: 43918
-
-    - mainTitle: 'Xin Datou Er Zi He Xiao Tou Baba: Mimi Jihua'
-      tmdbid: 0
-      malid: 43930
 
     - mainTitle: Maomi Xiao Bei
       tmdbid: 0
@@ -7067,10 +7047,6 @@ animeMovies:
       tmdbid: 0
       malid: 54661
 
-    - mainTitle: Make a Girl
-      tmdbid: 0
-      malid: 54740
-
     - mainTitle: Given Movie (2024)
       tmdbid: 0
       malid: 54791
@@ -7235,7 +7211,7 @@ animeMovies:
       tmdbid: 0
       malid: 56236
 
-    - mainTitle: 'Sinbi Apateu Movie: Chawondokkaebiwa 7 Gaeui Segye'
+    - mainTitle: 'Sinbi Apartment Movie: Chawondokkaebiwa 7 Gaeui Segye'
       tmdbid: 0
       malid: 56291
 
@@ -7659,10 +7635,6 @@ animeMovies:
       tmdbid: 0
       malid: 57930
 
-    - mainTitle: 'Ba Jie: Tian Peng Xiajie'
-      tmdbid: 0
-      malid: 57931
-
     - mainTitle: 'Xiong Haizi: Tanxian Xiong Bing'
       tmdbid: 0
       malid: 57933
@@ -7670,6 +7642,10 @@ animeMovies:
     - mainTitle: Ran
       tmdbid: 0
       malid: 57971
+
+    - mainTitle: Sewing Love
+      tmdbid: 0
+      malid: 57975
 
     - mainTitle: Kiiroi Kaiyou Kishoudai
       tmdbid: 0
