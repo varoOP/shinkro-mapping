@@ -93,6 +93,15 @@ AnimeMap:
         - tvdbseason: 16
           start: 343
 
+    - malid: 14719
+      title: JoJo no Kimyou na Bouken (TV)
+      type: tv
+      tvdbid: 262954
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 15583
       title: Date A Live
       type: tv
@@ -120,6 +129,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 20899
+      title: 'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders'
+      type: tv
+      tvdbid: 262954
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 22961
       title: 'Date A Live II: Kurumi Star Festival'
       type: ova
@@ -129,11 +147,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 26055
+      title: 'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season'
+      type: tv
+      tvdbid: 262954
+      tvdbseason: 2
+      start: 25
+      useMapping: false
+      animeMapping: []
+
     - malid: 28121
       title: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
       type: tv
       tvdbid: 289882
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31933
+      title: 'JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai'
+      type: tv
+      tvdbid: 262954
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -206,6 +242,15 @@ AnimeMap:
       type: tv
       tvdbid: 359274
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37991
+      title: 'JoJo no Kimyou na Bouken Part 5: Ougon no Kaze'
+      type: tv
+      tvdbid: 262954
+      tvdbseason: 4
       start: 0
       useMapping: false
       animeMapping: []
@@ -453,6 +498,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 48661
+      title: 'JoJo no Kimyou na Bouken Part 6: Stone Ocean'
+      type: ona
+      tvdbid: 262954
+      tvdbseason: 5
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49154
+      title: High Card
+      type: tv
+      tvdbid: 404525
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 49387
       title: Vinland Saga Season 2
       type: tv
@@ -624,6 +687,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 51367
+      title: 'JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2'
+      type: ona
+      tvdbid: 262954
+      tvdbseason: 5
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 51533
       title: 'Tonikaku Kawaii: Seifuku'
       type: special
@@ -651,6 +723,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52211
+      title: Mashle
+      type: tv
+      tvdbid: 421737
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 52955
       title: Mahoutsukai no Yome Season 2
       type: tv
@@ -666,6 +747,15 @@ AnimeMap:
       tvdbid: 289882
       tvdbseason: 4
       start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53273
+      title: 'JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3'
+      type: ona
+      tvdbid: 262954
+      tvdbseason: 5
+      start: 25
       useMapping: false
       animeMapping: []
 
@@ -759,6 +849,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54869
+      title: High Card Season 2
+      type: tv
+      tvdbid: 404525
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 54918
       title: 'Tokyo Revengers: Tenjiku-hen'
       type: tv
@@ -792,6 +891,15 @@ AnimeMap:
       tvdbid: 316842
       tvdbseason: 2
       start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55813
+      title: 'Mashle: Shinkakusha Kouho Senbatsu Shiken-hen'
+      type: tv
+      tvdbid: 421737
+      tvdbseason: 2
+      start: 0
       useMapping: false
       animeMapping: []
 
