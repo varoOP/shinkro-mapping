@@ -52,6 +52,42 @@ AnimeMap:
         - tvdbseason: 22
           start: 1086
 
+    - malid: 223
+      title: Dragon Ball
+      type: tv
+      tvdbid: 76666
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 14
+        - tvdbseason: 3
+          start: 29
+        - tvdbseason: 4
+          start: 69
+        - tvdbseason: 5
+          start: 102
+        - tvdbseason: 6
+          start: 133
+
+    - malid: 225
+      title: Dragon Ball GT
+      type: tv
+      tvdbid: 79275
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 17
+        - tvdbseason: 3
+          start: 41
+
     - malid: 269
       title: Bleach
       type: tv
@@ -93,12 +129,246 @@ AnimeMap:
         - tvdbseason: 16
           start: 343
 
+    - malid: 502
+      title: 'Dragon Ball Movie 1: Shen Long no Densetsu'
+      type: movie
+      tvdbid: 76666
+      tvdbseason: 0
+      start: 1
+      useMapping: true
+      animeMapping: []
+
+    - malid: 813
+      title: Dragon Ball Z
+      type: tv
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 40
+        - tvdbseason: 3
+          start: 75
+        - tvdbseason: 4
+          start: 108
+        - tvdbseason: 5
+          start: 140
+        - tvdbseason: 6
+          start: 166
+        - tvdbseason: 7
+          start: 195
+        - tvdbseason: 8
+          start: 220
+        - tvdbseason: 9
+          start: 254
+
+    - malid: 891
+      title: 'Dragon Ball Movie 2: Majinjou no Nemurihime'
+      type: movie
+      tvdbid: 76666
+      tvdbseason: 0
+      start: 2
+      useMapping: true
+      animeMapping: []
+
+    - malid: 892
+      title: 'Dragon Ball Movie 3: Makafushigi Daibouken'
+      type: movie
+      tvdbid: 76666
+      tvdbseason: 0
+      start: 3
+      useMapping: true
+      animeMapping: []
+
+    - malid: 893
+      title: 'Dragon Ball Movie 4: Saikyou e no Michi'
+      type: movie
+      tvdbid: 76666
+      tvdbseason: 0
+      start: 4
+      useMapping: true
+      animeMapping: []
+
+    - malid: 894
+      title: 'Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 895
+      title: 'Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 896
+      title: 'Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 897
+      title: 'Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 898
+      title: 'Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
+    - malid: 899
+      title: 'Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
+    - malid: 900
+      title: 'Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 7
+      useMapping: false
+      animeMapping: []
+
+    - malid: 901
+      title: 'Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 8
+      useMapping: false
+      animeMapping: []
+
+    - malid: 902
+      title: 'Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 9
+      useMapping: false
+      animeMapping: []
+
+    - malid: 903
+      title: 'Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 10
+      useMapping: false
+      animeMapping: []
+
+    - malid: 904
+      title: 'Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 11
+      useMapping: false
+      animeMapping: []
+
+    - malid: 905
+      title: 'Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 906
+      title: 'Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 984
+      title: 'Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku'
+      type: ova
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 20
+      useMapping: false
+      animeMapping: []
+
+    - malid: 985
+      title: 'Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks'
+      type: tv_special
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 18
+      useMapping: false
+      animeMapping: []
+
+    - malid: 986
+      title: 'Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen'
+      type: tv_special
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 16
+      useMapping: false
+      animeMapping: []
+
+    - malid: 6714
+      title: 'Dragon Ball Z: Atsumare! Gokuu World'
+      type: ova
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 19
+      useMapping: false
+      animeMapping: []
+
+    - malid: 12231
+      title: 'Dragon Ball: Episode of Bardock'
+      type: special
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 25
+      useMapping: false
+      animeMapping: []
+
     - malid: 14719
       title: JoJo no Kimyou na Bouken (TV)
       type: tv
       tvdbid: 262954
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 14837
+      title: 'Dragon Ball Z Movie 14: Kami to Kami'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 14
       useMapping: false
       animeMapping: []
 
@@ -138,12 +408,39 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 22695
+      title: 'Dragon Ball Z: Summer Vacation Special'
+      type: special
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 17
+      useMapping: false
+      animeMapping: []
+
+    - malid: 22699
+      title: 'Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!'
+      type: tv_special
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 29
+      useMapping: false
+      animeMapping: []
+
     - malid: 22961
       title: 'Date A Live II: Kurumi Star Festival'
       type: ova
       tvdbid: 264663
       tvdbseason: 0
       start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 25389
+      title: 'Dragon Ball Z Movie 15: Fukkatsu no "F"'
+      type: movie
+      tvdbid: 81472
+      tvdbseason: 0
+      start: 15
       useMapping: false
       animeMapping: []
 
@@ -164,6 +461,25 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 30694
+      title: Dragon Ball Super
+      type: tv
+      tvdbid: 295068
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 15
+        - tvdbseason: 3
+          start: 28
+        - tvdbseason: 4
+          start: 47
+        - tvdbseason: 5
+          start: 77
 
     - malid: 31933
       title: 'JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai'
@@ -245,6 +561,27 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 37885
+      title: Super Dragon Ball Heroes
+      type: ona
+      tvdbid: 347734
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 7
+        - tvdbseason: 3
+          start: 21
+        - tvdbseason: 4
+          start: 33
+        - tvdbseason: 5
+          start: 41
+        - tvdbseason: 6
+          start: 51
 
     - malid: 37991
       title: 'JoJo no Kimyou na Bouken Part 5: Ougon no Kaze'
