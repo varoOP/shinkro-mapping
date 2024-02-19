@@ -19,7 +19,7 @@ animeMovies:
       tmdbid: 0
       malid: 796
 
-    - mainTitle: 'Konjiki no Gash Bell!!: 101 Banme no Mamono'
+    - mainTitle: 'Konjiki no Gash Bell!!: 101-banme no Mamono'
       tmdbid: 0
       malid: 844
 
@@ -38,10 +38,6 @@ animeMovies:
     - mainTitle: 'Lupin III: Pilot Film (1978)'
       tmdbid: 0
       malid: 1428
-
-    - mainTitle: 'Lupin III: Babylon no Ougon Densetsu'
-      tmdbid: 0
-      malid: 1433
 
     - mainTitle: '1000-nen Joou: Queen Millennia'
       tmdbid: 0
@@ -747,7 +743,7 @@ animeMovies:
       tmdbid: 0
       malid: 8363
 
-    - mainTitle: 'Crayon Shin-chan Movie 13: Densetsu wo Yobu Buriburi 3 Pun Dai Shingeki'
+    - mainTitle: 'Crayon Shin-chan Movie 13: Densetsu wo Yobu Buriburi 3-pun Dai Shingeki'
       tmdbid: 0
       malid: 8365
 
@@ -1719,7 +1715,7 @@ animeMovies:
       tmdbid: 0
       malid: 21937
 
-    - mainTitle: 'Sore Ike! Anpanman: Baikinman to 3 Bai Punch'
+    - mainTitle: 'Sore Ike! Anpanman: Baikinman to 3-bai Punch'
       tmdbid: 0
       malid: 21943
 
@@ -1835,7 +1831,7 @@ animeMovies:
       tmdbid: 0
       malid: 22847
 
-    - mainTitle: 'Apo Apo World: Giant Baba 90-bun 1-hon Shoubu'
+    - mainTitle: 'Apo Apo World: Giant Baba 90-pun 1-pon Shoubu'
       tmdbid: 0
       malid: 22851
 
@@ -6491,10 +6487,6 @@ animeMovies:
       tmdbid: 0
       malid: 53517
 
-    - mainTitle: 'i☆Ris the Movie: Full Energy!!'
-      tmdbid: 0
-      malid: 53534
-
     - mainTitle: 'Sword Art Online: Full Dive - Opening Eizou'
       tmdbid: 0
       malid: 53588
@@ -7447,6 +7439,14 @@ animeMovies:
       tmdbid: 0
       malid: 57062
 
+    - mainTitle: Shan Gaogao
+      tmdbid: 0
+      malid: 57079
+
+    - mainTitle: Yangguang Shai Pigu
+      tmdbid: 0
+      malid: 57081
+
     - mainTitle: Voyant
       tmdbid: 0
       malid: 57088
@@ -7570,6 +7570,10 @@ animeMovies:
     - mainTitle: 'Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki'
       tmdbid: 0
       malid: 57499
+
+    - mainTitle: Shi ga Utsukushi Nante dare ga Itta
+      tmdbid: 0
+      malid: 57500
 
     - mainTitle: Tokyo
       tmdbid: 0
