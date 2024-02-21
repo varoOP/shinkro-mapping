@@ -1087,6 +1087,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53040
+      title: Kanojo mo Kanojo Season 2
+      type: tv
+      tvdbid: 395486
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 53111
       title: 'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen'
       type: tv
