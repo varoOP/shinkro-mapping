@@ -481,6 +481,15 @@ AnimeMap:
         - tvdbseason: 5
           start: 77
 
+    - malid: 31478
+      title: Bungou Stray Dogs
+      type: tv
+      tvdbid: 305075
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 31933
       title: 'JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai'
       type: tv
@@ -499,6 +508,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 32867
+      title: Bungou Stray Dogs 2nd Season
+      type: tv
+      tvdbid: 305075
+      tvdbseason: 1
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 32902
       title: 'Mahoutsukai no Yome: Hoshi Matsu Hito'
       type: ova
@@ -508,12 +526,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 33071
+      title: 'Bungou Stray Dogs: Hitori Ayumu'
+      type: ova
+      tvdbid: 305075
+      tvdbseason: 0
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 33486
       title: Boku no Hero Academia 2nd Season
       type: tv
       tvdbid: 305074
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34944
+      title: 'Bungou Stray Dogs: Dead Apple'
+      type: movie
+      tvdbid: 305075
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -548,6 +584,15 @@ AnimeMap:
       title: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
       type: tv
       tvdbid: 289882
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37490
+      title: 'Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! Season 2'
+      type: tv
+      tvdbid: 305077
       tvdbseason: 2
       start: 0
       useMapping: false
@@ -597,6 +642,15 @@ AnimeMap:
       type: tv
       tvdbid: 348545
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38003
+      title: Bungou Stray Dogs 3rd Season
+      type: tv
+      tvdbid: 305075
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -952,6 +1006,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 50330
+      title: Bungou Stray Dogs 4th Season
+      type: tv
+      tvdbid: 305075
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 50602
       title: Spy x Family Part 2
       type: tv
@@ -1210,6 +1273,15 @@ AnimeMap:
       tvdbid: 404525
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54898
+      title: Bungou Stray Dogs 5th Season
+      type: tv
+      tvdbid: 305075
+      tvdbseason: 3
+      start: 14
       useMapping: false
       animeMapping: []
 
