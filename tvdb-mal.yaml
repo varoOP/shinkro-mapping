@@ -345,6 +345,51 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 9919
+      title: Ao no Exorcist
+      type: tv
+      tvdbid: 248035
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 10647
+      title: 'Ao no Exorcist: Ura Ex'
+      type: special
+      tvdbid: 248035
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 11266
+      title: 'Ao no Exorcist: Kuro no Iede'
+      type: special
+      tvdbid: 248035
+      tvdbseason: 0
+      start: 11
+      useMapping: false
+      animeMapping: []
+
+    - malid: 11737
+      title: Ao no Exorcist Movie
+      type: movie
+      tvdbid: 248035
+      tvdbseason: 0
+      start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 12031
+      title: Kingdom
+      type: tv
+      tvdbid: 259635
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 12231
       title: 'Dragon Ball: Episode of Bardock'
       type: special
@@ -377,6 +422,15 @@ AnimeMap:
       type: tv
       tvdbid: 264663
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 17389
+      title: Kingdom 2nd Season
+      type: tv
+      tvdbid: 259635
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -544,6 +598,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 33506
+      title: 'Ao no Exorcist: Kyoto Fujouou-hen'
+      type: tv
+      tvdbid: 248035
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34465
+      title: 'Ao no Exorcist: Kyoto Fujouou-hen OVA'
+      type: ova
+      tvdbid: 248035
+      tvdbseason: 0
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 34944
       title: 'Bungou Stray Dogs: Dead Apple'
       type: movie
@@ -557,6 +629,15 @@ AnimeMap:
       title: Mahoutsukai no Yome
       type: tv
       tvdbid: 316842
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 35790
+      title: Tate no Yuusha no Nariagari
+      type: tv
+      tvdbid: 353712
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -585,6 +666,15 @@ AnimeMap:
       type: tv
       tvdbid: 289882
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37349
+      title: Goblin Slayer
+      type: tv
+      tvdbid: 350166
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -655,6 +745,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 38101
+      title: 5-toubun no Hanayome
+      type: tv
+      tvdbid: 355966
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 38408
       title: Boku no Hero Academia 4th Season
       type: tv
@@ -700,6 +799,42 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 39576
+      title: 'Goblin Slayer: Goblin''s Crown'
+      type: movie
+      tvdbid: 350166
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 39783
+      title: 5-toubun no Hanayome ∬
+      type: tv
+      tvdbid: 355966
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40356
+      title: Tate no Yuusha no Nariagari Season 2
+      type: tv
+      tvdbid: 353712
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40357
+      title: Tate no Yuusha no Nariagari Season 3
+      type: tv
+      tvdbid: 353712
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 40454
       title: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III
       type: tv
@@ -714,6 +849,24 @@ AnimeMap:
       type: tv
       tvdbid: 375927
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40530
+      title: Jaku-Chara Tomozaki-kun
+      type: tv
+      tvdbid: 388737
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40682
+      title: Kingdom 3rd Season
+      type: tv
+      tvdbid: 259635
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -741,6 +894,15 @@ AnimeMap:
       type: tv
       tvdbid: 369144
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 41457
+      title: "86"
+      type: tv
+      tvdbid: 378609
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -808,6 +970,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 43760
+      title: Hikari no Ou
+      type: tv
+      tvdbid: 402607
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 44204
       title: Kyokou Suiri Season 2
       type: tv
@@ -832,6 +1003,24 @@ AnimeMap:
       tvdbid: 371310
       tvdbseason: 1
       start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 45604
+      title: Jaku-Chara Tomozaki-kun Specials
+      type: special
+      tvdbid: 388737
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 47160
+      title: Goblin Slayer II
+      type: tv
+      tvdbid: 350166
+      tvdbseason: 2
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -880,12 +1069,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 48548
+      title: 5-toubun no Hanayome Movie
+      type: movie
+      tvdbid: 355966
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 48549
       title: 'Dr. Stone: New World'
       type: tv
       tvdbid: 355774
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 48569
+      title: 86 Part 2
+      type: tv
+      tvdbid: 378609
+      tvdbseason: 1
+      start: 12
       useMapping: false
       animeMapping: []
 
@@ -966,6 +1173,15 @@ AnimeMap:
       type: tv
       tvdbid: 388645
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50160
+      title: Kingdom 4th Season
+      type: tv
+      tvdbid: 259635
+      tvdbseason: 4
       start: 0
       useMapping: false
       animeMapping: []
@@ -1051,6 +1267,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 50710
+      title: Urusei Yatsura (2022)
+      type: tv
+      tvdbid: 414096
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50803
+      title: Jaku-Chara Tomozaki-kun 2nd Stage
+      type: tv
+      tvdbid: 388737
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 51009
       title: Jujutsu Kaisen 2nd Season
       type: tv
@@ -1065,6 +1299,15 @@ AnimeMap:
       type: tv
       tvdbid: 348545
       tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 51096
+      title: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
+      type: tv
+      tvdbid: 329822
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -1150,6 +1393,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53026
+      title: 'Synduality: Noir'
+      type: tv
+      tvdbid: 424779
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 53040
       title: Kanojo mo Kanojo Season 2
       type: tv
@@ -1165,6 +1417,15 @@ AnimeMap:
       tvdbid: 289882
       tvdbseason: 4
       start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53223
+      title: Kingdom 5th Season
+      type: tv
+      tvdbid: 259635
+      tvdbseason: 5
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -1213,6 +1474,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53889
+      title: 'Ao no Exorcist: Shimane Illuminati-hen'
+      type: tv
+      tvdbid: 248035
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 53998
       title: 'Bleach: Sennen Kessen-hen - Ketsubetsu-tan'
       type: tv
@@ -1249,10 +1519,28 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54754
+      title: Hikari no Ou 2nd Season
+      type: tv
+      tvdbid: 402607
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 54803
       title: 'Captain Tsubasa Season 2: Junior Youth-hen'
       type: tv
       tvdbid: 339203
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54829
+      title: Urusei Yatsura (2022) 2nd Season
+      type: tv
+      tvdbid: 414096
       tvdbseason: 2
       start: 0
       useMapping: false
@@ -1282,6 +1570,15 @@ AnimeMap:
       tvdbid: 305075
       tvdbseason: 3
       start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54915
+      title: 5-toubun no Hanayome∽
+      type: tv_special
+      tvdbid: 355966
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -1348,11 +1645,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 56731
+      title: 'Synduality: Noir Part 2'
+      type: tv
+      tvdbid: 424779
+      tvdbseason: 1
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 56948
       title: 'Boku no Kokoro no Yabai Yatsu: Twi-Yaba'
       type: ona
       tvdbid: 422981
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57907
+      title: Tate no Yuusha no Nariagari Season 4
+      type: tv
+      tvdbid: 353712
+      tvdbseason: 4
       start: 0
       useMapping: false
       animeMapping: []
