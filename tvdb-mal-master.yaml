@@ -53733,14 +53733,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 9919
-    title: Ao no Exorcist
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 9919
+      title: Ao no Exorcist
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 9922
     title: "Oretachi ni Tsubasa wa Nai: Under the Innocent Sky."
@@ -56703,14 +56703,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 10647
-    title: "Ao no Exorcist: Ura Ex"
-    type: special
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 10647
+      title: 'Ao no Exorcist: Ura Ex'
+      type: special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 10648
     title: Mars
@@ -58548,14 +58548,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 11266
-    title: "Ao no Exorcist: Kuro no Iede"
-    type: special
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 11266
+      title: 'Ao no Exorcist: Kuro no Iede'
+      type: special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 11268
     title: Ganso Tensai Bakabon
@@ -59394,14 +59394,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 11737
-    title: Ao no Exorcist Movie
-    type: movie
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 11737
+      title: Ao no Exorcist Movie
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 11739
     title: Kimi to Boku. 2
@@ -60006,14 +60006,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 12031
-    title: Kingdom
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 12031
+      title: Kingdom
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 12035
     title: Dwaeji-ui Wang
@@ -68754,14 +68754,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 17389
-    title: Kingdom 2nd Season
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 17389
+      title: Kingdom 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 17391
     title: Senyuu. Specials
@@ -98311,14 +98311,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 31478
-    title: Bungou Stray Dogs
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 31478
+      title: Bungou Stray Dogs
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 31483
     title: "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page"
@@ -103864,14 +103864,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 32867
-    title: Bungou Stray Dogs 2nd Season
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 32867
+      title: Bungou Stray Dogs 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 32868
     title: Spring Stranger
@@ -104836,14 +104836,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 33071
-    title: "Bungou Stray Dogs: Hitori Ayumu"
-    type: ova
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 33071
+      title: 'Bungou Stray Dogs: Hitori Ayumu'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 33074
     title: Lupin III (2015) Specials
@@ -106915,14 +106915,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 33506
-    title: "Ao no Exorcist: Kyoto Fujouou-hen"
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 33506
+      title: 'Ao no Exorcist: Kyoto Fujouou-hen'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 33508
     title: "Si Ling Bianma: Shijie Caozong Zhe"
@@ -111433,14 +111433,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 34465
-    title: "Ao no Exorcist: Kyoto Fujouou-hen OVA"
-    type: ova
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 34465
+      title: 'Ao no Exorcist: Kyoto Fujouou-hen OVA'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 34467
     title: Yami Shibai 4
@@ -113908,14 +113908,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 34944
-    title: "Bungou Stray Dogs: Dead Apple"
-    type: movie
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 34944
+      title: 'Bungou Stray Dogs: Dead Apple'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 34946
     title: Yuki no Joou
@@ -118795,14 +118795,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 35790
-    title: Tate no Yuusha no Nariagari
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 35790
+      title: Tate no Yuusha no Nariagari
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 35798
     title: "Meitantei Conan Movie 22: Zero no Shikkounin"
@@ -127093,14 +127093,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 37349
-    title: Goblin Slayer
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 37349
+      title: Goblin Slayer
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 37350
     title: Obake de Ii kara Hayaku Kite
@@ -127903,14 +127903,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 37490
-    title: 'Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! Season 2'
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 37490
+      title: 'Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! Season 2'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 37491
     title: "Gintama.: Shirogane no Tamashii-hen - Kouhan-sen"
@@ -130930,14 +130930,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 38003
-    title: Bungou Stray Dogs 3rd Season
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 38003
+      title: Bungou Stray Dogs 3rd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 38004
     title: "Strike Witches: 501 Butai Hasshin Shimasu!"
@@ -131713,14 +131713,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 38101
-    title: 5-toubun no Hanayome
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 38101
+      title: 5-toubun no Hanayome
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 38104
     title: Mahou Shoujo Site Recaps
@@ -140227,14 +140227,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 39576
-    title: "Goblin Slayer: Goblin's Crown"
-    type: movie
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 39576
+      title: 'Goblin Slayer: Goblin''s Crown'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 39581
     title: "TV Yarou Nanaana: Wakuwaku Doukutsu Land"
@@ -141226,14 +141226,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 39783
-    title: 5-toubun no Hanayome ∬
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 39783
+      title: 5-toubun no Hanayome ∬
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 39786
     title: Tejime
@@ -143935,23 +143935,23 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 40356
-    title: Tate no Yuusha no Nariagari Season 2
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 40356
+      title: Tate no Yuusha no Nariagari Season 2
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
-  - malid: 40357
-    title: Tate no Yuusha no Nariagari Season 3
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 40357
+      title: Tate no Yuusha no Nariagari Season 3
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 40358
     title: Gal to Kyouryuu
@@ -144907,14 +144907,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 40530
-    title: Jaku-Chara Tomozaki-kun
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 40530
+      title: Jaku-Chara Tomozaki-kun
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 40531
     title: Akai Yama Aoi Yama Shiroi Yama
@@ -145636,14 +145636,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 40682
-    title: Kingdom 3rd Season
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 40682
+      title: Kingdom 3rd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 40683
     title: Carry Me Off feat. Hatsune Miku
@@ -149371,14 +149371,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 41457
-    title: "86"
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 41457
+      title: "86"
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 41458
     title: Origami Ninja Koyankinte
@@ -158893,14 +158893,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 43760
-    title: Hikari no Ou
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 43760
+      title: Hikari no Ou
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 43761
     title: Nemui Inu
@@ -170251,14 +170251,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 45604
-    title: Jaku-Chara Tomozaki-kun Specials
-    type: special
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 45604
+      title: Jaku-Chara Tomozaki-kun Specials
+      type: special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 45605
     title: Bear Bear Bear Kuma! Kumadam-hen
@@ -179710,14 +179710,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 47160
-    title: Goblin Slayer II
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 47160
+      title: Goblin Slayer II
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 47161
     title: Shikkakumon no Saikyou Kenja
@@ -188350,14 +188350,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 48548
-    title: 5-toubun no Hanayome Movie
-    type: movie
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 48548
+      title: 5-toubun no Hanayome Movie
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 48549
     title: "Dr. Stone: New World"
@@ -188494,14 +188494,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 48569
-    title: 86 Part 2
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 48569
+      title: 86 Part 2
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 48570
     title: "Rainbow Finder: Tokimeki wa, Sugu Soba ni."
@@ -194857,14 +194857,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 50160
-    title: Kingdom 4th Season
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 50160
+      title: Kingdom 4th Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 50161
     title: "Anehame: Ore no Hatsukoi ga Jisshi na Wake ga Nai"
@@ -195712,14 +195712,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 50330
-    title: Bungou Stray Dogs 4th Season
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 50330
+      title: Bungou Stray Dogs 4th Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 50336
     title: Nudist Beach ni Shuugaku Ryokou de!! The Animation Special
@@ -197296,14 +197296,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 50710
-    title: Urusei Yatsura (2022)
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 50710
+      title: Urusei Yatsura (2022)
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 50711
     title: "Ai to Yuuto: Hajimete no Otsukai"
@@ -197530,14 +197530,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 50803
-    title: Jaku-Chara Tomozaki-kun 2nd Stage
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 50803
+      title: Jaku-Chara Tomozaki-kun 2nd Stage
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 50804
     title: Inkou Kyoushi no Sai* Seikatsu Shidouroku
@@ -198520,14 +198520,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 51096
-    title: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 51096
+      title: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 51097
     title: MahoYome Specials
@@ -208294,14 +208294,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 53026
-    title: "Synduality: Noir"
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 53026
+      title: 'Synduality: Noir'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 53027
     title: Yuwang Jungle
@@ -208402,14 +208402,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 53040
-    title: Kanojo mo Kanojo Season 2
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 53040
+      title: Kanojo mo Kanojo Season 2
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 53042
     title: Bo & To's Family
@@ -209482,14 +209482,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 53223
-    title: Kingdom 5th Season
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 53223
+      title: Kingdom 5th Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 53226
     title: "Shouhu Lian Meng ROY6: Senlin Li de Minini"
@@ -212686,14 +212686,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 53889
-    title: "Ao no Exorcist: Shimane Illuminati-hen"
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 53889
+      title: 'Ao no Exorcist: Shimane Illuminati-hen'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 53890
     title: "One Piece: Dai Gekisen Tokushuu! Mugiwara no Ichimi vs. Tobi Roppou"
@@ -217420,14 +217420,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 54754
-    title: Hikari no Ou 2nd Season
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 54754
+      title: Hikari no Ou 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 54755
     title: UniteUp! Furikaeranai to
@@ -217780,14 +217780,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 54829
-    title: Urusei Yatsura (2022) 2nd Season
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 54829
+      title: Urusei Yatsura (2022) 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 54832
     title: "Planetarium Chibi Maruko-chan: Minamijuujisei ni Miserarete"
@@ -218212,14 +218212,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 54898
-    title: Bungou Stray Dogs 5th Season
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 54898
+      title: Bungou Stray Dogs 5th Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 54899
     title: Wanderer
@@ -218311,14 +218311,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 54915
-    title: 5-toubun no Hanayome∽
-    type: tv_special
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 54915
+      title: 5-toubun no Hanayome∽
+      type: tv_special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 54916
     title: "Cardcaptor Sakura: Clear Card-hen (Zoku-hen)"
@@ -228544,14 +228544,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 56731
-    title: "Synduality: Noir Part 2"
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 56731
+      title: 'Synduality: Noir Part 2'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 56732
     title: Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season
@@ -235339,14 +235339,14 @@ AnimeMap:
     useMapping: false
     animeMapping: []
 
-  - malid: 57907
-    title: Tate no Yuusha no Nariagari Season 4
-    type: tv
-    tvdbid: 0
-    tvdbseason: 0
-    start: 0
-    useMapping: false
-    animeMapping: []
+    - malid: 57907
+      title: Tate no Yuusha no Nariagari Season 4
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
   - malid: 57909
     title: Ramen wo Tabete Iru Toki dake Naze ka Nounai de Kaiwa ga Dekiru Futari
