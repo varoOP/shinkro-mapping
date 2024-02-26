@@ -99,10 +99,6 @@ animeMovies:
       tmdbid: 0
       malid: 2360
 
-    - mainTitle: 'One Piece: Jango no Dance Carnival'
-      tmdbid: 0
-      malid: 2385
-
     - mainTitle: 'Doraemon Movie 26: Nobita no Kyouryuu 2006'
       tmdbid: 0
       malid: 2392
@@ -654,6 +650,10 @@ animeMovies:
     - mainTitle: 'Nihon Mukashibanashi: Saru Kani'
       tmdbid: 0
       malid: 7713
+
+    - mainTitle: Animation!
+      tmdbid: 0
+      malid: 7939
 
     - mainTitle: 'Tottoko Hamtarou Movie 3: Ham Ham Grand Prix Aurora Tani no Kiseki - Ribon-chan Kiki Ippatsu!'
       tmdbid: 0
@@ -1214,6 +1214,10 @@ animeMovies:
     - mainTitle: Tsukumo
       tmdbid: 0
       malid: 14853
+
+    - mainTitle: Tanpen Animation Junpei Fujita
+      tmdbid: 0
+      malid: 15129
 
     - mainTitle: Tsuki no Miya no Oujosama
       tmdbid: 0
@@ -3690,6 +3694,10 @@ animeMovies:
     - mainTitle: 'Bomberman: Yuuki wo Arigatou - Watashi ga Mimi ni Naru'
       tmdbid: 0
       malid: 40301
+
+    - mainTitle: Given Movie 01
+      tmdbid: 0
+      malid: 40421
 
     - mainTitle: 'Neko Neko Nihonshi Movie: Ryouma no Hachamecha Time Travel ze yo!'
       tmdbid: 0
@@ -7039,7 +7047,7 @@ animeMovies:
       tmdbid: 0
       malid: 54661
 
-    - mainTitle: Given Movie (2024)
+    - mainTitle: 'Given Movie 02: Hiiragi Mix'
       tmdbid: 0
       malid: 54791
 
@@ -7347,10 +7355,6 @@ animeMovies:
       tmdbid: 0
       malid: 56640
 
-    - mainTitle: 'Boku no Hero Academia: UA Heroes Battle'
-      tmdbid: 0
-      malid: 56685
-
     - mainTitle: Gozen 3-ji no Kamen Butoukai
       tmdbid: 0
       malid: 56749
@@ -7527,10 +7531,6 @@ animeMovies:
       tmdbid: 0
       malid: 57439
 
-    - mainTitle: Meitantei Conan vs. Kaitou Kid
-      tmdbid: 0
-      malid: 57441
-
     - mainTitle: Fureru.
       tmdbid: 0
       malid: 57448
@@ -7571,7 +7571,7 @@ animeMovies:
       tmdbid: 0
       malid: 57499
 
-    - mainTitle: Shi ga Utsukushi Nante dare ga Itta
+    - mainTitle: Shi ga Utsukushii Nante dare ga Itta
       tmdbid: 0
       malid: 57500
 
@@ -7654,4 +7654,36 @@ animeMovies:
     - mainTitle: Kiiroi Kaiyou Kishoudai
       tmdbid: 0
       malid: 58014
+
+    - mainTitle: 'Spy x Family Movie: Code: White Manner Movie'
+      tmdbid: 0
+      malid: 58159
+
+    - mainTitle: Story of Krishna
+      tmdbid: 0
+      malid: 58171
+
+    - mainTitle: Krasue
+      tmdbid: 0
+      malid: 58178
+
+    - mainTitle: Kasabuta
+      tmdbid: 0
+      malid: 58184
+
+    - mainTitle: 'Nintama Rantarou Movie: Dokutake Ninja Tai Saikyou no Gunshi'
+      tmdbid: 0
+      malid: 58201
+
+    - mainTitle: Dino!
+      tmdbid: 0
+      malid: 58213
+
+    - mainTitle: Yonde Yobarete
+      tmdbid: 0
+      malid: 58219
+
+    - mainTitle: 'Given Movie 03: Umi e'
+      tmdbid: 0
+      malid: 58222
 
