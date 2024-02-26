@@ -342,7 +342,7 @@ AnimeMap:
       tvdbid: 79824
       tvdbseason: 0
       start: 0
-      useMapping: false
+      useMapping: true
       animeMapping:
         - tvdbseason: 1
           start: 0
