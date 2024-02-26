@@ -2022,3 +2022,12 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 58224
+      title: 'Ore dake Level Up na Ken: How to Get Stronger'
+      type: tv_special
+      tvdbid: 389597
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
