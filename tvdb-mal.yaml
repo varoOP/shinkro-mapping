@@ -336,12 +336,48 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2904
+      title: 'Code Geass: Hangyaku no Lelouch R2'
+      type: tv
+      tvdbid: 79525
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4596
+      title: 'Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion'
+      type: ova
+      tvdbid: 79525
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
     - malid: 6714
       title: 'Dragon Ball Z: Atsumare! Gokuu World'
       type: ova
       tvdbid: 81472
       tvdbseason: 0
       start: 19
+      useMapping: false
+      animeMapping: []
+
+    - malid: 6768
+      title: 'Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem'
+      type: ova
+      tvdbid: 79525
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
+    - malid: 8888
+      title: 'Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita'
+      type: movie
+      tvdbid: 79525
+      tvdbseason: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -363,12 +399,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 10863
+      title: 'Steins;Gate: Oukoubakko no Poriomania'
+      type: special
+      tvdbid: 244061
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 11266
       title: 'Ao no Exorcist: Kuro no Iede'
       type: special
       tvdbid: 248035
       tvdbseason: 0
       start: 11
+      useMapping: false
+      animeMapping: []
+
+    - malid: 11577
+      title: 'Steins;Gate Movie: Fuka Ryouiki no Déjà vu'
+      type: movie
+      tvdbid: 244061
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -414,6 +468,33 @@ AnimeMap:
       tvdbid: 81472
       tvdbseason: 0
       start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 15197
+      title: 'Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu'
+      type: movie
+      tvdbid: 79525
+      tvdbseason: 0
+      start: 8
+      useMapping: false
+      animeMapping: []
+
+    - malid: 15199
+      title: 'Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu'
+      type: movie
+      tvdbid: 79525
+      tvdbseason: 0
+      start: 9
+      useMapping: false
+      animeMapping: []
+
+    - malid: 15201
+      title: 'Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara'
+      type: movie
+      tvdbid: 79525
+      tvdbseason: 0
+      start: 10
       useMapping: false
       animeMapping: []
 
@@ -535,6 +616,24 @@ AnimeMap:
         - tvdbseason: 5
           start: 77
 
+    - malid: 30711
+      title: 'Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e'
+      type: movie
+      tvdbid: 79525
+      tvdbseason: 0
+      start: 11
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31327
+      title: Shokugeki no Souma OVA
+      type: ova
+      tvdbid: 289909
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 31478
       title: Bungou Stray Dogs
       type: tv
@@ -558,6 +657,24 @@ AnimeMap:
       type: tv
       tvdbid: 305074
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 32188
+      title: 'Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero'
+      type: special
+      tvdbid: 339268
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 32282
+      title: 'Shokugeki no Souma: Ni no Sara'
+      type: tv
+      tvdbid: 289909
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -607,12 +724,57 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 34437
+      title: 'Code Geass: Fukkatsu no Lelouch'
+      type: movie
+      tvdbid: 79525
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34438
+      title: 'Code Geass: Hangyaku no Lelouch I - Koudou'
+      type: movie
+      tvdbid: 79525
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34439
+      title: 'Code Geass: Hangyaku no Lelouch II - Handou'
+      type: movie
+      tvdbid: 79525
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34440
+      title: 'Code Geass: Hangyaku no Lelouch III - Oudou'
+      type: movie
+      tvdbid: 79525
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 34465
       title: 'Ao no Exorcist: Kyoto Fujouou-hen OVA'
       type: ova
       tvdbid: 248035
       tvdbseason: 0
       start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34480
+      title: 'Shokugeki no Souma: Ni no Sara OVA'
+      type: ova
+      tvdbid: 289909
+      tvdbseason: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -630,6 +792,15 @@ AnimeMap:
       type: tv
       tvdbid: 316842
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 35788
+      title: 'Shokugeki no Souma: San no Sara'
+      type: tv
+      tvdbid: 289909
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -661,6 +832,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36949
+      title: 'Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen'
+      type: tv
+      tvdbid: 289909
+      tvdbseason: 3
+      start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36962
+      title: 'Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina'
+      type: ova
+      tvdbid: 289909
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
     - malid: 37347
       title: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
       type: tv
@@ -685,6 +874,15 @@ AnimeMap:
       tvdbid: 305077
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37492
+      title: 'Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio'
+      type: special
+      tvdbid: 339268
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -817,6 +1015,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 39940
+      title: 'Shokugeki no Souma: Shin no Sara'
+      type: tv
+      tvdbid: 289909
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 40356
       title: Tate no Yuusha no Nariagari Season 2
       type: tv
@@ -831,6 +1038,15 @@ AnimeMap:
       type: tv
       tvdbid: 353712
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40417
+      title: Fruits Basket 2nd Season
+      type: tv
+      tvdbid: 357488
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -862,6 +1078,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 40591
+      title: Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
+      type: tv
+      tvdbid: 354198
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 40682
       title: Kingdom 3rd Season
       type: tv
@@ -876,6 +1101,15 @@ AnimeMap:
       type: tv
       tvdbid: 355774
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40902
+      title: 'Shokugeki no Souma: Gou no Sara'
+      type: tv
+      tvdbid: 289909
+      tvdbseason: 5
       start: 0
       useMapping: false
       animeMapping: []
@@ -925,6 +1159,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 41514
+      title: Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2
+      type: tv
+      tvdbid: 373679
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 41587
       title: Boku no Hero Academia 5th Season
       type: tv
@@ -970,11 +1213,56 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 42745
+      title: 'Machikado Mazoku: 2-choume'
+      type: tv
+      tvdbid: 363143
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 42938
+      title: 'Fruits Basket: The Final'
+      type: tv
+      tvdbid: 357488
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 43608
+      title: 'Kaguya-sama wa Kokurasetai: Ultra Romantic'
+      type: tv
+      tvdbid: 354198
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 43609
+      title: Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA
+      type: ova
+      tvdbid: 354198
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 43760
       title: Hikari no Ou
       type: tv
       tvdbid: 402607
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 44069
+      title: Xian Wang de Richang Shenghuo 2
+      type: ona
+      tvdbid: 376751
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -1051,6 +1339,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 48413
+      title: Hataraku Maou-sama!!
+      type: tv
+      tvdbid: 267441
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 48417
       title: 'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II'
       type: tv
@@ -1110,6 +1407,15 @@ AnimeMap:
       type: tv
       tvdbid: 404525
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49310
+      title: 'Fruits Basket: Prelude'
+      type: movie
+      tvdbid: 357488
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -1222,10 +1528,28 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 50325
+      title: 'Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai'
+      type: pv
+      tvdbid: 354198
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 50330
       title: Bungou Stray Dogs 4th Season
       type: tv
       tvdbid: 305075
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50404
+      title: Xian Wang de Richang Shenghuo 3
+      type: ona
+      tvdbid: 376751
       tvdbseason: 3
       start: 0
       useMapping: false
@@ -1366,6 +1690,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52198
+      title: 'Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai'
+      type: movie
+      tvdbid: 354198
+      tvdbseason: 0
+      start: 9
+      useMapping: false
+      animeMapping: []
+
     - malid: 52211
       title: Mashle
       type: tv
@@ -1420,6 +1753,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53200
+      title: Hataraku Maou-sama!! 2nd Season
+      type: tv
+      tvdbid: 267441
+      tvdbseason: 2
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 53223
       title: Kingdom 5th Season
       type: tv
@@ -1435,6 +1777,15 @@ AnimeMap:
       tvdbid: 262954
       tvdbseason: 5
       start: 25
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53450
+      title: Xian Wang de Richang Shenghuo 4
+      type: ona
+      tvdbid: 376751
+      tvdbseason: 4
+      start: 0
       useMapping: false
       animeMapping: []
 
