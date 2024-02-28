@@ -23,10 +23,6 @@ jobs:
           name: "shinkrodb"
           version: "0.1.2"
 
-      - name: FormatMaps
+      - name: Check Format
         run: |
           shinkrodb format
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Format maps
