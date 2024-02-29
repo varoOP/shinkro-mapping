@@ -426,6 +426,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 5300
+      title: Zoku Natsume Yuujinchou
+      type: tv
+      tvdbid: 82788
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 6714
       title: 'Dragon Ball Z: Atsumare! Gokuu World'
       type: ova
@@ -458,6 +467,15 @@ AnimeMap:
       type: tv
       tvdbid: 248035
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 10379
+      title: Natsume Yuujinchou San
+      type: tv
+      tvdbid: 82788
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -495,6 +513,15 @@ AnimeMap:
       tvdbid: 244061
       tvdbseason: 0
       start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 11665
+      title: Natsume Yuujinchou Shi
+      type: tv
+      tvdbid: 82788
+      tvdbseason: 4
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -597,12 +624,39 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 18849
+      title: 'Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai'
+      type: special
+      tvdbid: 82788
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 19163
       title: Date A Live II
       type: tv
       tvdbid: 264663
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 19945
+      title: 'Zoku Natsume Yuujinchou: 3D Nyanko-sensei Gekijou'
+      type: special
+      tvdbid: 82788
+      tvdbseason: 0
+      start: 7
+      useMapping: false
+      animeMapping: []
+
+    - malid: 20651
+      title: 'Natsume Yuujinchou: Itsuka Yuki no Hi ni'
+      type: ova
+      tvdbid: 82788
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -769,6 +823,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 32983
+      title: Natsume Yuujinchou Go
+      type: tv
+      tvdbid: 82788
+      tvdbseason: 5
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 33071
       title: 'Bungou Stray Dogs: Hitori Ayumu'
       type: ova
@@ -850,6 +913,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 34534
+      title: Natsume Yuujinchou Go Specials
+      type: special
+      tvdbid: 82788
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34591
+      title: Natsume Yuujinchou Roku
+      type: tv
+      tvdbid: 82788
+      tvdbseason: 6
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 34944
       title: 'Bungou Stray Dogs: Dead Apple'
       type: movie
@@ -886,12 +967,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36275
+      title: Natsume Yuujinchou Roku Specials
+      type: special
+      tvdbid: 82788
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
     - malid: 36456
       title: Boku no Hero Academia 3rd Season
       type: tv
       tvdbid: 305074
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36538
+      title: 'Natsume Yuujinchou Movie: Utsusemi ni Musubu'
+      type: movie
+      tvdbid: 82788
+      tvdbseason: 0
+      start: 12
       useMapping: false
       animeMapping: []
 
@@ -1294,6 +1393,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 42894
+      title: 'Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha'
+      type: movie
+      tvdbid: 82788
+      tvdbseason: 0
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 42938
       title: 'Fruits Basket: The Final'
       type: tv
@@ -1471,6 +1579,15 @@ AnimeMap:
       tvdbid: 262954
       tvdbseason: 5
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 48829
+      title: 'Ichiban Kuji Natsume Yuujinchou: Nyanko-sensei to Hana Shirabe'
+      type: ona
+      tvdbid: 82788
+      tvdbseason: 0
+      start: 14
       useMapping: false
       animeMapping: []
 
@@ -2065,6 +2182,15 @@ AnimeMap:
       tvdbid: 371310
       tvdbseason: 0
       start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55823
+      title: Natsume Yuujinchou Shichi
+      type: tv
+      tvdbid: 82788
+      tvdbseason: 7
+      start: 0
       useMapping: false
       animeMapping: []
 
