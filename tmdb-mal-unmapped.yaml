@@ -1815,10 +1815,6 @@ animeMovies:
       tmdbid: 0
       malid: 22511
 
-    - mainTitle: Kerokero Keroppi no Sanjuushi
-      tmdbid: 0
-      malid: 22649
-
     - mainTitle: 'Peeping Life: Gekijou Original-ban'
       tmdbid: 0
       malid: 22675
@@ -2110,6 +2106,10 @@ animeMovies:
     - mainTitle: Tanuki-san Ooatari
       tmdbid: 0
       malid: 27377
+
+    - mainTitle: 'Peeping Life Movie: We Are The Hero'
+      tmdbid: 0
+      malid: 27399
 
     - mainTitle: Mushiba Tetsudou
       tmdbid: 0
@@ -3687,6 +3687,10 @@ animeMovies:
       tmdbid: 0
       malid: 40164
 
+    - mainTitle: Luo Xiao Hei Zhan Ji (Movie)
+      tmdbid: 0
+      malid: 40211
+
     - mainTitle: 'Youjo Senki Movie: Manner Eizou'
       tmdbid: 0
       malid: 40298
@@ -3695,7 +3699,7 @@ animeMovies:
       tmdbid: 0
       malid: 40301
 
-    - mainTitle: Given Movie 01
+    - mainTitle: Given Movie 1
       tmdbid: 0
       malid: 40421
 
@@ -5247,10 +5251,6 @@ animeMovies:
       tmdbid: 0
       malid: 44699
 
-    - mainTitle: Chisong Wei Long
-      tmdbid: 0
-      malid: 44704
-
     - mainTitle: Qiudao
       tmdbid: 0
       malid: 44712
@@ -5590,6 +5590,10 @@ animeMovies:
     - mainTitle: 'Yingxiong Jangar: Xunbao Ji'
       tmdbid: 0
       malid: 44978
+
+    - mainTitle: Xian Bu Chuanqi
+      tmdbid: 0
+      malid: 44979
 
     - mainTitle: 'Zhongkui Chuanqi: Sui Han Sanyou'
       tmdbid: 0
@@ -6206,10 +6210,6 @@ animeMovies:
     - mainTitle: Share the Warmth
       tmdbid: 0
       malid: 52096
-
-    - mainTitle: Mononoke Movie
-      tmdbid: 0
-      malid: 52107
 
     - mainTitle: 'Yu Shen Chuan: Xun Zhao Shen Li'
       tmdbid: 0
@@ -7047,7 +7047,7 @@ animeMovies:
       tmdbid: 0
       malid: 54661
 
-    - mainTitle: 'Given Movie 02: Hiiragi Mix'
+    - mainTitle: 'Given Movie 2: Hiiragi Mix'
       tmdbid: 0
       malid: 54791
 
@@ -7295,6 +7295,10 @@ animeMovies:
       tmdbid: 0
       malid: 56423
 
+    - mainTitle: 'Zegapain: STA'
+      tmdbid: 0
+      malid: 56488
+
     - mainTitle: 'La Nuit des Illusions: Meisou no Yoru'
       tmdbid: 0
       malid: 56500
@@ -7322,10 +7326,6 @@ animeMovies:
     - mainTitle: Nejikure Ojisan
       tmdbid: 0
       malid: 56550
-
-    - mainTitle: Kurayukaba
-      tmdbid: 0
-      malid: 56553
 
     - mainTitle: Longzhu Xun Youji
       tmdbid: 0
@@ -7563,10 +7563,6 @@ animeMovies:
       tmdbid: 0
       malid: 57464
 
-    - mainTitle: Kuramerukagari
-      tmdbid: 0
-      malid: 57478
-
     - mainTitle: 'Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki'
       tmdbid: 0
       malid: 57499
@@ -7683,7 +7679,11 @@ animeMovies:
       tmdbid: 0
       malid: 58219
 
-    - mainTitle: 'Given Movie 03: Umi e'
+    - mainTitle: 'Given Movie 3: Umi e'
       tmdbid: 0
       malid: 58222
+
+    - mainTitle: Hana (2018)
+      tmdbid: 0
+      malid: 58274
 
