@@ -399,13 +399,9 @@ animeMovies:
       tmdbid: 0
       malid: 6063
 
-    - mainTitle: Juuippiki no Neko to Ahoudori
+    - mainTitle: 11-piki no Neko to Ahoudori
       tmdbid: 0
       malid: 6072
-
-    - mainTitle: 21 Emon Uchuu e Irasshai!
-      tmdbid: 0
-      malid: 6073
 
     - mainTitle: 'Final Fantasy VII: Advent Children - Venice Film Festival Footage'
       tmdbid: 0
@@ -1530,10 +1526,6 @@ animeMovies:
     - mainTitle: Hanasaka Jijii
       tmdbid: 0
       malid: 18457
-
-    - mainTitle: 'Jungle Taitei Leo: Hon-o-ji'
-      tmdbid: 0
-      malid: 18533
 
     - mainTitle: 'Tetsuwan Atom: Ivan no Wakusei - Robot to Ningen no Yuujou'
       tmdbid: 0
@@ -6303,6 +6295,10 @@ animeMovies:
       tmdbid: 0
       malid: 52714
 
+    - mainTitle: 'Haikyuu!! Movie: Gomisuteba no Kessen'
+      tmdbid: 0
+      malid: 52742
+
     - mainTitle: Sihanpogtan
       tmdbid: 0
       malid: 52766
@@ -7651,6 +7647,10 @@ animeMovies:
       tmdbid: 0
       malid: 58014
 
+    - mainTitle: 'Gintama on Theater 2D: Ikkoku Keisei-hen'
+      tmdbid: 0
+      malid: 58091
+
     - mainTitle: 'Spy x Family Movie: Code: White Manner Movie'
       tmdbid: 0
       malid: 58159
@@ -7686,4 +7686,8 @@ animeMovies:
     - mainTitle: Hana (2018)
       tmdbid: 0
       malid: 58274
+
+    - mainTitle: Ba Bi Na Zha Cheng de Chuanshuo
+      tmdbid: 0
+      malid: 58323
 
