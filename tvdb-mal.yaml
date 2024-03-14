@@ -435,6 +435,23 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 6702
+      title: Fairy Tail
+      type: tv
+      tvdbid: 114801
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+        - tvdbseason: 2
+          start: 49
+        - tvdbseason: 3
+          start: 97
+        - tvdbseason: 4
+          start: 151
+
     - malid: 6714
       title: 'Dragon Ball Z: Atsumare! Gokuu World'
       type: ova
@@ -467,6 +484,15 @@ AnimeMap:
       type: tv
       tvdbid: 248035
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 9982
+      title: Fairy Tail OVA
+      type: ova
+      tvdbid: 114801
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -525,6 +551,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 11701
+      title: 'Another: The Other - Inga'
+      type: ova
+      tvdbid: 254349
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 11737
       title: Ao no Exorcist Movie
       type: movie
@@ -543,12 +578,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 12049
+      title: 'Fairy Tail Movie 1: Houou no Miko'
+      type: movie
+      tvdbid: 114801
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 12231
       title: 'Dragon Ball: Episode of Bardock'
       type: special
       tvdbid: 81472
       tvdbseason: 0
       start: 25
+      useMapping: false
+      animeMapping: []
+
+    - malid: 13469
+      title: 'Hyouka: Motsubeki Mono wa'
+      type: ova
+      tvdbid: 257764
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -615,12 +668,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 17535
+      title: 'Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa'
+      type: special
+      tvdbid: 114801
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
     - malid: 17641
       title: 'Date A Live: Date to Date'
       type: ova
       tvdbid: 264663
       tvdbseason: 0
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 18393
+      title: Fairy Tail x Rave
+      type: ova
+      tvdbid: 114801
+      tvdbseason: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
@@ -669,6 +740,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 21415
+      title: Machine-Doll wa Kizutsukanai Specials
+      type: special
+      tvdbid: 272072
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 22043
+      title: Fairy Tail (2014)
+      type: tv
+      tvdbid: 114801
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 5
+          start: 0
+        - tvdbseason: 6
+          start: 52
+        - tvdbseason: 7
+          start: 91
+
     - malid: 22695
       title: 'Dragon Ball Z: Summer Vacation Special'
       type: tv_special
@@ -696,6 +791,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 23383
+      title: D-Frag!*
+      type: ova
+      tvdbid: 276050
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 25389
       title: 'Dragon Ball Z Movie 15: Fukkatsu no "F"'
       type: movie
@@ -711,6 +815,15 @@ AnimeMap:
       tvdbid: 262954
       tvdbseason: 2
       start: 25
+      useMapping: false
+      animeMapping: []
+
+    - malid: 27633
+      title: Gekkan Shoujo Nozaki-kun Specials
+      type: special
+      tvdbid: 279804
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -748,6 +861,15 @@ AnimeMap:
       tvdbid: 79525
       tvdbseason: 0
       start: 11
+      useMapping: false
+      animeMapping: []
+
+    - malid: 30778
+      title: 'Fairy Tail Movie 2: Dragon Cry'
+      type: movie
+      tvdbid: 114801
+      tvdbseason: 0
+      start: 12
       useMapping: false
       animeMapping: []
 
@@ -820,6 +942,15 @@ AnimeMap:
       tvdbid: 316842
       tvdbseason: 0
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 32930
+      title: Fairy Tail OVA (2016)
+      type: ova
+      tvdbid: 114801
+      tvdbseason: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -963,6 +1094,15 @@ AnimeMap:
       type: tv
       tvdbid: 353712
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 35972
+      title: 'Fairy Tail: Final Series'
+      type: tv
+      tvdbid: 114801
+      tvdbseason: 8
       start: 0
       useMapping: false
       animeMapping: []
