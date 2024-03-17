@@ -1355,6 +1355,10 @@ animeMovies:
       tmdbid: 0
       malid: 16838
 
+    - mainTitle: Chagama Ondo
+      tmdbid: 0
+      malid: 17076
+
     - mainTitle: Lolling Seutajeu (Movie)
       tmdbid: 0
       malid: 17104
@@ -1830,14 +1834,6 @@ animeMovies:
     - mainTitle: Hyokkori Hyoutan Shima
       tmdbid: 0
       malid: 22887
-
-    - mainTitle: 'Magical★Taruruuto-kun: Sukisuki Takoyaki!'
-      tmdbid: 0
-      malid: 22979
-
-    - mainTitle: 'Magical★Taruruuto-kun: Moeru! Yuujou no Mahou Taisen'
-      tmdbid: 0
-      malid: 22981
 
     - mainTitle: 'Obake no Q-Tarou: Susume! 1/100 Daisakusen'
       tmdbid: 0
@@ -2450,6 +2446,10 @@ animeMovies:
     - mainTitle: 'Kaze no Kokyuu: Animation ni Yoru Oufuku Shokan'
       tmdbid: 0
       malid: 29989
+
+    - mainTitle: Norakuro Ittouhei
+      tmdbid: 0
+      malid: 30019
 
     - mainTitle: SOS Kochira Chikyuu
       tmdbid: 0
