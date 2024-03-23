@@ -435,6 +435,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 6163
+      title: Kuroshitsuji Recap
+      type: tv_special
+      tvdbid: 83996
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 6702
       title: Fairy Tail
       type: tv
@@ -451,6 +460,15 @@ AnimeMap:
           start: 97
         - tvdbseason: 4
           start: 151
+
+    - malid: 6707
+      title: Kuroshitsuji II
+      type: tv
+      tvdbid: 83996
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
 
     - malid: 6714
       title: 'Dragon Ball Z: Atsumare! Gokuu World'
@@ -470,12 +488,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 6793
+      title: 'Kuroshitsuji: Sono Shitsuji, Kougyou'
+      type: special
+      tvdbid: 83996
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 8888
       title: 'Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita'
       type: movie
       tvdbid: 79525
       tvdbseason: 0
       start: 7
+      useMapping: false
+      animeMapping: []
+
+    - malid: 9136
+      title: Kuroshitsuji II Specials
+      type: special
+      tvdbid: 83996
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -764,6 +800,15 @@ AnimeMap:
         - tvdbseason: 7
           start: 91
 
+    - malid: 22145
+      title: 'Kuroshitsuji: Book of Circus'
+      type: tv
+      tvdbid: 83996
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 22695
       title: 'Dragon Ball Z: Summer Vacation Special'
       type: tv_special
@@ -791,12 +836,39 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 23317
+      title: 'Kuroshitsuji: Book of Murder'
+      type: ova
+      tvdbid: 83996
+      tvdbseason: 0
+      start: 9
+      useMapping: false
+      animeMapping: []
+
+    - malid: 23341
+      title: Yoku Wakaru Mahouka!
+      type: ona
+      tvdbid: 278329
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 23383
       title: D-Frag!*
       type: ova
       tvdbid: 276050
       tvdbseason: 0
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 24655
+      title: 'Date A Live Movie: Mayuri Judgment'
+      type: movie
+      tvdbid: 264663
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -873,6 +945,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31096
+      title: 'Hibike! Euphonium: Suisougaku-bu no Nichijou'
+      type: special
+      tvdbid: 289884
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 31327
       title: Shokugeki no Souma OVA
       type: ova
@@ -882,12 +963,39 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31448
+      title: Yoku Wakaru Mahouka! - Saiseitte Nani?
+      type: special
+      tvdbid: 278329
+      tvdbseason: 0
+      start: 7
+      useMapping: false
+      animeMapping: []
+
     - malid: 31478
       title: Bungou Stray Dogs
       type: tv
       tvdbid: 305075
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31665
+      title: 'Hibike! Euphonium: Kakedasu Monaka'
+      type: special
+      tvdbid: 289884
+      tvdbseason: 0
+      start: 8
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31812
+      title: 'Kuroshitsuji Movie: Book of the Atlantic'
+      type: movie
+      tvdbid: 83996
+      tvdbseason: 0
+      start: 11
       useMapping: false
       animeMapping: []
 
@@ -909,6 +1017,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31988
+      title: Hibike! Euphonium 2
+      type: tv
+      tvdbid: 289884
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31989
+      title: 'Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso'
+      type: movie
+      tvdbid: 289884
+      tvdbseason: 0
+      start: 9
+      useMapping: false
+      animeMapping: []
+
     - malid: 32188
       title: 'Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero'
       type: special
@@ -927,12 +1053,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 32380
+      title: Kono Subarashii Sekai ni Shukufuku wo! Kono Subarashii Choker ni Shukufuku wo!
+      type: ova
+      tvdbid: 303867
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 32867
       title: Bungou Stray Dogs 2nd Season
       type: tv
       tvdbid: 305075
       tvdbseason: 1
       start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 32900
+      title: 'Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo'
+      type: movie
+      tvdbid: 278329
+      tvdbseason: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
@@ -951,6 +1095,15 @@ AnimeMap:
       tvdbid: 114801
       tvdbseason: 0
       start: 9
+      useMapping: false
+      animeMapping: []
+
+    - malid: 32937
+      title: Kono Subarashii Sekai ni Shukufuku wo! 2
+      type: tv
+      tvdbid: 303867
+      tvdbseason: 2
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -987,6 +1140,24 @@ AnimeMap:
       tvdbid: 248035
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 33929
+      title: 'Boku no Hero Academia: Sukue! Kyuujo Kunren!'
+      type: ova
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34204
+      title: Hibike! Euphonium 2 Specials
+      type: special
+      tvdbid: 289884
+      tvdbseason: 0
+      start: 10
       useMapping: false
       animeMapping: []
 
@@ -1062,6 +1233,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 34626
+      title: 'Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!'
+      type: ova
+      tvdbid: 303867
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 34944
       title: 'Bungou Stray Dogs: Dead Apple'
       type: movie
@@ -1077,6 +1257,51 @@ AnimeMap:
       tvdbid: 316842
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 35082
+      title: 'Hibike! Euphonium Movie 2: Todoketai Melody'
+      type: movie
+      tvdbid: 289884
+      tvdbseason: 0
+      start: 17
+      useMapping: false
+      animeMapping: []
+
+    - malid: 35262
+      title: 'Boku no Hero Academia: Hero Note'
+      type: tv_special
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 35459
+      title: 'Boku no Hero Academia: Training of the Dead'
+      type: ova
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 35677
+      title: Liz to Aoi Tori
+      type: movie
+      tvdbid: 289884
+      tvdbseason: 0
+      start: 18
+      useMapping: false
+      animeMapping: []
+
+    - malid: 35678
+      title: 'Hibike! Euphonium Movie 3: Chikai no Finale'
+      type: movie
+      tvdbid: 289884
+      tvdbseason: 0
+      start: 19
       useMapping: false
       animeMapping: []
 
@@ -1143,6 +1368,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36896
+      title: 'Boku no Hero Academia the Movie 1: Futari no Hero'
+      type: movie
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 36949
       title: 'Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen'
       type: tv
@@ -1158,6 +1392,15 @@ AnimeMap:
       tvdbid: 289909
       tvdbseason: 0
       start: 6
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37341
+      title: Yuru Camp△ Specials
+      type: special
+      tvdbid: 330692
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -1254,6 +1497,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 38040
+      title: 'Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu'
+      type: movie
+      tvdbid: 303867
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
     - malid: 38101
       title: 5-toubun no Hanayome
       type: tv
@@ -1272,12 +1524,57 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 38474
+      title: Yuru Camp△ Season 2
+      type: tv
+      tvdbid: 330692
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38475
+      title: Yuru Camp△ Movie
+      type: movie
+      tvdbid: 330692
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38476
+      title: Heya Camp△
+      type: tv
+      tvdbid: 330692
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
     - malid: 38691
       title: Dr. Stone
       type: tv
       tvdbid: 355774
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38699
+      title: 'Boku no Hero Academia the Movie 1: Futari no Hero Specials'
+      type: special
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38793
+      title: Tensei shitara Slime Datta Ken OVA
+      type: ova
+      tvdbid: 352408
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -1308,6 +1605,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 39551
+      title: Tensei shitara Slime Datta Ken 2nd Season
+      type: tv
+      tvdbid: 352408
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 39565
+      title: 'Boku no Hero Academia the Movie 2: Heroes:Rising'
+      type: movie
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 7
+      useMapping: false
+      animeMapping: []
+
     - malid: 39576
       title: 'Goblin Slayer: Goblin''s Crown'
       type: movie
@@ -1317,11 +1632,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 39607
+      title: 'Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki'
+      type: tv_special
+      tvdbid: 352408
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 39783
       title: 5-toubun no Hanayome ∬
       type: tv
       tvdbid: 355966
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 39894
+      title: Hibike! Euphonium 3
+      type: tv
+      tvdbid: 289884
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -1353,6 +1686,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 40416
+      title: 'Date A Bullet: Dead or Bullet'
+      type: movie
+      tvdbid: 264663
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 40417
       title: Fruits Basket 2nd Season
       type: tv
@@ -1376,6 +1718,15 @@ AnimeMap:
       type: tv
       tvdbid: 375927
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40497
+      title: 'Mahouka Koukou no Rettousei: Raihousha-hen'
+      type: tv
+      tvdbid: 278329
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -1425,6 +1776,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 41061
+      title: 'Heya Camp△: Sauna to Gohan to Sanrin Bike'
+      type: special
+      tvdbid: 330692
+      tvdbseason: 0
+      start: 17
+      useMapping: false
+      animeMapping: []
+
     - malid: 41389
       title: Tonikaku Kawaii
       type: tv
@@ -1467,6 +1827,15 @@ AnimeMap:
       tvdbid: 74796
       tvdbseason: 17
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 41487
+      title: Tensei shitara Slime Datta Ken 2nd Season Part 2
+      type: tv
+      tvdbid: 352408
+      tvdbseason: 2
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -1524,6 +1893,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 42423
+      title: 'Date A Bullet: Nightmare or Queen'
+      type: movie
+      tvdbid: 264663
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
+    - malid: 42603
+      title: 'Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren'
+      type: ona
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 8
+      useMapping: false
+      animeMapping: []
+
     - malid: 42745
       title: 'Machikado Mazoku: 2-choume'
       type: tv
@@ -1569,6 +1956,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 43683
+      title: 'Boku no Hero Academia the Movie 2: Heroes:Rising - Epilogue Plus - Yume wo Genjitsu ni'
+      type: special
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 10
+      useMapping: false
+      animeMapping: []
+
     - malid: 43760
       title: Hikari no Ou
       type: tv
@@ -1584,6 +1980,15 @@ AnimeMap:
       tvdbid: 376751
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 44200
+      title: 'Boku no Hero Academia the Movie 3: World Heroes'' Mission'
+      type: movie
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 11
       useMapping: false
       animeMapping: []
 
@@ -1623,6 +2028,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 45753
+      title: 'Tensei shitara Slime Datta Ken: Kanwa - Hinata Sakaguchi'
+      type: tv_special
+      tvdbid: 352408
+      tvdbseason: 0
+      start: 7
+      useMapping: false
+      animeMapping: []
+
     - malid: 47160
       title: Goblin Slayer II
       type: tv
@@ -1659,6 +2073,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 48375
+      title: 'Mahouka Koukou no Rettousei: Tsuioku-hen'
+      type: tv_special
+      tvdbid: 278329
+      tvdbseason: 0
+      start: 9
+      useMapping: false
+      animeMapping: []
+
     - malid: 48413
       title: Hataraku Maou-sama!!
       type: tv
@@ -1674,6 +2097,15 @@ AnimeMap:
       tvdbid: 375927
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 48418
+      title: 'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2'
+      type: tv
+      tvdbid: 375927
+      tvdbseason: 2
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -1731,6 +2163,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 49026
+      title: Yuru Camp△ Season 2 Specials
+      type: special
+      tvdbid: 330692
+      tvdbseason: 0
+      start: 18
+      useMapping: false
+      animeMapping: []
+
     - malid: 49154
       title: High Card
       type: tv
@@ -1749,11 +2190,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 49318
+      title: 'Tensei shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2'
+      type: tv_special
+      tvdbid: 352408
+      tvdbseason: 0
+      start: 8
+      useMapping: false
+      animeMapping: []
+
     - malid: 49387
       title: Vinland Saga Season 2
       type: tv
       tvdbid: 359274
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49458
+      title: Kono Subarashii Sekai ni Shukufuku wo! 3
+      type: tv
+      tvdbid: 303867
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -1764,6 +2223,24 @@ AnimeMap:
       tvdbid: 369144
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49858
+      title: Shinigami Bocchan to Kuro Maid 2nd Season
+      type: tv
+      tvdbid: 398555
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49877
+      title: 'Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen'
+      type: movie
+      tvdbid: 352408
+      tvdbseason: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -1807,6 +2284,15 @@ AnimeMap:
       title: Edens Zero 2nd Season
       type: tv
       tvdbid: 388645
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50060
+      title: Shadowverse Flame
+      type: tv
+      tvdbid: 378522
       tvdbseason: 2
       start: 0
       useMapping: false
@@ -1875,12 +2361,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 50360
+      title: 'Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu'
+      type: special
+      tvdbid: 371310
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 50404
       title: Xian Wang de Richang Shenghuo 3
       type: ona
       tvdbid: 376751
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50532
+      title: 'Boku no Hero Academia the Movie 3: World Heroes'' Mission - Tabidachi'
+      type: special
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 12
       useMapping: false
       animeMapping: []
 
@@ -1925,6 +2429,15 @@ AnimeMap:
       type: tv
       tvdbid: 414096
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50713
+      title: Mahouka Koukou no Rettousei 3rd Season
+      type: tv
+      tvdbid: 278329
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -2001,12 +2514,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 51781
+      title: Boku no Hero Academia (ONA)
+      type: ona
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 51794
       title: 'Nanatsu no Taizai: Mokushiroku no Yonkishi'
       type: tv
       tvdbid: 420018
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 51995
+      title: 'Hibike! Euphonium: Ensemble Contest-hen'
+      type: movie
+      tvdbid: 289884
+      tvdbseason: 0
+      start: 20
       useMapping: false
       animeMapping: []
 
@@ -2109,6 +2640,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53410
+      title: Yuru Camp△ Season 3
+      type: tv
+      tvdbid: 330692
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 53450
       title: Xian Wang de Richang Shenghuo 4
       type: ona
@@ -2132,6 +2672,15 @@ AnimeMap:
       type: tv
       tvdbid: 426703
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53580
+      title: Tensei shitara Slime Datta Ken 3rd Season
+      type: tv
+      tvdbid: 352408
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -2172,12 +2721,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54117
+      title: Nijiyon Animation Specials
+      type: special
+      tvdbid: 425478
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 54301
       title: Overtake!
       type: tv
       tvdbid: 429994
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54565
+      title: 'Tensei shitara Slime Datta Ken: Coleus no Yume'
+      type: ona
+      tvdbid: 352408
+      tvdbseason: 0
+      start: 10
       useMapping: false
       animeMapping: []
 
@@ -2208,6 +2775,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54789
+      title: Boku no Hero Academia 7th Season
+      type: tv
+      tvdbid: 305074
+      tvdbseason: 7
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 54803
       title: 'Captain Tsubasa Season 2: Junior Youth-hen'
       type: tv
@@ -2232,6 +2808,15 @@ AnimeMap:
       tvdbid: 432815
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54854
+      title: 'Shadowverse Flame: Seven Shadows-hen'
+      type: tv
+      tvdbid: 378522
+      tvdbseason: 2
+      start: 51
       useMapping: false
       animeMapping: []
 
@@ -2298,6 +2883,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 55701
+      title: 'Kimetsu no Yaiba: Hashira Geiko-hen'
+      type: tv
+      tvdbid: 348545
+      tvdbseason: 5
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 55742
       title: Mahoutsukai no Yome Season 2 Part 2
       type: tv
@@ -2334,6 +2928,33 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 55855
+      title: 'Kuroshitsuji: Kishuku Gakkou-hen'
+      type: tv
+      tvdbid: 83996
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55888
+      title: 'Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2'
+      type: tv
+      tvdbid: 371310
+      tvdbseason: 2
+      start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56685
+      title: 'Boku no Hero Academia: UA Heroes Battle'
+      type: movie
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 15
+      useMapping: false
+      animeMapping: []
+
     - malid: 56731
       title: 'Synduality: Noir Part 2'
       type: tv
@@ -2343,11 +2964,38 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 56738
+      title: Shinigami Bocchan to Kuro Maid 3rd Season
+      type: tv
+      tvdbid: 398555
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 56948
       title: 'Boku no Kokoro no Yabai Yatsu: Twi-Yaba'
       type: ona
       tvdbid: 422981
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57614
+      title: 'Shadowverse Flame: Arc-hen'
+      type: tv
+      tvdbid: 378522
+      tvdbseason: 2
+      start: 76
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57623
+      title: Nijiyon Animation 2
+      type: tv
+      tvdbid: 425478
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
