@@ -1831,10 +1831,6 @@ animeMovies:
       tmdbid: 0
       malid: 22851
 
-    - mainTitle: Hyokkori Hyoutan Shima
-      tmdbid: 0
-      malid: 22887
-
     - mainTitle: 'Obake no Q-Tarou: Susume! 1/100 Daisakusen'
       tmdbid: 0
       malid: 22991
@@ -6535,10 +6531,6 @@ animeMovies:
       tmdbid: 0
       malid: 53746
 
-    - mainTitle: Kimi no Iro
-      tmdbid: 0
-      malid: 53747
-
     - mainTitle: G2.5
       tmdbid: 0
       malid: 53754
@@ -7042,6 +7034,10 @@ animeMovies:
     - mainTitle: Nobana
       tmdbid: 0
       malid: 54661
+
+    - mainTitle: Make a Girl
+      tmdbid: 0
+      malid: 54740
 
     - mainTitle: 'Given Movie 2: Hiiragi Mix'
       tmdbid: 0
@@ -7690,4 +7686,8 @@ animeMovies:
     - mainTitle: Ba Bi Na Zha Cheng de Chuanshuo
       tmdbid: 0
       malid: 58323
+
+    - mainTitle: Wonderful Precure! Movie
+      tmdbid: 0
+      malid: 58462
 
