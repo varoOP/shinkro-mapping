@@ -1463,10 +1463,6 @@ animeMovies:
       tmdbid: 0
       malid: 18283
 
-    - mainTitle: Kkureogi Balmyeongwang
-      tmdbid: 0
-      malid: 18301
-
     - mainTitle: Sonyeon 007 Jihajeguk
       tmdbid: 0
       malid: 18303
@@ -1490,14 +1486,6 @@ animeMovies:
     - mainTitle: Dodani
       tmdbid: 0
       malid: 18317
-
-    - mainTitle: Gancheopjamneun Ttorijanggun
-      tmdbid: 0
-      malid: 18319
-
-    - mainTitle: Kkomaeosa Ttori
-      tmdbid: 0
-      malid: 18321
 
     - mainTitle: Dokkaebi Bangmang-I
       tmdbid: 0
@@ -1642,10 +1630,6 @@ animeMovies:
     - mainTitle: 'Meitantei Holmes: Mrs. Hudson Hitojichi Jiken no Maki / Dover Kaikyou no Daikuuchuusen no Maki'
       tmdbid: 0
       malid: 20441
-
-    - mainTitle: 'Sekaiichi Hatsukoi: Valentine-hen'
-      tmdbid: 0
-      malid: 20815
 
     - mainTitle: 'Kuro no Su: Chronus'
       tmdbid: 0
@@ -2058,6 +2042,10 @@ animeMovies:
     - mainTitle: Kurumiwari Ningyou (2014)
       tmdbid: 0
       malid: 26043
+
+    - mainTitle: 'Futari wa Precure: Splash☆Star Maji★Doki♥ Theater'
+      tmdbid: 0
+      malid: 26053
 
     - mainTitle: Okori Jizou
       tmdbid: 0
@@ -5815,10 +5803,6 @@ animeMovies:
       tmdbid: 0
       malid: 48784
 
-    - mainTitle: 'Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten'
-      tmdbid: 0
-      malid: 48820
-
     - mainTitle: Pooky's
       tmdbid: 0
       malid: 48884
@@ -7015,10 +6999,6 @@ animeMovies:
       tmdbid: 0
       malid: 54583
 
-    - mainTitle: Bakeneko Anzu-chan
-      tmdbid: 0
-      malid: 54603
-
     - mainTitle: Mahoroba
       tmdbid: 0
       malid: 54636
@@ -7367,10 +7347,6 @@ animeMovies:
       tmdbid: 0
       malid: 56769
 
-    - mainTitle: 'Meitantei Conan Movie 27: 100-man Dollar no Michishirube'
-      tmdbid: 0
-      malid: 56785
-
     - mainTitle: 'Kung Fu Wang: Meng Hu Shangshan'
       tmdbid: 0
       malid: 56797
@@ -7555,10 +7531,6 @@ animeMovies:
       tmdbid: 0
       malid: 57464
 
-    - mainTitle: 'Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki'
-      tmdbid: 0
-      malid: 57499
-
     - mainTitle: Shi ga Utsukushii Nante dare ga Itta
       tmdbid: 0
       malid: 57500
@@ -7643,10 +7615,6 @@ animeMovies:
       tmdbid: 0
       malid: 58014
 
-    - mainTitle: 'Gintama on Theater 2D: Ikkoku Keisei-hen'
-      tmdbid: 0
-      malid: 58091
-
     - mainTitle: 'Spy x Family Movie: Code: White Manner Movie'
       tmdbid: 0
       malid: 58159
@@ -7690,4 +7658,12 @@ animeMovies:
     - mainTitle: Wonderful Precure! Movie
       tmdbid: 0
       malid: 58462
+
+    - mainTitle: 'SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!!'
+      tmdbid: 0
+      malid: 58522
+
+    - mainTitle: 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie
+      tmdbid: 0
+      malid: 58549
 
