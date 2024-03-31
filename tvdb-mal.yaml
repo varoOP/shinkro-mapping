@@ -954,6 +954,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31096
+      title: 'Hibike! Euphonium: Suisougaku-bu no Nichijou'
+      type: special
+      tvdbid: 289884
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 31327
       title: Shokugeki no Souma OVA
       type: ova
@@ -2092,7 +2101,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48417
-      title: 'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II'
+      title: 'Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou'
       type: tv
       tvdbid: 375927
       tvdbseason: 2
@@ -2101,7 +2110,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48418
-      title: 'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2'
+      title: 'Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou Part 2'
       type: tv
       tvdbid: 375927
       tvdbseason: 2
