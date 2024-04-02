@@ -2901,6 +2901,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 55717
+      title: Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita
+      type: tv
+      tvdbid: 436378
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 55742
       title: Mahoutsukai no Yome Season 2 Part 2
       type: tv
@@ -2987,6 +2996,15 @@ AnimeMap:
       type: ona
       tvdbid: 422981
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57100
+      title: The New Gate
+      type: tv
+      tvdbid: 442045
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
