@@ -1203,10 +1203,6 @@ animeMovies:
       tmdbid: 0
       malid: 14253
 
-    - mainTitle: Taekwon Dongja Maruchi Arachi
-      tmdbid: 0
-      malid: 14821
-
     - mainTitle: Tsukumo
       tmdbid: 0
       malid: 14853
@@ -5227,6 +5223,10 @@ animeMovies:
       tmdbid: 0
       malid: 44699
 
+    - mainTitle: Chisong Wei Long
+      tmdbid: 0
+      malid: 44704
+
     - mainTitle: Qiudao
       tmdbid: 0
       malid: 44712
@@ -5803,6 +5803,10 @@ animeMovies:
       tmdbid: 0
       malid: 48784
 
+    - mainTitle: 'Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten'
+      tmdbid: 0
+      malid: 48820
+
     - mainTitle: Pooky's
       tmdbid: 0
       malid: 48884
@@ -6086,10 +6090,6 @@ animeMovies:
     - mainTitle: Euroboys
       tmdbid: 0
       malid: 51500
-
-    - mainTitle: Rabbits Kingdom the Movie
-      tmdbid: 0
-      malid: 51539
 
     - mainTitle: Jeom
       tmdbid: 0
@@ -6999,6 +6999,10 @@ animeMovies:
       tmdbid: 0
       malid: 54583
 
+    - mainTitle: Bakeneko Anzu-chan
+      tmdbid: 0
+      malid: 54603
+
     - mainTitle: Mahoroba
       tmdbid: 0
       malid: 54636
@@ -7327,6 +7331,10 @@ animeMovies:
       tmdbid: 0
       malid: 56640
 
+    - mainTitle: 'Boku no Hero Academia: UA Heroes Battle'
+      tmdbid: 0
+      malid: 56685
+
     - mainTitle: Gozen 3-ji no Kamen Butoukai
       tmdbid: 0
       malid: 56749
@@ -7579,10 +7587,6 @@ animeMovies:
       tmdbid: 0
       malid: 57911
 
-    - mainTitle: Suu-funkan no Yell wo
-      tmdbid: 0
-      malid: 57915
-
     - mainTitle: Ensoku Datta Hi
       tmdbid: 0
       malid: 57916
@@ -7666,4 +7670,8 @@ animeMovies:
     - mainTitle: 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie
       tmdbid: 0
       malid: 58549
+
+    - mainTitle: 'SpoGomi: Machi no Kizunazukuri-hen'
+      tmdbid: 0
+      malid: 58619
 
