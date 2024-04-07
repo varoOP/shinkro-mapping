@@ -954,15 +954,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 31096
-      title: 'Hibike! Euphonium: Suisougaku-bu no Nichijou'
-      type: special
-      tvdbid: 289884
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 31327
       title: Shokugeki no Souma OVA
       type: ova
