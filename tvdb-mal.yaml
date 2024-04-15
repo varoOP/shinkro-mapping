@@ -3000,15 +3000,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 53407
-      title: 'Bartender: Kami no Glass'
-      type: tv
-      tvdbid: 426262
-      tvdbseason: 1
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 57614
       title: 'Shadowverse Flame: Arc-hen'
       type: tv
