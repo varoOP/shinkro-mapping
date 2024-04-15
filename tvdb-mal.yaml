@@ -2577,6 +2577,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52588
+      title: Kaijuu 8-gou
+      type: tv
+      tvdbid: 423075
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 52955
       title: Mahoutsukai no Yome Season 2
       type: tv
@@ -2640,11 +2649,65 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53407
+      title: 'Bartender: Kami no Glass'
+      type: tv
+      tvdbid: 426262
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 53410
       title: Yuru Camp△ Season 3
       type: tv
       tvdbid: 330692
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53411
+      title: Buddy Daddies
+      type: tv
+      tvdbid: 426294
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53421
+      title: Dosanko Gal wa Namara Menkoi
+      type: tv
+      tvdbid: 426410
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53434
+      title: Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
+      type: tv
+      tvdbid: 426488
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53439
+      title: Boushoku no Berserk
+      type: tv
+      tvdbid: 426530
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53446
+      title: Tondemo Skill de Isekai Hourou Meshi
+      type: tv
+      tvdbid: 426572
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
