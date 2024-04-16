@@ -1377,6 +1377,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36903
+      title: Kengan Ashura
+      type: ona
+      tvdbid: 354179
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 36949
       title: 'Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen'
       type: tv
@@ -1665,6 +1674,15 @@ AnimeMap:
       tvdbid: 289909
       tvdbseason: 4
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40269
+      title: Kengan Ashura Part 2
+      type: ona
+      tvdbid: 354179
+      tvdbseason: 1
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -2505,6 +2523,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 51369
+      title: Kengan Ashura Season 2
+      type: ona
+      tvdbid: 354179
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 51533
       title: 'Tonikaku Kawaii: Seifuku'
       type: special
@@ -3024,6 +3051,15 @@ AnimeMap:
       tvdbid: 305074
       tvdbseason: 0
       start: 15
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56704
+      title: Kengan Ashura Season 2 Part 2
+      type: ona
+      tvdbid: 354179
+      tvdbseason: 2
+      start: 13
       useMapping: false
       animeMapping: []
 
