@@ -1211,10 +1211,6 @@ animeMovies:
       tmdbid: 0
       malid: 15141
 
-    - mainTitle: Sakura no Ondo
-      tmdbid: 0
-      malid: 15393
-
     - mainTitle: Inazuma Eleven Go vs. Danball Senki W Movie
       tmdbid: 0
       malid: 15785
@@ -6987,10 +6983,6 @@ animeMovies:
       tmdbid: 0
       malid: 54583
 
-    - mainTitle: Bakeneko Anzu-chan
-      tmdbid: 0
-      malid: 54603
-
     - mainTitle: Mahoroba
       tmdbid: 0
       malid: 54636
@@ -7642,6 +7634,10 @@ animeMovies:
     - mainTitle: 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie
       tmdbid: 0
       malid: 58549
+
+    - mainTitle: 'Beuledeu Ibalso Movie: Selleob in Beikeolitaun'
+      tmdbid: 0
+      malid: 58560
 
     - mainTitle: 'SpoGomi: Machi no Kizunazukuri-hen'
       tmdbid: 0
