@@ -908,6 +908,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 30014
+      title: Momokuri
+      type: ona
+      tvdbid: 299746
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 30694
       title: Dragon Ball Super
       type: tv
