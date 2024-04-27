@@ -912,12 +912,10 @@ AnimeMap:
       title: Momokuri
       type: ona
       tvdbid: 299746
-      tvdbseason: 0
-      start: 0
-      useMapping: true
-      animeMapping:
-        - tvdbseason: 1
-          start: 1
+      tvdbseason: 1
+      start: 13
+      useMapping: false
+      animeMapping: []
 
     - malid: 30694
       title: Dragon Ball Super
