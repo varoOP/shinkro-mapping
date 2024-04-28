@@ -1263,10 +1263,6 @@ animeMovies:
       tmdbid: 0
       malid: 16730
 
-    - mainTitle: Narara! Ujujeonham Geobukseon
-      tmdbid: 0
-      malid: 16748
-
     - mainTitle: Haedori Daemoheom
       tmdbid: 0
       malid: 16752
@@ -2119,10 +2115,6 @@ animeMovies:
       tmdbid: 0
       malid: 28091
 
-    - mainTitle: Ochou Fujin no Gensou
-      tmdbid: 0
-      malid: 28143
-
     - mainTitle: 'Youkai Watch Movie 2: Enma Daiou to Itsutsu no Monogatari da Nyan!'
       tmdbid: 0
       malid: 28257
@@ -2391,10 +2383,6 @@ animeMovies:
       tmdbid: 0
       malid: 29948
 
-    - mainTitle: Kairaku no Sono
-      tmdbid: 0
-      malid: 29952
-
     - mainTitle: Phantasm
       tmdbid: 0
       malid: 29953
@@ -2402,10 +2390,6 @@ animeMovies:
     - mainTitle: Swimming
       tmdbid: 0
       malid: 29956
-
-    - mainTitle: Count Down
-      tmdbid: 0
-      malid: 29957
 
     - mainTitle: Women
       tmdbid: 0
@@ -2722,10 +2706,6 @@ animeMovies:
     - mainTitle: 'Mini Hama: Minimum Hamatora Movies'
       tmdbid: 0
       malid: 31923
-
-    - mainTitle: Kashikokimono
-      tmdbid: 0
-      malid: 31926
 
     - mainTitle: Sora no Arawashi
       tmdbid: 0
@@ -5783,6 +5763,10 @@ animeMovies:
       tmdbid: 0
       malid: 48640
 
+    - mainTitle: Houkago
+      tmdbid: 0
+      malid: 48646
+
     - mainTitle: 'Oshiri Tantei Movie 3: Sufure-tou no Himitsu'
       tmdbid: 0
       malid: 48784
@@ -7299,10 +7283,6 @@ animeMovies:
       tmdbid: 0
       malid: 56594
 
-    - mainTitle: Qiushi
-      tmdbid: 0
-      malid: 56595
-
     - mainTitle: Junk World
       tmdbid: 0
       malid: 56640
@@ -7642,4 +7622,8 @@ animeMovies:
     - mainTitle: 'SpoGomi: Machi no Kizunazukuri-hen'
       tmdbid: 0
       malid: 58619
+
+    - mainTitle: A New Dawn
+      tmdbid: 0
+      malid: 58735
 
