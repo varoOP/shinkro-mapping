@@ -27,10 +27,6 @@ animeMovies:
       tmdbid: 0
       malid: 1078
 
-    - mainTitle: Kidou Keisatsu Patlabor 2 the Movie
-      tmdbid: 0
-      malid: 1096
-
     - mainTitle: 'Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.'
       tmdbid: 0
       malid: 1379
@@ -3706,6 +3702,10 @@ animeMovies:
     - mainTitle: Evangelion Shito, Hakata Shuurai
       tmdbid: 0
       malid: 41030
+
+    - mainTitle: 'Osomatsu-san Movie: Zensetsu Gekijou'
+      tmdbid: 0
+      malid: 41052
 
     - mainTitle: Ryou
       tmdbid: 0
@@ -7490,6 +7490,10 @@ animeMovies:
     - mainTitle: 'Zhu Zhu Xia Da Dianying: Xingji Xingdong'
       tmdbid: 0
       malid: 57464
+
+    - mainTitle: 'Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki'
+      tmdbid: 0
+      malid: 57499
 
     - mainTitle: Shi ga Utsukushii Nante dare ga Itta
       tmdbid: 0
