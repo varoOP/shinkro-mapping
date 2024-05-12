@@ -19,10 +19,6 @@ animeMovies:
       tmdbid: 0
       malid: 796
 
-    - mainTitle: 'Konjiki no Gash Bell!!: 101-banme no Mamono'
-      tmdbid: 0
-      malid: 844
-
     - mainTitle: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
       tmdbid: 0
       malid: 1078
@@ -931,7 +927,7 @@ animeMovies:
       tmdbid: 0
       malid: 10199
 
-    - mainTitle: 'Bikkuriman: Moen Zone no Hihou'
+    - mainTitle: 'Bikkuriman: Muen Zone no Hihou'
       tmdbid: 0
       malid: 10200
 
@@ -5699,10 +5695,6 @@ animeMovies:
       tmdbid: 0
       malid: 46848
 
-    - mainTitle: 'Toku: Touken Ranbu - Hanamaru - Setsugetsuka'
-      tmdbid: 0
-      malid: 47777
-
     - mainTitle: Xiu Rong Zhen
       tmdbid: 0
       malid: 48056
@@ -6243,10 +6235,6 @@ animeMovies:
       tmdbid: 0
       malid: 52714
 
-    - mainTitle: 'Haikyuu!! Movie: Gomisuteba no Kessen'
-      tmdbid: 0
-      malid: 52742
-
     - mainTitle: Sihanpogtan
       tmdbid: 0
       malid: 52766
@@ -6502,6 +6490,10 @@ animeMovies:
     - mainTitle: 'Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train'
       tmdbid: 0
       malid: 53780
+
+    - mainTitle: Cycle Race
+      tmdbid: 0
+      malid: 53788
 
     - mainTitle: Mayonaka no Inugoya Race
       tmdbid: 0
@@ -7630,4 +7622,20 @@ animeMovies:
     - mainTitle: A New Dawn
       tmdbid: 0
       malid: 58735
+
+    - mainTitle: Parking Area
+      tmdbid: 0
+      malid: 58806
+
+    - mainTitle: Niku ni Matsuwaru Nichijou no Hanashi
+      tmdbid: 0
+      malid: 58807
+
+    - mainTitle: 'Genki Genki Non-tan: Kirakira Shanshan Ohoshisama☆'
+      tmdbid: 0
+      malid: 58814
+
+    - mainTitle: Koukou Eisei
+      tmdbid: 0
+      malid: 58828
 
