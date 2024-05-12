@@ -908,6 +908,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 30014
+      title: Momokuri
+      type: ona
+      tvdbid: 299746
+      tvdbseason: 1
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 30694
       title: Dragon Ball Super
       type: tv
@@ -1054,7 +1063,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 32380
-      title: Kono Subarashii Sekai ni Shukufuku wo! Kono Subarashii Choker ni Shukufuku wo!
+      title: 'Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!'
       type: ova
       tvdbid: 303867
       tvdbseason: 0
@@ -1377,6 +1386,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36903
+      title: Kengan Ashura
+      type: ona
+      tvdbid: 354179
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 36949
       title: 'Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen'
       type: tv
@@ -1665,6 +1683,15 @@ AnimeMap:
       tvdbid: 289909
       tvdbseason: 4
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40269
+      title: Kengan Ashura Part 2
+      type: ona
+      tvdbid: 354179
+      tvdbseason: 1
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -2505,6 +2532,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 51369
+      title: Kengan Ashura Season 2
+      type: ona
+      tvdbid: 354179
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 51533
       title: 'Tonikaku Kawaii: Seifuku'
       type: special
@@ -2577,6 +2613,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52588
+      title: Kaijuu 8-gou
+      type: tv
+      tvdbid: 423075
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 52955
       title: Mahoutsukai no Yome Season 2
       type: tv
@@ -2640,11 +2685,65 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53407
+      title: 'Bartender: Kami no Glass'
+      type: tv
+      tvdbid: 426262
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 53410
       title: Yuru Camp△ Season 3
       type: tv
       tvdbid: 330692
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53411
+      title: Buddy Daddies
+      type: tv
+      tvdbid: 426294
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53421
+      title: Dosanko Gal wa Namara Menkoi
+      type: tv
+      tvdbid: 426410
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53434
+      title: Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
+      type: tv
+      tvdbid: 426488
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53439
+      title: Boushoku no Berserk
+      type: tv
+      tvdbid: 426530
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53446
+      title: Tondemo Skill de Isekai Hourou Meshi
+      type: tv
+      tvdbid: 426572
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -2875,7 +2974,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55690
-      title: Boku no Kokoro no Yabai Yatsu Season 2
+      title: Boku no Kokoro no Yabai Yatsu 2nd Season
       type: tv
       tvdbid: 422981
       tvdbseason: 2
@@ -2961,6 +3060,15 @@ AnimeMap:
       tvdbid: 305074
       tvdbseason: 0
       start: 15
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56704
+      title: Kengan Ashura Season 2 Part 2
+      type: ona
+      tvdbid: 354179
+      tvdbseason: 2
+      start: 13
       useMapping: false
       animeMapping: []
 

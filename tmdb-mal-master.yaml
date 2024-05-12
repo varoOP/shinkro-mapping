@@ -19,17 +19,9 @@ animeMovies:
       tmdbid: 0
       malid: 796
 
-    - mainTitle: 'Konjiki no Gash Bell!!: 101-banme no Mamono'
-      tmdbid: 0
-      malid: 844
-
     - mainTitle: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
       tmdbid: 0
       malid: 1078
-
-    - mainTitle: Kidou Keisatsu Patlabor 2 the Movie
-      tmdbid: 0
-      malid: 1096
 
     - mainTitle: 'Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.'
       tmdbid: 0
@@ -935,7 +927,7 @@ animeMovies:
       tmdbid: 0
       malid: 10199
 
-    - mainTitle: 'Bikkuriman: Moen Zone no Hihou'
+    - mainTitle: 'Bikkuriman: Muen Zone no Hihou'
       tmdbid: 0
       malid: 10200
 
@@ -1211,10 +1203,6 @@ animeMovies:
       tmdbid: 0
       malid: 15141
 
-    - mainTitle: Sakura no Ondo
-      tmdbid: 0
-      malid: 15393
-
     - mainTitle: Inazuma Eleven Go vs. Danball Senki W Movie
       tmdbid: 0
       malid: 15785
@@ -1266,10 +1254,6 @@ animeMovies:
     - mainTitle: Ojamanga Yamada-kun (Movie)
       tmdbid: 0
       malid: 16730
-
-    - mainTitle: Narara! Ujujeonham Geobukseon
-      tmdbid: 0
-      malid: 16748
 
     - mainTitle: Haedori Daemoheom
       tmdbid: 0
@@ -2123,10 +2107,6 @@ animeMovies:
       tmdbid: 0
       malid: 28091
 
-    - mainTitle: Ochou Fujin no Gensou
-      tmdbid: 0
-      malid: 28143
-
     - mainTitle: 'Youkai Watch Movie 2: Enma Daiou to Itsutsu no Monogatari da Nyan!'
       tmdbid: 0
       malid: 28257
@@ -2395,10 +2375,6 @@ animeMovies:
       tmdbid: 0
       malid: 29948
 
-    - mainTitle: Kairaku no Sono
-      tmdbid: 0
-      malid: 29952
-
     - mainTitle: Phantasm
       tmdbid: 0
       malid: 29953
@@ -2406,10 +2382,6 @@ animeMovies:
     - mainTitle: Swimming
       tmdbid: 0
       malid: 29956
-
-    - mainTitle: Count Down
-      tmdbid: 0
-      malid: 29957
 
     - mainTitle: Women
       tmdbid: 0
@@ -2726,10 +2698,6 @@ animeMovies:
     - mainTitle: 'Mini Hama: Minimum Hamatora Movies'
       tmdbid: 0
       malid: 31923
-
-    - mainTitle: Kashikokimono
-      tmdbid: 0
-      malid: 31926
 
     - mainTitle: Sora no Arawashi
       tmdbid: 0
@@ -3730,6 +3698,10 @@ animeMovies:
     - mainTitle: Evangelion Shito, Hakata Shuurai
       tmdbid: 0
       malid: 41030
+
+    - mainTitle: 'Osomatsu-san Movie: Zensetsu Gekijou'
+      tmdbid: 0
+      malid: 41052
 
     - mainTitle: Ryou
       tmdbid: 0
@@ -5723,10 +5695,6 @@ animeMovies:
       tmdbid: 0
       malid: 46848
 
-    - mainTitle: 'Toku: Touken Ranbu - Hanamaru - Setsugetsuka'
-      tmdbid: 0
-      malid: 47777
-
     - mainTitle: Xiu Rong Zhen
       tmdbid: 0
       malid: 48056
@@ -5786,6 +5754,10 @@ animeMovies:
     - mainTitle: Sushi Police Movie
       tmdbid: 0
       malid: 48640
+
+    - mainTitle: Houkago
+      tmdbid: 0
+      malid: 48646
 
     - mainTitle: 'Oshiri Tantei Movie 3: Sufure-tou no Himitsu'
       tmdbid: 0
@@ -6263,10 +6235,6 @@ animeMovies:
       tmdbid: 0
       malid: 52714
 
-    - mainTitle: 'Haikyuu!! Movie: Gomisuteba no Kessen'
-      tmdbid: 0
-      malid: 52742
-
     - mainTitle: Sihanpogtan
       tmdbid: 0
       malid: 52766
@@ -6522,6 +6490,10 @@ animeMovies:
     - mainTitle: 'Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train'
       tmdbid: 0
       malid: 53780
+
+    - mainTitle: Cycle Race
+      tmdbid: 0
+      malid: 53788
 
     - mainTitle: Mayonaka no Inugoya Race
       tmdbid: 0
@@ -6987,10 +6959,6 @@ animeMovies:
       tmdbid: 0
       malid: 54583
 
-    - mainTitle: Bakeneko Anzu-chan
-      tmdbid: 0
-      malid: 54603
-
     - mainTitle: Mahoroba
       tmdbid: 0
       malid: 54636
@@ -7307,10 +7275,6 @@ animeMovies:
       tmdbid: 0
       malid: 56594
 
-    - mainTitle: Qiushi
-      tmdbid: 0
-      malid: 56595
-
     - mainTitle: Junk World
       tmdbid: 0
       malid: 56640
@@ -7519,6 +7483,10 @@ animeMovies:
       tmdbid: 0
       malid: 57464
 
+    - mainTitle: 'Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki'
+      tmdbid: 0
+      malid: 57499
+
     - mainTitle: Shi ga Utsukushii Nante dare ga Itta
       tmdbid: 0
       malid: 57500
@@ -7643,7 +7611,31 @@ animeMovies:
       tmdbid: 0
       malid: 58549
 
+    - mainTitle: 'Beuledeu Ibalso Movie: Selleob in Beikeolitaun'
+      tmdbid: 0
+      malid: 58560
+
     - mainTitle: 'SpoGomi: Machi no Kizunazukuri-hen'
       tmdbid: 0
       malid: 58619
+
+    - mainTitle: A New Dawn
+      tmdbid: 0
+      malid: 58735
+
+    - mainTitle: Parking Area
+      tmdbid: 0
+      malid: 58806
+
+    - mainTitle: Niku ni Matsuwaru Nichijou no Hanashi
+      tmdbid: 0
+      malid: 58807
+
+    - mainTitle: 'Genki Genki Non-tan: Kirakira Shanshan Ohoshisama☆'
+      tmdbid: 0
+      malid: 58814
+
+    - mainTitle: Koukou Eisei
+      tmdbid: 0
+      malid: 58828
 
