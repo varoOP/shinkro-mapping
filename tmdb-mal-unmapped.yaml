@@ -11,10 +11,6 @@ animeMovies:
       tmdbid: 0
       malid: 705
 
-    - mainTitle: Tokyo Godfathers
-      tmdbid: 0
-      malid: 759
-
     - mainTitle: Mahoujin Guruguru Movie
       tmdbid: 0
       malid: 796
@@ -742,10 +738,6 @@ animeMovies:
     - mainTitle: 'Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku'
       tmdbid: 0
       malid: 8368
-
-    - mainTitle: 'Maze☆Bakunetsu Jikuu: Tenpen Kyoui no Giant'
-      tmdbid: 0
-      malid: 8442
 
     - mainTitle: 'Digimon Savers 3D: Digital World Kiki Ippatsu!'
       tmdbid: 0
@@ -5479,10 +5471,6 @@ animeMovies:
       tmdbid: 0
       malid: 44947
 
-    - mainTitle: 'Teddy Xiong: Wanju Dazhan'
-      tmdbid: 0
-      malid: 44948
-
     - mainTitle: Si Du Chishui
       tmdbid: 0
       malid: 44949
@@ -7318,10 +7306,6 @@ animeMovies:
     - mainTitle: Guardy Girls
       tmdbid: 0
       malid: 56828
-
-    - mainTitle: 'Code Geass: Dakkan no Rozé'
-      tmdbid: 0
-      malid: 56835
 
     - mainTitle: Nappeungyejibae
       tmdbid: 0
