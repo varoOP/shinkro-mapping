@@ -2190,6 +2190,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 48926
+      title: Komi-san wa, Comyushou desu.
+      type: tv
+      tvdbid: 402412
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 49026
       title: Yuru Camp△ Season 2 Specials
       type: special
@@ -2439,6 +2448,15 @@ AnimeMap:
       tvdbid: 355774
       tvdbseason: 0
       start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50631
+      title: Komi-san wa, Comyushou desu. 2nd Season
+      type: tv
+      tvdbid: 402412
+      tvdbseason: 1
+      start: 13
       useMapping: false
       animeMapping: []
 
