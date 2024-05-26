@@ -1399,21 +1399,9 @@ animeMovies:
       tmdbid: 0
       malid: 17719
 
-    - mainTitle: 'Tetsuwan Atom: Atom Tanjou no Himitsu'
-      tmdbid: 0
-      malid: 17959
-
     - mainTitle: 'Tetsuwan Atom: Chikyuu Saigo no Hi'
       tmdbid: 0
       malid: 17961
-
-    - mainTitle: 'Tetsuwan Atom: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...'
-      tmdbid: 0
-      malid: 17963
-
-    - mainTitle: 'Tetsuwan Atom: Ao Kishi no Kan'
-      tmdbid: 0
-      malid: 17965
 
     - mainTitle: Tiger Mask (Movie)
       tmdbid: 0
@@ -1482,10 +1470,6 @@ animeMovies:
     - mainTitle: Hanasaka Jijii
       tmdbid: 0
       malid: 18457
-
-    - mainTitle: 'Tetsuwan Atom: Ivan no Wakusei - Robot to Ningen no Yuujou'
-      tmdbid: 0
-      malid: 18637
 
     - mainTitle: Donyatsu
       tmdbid: 0
@@ -5959,10 +5943,6 @@ animeMovies:
       tmdbid: 0
       malid: 50711
 
-    - mainTitle: Radio Wave
-      tmdbid: 0
-      malid: 50754
-
     - mainTitle: 'Yamato yo, Towa ni: Rebel 3199'
       tmdbid: 0
       malid: 50855
@@ -7583,10 +7563,6 @@ animeMovies:
       tmdbid: 0
       malid: 58323
 
-    - mainTitle: Wonderful Precure! Movie
-      tmdbid: 0
-      malid: 58462
-
     - mainTitle: 'SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!!'
       tmdbid: 0
       malid: 58522
@@ -7622,4 +7598,12 @@ animeMovies:
     - mainTitle: Koukou Eisei
       tmdbid: 0
       malid: 58828
+
+    - mainTitle: 'Touken Ranbu Kai: Douden Chikashi Habera Umonora'
+      tmdbid: 0
+      malid: 58894
+
+    - mainTitle: Hyakuemu.
+      tmdbid: 0
+      malid: 58919
 
