@@ -359,10 +359,6 @@ animeMovies:
       tmdbid: 0
       malid: 5826
 
-    - mainTitle: Haru no Uta
-      tmdbid: 0
-      malid: 5868
-
     - mainTitle: Hi no Ame ga Furu
       tmdbid: 0
       malid: 5929
@@ -1103,10 +1099,6 @@ animeMovies:
       tmdbid: 0
       malid: 12861
 
-    - mainTitle: Tsuki no Sango
-      tmdbid: 0
-      malid: 12867
-
     - mainTitle: 'Tsushima Maru: Sayounara Okinawa'
       tmdbid: 0
       malid: 12903
@@ -1399,10 +1391,6 @@ animeMovies:
       tmdbid: 0
       malid: 17719
 
-    - mainTitle: 'Tetsuwan Atom: Chikyuu Saigo no Hi'
-      tmdbid: 0
-      malid: 17961
-
     - mainTitle: Tiger Mask (Movie)
       tmdbid: 0
       malid: 18061
@@ -1594,10 +1582,6 @@ animeMovies:
     - mainTitle: 'Precure All Stars Movie New Stage 3: Eien no Tomodachi'
       tmdbid: 0
       malid: 21031
-
-    - mainTitle: Uchuu Icchokusen
-      tmdbid: 0
-      malid: 21037
 
     - mainTitle: Kenji no Trunk
       tmdbid: 0
@@ -3818,10 +3802,6 @@ animeMovies:
     - mainTitle: Hei Mao Jing Zhang (2010)
       tmdbid: 0
       malid: 42329
-
-    - mainTitle: 'Yasai no Yousei: N.Y. Salad The Movie'
-      tmdbid: 0
-      malid: 42366
 
     - mainTitle: Hataraku Saibou!! Saikyou no Teki, Futatabi. Karada no Naka wa "Chou" Oosawagi!
       tmdbid: 0
@@ -7539,10 +7519,6 @@ animeMovies:
       tmdbid: 0
       malid: 58184
 
-    - mainTitle: 'Nintama Rantarou Movie: Dokutake Ninja Tai Saikyou no Gunshi'
-      tmdbid: 0
-      malid: 58201
-
     - mainTitle: Dino!
       tmdbid: 0
       malid: 58213
@@ -7562,10 +7538,6 @@ animeMovies:
     - mainTitle: Ba Bi Na Zha Cheng de Chuanshuo
       tmdbid: 0
       malid: 58323
-
-    - mainTitle: 'SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!!'
-      tmdbid: 0
-      malid: 58522
 
     - mainTitle: 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie
       tmdbid: 0
@@ -7606,4 +7578,12 @@ animeMovies:
     - mainTitle: Hyakuemu.
       tmdbid: 0
       malid: 58919
+
+    - mainTitle: Emerald no Wa
+      tmdbid: 0
+      malid: 58941
+
+    - mainTitle: Kikyou
+      tmdbid: 0
+      malid: 58951
 
