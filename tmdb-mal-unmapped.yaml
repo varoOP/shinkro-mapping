@@ -751,10 +751,6 @@ animeMovies:
       tmdbid: 0
       malid: 8495
 
-    - mainTitle: 'The Kabocha Wine: Nita no Aijou Monogatari'
-      tmdbid: 0
-      malid: 8524
-
     - mainTitle: Chikyuu Monogatari Telepath 2500
       tmdbid: 0
       malid: 8563
@@ -6451,10 +6447,6 @@ animeMovies:
       tmdbid: 0
       malid: 53842
 
-    - mainTitle: 'Kyouki Sanmyaku: Naked Peak'
-      tmdbid: 0
-      malid: 53849
-
     - mainTitle: Kaerimichi
       tmdbid: 0
       malid: 53867
@@ -7011,10 +7003,6 @@ animeMovies:
       tmdbid: 0
       malid: 55551
 
-    - mainTitle: A Drawing for Mom
-      tmdbid: 0
-      malid: 55558
-
     - mainTitle: Yama no Kamisama
       tmdbid: 0
       malid: 55595
@@ -7423,10 +7411,6 @@ animeMovies:
       tmdbid: 0
       malid: 57463
 
-    - mainTitle: 'Zhu Zhu Xia Da Dianying: Xingji Xingdong'
-      tmdbid: 0
-      malid: 57464
-
     - mainTitle: 'Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki'
       tmdbid: 0
       malid: 57499
@@ -7586,4 +7570,8 @@ animeMovies:
     - mainTitle: Kikyou
       tmdbid: 0
       malid: 58951
+
+    - mainTitle: Pororo Sinnaneun Ujuyeohaeng
+      tmdbid: 0
+      malid: 58993
 
