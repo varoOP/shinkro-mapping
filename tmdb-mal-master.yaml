@@ -1339,6 +1339,10 @@ animeMovies:
       tmdbid: 0
       malid: 17219
 
+    - mainTitle: Jib
+      tmdbid: 0
+      malid: 17233
+
     - mainTitle: Kyojin no Hoshi (Movie)
       tmdbid: 0
       malid: 17439
@@ -2827,6 +2831,10 @@ animeMovies:
       tmdbid: 0
       malid: 33672
 
+    - mainTitle: Run & Roll
+      tmdbid: 0
+      malid: 33710
+
     - mainTitle: 'Girls & Panzer Movie: 3-pun Chotto de Wakaru!! Girls & Panzer'
       tmdbid: 0
       malid: 33720
@@ -3486,10 +3494,6 @@ animeMovies:
     - mainTitle: 'Bakutsuri Bar Hunter Movie: Nazo no Barcode Trial! Bakutsure! Shinkaigyo Poseidon'
       tmdbid: 0
       malid: 39412
-
-    - mainTitle: 'Gegege no Kitarou: Tamashii to Art'
-      tmdbid: 0
-      malid: 39414
 
     - mainTitle: UFO-koku no Koutsuu Anzen
       tmdbid: 0
@@ -5523,10 +5527,6 @@ animeMovies:
       tmdbid: 0
       malid: 45039
 
-    - mainTitle: Yongzhe Chuang Mo Cheng
-      tmdbid: 0
-      malid: 45059
-
     - mainTitle: Alibaba Sangen Jinfa
       tmdbid: 0
       malid: 45060
@@ -6915,6 +6915,10 @@ animeMovies:
       tmdbid: 0
       malid: 54661
 
+    - mainTitle: Kaitou Queen no Yuuga na Vacances
+      tmdbid: 0
+      malid: 54705
+
     - mainTitle: Make a Girl
       tmdbid: 0
       malid: 54740
@@ -7259,10 +7263,6 @@ animeMovies:
       tmdbid: 0
       malid: 56891
 
-    - mainTitle: 'Pororo Movie: Superstar Daemoheom'
-      tmdbid: 0
-      malid: 56908
-
     - mainTitle: Ddotty Yeongwonui Tab
       tmdbid: 0
       malid: 56910
@@ -7574,4 +7574,16 @@ animeMovies:
     - mainTitle: Pororo Sinnaneun Ujuyeohaeng
       tmdbid: 0
       malid: 58993
+
+    - mainTitle: 'Pororo Movie: Badas-sog Daemoheom'
+      tmdbid: 0
+      malid: 59031
+
+    - mainTitle: 'Qian Ting Zong Dong Yuan: Xun Long'
+      tmdbid: 0
+      malid: 59041
+
+    - mainTitle: Huanying Lai Dao Duo Li Zhi Jia
+      tmdbid: 0
+      malid: 59043
 
