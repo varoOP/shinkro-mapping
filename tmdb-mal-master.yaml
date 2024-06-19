@@ -11,10 +11,6 @@ animeMovies:
       tmdbid: 0
       malid: 705
 
-    - mainTitle: Tokyo Godfathers
-      tmdbid: 13398
-      malid: 759
-
     - mainTitle: Mahoujin Guruguru Movie
       tmdbid: 0
       malid: 796
@@ -362,10 +358,6 @@ animeMovies:
     - mainTitle: Oira no Yakyuu
       tmdbid: 0
       malid: 5826
-
-    - mainTitle: Haru no Uta
-      tmdbid: 0
-      malid: 5868
 
     - mainTitle: Hi no Ame ga Furu
       tmdbid: 0
@@ -743,10 +735,6 @@ animeMovies:
       tmdbid: 0
       malid: 8368
 
-    - mainTitle: 'Maze☆Bakunetsu Jikuu: Tenpen Kyoui no Giant'
-      tmdbid: 0
-      malid: 8442
-
     - mainTitle: 'Digimon Savers 3D: Digital World Kiki Ippatsu!'
       tmdbid: 0
       malid: 8491
@@ -762,10 +750,6 @@ animeMovies:
     - mainTitle: Mahoutsukai Haley no Speed Story
       tmdbid: 0
       malid: 8495
-
-    - mainTitle: 'The Kabocha Wine: Nita no Aijou Monogatari'
-      tmdbid: 0
-      malid: 8524
 
     - mainTitle: Chikyuu Monogatari Telepath 2500
       tmdbid: 0
@@ -1111,10 +1095,6 @@ animeMovies:
       tmdbid: 0
       malid: 12861
 
-    - mainTitle: Tsuki no Sango
-      tmdbid: 0
-      malid: 12867
-
     - mainTitle: 'Tsushima Maru: Sayounara Okinawa'
       tmdbid: 0
       malid: 12903
@@ -1359,6 +1339,10 @@ animeMovies:
       tmdbid: 0
       malid: 17219
 
+    - mainTitle: Jib
+      tmdbid: 0
+      malid: 17233
+
     - mainTitle: Kyojin no Hoshi (Movie)
       tmdbid: 0
       malid: 17439
@@ -1406,22 +1390,6 @@ animeMovies:
     - mainTitle: Mahoutsukai Sally (Movie)
       tmdbid: 0
       malid: 17719
-
-    - mainTitle: 'Tetsuwan Atom: Atom Tanjou no Himitsu'
-      tmdbid: 0
-      malid: 17959
-
-    - mainTitle: 'Tetsuwan Atom: Chikyuu Saigo no Hi'
-      tmdbid: 0
-      malid: 17961
-
-    - mainTitle: 'Tetsuwan Atom: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...'
-      tmdbid: 0
-      malid: 17963
-
-    - mainTitle: 'Tetsuwan Atom: Ao Kishi no Kan'
-      tmdbid: 0
-      malid: 17965
 
     - mainTitle: Tiger Mask (Movie)
       tmdbid: 0
@@ -1490,10 +1458,6 @@ animeMovies:
     - mainTitle: Hanasaka Jijii
       tmdbid: 0
       malid: 18457
-
-    - mainTitle: 'Tetsuwan Atom: Ivan no Wakusei - Robot to Ningen no Yuujou'
-      tmdbid: 0
-      malid: 18637
 
     - mainTitle: Donyatsu
       tmdbid: 0
@@ -1618,10 +1582,6 @@ animeMovies:
     - mainTitle: 'Precure All Stars Movie New Stage 3: Eien no Tomodachi'
       tmdbid: 0
       malid: 21031
-
-    - mainTitle: Uchuu Icchokusen
-      tmdbid: 0
-      malid: 21037
 
     - mainTitle: Kenji no Trunk
       tmdbid: 0
@@ -2871,6 +2831,10 @@ animeMovies:
       tmdbid: 0
       malid: 33672
 
+    - mainTitle: Run & Roll
+      tmdbid: 0
+      malid: 33710
+
     - mainTitle: 'Girls & Panzer Movie: 3-pun Chotto de Wakaru!! Girls & Panzer'
       tmdbid: 0
       malid: 33720
@@ -3531,10 +3495,6 @@ animeMovies:
       tmdbid: 0
       malid: 39412
 
-    - mainTitle: 'Gegege no Kitarou: Tamashii to Art'
-      tmdbid: 0
-      malid: 39414
-
     - mainTitle: UFO-koku no Koutsuu Anzen
       tmdbid: 0
       malid: 39428
@@ -3842,10 +3802,6 @@ animeMovies:
     - mainTitle: Hei Mao Jing Zhang (2010)
       tmdbid: 0
       malid: 42329
-
-    - mainTitle: 'Yasai no Yousei: N.Y. Salad The Movie'
-      tmdbid: 0
-      malid: 42366
 
     - mainTitle: Hataraku Saibou!! Saikyou no Teki, Futatabi. Karada no Naka wa "Chou" Oosawagi!
       tmdbid: 0
@@ -5479,10 +5435,6 @@ animeMovies:
       tmdbid: 0
       malid: 44947
 
-    - mainTitle: 'Teddy Xiong: Wanju Dazhan'
-      tmdbid: 0
-      malid: 44948
-
     - mainTitle: Si Du Chishui
       tmdbid: 0
       malid: 44949
@@ -5574,10 +5526,6 @@ animeMovies:
     - mainTitle: Zhen Jia Senlin Wang
       tmdbid: 0
       malid: 45039
-
-    - mainTitle: Yongzhe Chuang Mo Cheng
-      tmdbid: 0
-      malid: 45059
 
     - mainTitle: Alibaba Sangen Jinfa
       tmdbid: 0
@@ -5970,10 +5918,6 @@ animeMovies:
     - mainTitle: 'Ai to Yuuto: Hajimete no Otsukai'
       tmdbid: 0
       malid: 50711
-
-    - mainTitle: Radio Wave
-      tmdbid: 0
-      malid: 50754
 
     - mainTitle: 'Yamato yo, Towa ni: Rebel 3199'
       tmdbid: 0
@@ -6503,10 +6447,6 @@ animeMovies:
       tmdbid: 0
       malid: 53842
 
-    - mainTitle: 'Kyouki Sanmyaku: Naked Peak'
-      tmdbid: 0
-      malid: 53849
-
     - mainTitle: Kaerimichi
       tmdbid: 0
       malid: 53867
@@ -6975,6 +6915,10 @@ animeMovies:
       tmdbid: 0
       malid: 54661
 
+    - mainTitle: Kaitou Queen no Yuuga na Vacances
+      tmdbid: 0
+      malid: 54705
+
     - mainTitle: Make a Girl
       tmdbid: 0
       malid: 54740
@@ -7062,10 +7006,6 @@ animeMovies:
     - mainTitle: Beach
       tmdbid: 0
       malid: 55551
-
-    - mainTitle: A Drawing for Mom
-      tmdbid: 0
-      malid: 55558
 
     - mainTitle: Yama no Kamisama
       tmdbid: 0
@@ -7319,17 +7259,9 @@ animeMovies:
       tmdbid: 0
       malid: 56828
 
-    - mainTitle: 'Code Geass: Dakkan no Rozé'
-      tmdbid: 0
-      malid: 56835
-
     - mainTitle: Nappeungyejibae
       tmdbid: 0
       malid: 56891
-
-    - mainTitle: 'Pororo Movie: Superstar Daemoheom'
-      tmdbid: 0
-      malid: 56908
 
     - mainTitle: Ddotty Yeongwonui Tab
       tmdbid: 0
@@ -7479,10 +7411,6 @@ animeMovies:
       tmdbid: 0
       malid: 57463
 
-    - mainTitle: 'Zhu Zhu Xia Da Dianying: Xingji Xingdong'
-      tmdbid: 0
-      malid: 57464
-
     - mainTitle: 'Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki'
       tmdbid: 0
       malid: 57499
@@ -7575,10 +7503,6 @@ animeMovies:
       tmdbid: 0
       malid: 58184
 
-    - mainTitle: 'Nintama Rantarou Movie: Dokutake Ninja Tai Saikyou no Gunshi'
-      tmdbid: 0
-      malid: 58201
-
     - mainTitle: Dino!
       tmdbid: 0
       malid: 58213
@@ -7598,14 +7522,6 @@ animeMovies:
     - mainTitle: Ba Bi Na Zha Cheng de Chuanshuo
       tmdbid: 0
       malid: 58323
-
-    - mainTitle: Wonderful Precure! Movie
-      tmdbid: 0
-      malid: 58462
-
-    - mainTitle: 'SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!!'
-      tmdbid: 0
-      malid: 58522
 
     - mainTitle: 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie
       tmdbid: 0
@@ -7638,4 +7554,36 @@ animeMovies:
     - mainTitle: Koukou Eisei
       tmdbid: 0
       malid: 58828
+
+    - mainTitle: 'Touken Ranbu Kai: Douden Chikashi Habera Umonora'
+      tmdbid: 0
+      malid: 58894
+
+    - mainTitle: Hyakuemu.
+      tmdbid: 0
+      malid: 58919
+
+    - mainTitle: Emerald no Wa
+      tmdbid: 0
+      malid: 58941
+
+    - mainTitle: Kikyou
+      tmdbid: 0
+      malid: 58951
+
+    - mainTitle: Pororo Sinnaneun Ujuyeohaeng
+      tmdbid: 0
+      malid: 58993
+
+    - mainTitle: 'Pororo Movie: Badas-sog Daemoheom'
+      tmdbid: 0
+      malid: 59031
+
+    - mainTitle: 'Qian Ting Zong Dong Yuan: Xun Long'
+      tmdbid: 0
+      malid: 59041
+
+    - mainTitle: Huanying Lai Dao Duo Li Zhi Jia
+      tmdbid: 0
+      malid: 59043
 
