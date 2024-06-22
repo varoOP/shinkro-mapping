@@ -417,6 +417,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 3841
+      title: Chi's Sweet Home
+      type: tv
+      tvdbid: 81844
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 4596
       title: 'Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion'
       type: ova
@@ -431,6 +440,24 @@ AnimeMap:
       type: tv
       tvdbid: 82788
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 6024
+      title: 'Chi''s Sweet Home: Atarashii Ouchi'
+      type: tv
+      tvdbid: 81844
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 6045
+      title: Kimi ni Todoke
+      type: tv
+      tvdbid: 117801
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -515,6 +542,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 9539
+      title: Cardfight!! Vanguard
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 9656
+      title: Kimi ni Todoke 2nd Season
+      type: tv
+      tvdbid: 117801
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 9919
       title: Ao no Exorcist
       type: tv
@@ -528,6 +573,15 @@ AnimeMap:
       title: Fairy Tail OVA
       type: ova
       tvdbid: 114801
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 10152
+      title: 'Kimi ni Todoke: Kataomoi'
+      type: tv_special
+      tvdbid: 117801
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -632,6 +686,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 13145
+      title: 'Cardfight!! Vanguard: Asia Circuit-hen'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 13469
       title: 'Hyouka: Motsubeki Mono wa'
       type: ova
@@ -695,6 +758,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 15611
+      title: 'Cardfight!! Vanguard: Link Joker-hen'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 17389
       title: Kingdom 2nd Season
       type: tv
@@ -749,6 +821,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 19383
+      title: Yami Shibai
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 19945
       title: 'Zoku Natsume Yuujinchou: 3D Nyanko-sensei Gekijou'
       type: special
@@ -785,6 +866,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 21729
+      title: 'Cardfight!! Vanguard: Legion Mate-hen'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 22043
       title: Fairy Tail (2014)
       type: tv
@@ -805,6 +895,15 @@ AnimeMap:
       type: tv
       tvdbid: 83996
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 22537
+      title: Yami Shibai 2
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -899,6 +998,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 27815
+      title: Cardfight!! Vanguard G
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 5
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 28121
       title: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
       type: tv
@@ -959,6 +1067,15 @@ AnimeMap:
       type: special
       tvdbid: 289884
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31196
+      title: 'Cardfight!! Vanguard G: GIRS Crisis-hen'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 6
       start: 0
       useMapping: false
       animeMapping: []
@@ -1044,6 +1161,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31994
+      title: Yami Shibai 3
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 32188
       title: 'Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero'
       type: special
@@ -1068,6 +1194,15 @@ AnimeMap:
       tvdbid: 303867
       tvdbseason: 0
       start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 32802
+      title: 'Cardfight!! Vanguard G: Stride Gate-hen'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 7
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -1134,6 +1269,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 33240
+      title: 'Koneko no Chi: Ponponra Daibouken'
+      type: tv
+      tvdbid: 81844
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 33486
       title: Boku no Hero Academia 2nd Season
       type: tv
@@ -1157,6 +1301,15 @@ AnimeMap:
       type: ova
       tvdbid: 305074
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34077
+      title: Cardfight!! Vanguard G Next
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 8
       start: 0
       useMapping: false
       animeMapping: []
@@ -1212,6 +1365,15 @@ AnimeMap:
       tvdbid: 248035
       tvdbseason: 0
       start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34467
+      title: Yami Shibai 4
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 4
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -1314,6 +1476,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 35714
+      title: Yami Shibai 5
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 5
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 35788
       title: 'Shokugeki no Souma: San no Sara'
       type: tv
@@ -1341,12 +1512,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36022
+      title: Cardfight!! Vanguard G Z
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 9
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 36275
       title: Natsume Yuujinchou Roku Specials
       type: special
       tvdbid: 82788
       tvdbseason: 0
       start: 5
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36418
+      title: 'Koneko no Chi: Ponponra Dairyokou'
+      type: tv
+      tvdbid: 81844
+      tvdbseason: 4
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -1440,6 +1629,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 37476
+      title: Cardfight!! Vanguard (2018)
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 10
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 37490
       title: 'Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! Season 2'
       type: tv
@@ -1487,6 +1685,15 @@ AnimeMap:
           start: 41
         - tvdbseason: 6
           start: 51
+
+    - malid: 37893
+      title: Yami Shibai 6
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 6
+      start: 0
+      useMapping: false
+      animeMapping: []
 
     - malid: 37991
       title: 'JoJo no Kimyou na Bouken Part 5: Ougon no Kaze'
@@ -1614,6 +1821,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 39244
+      title: 'Cardfight!! Vanguard: Zoku Koukousei-hen'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 11
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 39535
       title: 'Mushoku Tensei: Isekai Ittara Honki Dasu'
       type: tv
@@ -1668,6 +1884,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 39836
+      title: Yami Shibai 7
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 7
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 39894
       title: Hibike! Euphonium 3
       type: tv
@@ -1682,6 +1907,15 @@ AnimeMap:
       type: tv
       tvdbid: 289909
       tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40167
+      title: 'Cardfight!! Vanguard: Shinemon-hen'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 12
       start: 0
       useMapping: false
       animeMapping: []
@@ -1812,6 +2046,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 41283
+      title: 'Cardfight!! Vanguard Gaiden: If'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 13
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 41389
       title: Tonikaku Kawaii
       type: tv
@@ -1893,6 +2136,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 41923
+      title: Yi Nian Yong Heng
+      type: ona
+      tvdbid: 388680
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 42192
       title: Edens Zero
       type: tv
@@ -1926,6 +2178,15 @@ AnimeMap:
       tvdbid: 264663
       tvdbseason: 0
       start: 5
+      useMapping: false
+      animeMapping: []
+
+    - malid: 42516
+      title: 'Cardfight!! Vanguard: overDress'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 14
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -2024,6 +2285,15 @@ AnimeMap:
       type: tv
       tvdbid: 368565
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 44208
+      title: Yami Shibai 8
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 8
       start: 0
       useMapping: false
       animeMapping: []
@@ -2190,6 +2460,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 48862
+      title: 'Cardfight!! Vanguard: overDress Season 2'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 14
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 48926
       title: Komi-san wa, Comyushou desu.
       type: tv
@@ -2205,6 +2484,15 @@ AnimeMap:
       tvdbid: 330692
       tvdbseason: 0
       start: 18
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49110
+      title: Yami Shibai 9
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 9
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -2253,12 +2541,48 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 49574
+      title: 'Yi Nian Yong Heng: Chuan Cheng Pian'
+      type: ona
+      tvdbid: 388680
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 49784
       title: Mairimashita! Iruma-kun 3rd Season
       type: tv
       tvdbid: 369144
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49785
+      title: 'Fairy Tail: 100-nen Quest'
+      type: tv
+      tvdbid: 410031
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49819
+      title: 'Cardfight!! Vanguard: will+Dress'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 15
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49820
+      title: 'Cardfight!! Vanguard: will+Dress Season 2'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 15
+      start: 14
       useMapping: false
       animeMapping: []
 
@@ -2313,6 +2637,15 @@ AnimeMap:
       tvdbid: 389422
       tvdbseason: 1
       start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49981
+      title: Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II
+      type: tv
+      tvdbid: 387027
+      tvdbseason: 2
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -2421,6 +2754,15 @@ AnimeMap:
       tvdbid: 305074
       tvdbseason: 0
       start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50599
+      title: Yami Shibai 10
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 10
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -2595,6 +2937,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52079
+      title: 'Cardfight!! Vanguard: will+Dress Season 3'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 15
+      start: 26
+      useMapping: false
+      animeMapping: []
+
     - malid: 52196
       title: Date A Live V
       type: tv
@@ -2636,6 +2987,15 @@ AnimeMap:
       type: tv
       tvdbid: 423075
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 52635
+      title: 'Kami no Tou: Ouji no Kikan'
+      type: tv
+      tvdbid: 376729
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -2847,6 +3207,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54142
+      title: 'Cardfight!! Vanguard: Divinez'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 16
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54143
+      title: 'Cardfight!! Vanguard: Divinez Season 2'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 16
+      start: 14
+      useMapping: false
+      animeMapping: []
+
     - malid: 54301
       title: Overtake!
       type: tv
@@ -2982,6 +3360,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 55166
+      title: Yami Shibai 11
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 11
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 55644
       title: 'Dr. Stone: New World Part 2'
       type: tv
@@ -3027,6 +3414,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 55749
+      title: Megami no Café Terrace Season 2
+      type: tv
+      tvdbid: 424435
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55791
+      title: '"Oshi no Ko" 2nd Season'
+      type: tv
+      tvdbid: 421069
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 55813
       title: 'Mashle: Shinkakusha Kouho Senbatsu Shiken-hen'
       type: tv
@@ -3069,6 +3474,33 @@ AnimeMap:
       tvdbid: 371310
       tvdbseason: 2
       start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56063
+      title: NieR:Automata Ver1.1a Part 2
+      type: tv
+      tvdbid: 416998
+      tvdbseason: 1
+      start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56215
+      title: Yi Nian Yong Heng 3rd Season
+      type: ona
+      tvdbid: 388680
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56538
+      title: Kimi ni Todoke 3rd Season
+      type: ona
+      tvdbid: 117801
+      tvdbseason: 3
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -3126,6 +3558,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57180
+      title: Yami Shibai 12
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 12
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57567
+      title: 'Shy: Tokyo Dakkan-hen'
+      type: tv
+      tvdbid: 425474
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57614
       title: 'Shadowverse Flame: Arc-hen'
       type: tv
@@ -3144,6 +3594,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57864
+      title: 'Monogatari Series: Off & Monster Season'
+      type: ona
+      tvdbid: 444877
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57907
       title: Tate no Yuusha no Nariagari Season 4
       type: tv
@@ -3153,11 +3612,47 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 58196
+      title: 'Koneko no Chi: Ponponraa Natsuyasumi'
+      type: unknown
+      tvdbid: 81844
+      tvdbseason: 5
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 58224
       title: 'Ore dake Level Up na Ken: How to Get Stronger'
       type: tv_special
       tvdbid: 389597
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58488
+      title: 'Sengoku Youko: Senma Konton-hen'
+      type: tv
+      tvdbid: 438151
+      tvdbseason: 1
+      start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58506
+      title: Harimaware! Koinu 2nd Season
+      type: tv
+      tvdbid: 439507
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59010
+      title: Yami Shibai 13
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 13
       start: 0
       useMapping: false
       animeMapping: []
