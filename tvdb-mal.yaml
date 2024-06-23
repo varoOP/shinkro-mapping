@@ -3415,7 +3415,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55749
-      title: Megami no Café Terrace Season 2
+      title: Megami no Café Terrace 2nd Season
       type: tv
       tvdbid: 424435
       tvdbseason: 2
@@ -3614,7 +3614,7 @@ AnimeMap:
 
     - malid: 58196
       title: 'Koneko no Chi: Ponponraa Natsuyasumi'
-      type: unknown
+      type: ona
       tvdbid: 81844
       tvdbseason: 5
       start: 0
