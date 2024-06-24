@@ -3656,3 +3656,12 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 52588
+      title: Kaiju No. 8
+      type: tv
+      tvdbid: 423075
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
