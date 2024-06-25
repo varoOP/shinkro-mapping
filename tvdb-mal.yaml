@@ -107,6 +107,21 @@ AnimeMap:
         - tvdbseason: 3
           start: 41
 
+    - malid: 232
+      title: Cardcaptor Sakura
+      type: tv
+      tvdbid: 70668
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 36
+        - tvdbseason: 3
+          start: 47
+
     - malid: 269
       title: Bleach
       type: tv
@@ -147,6 +162,24 @@ AnimeMap:
           start: 317
         - tvdbseason: 16
           start: 343
+
+    - malid: 371
+      title: Cardcaptor Sakura Movie 1
+      type: movie
+      tvdbid: 29022
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 372
+      title: 'Cardcaptor Sakura Movie 2: Fuuin Sareta Card'
+      type: movie
+      tvdbid: 20225
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
 
     - malid: 502
       title: 'Dragon Ball Movie 1: Shen Long no Densetsu'
@@ -355,6 +388,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1078
+      title: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
+      type: movie
+      tvdbid: 164297
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 1735
       title: 'Naruto: Shippuuden'
       type: tv
@@ -407,6 +449,15 @@ AnimeMap:
           start: 451
         - tvdbseason: 22
           start: 459
+
+    - malid: 2424
+      title: Suteki desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!
+      type: special
+      tvdbid: 70668
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
 
     - malid: 2904
       title: 'Code Geass: Hangyaku no Lelouch R2'
@@ -1278,6 +1329,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 33354
+      title: 'Cardcaptor Sakura: Clear Card-hen'
+      type: tv
+      tvdbid: 70668
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 33486
       title: Boku no Hero Academia 2nd Season
       type: tv
@@ -1446,6 +1506,15 @@ AnimeMap:
       tvdbid: 305074
       tvdbseason: 0
       start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 35320
+      title: 'Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma'
+      type: ova
+      tvdbid: 149865
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -1662,6 +1731,15 @@ AnimeMap:
       tvdbid: 359274
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37595
+      title: 'Cardcaptor Sakura: Clear Card-hen Recap'
+      type: tv_special
+      tvdbid: 70668
+      tvdbseason: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
