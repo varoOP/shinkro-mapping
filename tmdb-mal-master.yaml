@@ -219,6 +219,10 @@ animeMovies:
       tmdbid: 0
       malid: 3067
 
+    - mainTitle: Kagaku Ninja-tai Gatchaman (Movie)
+      tmdbid: 0
+      malid: 3153
+
     - mainTitle: Kinnikuman (Movie)
       tmdbid: 0
       malid: 3273
@@ -1406,10 +1410,6 @@ animeMovies:
     - mainTitle: Sonyeon 007 Jihajeguk
       tmdbid: 0
       malid: 18303
-
-    - mainTitle: Hopiwa Chadolbawi
-      tmdbid: 0
-      malid: 18309
 
     - mainTitle: Meoteoldosa
       tmdbid: 0
@@ -7451,7 +7451,7 @@ animeMovies:
       tmdbid: 0
       malid: 57905
 
-    - mainTitle: Pui Pui Molcar Movie
+    - mainTitle: 'Pui Pui Molcar the Movie: MOLMAX'
       tmdbid: 0
       malid: 57910
 
