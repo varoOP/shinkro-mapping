@@ -3803,10 +3803,6 @@ animeMovies:
       tmdbid: 0
       malid: 42329
 
-    - mainTitle: Hataraku Saibou!! Saikyou no Teki, Futatabi. Karada no Naka wa "Chou" Oosawagi!
-      tmdbid: 0
-      malid: 42387
-
     - mainTitle: Benkai to Ushiwakamaru
       tmdbid: 0
       malid: 42397
@@ -5462,10 +5458,6 @@ animeMovies:
     - mainTitle: 'Yuan Chuang Shijie: Xiong Hai Zi Buluo'
       tmdbid: 0
       malid: 44970
-
-    - mainTitle: Fengkuang Wanju Cheng
-      tmdbid: 0
-      malid: 44971
 
     - mainTitle: Dong Zhiwu Dazhan
       tmdbid: 0
@@ -7523,6 +7515,10 @@ animeMovies:
       tmdbid: 0
       malid: 58323
 
+    - mainTitle: 'Wonderful Precure! Movie: Dokidoki Game no Sekai de Dai Bouken!'
+      tmdbid: 0
+      malid: 58462
+
     - mainTitle: 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie
       tmdbid: 0
       malid: 58549
@@ -7586,4 +7582,16 @@ animeMovies:
     - mainTitle: Huanying Lai Dao Duo Li Zhi Jia
       tmdbid: 0
       malid: 59043
+
+    - mainTitle: 'Sore Ike! Anpanman Movie: Baikinman to Ehon no Lulun'
+      tmdbid: 0
+      malid: 59146
+
+    - mainTitle: Dame da yo
+      tmdbid: 0
+      malid: 59167
+
+    - mainTitle: 'Fuuto Tantei Movie: Kamen Rider Skull no Shouzou'
+      tmdbid: 0
+      malid: 59186
 
