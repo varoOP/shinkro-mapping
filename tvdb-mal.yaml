@@ -764,6 +764,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 14813
+      title: Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+      type: tv
+      tvdbid: 267435
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 14837
       title: 'Dragon Ball Z Movie 14: Kami to Kami'
       type: movie
@@ -851,6 +860,15 @@ AnimeMap:
       tvdbid: 114801
       tvdbseason: 0
       start: 8
+      useMapping: false
+      animeMapping: []
+
+    - malid: 18753
+      title: Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA
+      type: ova
+      tvdbid: 267435
+      tvdbseason: 0
+      start: 1
       useMapping: false
       animeMapping: []
 
@@ -1009,6 +1027,15 @@ AnimeMap:
       type: ova
       tvdbid: 276050
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 23847
+      title: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
+      type: tv
+      tvdbid: 267435
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -1317,6 +1344,15 @@ AnimeMap:
       tvdbid: 305075
       tvdbseason: 0
       start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 33161
+      title: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA
+      type: ova
+      tvdbid: 267435
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -1917,6 +1953,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 39547
+      title: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan
+      type: tv
+      tvdbid: 267435
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 39551
       title: Tensei shitara Slime Datta Ken 2nd Season
       type: tv
@@ -2409,6 +2454,15 @@ AnimeMap:
       tvdbid: 352408
       tvdbseason: 0
       start: 7
+      useMapping: false
+      animeMapping: []
+
+    - malid: 46431
+      title: 'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.'
+      type: ova
+      tvdbid: 267435
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
