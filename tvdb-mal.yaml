@@ -3726,6 +3726,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57646
+      title: Mob kara Hajimaru Tansaku Eiyuutan
+      type: tv
+      tvdbid: 443862
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57864
       title: 'Monogatari Series: Off & Monster Season'
       type: ona
