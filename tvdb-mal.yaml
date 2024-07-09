@@ -181,6 +181,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 435
+      title: Magic Knight Rayearth
+      type: tv
+      tvdbid: 71634
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 502
       title: 'Dragon Ball Movie 1: Shen Long no Densetsu'
       type: movie
@@ -397,6 +406,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1563
+      title: Magic Knight Rayearth II
+      type: tv
+      tvdbid: 71634
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 1735
       title: 'Naruto: Shippuuden'
       type: tv
@@ -449,6 +467,15 @@ AnimeMap:
           start: 451
         - tvdbseason: 22
           start: 459
+
+    - malid: 1954
+      title: Rayearth
+      type: ova
+      tvdbid: 358557
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
     - malid: 2424
       title: Suteki desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!
@@ -1851,6 +1878,15 @@ AnimeMap:
       tvdbid: 355966
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38372
+      title: Magic Knight Rayearth Pilot
+      type: special
+      tvdbid: 71634
+      tvdbseason: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -3794,6 +3830,15 @@ AnimeMap:
       type: tv
       tvdbid: 271591
       tvdbseason: 13
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59204
+      title: Magic Knight Rayearth (Shin Anime)
+      type: unknown
+      tvdbid: 451787
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
