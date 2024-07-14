@@ -531,10 +531,6 @@ animeMovies:
       tmdbid: 0
       malid: 7258
 
-    - mainTitle: 'Ginga Tetsudou 999: Diamond Ring no Kanata e'
-      tmdbid: 0
-      malid: 7285
-
     - mainTitle: Mirai Shounen Conan (Movie)
       tmdbid: 0
       malid: 7308
@@ -639,7 +635,7 @@ animeMovies:
       tmdbid: 0
       malid: 8108
 
-    - mainTitle: 'Tottoko Hamtarou Movie 4: Hamtaro to Fushigi no Oni no Emon Tou'
+    - mainTitle: 'Tottoko Hamtarou Movie 4: Hamtarou to Fushigi no Oni no Emon Tou'
       tmdbid: 0
       malid: 8109
 
@@ -682,10 +678,6 @@ animeMovies:
     - mainTitle: 'Akuma-kun: Youkoso Akuma Land e!!'
       tmdbid: 0
       malid: 8227
-
-    - mainTitle: Mizuki Shigeru no Toono Monogatari
-      tmdbid: 0
-      malid: 8243
 
     - mainTitle: 'Himitsukessha Taka no Tsume The Movie 1: Soutou wa Nido Shinu'
       tmdbid: 0
@@ -910,6 +902,10 @@ animeMovies:
     - mainTitle: 'Sore Ike! Anpanman: Baikinman no Gyakushuu'
       tmdbid: 0
       malid: 10061
+
+    - mainTitle: 'Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D'
+      tmdbid: 0
+      malid: 10090
 
     - mainTitle: 'Super Doll Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki'
       tmdbid: 0
@@ -2058,10 +2054,6 @@ animeMovies:
     - mainTitle: 'Dangobei Torimonochou: Hirake - Goma no Maki'
       tmdbid: 0
       malid: 28057
-
-    - mainTitle: 'Asu wo Tsukutta Otoko: Tanabe Sakurou to Biwako Sosui'
-      tmdbid: 0
-      malid: 28091
 
     - mainTitle: 'Youkai Watch Movie 2: Enma Daiou to Itsutsu no Monogatari da Nyan!'
       tmdbid: 0
@@ -3267,10 +3259,6 @@ animeMovies:
       tmdbid: 0
       malid: 37969
 
-    - mainTitle: Chuck Shimezou
-      tmdbid: 0
-      malid: 38013
-
     - mainTitle: 'Shika no Ou: Yuna to Yakusoku no Tabi'
       tmdbid: 0
       malid: 38015
@@ -3550,10 +3538,6 @@ animeMovies:
     - mainTitle: Na Bbeun Sang Sa
       tmdbid: 0
       malid: 39731
-
-    - mainTitle: Junk Head
-      tmdbid: 0
-      malid: 39833
 
     - mainTitle: Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow - Manner Movie
       tmdbid: 0
@@ -4943,10 +4927,6 @@ animeMovies:
       tmdbid: 0
       malid: 43976
 
-    - mainTitle: 'Baobei Nuer Hao Mama: Chi Jiyi De Daxue Qiu'
-      tmdbid: 0
-      malid: 44017
-
     - mainTitle: 'Sai Er Hao Movie 2: Leiyi Yu Mai Er Si'
       tmdbid: 0
       malid: 44154
@@ -5387,10 +5367,6 @@ animeMovies:
       tmdbid: 0
       malid: 44910
 
-    - mainTitle: Alibaba Dadao Qibing
-      tmdbid: 0
-      malid: 44912
-
     - mainTitle: Shengdan Da Yingjia
       tmdbid: 0
       malid: 44914
@@ -5699,10 +5675,6 @@ animeMovies:
       tmdbid: 0
       malid: 48884
 
-    - mainTitle: 'Overlord Movie 3: Sei Oukoku-hen'
-      tmdbid: 0
-      malid: 48896
-
     - mainTitle: Minami e Itta Misuke
       tmdbid: 0
       malid: 48909
@@ -5826,10 +5798,6 @@ animeMovies:
     - mainTitle: Tarou wa Mizu ni Naritakatta
       tmdbid: 0
       malid: 49476
-
-    - mainTitle: Junk Head 1
-      tmdbid: 0
-      malid: 49478
 
     - mainTitle: Changbaekhan Eolkuldeul
       tmdbid: 0
@@ -7555,6 +7523,10 @@ animeMovies:
       tmdbid: 0
       malid: 58993
 
+    - mainTitle: Chan
+      tmdbid: 0
+      malid: 59024
+
     - mainTitle: 'Pororo Movie: Badas-sog Daemoheom'
       tmdbid: 0
       malid: 59031
@@ -7582,4 +7554,32 @@ animeMovies:
     - mainTitle: First Line
       tmdbid: 0
       malid: 59231
+
+    - mainTitle: 'Mayi Chuanqi: Shenmu Qi Yuan'
+      tmdbid: 0
+      malid: 59243
+
+    - mainTitle: 'Mayi Chuanqi: Liehuo Chongsheng'
+      tmdbid: 0
+      malid: 59244
+
+    - mainTitle: Marine Snow
+      tmdbid: 0
+      malid: 59271
+
+    - mainTitle: Zero no Hakken
+      tmdbid: 0
+      malid: 59273
+
+    - mainTitle: 'King of Prism: Dramatic Prism.1'
+      tmdbid: 0
+      malid: 59275
+
+    - mainTitle: Trip
+      tmdbid: 0
+      malid: 59278
+
+    - mainTitle: Akai Inei
+      tmdbid: 0
+      malid: 59279
 
