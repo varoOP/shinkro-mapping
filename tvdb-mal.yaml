@@ -3735,6 +3735,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57380
+      title: 'Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu'
+      type: tv
+      tvdbid: 442839
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57567
       title: Shy 2nd Season
       type: tv
