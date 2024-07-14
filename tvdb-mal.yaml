@@ -1130,6 +1130,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 30654
+      title: Ansatsu Kyoushitsu 2nd Season
+      type: tv
+      tvdbid: 283947
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 30694
       title: Dragon Ball Super
       type: tv
