@@ -2223,6 +2223,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 40815
+      title: 'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season'
+      type: tv
+      tvdbid: 366263
+      tvdbseason: 1
+      start: 15
+      useMapping: false
+      animeMapping: []
+
     - malid: 40852
       title: 'Dr. Stone: Stone Wars'
       type: tv
@@ -2382,6 +2391,15 @@ AnimeMap:
       tvdbid: 264663
       tvdbseason: 0
       start: 5
+      useMapping: false
+      animeMapping: []
+
+    - malid: 42429
+      title: 'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season'
+      type: tv
+      tvdbid: 366263
+      tvdbseason: 1
+      start: 27
       useMapping: false
       animeMapping: []
 
