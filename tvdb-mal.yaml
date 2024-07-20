@@ -163,6 +163,15 @@ AnimeMap:
         - tvdbseason: 16
           start: 343
 
+    - malid: 272
+      title: Noir
+      type: tv
+      tvdbid: 78947
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 371
       title: Cardcaptor Sakura Movie 1
       type: movie
@@ -626,6 +635,15 @@ AnimeMap:
       tvdbid: 83996
       tvdbseason: 0
       start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 9253
+      title: Steins;Gate
+      type: tv
+      tvdbid: 244061
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -1994,6 +2012,15 @@ AnimeMap:
       type: tv
       tvdbid: 245821
       tvdbseason: 11
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 39468
+      title: 'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen'
+      type: tv
+      tvdbid: 366263
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
