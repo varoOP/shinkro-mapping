@@ -1,4 +1,8 @@
 animeMovies:
+    - mainTitle: Akira
+      tmdbid: 0
+      malid: 47
+
     - mainTitle: Ace wo Nerae! (1979)
       tmdbid: 0
       malid: 313
@@ -1726,10 +1730,6 @@ animeMovies:
     - mainTitle: 'Peeping Life: Gekijou Original-ban'
       tmdbid: 0
       malid: 22675
-
-    - mainTitle: Appleseed Alpha
-      tmdbid: 0
-      malid: 22677
 
     - mainTitle: Sora Iro Hana Iro
       tmdbid: 0
@@ -7503,10 +7503,6 @@ animeMovies:
       tmdbid: 0
       malid: 58828
 
-    - mainTitle: 'Touken Ranbu Kai: Douden Chikashi Habera Umonora'
-      tmdbid: 0
-      malid: 58894
-
     - mainTitle: Hyakuemu.
       tmdbid: 0
       malid: 58919
@@ -7551,10 +7547,6 @@ animeMovies:
       tmdbid: 0
       malid: 59186
 
-    - mainTitle: First Line
-      tmdbid: 0
-      malid: 59231
-
     - mainTitle: 'Mayi Chuanqi: Shenmu Qi Yuan'
       tmdbid: 0
       malid: 59243
@@ -7582,4 +7574,8 @@ animeMovies:
     - mainTitle: Akai Inei
       tmdbid: 0
       malid: 59279
+
+    - mainTitle: 'Sinbi Apartment: Bulgeunnunui Sasin'
+      tmdbid: 0
+      malid: 59321
 
