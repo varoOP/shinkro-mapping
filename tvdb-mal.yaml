@@ -71,6 +71,29 @@ AnimeMap:
         - tvdbseason: 22
           start: 1086
 
+    - malid: 210
+      title: Ranma ½
+      type: tv
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+        - tvdbseason: 2
+          start: 19
+        - tvdbseason: 3
+          start: 41
+        - tvdbseason: 4
+          start: 65
+        - tvdbseason: 5
+          start: 89
+        - tvdbseason: 6
+          start: 113
+        - tvdbseason: 7
+          start: 137
+
     - malid: 223
       title: Dragon Ball
       type: tv
@@ -190,6 +213,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 418
+      title: 'Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!'
+      type: movie
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 435
       title: Magic Knight Rayearth
       type: tv
@@ -206,6 +238,15 @@ AnimeMap:
       tvdbseason: 0
       start: 1
       useMapping: true
+      animeMapping: []
+
+    - malid: 792
+      title: 'Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!'
+      type: movie
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 2
+      useMapping: false
       animeMapping: []
 
     - malid: 813
@@ -406,6 +447,42 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1007
+      title: Ranma ½ OVA
+      type: ova
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1008
+      title: 'Ranma ½: Yomigaeru Kioku'
+      type: ova
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 9
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1010
+      title: 'Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou'
+      type: movie
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 11
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1011
+      title: Ranma ½ Super
+      type: ova
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 12
+      useMapping: false
+      animeMapping: []
+
     - malid: 1078
       title: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
       type: movie
@@ -540,6 +617,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 5493
+      title: 'Ranma ½: Akumu! Shunmin Kou'
+      type: ova
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 15
+      useMapping: false
+      animeMapping: []
+
     - malid: 6024
       title: 'Chi''s Sweet Home: Atarashii Ouchi'
       type: tv
@@ -590,6 +676,15 @@ AnimeMap:
       tvdbid: 83996
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 6713
+      title: 'Ranma ½: Nettou Uta Gassen'
+      type: ova
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 17
       useMapping: false
       animeMapping: []
 
@@ -3911,6 +4006,15 @@ AnimeMap:
       type: tv
       tvdbid: 271591
       tvdbseason: 13
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59145
+      title: Ranma ½ (2024)
+      type: tv
+      tvdbid: 451479
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
