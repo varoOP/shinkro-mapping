@@ -367,6 +367,10 @@ animeMovies:
       tmdbid: 0
       malid: 5826
 
+    - mainTitle: Haru no Uta
+      tmdbid: 0
+      malid: 5868
+
     - mainTitle: Hi no Ame ga Furu
       tmdbid: 0
       malid: 5929
@@ -6103,10 +6107,6 @@ animeMovies:
       tmdbid: 0
       malid: 52697
 
-    - mainTitle: Zhongji Da Maoxian
-      tmdbid: 0
-      malid: 52704
-
     - mainTitle: Taoqi Bao Ma Xiao Tiao (Movie)
       tmdbid: 0
       malid: 52705
@@ -7375,10 +7375,6 @@ animeMovies:
       tmdbid: 0
       malid: 57619
 
-    - mainTitle: BanG Dream! It's MyGO!!!!! Movie
-      tmdbid: 0
-      malid: 57754
-
     - mainTitle: 'Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru - Saikai'
       tmdbid: 0
       malid: 57828
@@ -7578,4 +7574,24 @@ animeMovies:
     - mainTitle: 'Sinbi Apartment: Bulgeunnunui Sasin'
       tmdbid: 0
       malid: 59321
+
+    - mainTitle: -Socket-
+      tmdbid: 0
+      malid: 59356
+
+    - mainTitle: May
+      tmdbid: 0
+      malid: 59371
+
+    - mainTitle: Super Oneechan
+      tmdbid: 0
+      malid: 59376
+
+    - mainTitle: Binan Koukou Chikyuu Bouei-bu Eternal Love!
+      tmdbid: 0
+      malid: 59406
+
+    - mainTitle: 'Mononoke Movie: Dai ni Shou - Hinezumi'
+      tmdbid: 0
+      malid: 59408
 
