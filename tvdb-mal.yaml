@@ -3965,6 +3965,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 58080
+      title: Kenka Dokugaku
+      type: tv
+      tvdbid: 445964
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 58196
       title: 'Koneko no Chi: Ponponraa Natsuyasumi'
       type: ona
