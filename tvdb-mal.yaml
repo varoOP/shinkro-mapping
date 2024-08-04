@@ -4010,6 +4010,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 58883
+      title: Dead Dead Demons Dededede Destruction (ONA)
+      type: ona
+      tvdbid: 418123
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58920
+      title: Dead Dead Demons Dededede Destruction (ONA) Episode 0
+      type: ona
+      tvdbid: 418123
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 59010
       title: Yami Shibai 13
       type: tv
