@@ -3223,10 +3223,6 @@ animeMovies:
       tmdbid: 0
       malid: 37751
 
-    - mainTitle: Neko Kikaku
-      tmdbid: 0
-      malid: 37827
-
     - mainTitle: Sanuki Eiga-sai Opening Eizou
       tmdbid: 0
       malid: 37853
@@ -7135,10 +7131,6 @@ animeMovies:
       tmdbid: 0
       malid: 56507
 
-    - mainTitle: 'Gintama on Theater 2D: Baragaki-hen'
-      tmdbid: 0
-      malid: 56544
-
     - mainTitle: Nejikure Ojisan
       tmdbid: 0
       malid: 56550
@@ -7375,6 +7367,10 @@ animeMovies:
       tmdbid: 0
       malid: 57619
 
+    - mainTitle: 'Bai She 3: Fusheng'
+      tmdbid: 0
+      malid: 57801
+
     - mainTitle: 'Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru - Saikai'
       tmdbid: 0
       malid: 57828
@@ -7571,10 +7567,6 @@ animeMovies:
       tmdbid: 0
       malid: 59279
 
-    - mainTitle: 'Sinbi Apartment: Bulgeunnunui Sasin'
-      tmdbid: 0
-      malid: 59321
-
     - mainTitle: -Socket-
       tmdbid: 0
       malid: 59356
@@ -7590,8 +7582,4 @@ animeMovies:
     - mainTitle: Binan Koukou Chikyuu Bouei-bu Eternal Love!
       tmdbid: 0
       malid: 59406
-
-    - mainTitle: 'Mononoke Movie: Dai ni Shou - Hinezumi'
-      tmdbid: 0
-      malid: 59408
 
