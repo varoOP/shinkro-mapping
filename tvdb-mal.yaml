@@ -71,6 +71,29 @@ AnimeMap:
         - tvdbseason: 22
           start: 1086
 
+    - malid: 210
+      title: Ranma ½
+      type: tv
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+        - tvdbseason: 2
+          start: 19
+        - tvdbseason: 3
+          start: 41
+        - tvdbseason: 4
+          start: 65
+        - tvdbseason: 5
+          start: 89
+        - tvdbseason: 6
+          start: 113
+        - tvdbseason: 7
+          start: 137
+
     - malid: 223
       title: Dragon Ball
       type: tv
@@ -163,6 +186,15 @@ AnimeMap:
         - tvdbseason: 16
           start: 343
 
+    - malid: 272
+      title: Noir
+      type: tv
+      tvdbid: 78947
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 371
       title: Cardcaptor Sakura Movie 1
       type: movie
@@ -181,6 +213,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 418
+      title: 'Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!'
+      type: movie
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 435
+      title: Magic Knight Rayearth
+      type: tv
+      tvdbid: 71634
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 502
       title: 'Dragon Ball Movie 1: Shen Long no Densetsu'
       type: movie
@@ -188,6 +238,15 @@ AnimeMap:
       tvdbseason: 0
       start: 1
       useMapping: true
+      animeMapping: []
+
+    - malid: 792
+      title: 'Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!'
+      type: movie
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 2
+      useMapping: false
       animeMapping: []
 
     - malid: 813
@@ -388,11 +447,56 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1007
+      title: Ranma ½ OVA
+      type: ova
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1008
+      title: 'Ranma ½: Yomigaeru Kioku'
+      type: ova
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 9
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1010
+      title: 'Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou'
+      type: movie
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 11
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1011
+      title: Ranma ½ Super
+      type: ova
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 12
+      useMapping: false
+      animeMapping: []
+
     - malid: 1078
       title: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
       type: movie
       tvdbid: 164297
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1563
+      title: Magic Knight Rayearth II
+      type: tv
+      tvdbid: 71634
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -450,6 +554,15 @@ AnimeMap:
         - tvdbseason: 22
           start: 459
 
+    - malid: 1954
+      title: Rayearth
+      type: ova
+      tvdbid: 358557
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 2424
       title: Suteki desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!
       type: special
@@ -492,6 +605,24 @@ AnimeMap:
       tvdbid: 82788
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5341
+      title: Ookami to Koushinryou II
+      type: tv
+      tvdbid: 81178
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5493
+      title: 'Ranma ½: Akumu! Shunmin Kou'
+      type: ova
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 15
       useMapping: false
       animeMapping: []
 
@@ -548,6 +679,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 6713
+      title: 'Ranma ½: Nettou Uta Gassen'
+      type: ova
+      tvdbid: 76932
+      tvdbseason: 0
+      start: 17
+      useMapping: false
+      animeMapping: []
+
     - malid: 6714
       title: 'Dragon Ball Z: Atsumare! Gokuu World'
       type: ova
@@ -590,6 +730,15 @@ AnimeMap:
       tvdbid: 83996
       tvdbseason: 0
       start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 9253
+      title: Steins;Gate
+      type: tv
+      tvdbid: 244061
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -764,6 +913,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 14813
+      title: Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+      type: tv
+      tvdbid: 267435
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 14837
       title: 'Dragon Ball Z Movie 14: Kami to Kami'
       type: movie
@@ -851,6 +1009,15 @@ AnimeMap:
       tvdbid: 114801
       tvdbseason: 0
       start: 8
+      useMapping: false
+      animeMapping: []
+
+    - malid: 18753
+      title: Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA
+      type: ova
+      tvdbid: 267435
+      tvdbseason: 0
+      start: 1
       useMapping: false
       animeMapping: []
 
@@ -1013,6 +1180,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 23847
+      title: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
+      type: tv
+      tvdbid: 267435
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 24655
       title: 'Date A Live Movie: Mayuri Judgment'
       type: movie
@@ -1073,6 +1249,15 @@ AnimeMap:
       tvdbid: 299746
       tvdbseason: 1
       start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 30654
+      title: Ansatsu Kyoushitsu 2nd Season
+      type: tv
+      tvdbid: 283947
+      tvdbseason: 2
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -1317,6 +1502,15 @@ AnimeMap:
       tvdbid: 305075
       tvdbseason: 0
       start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 33161
+      title: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA
+      type: ova
+      tvdbid: 267435
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -1818,6 +2012,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 38372
+      title: Magic Knight Rayearth Pilot
+      type: special
+      tvdbid: 71634
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 38408
       title: Boku no Hero Academia 4th Season
       type: tv
@@ -1908,11 +2111,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 39468
+      title: 'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen'
+      type: tv
+      tvdbid: 366263
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 39535
       title: 'Mushoku Tensei: Isekai Ittara Honki Dasu'
       type: tv
       tvdbid: 371310
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 39547
+      title: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan
+      type: tv
+      tvdbid: 267435
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -2097,6 +2318,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 40815
+      title: 'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season'
+      type: tv
+      tvdbid: 366263
+      tvdbseason: 1
+      start: 15
+      useMapping: false
+      animeMapping: []
+
     - malid: 40852
       title: 'Dr. Stone: Stone Wars'
       type: tv
@@ -2259,6 +2489,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 42429
+      title: 'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season'
+      type: tv
+      tvdbid: 366263
+      tvdbseason: 1
+      start: 27
+      useMapping: false
+      animeMapping: []
+
     - malid: 42516
       title: 'Cardfight!! Vanguard: overDress'
       type: tv
@@ -2409,6 +2648,15 @@ AnimeMap:
       tvdbid: 352408
       tvdbseason: 0
       start: 7
+      useMapping: false
+      animeMapping: []
+
+    - malid: 46431
+      title: 'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.'
+      type: ova
+      tvdbid: 267435
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -3106,7 +3354,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53111
-      title: 'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen'
+      title: 'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen'
       type: tv
       tvdbid: 289882
       tvdbseason: 4
@@ -3645,8 +3893,17 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57380
+      title: 'Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu'
+      type: tv
+      tvdbid: 442839
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57567
-      title: 'Shy: Tokyo Dakkan-hen'
+      title: Shy 2nd Season
       type: tv
       tvdbid: 425474
       tvdbseason: 2
@@ -3672,6 +3929,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57646
+      title: Mob kara Hajimaru Tansaku Eiyuutan
+      type: tv
+      tvdbid: 443862
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57810
+      title: Shoushimin Series
+      type: tv
+      tvdbid: 444609
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57864
       title: 'Monogatari Series: Off & Monster Season'
       type: ona
@@ -3686,6 +3961,15 @@ AnimeMap:
       type: tv
       tvdbid: 353712
       tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58080
+      title: Kenka Dokugaku
+      type: tv
+      tvdbid: 445964
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -3726,11 +4010,47 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 58883
+      title: Dead Dead Demons Dededede Destruction (ONA)
+      type: ona
+      tvdbid: 418123
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58920
+      title: Dead Dead Demons Dededede Destruction (ONA) Episode 0
+      type: ona
+      tvdbid: 418123
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 59010
       title: Yami Shibai 13
       type: tv
       tvdbid: 271591
       tvdbseason: 13
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59145
+      title: Ranma ½ (2024)
+      type: tv
+      tvdbid: 451479
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59204
+      title: Magic Knight Rayearth (Shin Anime)
+      type: unknown
+      tvdbid: 451787
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []

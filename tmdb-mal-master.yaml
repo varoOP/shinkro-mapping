@@ -1,4 +1,8 @@
 animeMovies:
+    - mainTitle: Akira
+      tmdbid: 0
+      malid: 47
+
     - mainTitle: Ace wo Nerae! (1979)
       tmdbid: 0
       malid: 313
@@ -363,6 +367,10 @@ animeMovies:
       tmdbid: 0
       malid: 5826
 
+    - mainTitle: Haru no Uta
+      tmdbid: 0
+      malid: 5868
+
     - mainTitle: Hi no Ame ga Furu
       tmdbid: 0
       malid: 5929
@@ -531,10 +539,6 @@ animeMovies:
       tmdbid: 0
       malid: 7258
 
-    - mainTitle: 'Ginga Tetsudou 999: Diamond Ring no Kanata e'
-      tmdbid: 0
-      malid: 7285
-
     - mainTitle: Mirai Shounen Conan (Movie)
       tmdbid: 0
       malid: 7308
@@ -639,7 +643,7 @@ animeMovies:
       tmdbid: 0
       malid: 8108
 
-    - mainTitle: 'Tottoko Hamtarou Movie 4: Hamtaro to Fushigi no Oni no Emon Tou'
+    - mainTitle: 'Tottoko Hamtarou Movie 4: Hamtarou to Fushigi no Oni no Emon Tou'
       tmdbid: 0
       malid: 8109
 
@@ -682,10 +686,6 @@ animeMovies:
     - mainTitle: 'Akuma-kun: Youkoso Akuma Land e!!'
       tmdbid: 0
       malid: 8227
-
-    - mainTitle: Mizuki Shigeru no Toono Monogatari
-      tmdbid: 0
-      malid: 8243
 
     - mainTitle: 'Himitsukessha Taka no Tsume The Movie 1: Soutou wa Nido Shinu'
       tmdbid: 0
@@ -910,6 +910,10 @@ animeMovies:
     - mainTitle: 'Sore Ike! Anpanman: Baikinman no Gyakushuu'
       tmdbid: 0
       malid: 10061
+
+    - mainTitle: 'Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D'
+      tmdbid: 0
+      malid: 10090
 
     - mainTitle: 'Super Doll Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki'
       tmdbid: 0
@@ -1731,10 +1735,6 @@ animeMovies:
       tmdbid: 0
       malid: 22675
 
-    - mainTitle: Appleseed Alpha
-      tmdbid: 0
-      malid: 22677
-
     - mainTitle: Sora Iro Hana Iro
       tmdbid: 0
       malid: 22791
@@ -1854,10 +1854,6 @@ animeMovies:
     - mainTitle: 'Kara no Kyoukai: Manner Movies'
       tmdbid: 0
       malid: 23697
-
-    - mainTitle: Kansuke-san to Fushigi na Jitensha
-      tmdbid: 0
-      malid: 23727
 
     - mainTitle: 'Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari - Magica Quartet x Nisioisin'
       tmdbid: 0
@@ -2063,10 +2059,6 @@ animeMovies:
       tmdbid: 0
       malid: 28057
 
-    - mainTitle: 'Asu wo Tsukutta Otoko: Tanabe Sakurou to Biwako Sosui'
-      tmdbid: 0
-      malid: 28091
-
     - mainTitle: 'Youkai Watch Movie 2: Enma Daiou to Itsutsu no Monogatari da Nyan!'
       tmdbid: 0
       malid: 28257
@@ -2162,10 +2154,6 @@ animeMovies:
     - mainTitle: Kappa no Suribachi
       tmdbid: 0
       malid: 29491
-
-    - mainTitle: Okuni no Tame ni
-      tmdbid: 0
-      malid: 29557
 
     - mainTitle: Hana
       tmdbid: 0
@@ -3235,10 +3223,6 @@ animeMovies:
       tmdbid: 0
       malid: 37751
 
-    - mainTitle: Neko Kikaku
-      tmdbid: 0
-      malid: 37827
-
     - mainTitle: Sanuki Eiga-sai Opening Eizou
       tmdbid: 0
       malid: 37853
@@ -3274,10 +3258,6 @@ animeMovies:
     - mainTitle: 'Youkai Watch Movie 5: Forever Friends'
       tmdbid: 0
       malid: 37969
-
-    - mainTitle: Chuck Shimezou
-      tmdbid: 0
-      malid: 38013
 
     - mainTitle: 'Shika no Ou: Yuna to Yakusoku no Tabi'
       tmdbid: 0
@@ -3559,10 +3539,6 @@ animeMovies:
       tmdbid: 0
       malid: 39731
 
-    - mainTitle: Junk Head
-      tmdbid: 0
-      malid: 39833
-
     - mainTitle: Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow - Manner Movie
       tmdbid: 0
       malid: 39921
@@ -3802,10 +3778,6 @@ animeMovies:
     - mainTitle: Hei Mao Jing Zhang (2010)
       tmdbid: 0
       malid: 42329
-
-    - mainTitle: Hataraku Saibou!! Saikyou no Teki, Futatabi. Karada no Naka wa "Chou" Oosawagi!
-      tmdbid: 0
-      malid: 42387
 
     - mainTitle: Benkai to Ushiwakamaru
       tmdbid: 0
@@ -4955,10 +4927,6 @@ animeMovies:
       tmdbid: 0
       malid: 43976
 
-    - mainTitle: 'Baobei Nuer Hao Mama: Chi Jiyi De Daxue Qiu'
-      tmdbid: 0
-      malid: 44017
-
     - mainTitle: 'Sai Er Hao Movie 2: Leiyi Yu Mai Er Si'
       tmdbid: 0
       malid: 44154
@@ -5399,10 +5367,6 @@ animeMovies:
       tmdbid: 0
       malid: 44910
 
-    - mainTitle: Alibaba Dadao Qibing
-      tmdbid: 0
-      malid: 44912
-
     - mainTitle: Shengdan Da Yingjia
       tmdbid: 0
       malid: 44914
@@ -5422,10 +5386,6 @@ animeMovies:
     - mainTitle: 'Baixue Gongzhu: Shenmi Baba'
       tmdbid: 0
       malid: 44936
-
-    - mainTitle: 'Alibaba 2: Solomon Fengyin'
-      tmdbid: 0
-      malid: 44943
 
     - mainTitle: Chouxiaoya Lixian Ji
       tmdbid: 0
@@ -5462,10 +5422,6 @@ animeMovies:
     - mainTitle: 'Yuan Chuang Shijie: Xiong Hai Zi Buluo'
       tmdbid: 0
       malid: 44970
-
-    - mainTitle: Fengkuang Wanju Cheng
-      tmdbid: 0
-      malid: 44971
 
     - mainTitle: Dong Zhiwu Dazhan
       tmdbid: 0
@@ -5719,10 +5675,6 @@ animeMovies:
       tmdbid: 0
       malid: 48884
 
-    - mainTitle: 'Overlord Movie 3: Sei Oukoku-hen'
-      tmdbid: 0
-      malid: 48896
-
     - mainTitle: Minami e Itta Misuke
       tmdbid: 0
       malid: 48909
@@ -5846,10 +5798,6 @@ animeMovies:
     - mainTitle: Tarou wa Mizu ni Naritakatta
       tmdbid: 0
       malid: 49476
-
-    - mainTitle: Junk Head 1
-      tmdbid: 0
-      malid: 49478
 
     - mainTitle: Changbaekhan Eolkuldeul
       tmdbid: 0
@@ -6079,10 +6027,6 @@ animeMovies:
       tmdbid: 0
       malid: 51995
 
-    - mainTitle: Garden of Remembrance
-      tmdbid: 0
-      malid: 52085
-
     - mainTitle: Share the Warmth
       tmdbid: 0
       malid: 52096
@@ -6159,10 +6103,6 @@ animeMovies:
       tmdbid: 0
       malid: 52697
 
-    - mainTitle: Zhongji Da Maoxian
-      tmdbid: 0
-      malid: 52704
-
     - mainTitle: Taoqi Bao Ma Xiao Tiao (Movie)
       tmdbid: 0
       malid: 52705
@@ -6230,6 +6170,10 @@ animeMovies:
     - mainTitle: Forest and Trees
       tmdbid: 0
       malid: 52958
+
+    - mainTitle: Versailles no Bara (Movie)
+      tmdbid: 0
+      malid: 52967
 
     - mainTitle: 'Aikatsu! 10th Story: Mirai e no Starway'
       tmdbid: 0
@@ -7187,10 +7131,6 @@ animeMovies:
       tmdbid: 0
       malid: 56507
 
-    - mainTitle: 'Gintama on Theater 2D: Baragaki-hen'
-      tmdbid: 0
-      malid: 56544
-
     - mainTitle: Nejikure Ojisan
       tmdbid: 0
       malid: 56550
@@ -7383,10 +7323,6 @@ animeMovies:
       tmdbid: 0
       malid: 57439
 
-    - mainTitle: Fureru.
-      tmdbid: 0
-      malid: 57448
-
     - mainTitle: Siji Tongnian
       tmdbid: 0
       malid: 57454
@@ -7431,9 +7367,9 @@ animeMovies:
       tmdbid: 0
       malid: 57619
 
-    - mainTitle: BanG Dream! It's MyGO!!!!! Movie
+    - mainTitle: 'Bai She 3: Fusheng'
       tmdbid: 0
-      malid: 57754
+      malid: 57801
 
     - mainTitle: 'Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru - Saikai'
       tmdbid: 0
@@ -7523,6 +7459,10 @@ animeMovies:
       tmdbid: 0
       malid: 58323
 
+    - mainTitle: 'Wonderful Precure! Movie: Dokidoki Game no Sekai de Dai Bouken!'
+      tmdbid: 0
+      malid: 58462
+
     - mainTitle: 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie
       tmdbid: 0
       malid: 58549
@@ -7555,10 +7495,6 @@ animeMovies:
       tmdbid: 0
       malid: 58828
 
-    - mainTitle: 'Touken Ranbu Kai: Douden Chikashi Habera Umonora'
-      tmdbid: 0
-      malid: 58894
-
     - mainTitle: Hyakuemu.
       tmdbid: 0
       malid: 58919
@@ -7575,6 +7511,10 @@ animeMovies:
       tmdbid: 0
       malid: 58993
 
+    - mainTitle: Chan
+      tmdbid: 0
+      malid: 59024
+
     - mainTitle: 'Pororo Movie: Badas-sog Daemoheom'
       tmdbid: 0
       malid: 59031
@@ -7586,4 +7526,60 @@ animeMovies:
     - mainTitle: Huanying Lai Dao Duo Li Zhi Jia
       tmdbid: 0
       malid: 59043
+
+    - mainTitle: 'Sore Ike! Anpanman Movie: Baikinman to Ehon no Lulun'
+      tmdbid: 0
+      malid: 59146
+
+    - mainTitle: Dame da yo
+      tmdbid: 0
+      malid: 59167
+
+    - mainTitle: 'Fuuto Tantei Movie: Kamen Rider Skull no Shouzou'
+      tmdbid: 0
+      malid: 59186
+
+    - mainTitle: 'Mayi Chuanqi: Shenmu Qi Yuan'
+      tmdbid: 0
+      malid: 59243
+
+    - mainTitle: 'Mayi Chuanqi: Liehuo Chongsheng'
+      tmdbid: 0
+      malid: 59244
+
+    - mainTitle: Marine Snow
+      tmdbid: 0
+      malid: 59271
+
+    - mainTitle: Zero no Hakken
+      tmdbid: 0
+      malid: 59273
+
+    - mainTitle: 'King of Prism: Dramatic Prism.1'
+      tmdbid: 0
+      malid: 59275
+
+    - mainTitle: Trip
+      tmdbid: 0
+      malid: 59278
+
+    - mainTitle: Akai Inei
+      tmdbid: 0
+      malid: 59279
+
+    - mainTitle: -Socket-
+      tmdbid: 0
+      malid: 59356
+
+    - mainTitle: May
+      tmdbid: 0
+      malid: 59371
+
+    - mainTitle: Super Oneechan
+      tmdbid: 0
+      malid: 59376
+
+    - mainTitle: Binan Koukou Chikyuu Bouei-bu Eternal Love!
+      tmdbid: 0
+      malid: 59406
 
