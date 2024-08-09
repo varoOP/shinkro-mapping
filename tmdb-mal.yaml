@@ -1,7 +1,195 @@
 animeMovies:
+    - mainTitle: Akira
+      tmdbid: 149
+      malid: 47
+
+    - mainTitle: Ace wo Nerae! (1979)
+      tmdbid: 144920
+      malid: 313
+
+    - mainTitle: Neko no Ongaeshi
+      tmdbid: 15370
+      malid: 597
+
+    - mainTitle: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
+      tmdbid: 322686
+      malid: 1078
+
+    - mainTitle: '1000-nen Joou: Queen Millennia'
+      tmdbid: 139287
+      malid: 1549
+
+    - mainTitle: Hiatari Ryoukou! Yume no Naka ni Kimi ga Ita
+      tmdbid: 335351
+      malid: 1552
+
+    - mainTitle: Hana yori Dango (Movie)
+      tmdbid: 411273
+      malid: 2071
+
+    - mainTitle: 'Kino no Tabi: The Beautiful World - Byouki no Kuni - For You'
+      tmdbid: 833013
+      malid: 2175
+
+    - mainTitle: Jumping
+      tmdbid: 47217
+      malid: 2211
+
+    - mainTitle: Nagagutsu wo Haita Neko
+      tmdbid: 58704
+      malid: 2279
+
+    - mainTitle: 'Akihabara Dennou-gumi: 2011-nen no Natsuyasumi'
+      tmdbid: 366640
+      malid: 2289
+
+    - mainTitle: Choujin Densetsu Urotsukidouji Movie
+      tmdbid: 48624
+      malid: 2359
+
+    - mainTitle: Choujin Densetsu Urotsukidouji 2
+      tmdbid: 48626
+      malid: 2360
+
+    - mainTitle: 'Doraemon Movie 24: Nobita to Fushigi Kaze Tsukai'
+      tmdbid: 98613
+      malid: 2393
+
+    - mainTitle: 'Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu'
+      tmdbid: 37280
+      malid: 2450
+
+    - mainTitle: 'Touch 2: Sayonara no Okurimono'
+      tmdbid: 444936
+      malid: 2492
+
+    - mainTitle: 'Touch 3: Kimi ga Toorisugita Ato ni - Don''t Pass Me By'
+      tmdbid: 334900
+      malid: 2493
+
+    - mainTitle: 'The☆Doraemons: Mushimushi Pyonpyon Daisakusen!'
+      tmdbid: 139274
+      malid: 2626
+
+    - mainTitle: 'The☆Doraemons: Dokidoki Kikansha Daibakusou!'
+      tmdbid: 326924
+      malid: 2633
+
+    - mainTitle: 'Dorami-chan: Aoi Straw Hat'
+      tmdbid: 326497
+      malid: 2642
+
+    - mainTitle: 'Doraemon Movie 23: Nobita to Robot Kingdom'
+      tmdbid: 162095
+      malid: 2655
+
+    - mainTitle: 'Doraemon Movie 25: Nobita no Wan Nyan Jikuuden'
+      tmdbid: 192904
+      malid: 2656
+
+    - mainTitle: 'Doraemon Movie 09: Nobita no Parallel Saiyuuki'
+      tmdbid: 136241
+      malid: 2658
+
+    - mainTitle: 'Doraemon Movie 02: Nobita no Uchuu Kaitakushi'
+      tmdbid: 162103
+      malid: 2662
+
+    - mainTitle: 'Doraemon Movie 19: Nobita no Nankai Daibouken'
+      tmdbid: 105444
+      malid: 2664
+
+    - mainTitle: 'Doraemon Movie 07: Nobita to Tetsujin Heidan'
+      tmdbid: 88625
+      malid: 2665
+
+    - mainTitle: 'Doraemon Movie 06: Nobita no Little Star Wars'
+      tmdbid: 161704
+      malid: 2669
+
+    - mainTitle: 'Doraemon Movie 03: Nobita no Daimakyou'
+      tmdbid: 184004
+      malid: 2671
+
+    - mainTitle: 'Doraemon Movie 05: Nobita no Makai Daibouken'
+      tmdbid: 161699
+      malid: 2672
+
+    - mainTitle: Aoki Densetsu Shoot! (Movie)
+      tmdbid: 1001412
+      malid: 2682
+
+    - mainTitle: 'Hi no Tori 2772: Ai no CosmoZone'
+      tmdbid: 57635
+      malid: 2793
+
+    - mainTitle: Chibikko Remi to Meiken Kapi
+      tmdbid: 355345
+      malid: 2830
+
+    - mainTitle: Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie
+      tmdbid: 68537
+      malid: 2901
+
+    - mainTitle: 'Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu'
+      tmdbid: 599921
+      malid: 2948
+
+    - mainTitle: 'GS Mikami: Gokuraku Daisakusen!!'
+      tmdbid: 129213
+      malid: 3037
+
+    - mainTitle: Kagaku Ninja-tai Gatchaman (Movie)
+      tmdbid: 331399
+      malid: 3153
+
+    - mainTitle: Kinnikuman (Movie)
+      tmdbid: 311127
+      malid: 3273
+
+    - mainTitle: 'Kinnikuman: Ooabare! Seigi Choujin'
+      tmdbid: 672370
+      malid: 3274
+
+    - mainTitle: 'Kinnikuman: Seigi Choujin vs. Kodai Choujin'
+      tmdbid: 672375
+      malid: 3275
+
+    - mainTitle: 'Kinnikuman: Gyakushuu! Uchuu Kakure Choujin'
+      tmdbid: 672384
+      malid: 3276
+
+    - mainTitle: 'Crayon Shin-chan Movie 10: Arashi wo Yobu Appare! Sengoku Daikassen'
+      tmdbid: 117084
+      malid: 3744
+
+    - mainTitle: 'Crayon Shin-chan Movie 02: Buriburi Oukoku no Hihou'
+      tmdbid: 109526
+      malid: 3745
+
+    - mainTitle: Panda no Daibouken
+      tmdbid: 105224
+      malid: 3758
+
+    - mainTitle: 'Black Jack: Dr. Pinoko no Mori no Bouken'
+      tmdbid: 717058
+      malid: 4070
+
+    - mainTitle: Chuumon no Ooi Ryouriten (1991)
+      tmdbid: 136601
+      malid: 4095
+
+    - mainTitle: 'Pokemon: Pikapika Hoshizora Camp'
+      tmdbid: 211814
+      malid: 4795
+
     - mainTitle: 'Ramayana: The Legend of Prince Rama'
       tmdbid: 84092
       malid: 4921
+
+    - mainTitle: 'Major Movie: Yuujou no Winning Shot'
+      tmdbid: 77940
+      malid: 5029
 
     - mainTitle: 'Sengoku Basara Movie: The Last Party'
       tmdbid: 81531
@@ -10,4 +198,16 @@ animeMovies:
     - mainTitle: 'One Piece 3D: Gekisou! Trap Coaster'
       tmdbid: 462387
       malid: 12001
+
+    - mainTitle: "663114"
+      tmdbid: 178143
+      malid: 13971
+
+    - mainTitle: 'Sword Art Online: Full Dive - Opening Eizou'
+      tmdbid: 1171593
+      malid: 53588
+
+    - mainTitle: Story of Krishna
+      tmdbid: 1087857
+      malid: 58171
 
