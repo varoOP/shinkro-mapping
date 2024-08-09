@@ -3956,6 +3956,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57876
+      title: Maougun Saikyou no Majutsushi wa Ningen datta
+      type: tv
+      tvdbid: 444916
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57907
       title: Tate no Yuusha no Nariagari Season 4
       type: tv
