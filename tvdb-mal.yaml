@@ -213,6 +213,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 404
+      title: Bastard!! Ankoku no Hakaishin
+      type: ova
+      tvdbid: 78922
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 418
       title: 'Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!'
       type: movie
@@ -3164,6 +3173,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 50953
+      title: Bastard!! Ankoku no Hakaishin (ONA)
+      type: ona
+      tvdbid: 415677
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 51009
       title: Jujutsu Kaisen 2nd Season
       type: tv
@@ -3206,6 +3224,15 @@ AnimeMap:
       tvdbid: 329822
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 51366
+      title: Bastard!! Ankoku no Hakaishin Part 2 (ONA)
+      type: ona
+      tvdbid: 415677
+      tvdbseason: 1
+      start: 14
       useMapping: false
       animeMapping: []
 
@@ -3529,6 +3556,15 @@ AnimeMap:
       type: special
       tvdbid: 425478
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54141
+      title: 'Bastard!! Ankoku no Hakaishin: Jigoku no Chinkonka-hen'
+      type: ona
+      tvdbid: 415677
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
