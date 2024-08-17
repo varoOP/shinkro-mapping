@@ -47,6 +47,10 @@ animeMovies:
       tmdbid: 0
       malid: 1861
 
+    - mainTitle: Paprika
+      tmdbid: 0
+      malid: 1943
+
     - mainTitle: Hana yori Dango (Movie)
       tmdbid: 0
       malid: 2071
@@ -3303,10 +3307,6 @@ animeMovies:
       tmdbid: 0
       malid: 38461
 
-    - mainTitle: 'Koukaku Kidoutai: Ghost Chaser'
-      tmdbid: 0
-      malid: 38600
-
     - mainTitle: 'Power Battle Watch Car: Minicar Battle League - Bulkkoch-ui Jilju'
       tmdbid: 0
       malid: 38613
@@ -6327,10 +6327,6 @@ animeMovies:
       tmdbid: 0
       malid: 53654
 
-    - mainTitle: Kirameke! Vivacious Dash♡
-      tmdbid: 0
-      malid: 53657
-
     - mainTitle: Guzu no Soko
       tmdbid: 0
       malid: 53658
@@ -7019,10 +7015,6 @@ animeMovies:
       tmdbid: 0
       malid: 56144
 
-    - mainTitle: 'Boku no Hero Academia the Movie 4: You''re Next'
-      tmdbid: 0
-      malid: 56196
-
     - mainTitle: Niger Monogatari
       tmdbid: 0
       malid: 56236
@@ -7539,6 +7531,10 @@ animeMovies:
       tmdbid: 0
       malid: 59186
 
+    - mainTitle: Luo Fanchen (Movie)
+      tmdbid: 0
+      malid: 59237
+
     - mainTitle: 'Mayi Chuanqi: Shenmu Qi Yuan'
       tmdbid: 0
       malid: 59243
@@ -7590,4 +7586,8 @@ animeMovies:
     - mainTitle: Kaijuu 8-gou Movie
       tmdbid: 0
       malid: 59489
+
+    - mainTitle: Wonderer
+      tmdbid: 0
+      malid: 59550
 
