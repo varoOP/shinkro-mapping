@@ -1901,6 +1901,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 37450
+      title: Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+      type: tv
+      tvdbid: 345596
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 37476
       title: Cardfight!! Vanguard (2018)
       type: tv
@@ -2018,6 +2027,15 @@ AnimeMap:
       tvdbid: 355966
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38329
+      title: Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
+      type: movie
+      tvdbid: 345596
+      tvdbseason: 0
+      start: 6
       useMapping: false
       animeMapping: []
 
@@ -3389,6 +3407,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53129
+      title: Seishun Buta Yarou wa Odekake Sister no Yume wo Minai
+      type: movie
+      tvdbid: 345596
+      tvdbseason: 0
+      start: 7
+      useMapping: false
+      animeMapping: []
+
     - malid: 53200
       title: Hataraku Maou-sama!! 2nd Season
       type: tv
@@ -3686,6 +3713,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54870
+      title: Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
+      type: movie
+      tvdbid: 345596
+      tvdbseason: 0
+      start: 8
+      useMapping: false
+      animeMapping: []
+
     - malid: 54898
       title: Bungou Stray Dogs 5th Season
       type: tv
@@ -3934,6 +3970,15 @@ AnimeMap:
       type: tv
       tvdbid: 442839
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57433
+      title: 'Seishun Buta Yarou: Santa Claus no Yume wo Minai'
+      type: tv
+      tvdbid: 345596
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
