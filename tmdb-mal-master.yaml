@@ -771,10 +771,6 @@ animeMovies:
       tmdbid: 0
       malid: 8663
 
-    - mainTitle: Mahou no Princess Minky Momo vs. Mahou no Tenshi Creamy Mami
-      tmdbid: 0
-      malid: 8972
-
     - mainTitle: 'Kindaichi Shounen no Jikenbo Movie 2: Satsuriku no Deep Blue'
       tmdbid: 0
       malid: 9154
@@ -1074,10 +1070,6 @@ animeMovies:
     - mainTitle: Dwaeji-ui Wang
       tmdbid: 0
       malid: 12035
-
-    - mainTitle: 'Ginga Tetsudou 999: Hoshizora wa Time Machine'
-      tmdbid: 0
-      malid: 12163
 
     - mainTitle: 'Kinnikuman II Sei: Muscle Ninjin Soudatsu sen! Choujin Daisensou'
       tmdbid: 0
@@ -2878,10 +2870,6 @@ animeMovies:
     - mainTitle: Wu Kong Dazhan Er Lang Shen
       tmdbid: 0
       malid: 34248
-
-    - mainTitle: Toruru's Adventure
-      tmdbid: 0
-      malid: 34258
 
     - mainTitle: 'PriPara Movie: Mi~nna de Kagayake! Kirarin☆Star Live!'
       tmdbid: 0
@@ -6863,10 +6851,6 @@ animeMovies:
       tmdbid: 0
       malid: 54705
 
-    - mainTitle: Make a Girl
-      tmdbid: 0
-      malid: 54740
-
     - mainTitle: 'Given Movie 2: Hiiragi Mix'
       tmdbid: 0
       malid: 54791
@@ -7062,10 +7046,6 @@ animeMovies:
     - mainTitle: Mao Nian Haian
       tmdbid: 0
       malid: 56338
-
-    - mainTitle: Xue Yu Shaonian
-      tmdbid: 0
-      malid: 56372
 
     - mainTitle: Wangpai Erha
       tmdbid: 0
@@ -7590,4 +7570,12 @@ animeMovies:
     - mainTitle: Wonderer
       tmdbid: 0
       malid: 59550
+
+    - mainTitle: 'Jyulagi Cops: Jeonseolui Godaesaengmuleul Chajala'
+      tmdbid: 0
+      malid: 59587
+
+    - mainTitle: 'Jyulagi Cops: Gonglyongsidae Daemoheom'
+      tmdbid: 0
+      malid: 59588
 
