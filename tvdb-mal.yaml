@@ -4144,3 +4144,75 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 59390
+      title: Terminator 0
+      type: ona
+      tvdbid: 442145
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59593
+      title: Wujin Shenyu
+      type: ona
+      tvdbid: 453480
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59597
+      title: Witch Watch
+      type: tv
+      tvdbid: 453127
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59619
+      title: Ame to Kimi to
+      type: tv
+      tvdbid: 453585
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59623
+      title: Wondance
+      type: tv
+      tvdbid: 453600
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59632
+      title: Mattaku Saikin no Tantei to Kitara
+      type: tv
+      tvdbid: 453647
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59634
+      title: Zhanshen Lianmeng
+      type: ona
+      tvdbid: 453605
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59644
+      title: Yasei no Last Boss ga Arawareta!
+      type: tv
+      tvdbid: 453694
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
