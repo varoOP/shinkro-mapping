@@ -23,10 +23,6 @@ animeMovies:
       tmdbid: 0
       malid: 1078
 
-    - mainTitle: 'Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.'
-      tmdbid: 0
-      malid: 1379
-
     - mainTitle: 'Lupin III: Pilot Film (1978)'
       tmdbid: 0
       malid: 1428
@@ -362,10 +358,6 @@ animeMovies:
     - mainTitle: 'Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!'
       tmdbid: 0
       malid: 5710
-
-    - mainTitle: Doubutsu Sumo Taikai
-      tmdbid: 0
-      malid: 5812
 
     - mainTitle: Oira no Yakyuu
       tmdbid: 0
@@ -7511,6 +7503,10 @@ animeMovies:
       tmdbid: 0
       malid: 59186
 
+    - mainTitle: 'Genjitsu no Yohane: Sunshine in the Mirror Movie'
+      tmdbid: 0
+      malid: 59190
+
     - mainTitle: Luo Fanchen (Movie)
       tmdbid: 0
       malid: 59237
@@ -7578,4 +7574,36 @@ animeMovies:
     - mainTitle: 'Jyulagi Cops: Gonglyongsidae Daemoheom'
       tmdbid: 0
       malid: 59588
+
+    - mainTitle: 'Jujutsu Kaisen: Kaigyoku/Gyokusetsu'
+      tmdbid: 0
+      malid: 59654
+
+    - mainTitle: 'Omocha Bako Series Dai 2-wa: Kuroneko Banzai'
+      tmdbid: 0
+      malid: 59655
+
+    - mainTitle: Crevice
+      tmdbid: 0
+      malid: 59691
+
+    - mainTitle: Saba Ningen
+      tmdbid: 0
+      malid: 59692
+
+    - mainTitle: Ali
+      tmdbid: 0
+      malid: 59694
+
+    - mainTitle: Jinling Yu Mao
+      tmdbid: 0
+      malid: 59696
+
+    - mainTitle: Niwatori Hajimete Toya ni Tsuku
+      tmdbid: 0
+      malid: 59703
+
+    - mainTitle: Imomushi
+      tmdbid: 0
+      malid: 59704
 
