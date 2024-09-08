@@ -319,10 +319,6 @@ animeMovies:
       tmdbid: 211814
       malid: 4795
 
-    - mainTitle: 'Ramayana: The Legend of Prince Rama'
-      tmdbid: 84092
-      malid: 4921
-
     - mainTitle: Jigazou
       tmdbid: 0
       malid: 4966
@@ -914,6 +910,10 @@ animeMovies:
     - mainTitle: 'Bikkuriman: Muen Zone no Hihou'
       tmdbid: 0
       malid: 10200
+
+    - mainTitle: 'Bikkuriman: Daiichiji Seima Taisen'
+      tmdbid: 0
+      malid: 10203
 
     - mainTitle: 'Berserk: Ougon Jidai-hen I - Haou no Tamago'
       tmdbid: 0
@@ -1779,7 +1779,7 @@ animeMovies:
       tmdbid: 0
       malid: 23125
 
-    - mainTitle: 'Otogi Banashi: Bunbuku Chagama'
+    - mainTitle: 'Otogibanashi: Bunbuku Chagama'
       tmdbid: 0
       malid: 23181
 
@@ -7423,9 +7423,9 @@ animeMovies:
       tmdbid: 0
       malid: 58323
 
-    - mainTitle: 'Wonderful Precure! Movie: Dokidoki Game no Sekai de Dai Bouken!'
+    - mainTitle: 'Uma Musume: Pretty Derby - Road to the Top (Movie)'
       tmdbid: 0
-      malid: 58462
+      malid: 58517
 
     - mainTitle: 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie
       tmdbid: 0
@@ -7583,6 +7583,10 @@ animeMovies:
       tmdbid: 0
       malid: 59655
 
+    - mainTitle: 'Gintama on Theater 2D: Kintama-hen'
+      tmdbid: 0
+      malid: 59688
+
     - mainTitle: Crevice
       tmdbid: 0
       malid: 59691
@@ -7606,4 +7610,28 @@ animeMovies:
     - mainTitle: Imomushi
       tmdbid: 0
       malid: 59704
+
+    - mainTitle: 'Inazuma Eleven: Soushuuhen Densetsu no Kickoff'
+      tmdbid: 0
+      malid: 59709
+
+    - mainTitle: 'Planetarium Doraemon: Uchuu no Mokei'
+      tmdbid: 0
+      malid: 59713
+
+    - mainTitle: 'Kidou Senshi Gundam: The Origin - Movie Edition'
+      tmdbid: 0
+      malid: 59718
+
+    - mainTitle: Kuroko
+      tmdbid: 0
+      malid: 59722
+
+    - mainTitle: Watashi wa, Watashi to, Watashi ga, Watashi wo,
+      tmdbid: 0
+      malid: 59723
+
+    - mainTitle: 'Shinran: Jinsei no Mokuteki'
+      tmdbid: 0
+      malid: 59729
 
