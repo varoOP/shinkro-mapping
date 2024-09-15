@@ -31,10 +31,6 @@ animeMovies:
       tmdbid: 139287
       malid: 1549
 
-    - mainTitle: Hiatari Ryoukou! Yume no Naka ni Kimi ga Ita
-      tmdbid: 335351
-      malid: 1552
-
     - mainTitle: 'Dirty Pair: The Movie'
       tmdbid: 0
       malid: 1796
@@ -215,10 +211,6 @@ animeMovies:
       tmdbid: 129213
       malid: 3037
 
-    - mainTitle: 'Yes! Precure 5 Movie: Kagami no Kuni no Miracle Daibouken!'
-      tmdbid: 0
-      malid: 3051
-
     - mainTitle: 'Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi'
       tmdbid: 0
       malid: 3067
@@ -310,10 +302,6 @@ animeMovies:
     - mainTitle: Arisubyeon-ui Kkumnamu
       tmdbid: 0
       malid: 4621
-
-    - mainTitle: 'Yes! Precure 5 GoGo! Movie: Okashi no Kuni no Happy Birthday'
-      tmdbid: 0
-      malid: 4703
 
     - mainTitle: 'Pokemon: Pikapika Hoshizora Camp'
       tmdbid: 211814
@@ -1307,7 +1295,7 @@ animeMovies:
       tmdbid: 0
       malid: 17076
 
-    - mainTitle: Lolling Seutajeu (Movie)
+    - mainTitle: Rolling Seutajeu (Movie)
       tmdbid: 0
       malid: 17104
 
@@ -1930,6 +1918,10 @@ animeMovies:
     - mainTitle: Shiawase no Ouji
       tmdbid: 0
       malid: 25093
+
+    - mainTitle: Xiao Kedou Zhao Mama
+      tmdbid: 0
+      malid: 25173
 
     - mainTitle: Dosukoi! Wanpaku Dohyou
       tmdbid: 0
@@ -7247,6 +7239,34 @@ animeMovies:
       tmdbid: 0
       malid: 57222
 
+    - mainTitle: Salgijohgo Balgeunnala, Naegagajin i Hanpyolo
+      tmdbid: 0
+      malid: 57274
+
+    - mainTitle: Gaemiege Bejjangi
+      tmdbid: 0
+      malid: 57275
+
+    - mainTitle: Jal Sal su Issneungil
+      tmdbid: 0
+      malid: 57276
+
+    - mainTitle: Naneun Mulida
+      tmdbid: 0
+      malid: 57277
+
+    - mainTitle: Bunsue Majge Salja
+      tmdbid: 0
+      malid: 57278
+
+    - mainTitle: Dasineun Sogjimalja
+      tmdbid: 0
+      malid: 57279
+
+    - mainTitle: Eodumi Jinamyeon
+      tmdbid: 0
+      malid: 57280
+
     - mainTitle: C9 Hui Jia
       tmdbid: 0
       malid: 57305
@@ -7334,6 +7354,10 @@ animeMovies:
     - mainTitle: Tori no Machi
       tmdbid: 0
       malid: 57619
+
+    - mainTitle: 'Uta no☆Prince-sama♪ Movie: Taboo Night Kisses'
+      tmdbid: 0
+      malid: 57622
 
     - mainTitle: 'Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru - Saikai'
       tmdbid: 0
@@ -7507,6 +7531,10 @@ animeMovies:
       tmdbid: 0
       malid: 59190
 
+    - mainTitle: 'SINoALICE: Ichiban Saigo no Monogatari'
+      tmdbid: 0
+      malid: 59224
+
     - mainTitle: Luo Fanchen (Movie)
       tmdbid: 0
       malid: 59237
@@ -7634,4 +7662,20 @@ animeMovies:
     - mainTitle: 'Shinran: Jinsei no Mokuteki'
       tmdbid: 0
       malid: 59729
+
+    - mainTitle: Tokyo Montage
+      tmdbid: 0
+      malid: 59774
+
+    - mainTitle: Into a Landscape
+      tmdbid: 0
+      malid: 59795
+
+    - mainTitle: Tulip-chan
+      tmdbid: 0
+      malid: 59802
+
+    - mainTitle: Aki no Kaze Fuku
+      tmdbid: 0
+      malid: 59803
 
