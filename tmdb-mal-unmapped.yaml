@@ -859,10 +859,6 @@ animeMovies:
       tmdbid: 0
       malid: 10013
 
-    - mainTitle: 'Chinpui: Eri-sama Katsudou Daishashin'
-      tmdbid: 0
-      malid: 10040
-
     - mainTitle: 'Black Jack: Heian Sento'
       tmdbid: 0
       malid: 10055
@@ -1918,10 +1914,6 @@ animeMovies:
     - mainTitle: Shiawase no Ouji
       tmdbid: 0
       malid: 25093
-
-    - mainTitle: Xiao Kedou Zhao Mama
-      tmdbid: 0
-      malid: 25173
 
     - mainTitle: Dosukoi! Wanpaku Dohyou
       tmdbid: 0
@@ -3146,10 +3138,6 @@ animeMovies:
     - mainTitle: Chikyuu wa Guruguru Merry-Go-Round
       tmdbid: 0
       malid: 36818
-
-    - mainTitle: Rudolf to Ippaiattena x Godzilla x Toho Cinemas Moving Logo Eizou
-      tmdbid: 0
-      malid: 36835
 
     - mainTitle: 'Youtai Nuhai Zai Shanghai 2: Xianglian Mima'
       tmdbid: 0
@@ -7678,4 +7666,24 @@ animeMovies:
     - mainTitle: Aki no Kaze Fuku
       tmdbid: 0
       malid: 59803
+
+    - mainTitle: 'Doraemon: Ken-chan no Bouken'
+      tmdbid: 0
+      malid: 59829
+
+    - mainTitle: Senlin Fei Xia
+      tmdbid: 0
+      malid: 59876
+
+    - mainTitle: Da Sheng Jiang Yao
+      tmdbid: 0
+      malid: 59877
+
+    - mainTitle: Agami
+      tmdbid: 0
+      malid: 59878
+
+    - mainTitle: 'Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu'
+      tmdbid: 0
+      malid: 59897
 
