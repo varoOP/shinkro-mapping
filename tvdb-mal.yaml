@@ -2120,6 +2120,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 39195
+      title: Beastars
+      type: tv
+      tvdbid: 361013
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 39196
       title: Mairimashita! Iruma-kun
       type: tv
@@ -2255,6 +2264,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 40333
+      title: Uzumaki
+      type: tv
+      tvdbid: 369026
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 40356
       title: Tate no Yuusha no Nariagari Season 2
       type: tv
@@ -2368,6 +2386,15 @@ AnimeMap:
       type: tv
       tvdbid: 289909
       tvdbseason: 5
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40935
+      title: Beastars 2nd Season
+      type: tv
+      tvdbid: 361013
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -2894,11 +2921,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 49469
+      title: Beastars Final Season
+      type: ona
+      tvdbid: 361013
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 49574
       title: 'Yi Nian Yong Heng: Chuan Cheng Pian'
       type: ona
       tvdbid: 388680
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49757
+      title: Wu Chengen Ji Yao Lu
+      type: ona
+      tvdbid: 454517
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -3052,6 +3097,15 @@ AnimeMap:
       type: tv
       tvdbid: 405920
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50306
+      title: Seirei Gensouki 2
+      type: tv
+      tvdbid: 398544
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -3344,6 +3398,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52215
+      title: 'Chi.: Chikyuu no Undou ni Tsuite'
+      type: tv
+      tvdbid: 421583
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 52578
       title: Boku no Kokoro no Yabai Yatsu
       type: tv
@@ -3380,10 +3443,28 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52995
+      title: Arifureta Shokugyou de Sekai Saikyou Season 3
+      type: tv
+      tvdbid: 357019
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 53026
       title: 'Synduality: Noir'
       type: tv
       tvdbid: 424779
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53033
+      title: Mecha-ude (TV)
+      type: tv
+      tvdbid: 437206
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -3440,6 +3521,15 @@ AnimeMap:
       tvdbid: 262954
       tvdbseason: 5
       start: 25
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53287
+      title: Love Live! Superstar!! 3rd Season
+      type: tv
+      tvdbid: 400512
+      tvdbseason: 3
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -3538,6 +3628,15 @@ AnimeMap:
       type: tv
       tvdbid: 352408
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53723
+      title: Acro Trip
+      type: tv
+      tvdbid: 427831
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -3641,6 +3740,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54726
+      title: Tsuma, Shougakusei ni Naru.
+      type: tv
+      tvdbid: 432476
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 54743
       title: Dead Mount Death Play Part 2
       type: tv
@@ -3695,12 +3803,39 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54853
+      title: Maou 2099
+      type: tv
+      tvdbid: 432847
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 54854
       title: 'Shadowverse Flame: Seven Shadows-hen'
       type: tv
       tvdbid: 378522
       tvdbseason: 2
       start: 51
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54857
+      title: Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season
+      type: tv
+      tvdbid: 305089
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54865
+      title: Blue Lock vs. U-20 Japan
+      type: tv
+      tvdbid: 408629
+      tvdbseason: 2
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -3749,6 +3884,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 55071
+      title: Amagami-san Chi no Enmusubi
+      type: tv
+      tvdbid: 432632
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55150
+      title: Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu
+      type: tv
+      tvdbid: 434310
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 55153
       title: Yuzuki-san Chi no Yonkyoudai.
       type: tv
@@ -3763,6 +3916,15 @@ AnimeMap:
       type: tv
       tvdbid: 271591
       tvdbseason: 11
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55570
+      title: 'Shin Tennis no Oujisama: U-17 World Cup Semifinal'
+      type: tv
+      tvdbid: 254899
+      tvdbseason: 4
       start: 0
       useMapping: false
       animeMapping: []
@@ -3857,11 +4019,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 55845
+      title: 'Kidou Senshi Gundam: Fukushuu no Requiem'
+      type: ona
+      tvdbid: 436837
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 55855
       title: 'Kuroshitsuji: Kishuku Gakkou-hen'
       type: tv
       tvdbid: 83996
       tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55887
+      title: Kekkon suru tte, Hontou desu ka
+      type: tv
+      tvdbid: 433584
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -3875,12 +4055,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 55994
+      title: 'Sword Art Online Alternative: Gun Gale Online II'
+      type: tv
+      tvdbid: 335815
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 56063
       title: NieR:Automata Ver1.1a Part 2
       type: tv
       tvdbid: 416998
       tvdbseason: 1
       start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56179
+      title: Delico's Nursery
+      type: tv
+      tvdbid: 437981
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -3893,11 +4091,74 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 56228
+      title: Rekishi ni Nokoru Akujo ni Naru zo
+      type: tv
+      tvdbid: 438125
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56400
+      title: Maou-sama, Retry! R
+      type: tv
+      tvdbid: 361709
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56420
+      title: Haigakura
+      type: tv
+      tvdbid: 438680
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56425
+      title: Houkago Shounen Hanako-kun
+      type: tv
+      tvdbid: 438685
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56461
+      title: Hamidashi Creative
+      type: tv
+      tvdbid: 438953
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 56538
       title: Kimi ni Todoke 3rd Season
       type: ona
       tvdbid: 117801
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56647
+      title: Ao no Miburo
+      type: tv
+      tvdbid: 439531
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56662
+      title: Trillion Game
+      type: tv
+      tvdbid: 439592
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -3938,11 +4199,65 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 56784
+      title: 'Bleach: Sennen Kessen-hen - Soukoku-tan'
+      type: tv
+      tvdbid: 74796
+      tvdbseason: 17
+      start: 27
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56843
+      title: Goukon ni Ittara Onna ga Inakatta Hanashi
+      type: tv
+      tvdbid: 440461
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56894
+      title: Dragon Ball Daima
+      type: tv
+      tvdbid: 440820
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 56948
       title: 'Boku no Kokoro no Yabai Yatsu: Twi-Yaba'
       type: ona
       tvdbid: 422981
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56964
+      title: Raise wa Tanin ga Ii
+      type: tv
+      tvdbid: 441190
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56967
+      title: Kamierabi 2nd Season
+      type: tv
+      tvdbid: 432749
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57066
+      title: 'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen'
+      type: tv
+      tvdbid: 289882
+      tvdbseason: 5
       start: 0
       useMapping: false
       animeMapping: []
@@ -3956,11 +4271,56 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57102
+      title: Houkago Shounen Hanako-kun Part 2
+      type: tv
+      tvdbid: 438685
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57180
       title: Yami Shibai 12
       type: tv
       tvdbid: 271591
       tvdbseason: 12
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57181
+      title: Ao no Hako
+      type: tv
+      tvdbid: 429934
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57334
+      title: Dandadan
+      type: tv
+      tvdbid: 432832
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57360
+      title: Kabushikigaisha Magi-Lumière
+      type: tv
+      tvdbid: 442767
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57362
+      title: Hoshifuru Oukoku no Nina
+      type: tv
+      tvdbid: 442797
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -3983,11 +4343,65 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57517
+      title: Puniru wa Kawaii Slime
+      type: tv
+      tvdbid: 443345
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57533
+      title: Youkai Gakkou no Sensei Hajimemashita!
+      type: tv
+      tvdbid: 443404
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57554
+      title: 'Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran'
+      type: tv
+      tvdbid: 413578
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57559
+      title: MF Ghost 2nd Season
+      type: tv
+      tvdbid: 414207
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57562
+      title: Hyakushou Kizoku 2nd Season
+      type: tv
+      tvdbid: 426432
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57567
       title: Shy 2nd Season
       type: tv
       tvdbid: 425474
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57611
+      title: Kimi wa Meido-sama.
+      type: tv
+      tvdbid: 443726
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -4010,10 +4424,28 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57635
+      title: Kamonohashi Ron no Kindan Suiri 2nd Season
+      type: tv
+      tvdbid: 427919
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57646
       title: Mob kara Hajimaru Tansaku Eiyuutan
       type: tv
       tvdbid: 443862
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57796
+      title: 'Touhai: Ura Rate Mahjong Touhai Roku'
+      type: tv
+      tvdbid: 444559
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -4046,6 +4478,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57891
+      title: Hitoribocchi no Isekai Kouryaku
+      type: tv
+      tvdbid: 445009
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57907
       title: Tate no Yuusha no Nariagari Season 4
       type: tv
@@ -4055,10 +4496,46 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57924
+      title: Tono to Inu
+      type: tv
+      tvdbid: 445259
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57944
+      title: Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
+      type: tv
+      tvdbid: 445252
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 58080
       title: Kenka Dokugaku
       type: tv
       tvdbid: 445964
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58172
+      title: Nageki no Bourei wa Intai shitai
+      type: tv
+      tvdbid: 446389
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58173
+      title: Mahoutsukai ni Narenakatta Onnanoko no Hanashi
+      type: tv
+      tvdbid: 412566
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -4073,11 +4550,56 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 58199
+      title: Yoru wa Neko to Issho Season 3
+      type: ona
+      tvdbid: 419448
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 58224
       title: 'Ore dake Level Up na Ken: How to Get Stronger'
       type: tv_special
       tvdbid: 389597
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58275
+      title: 'Duel Masters LOST: Tsuioku no Suishou'
+      type: ona
+      tvdbid: 446908
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58302
+      title: The iDOLM@STER Shiny Colors 2nd Season
+      type: tv
+      tvdbid: 432624
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58395
+      title: Neko ni Tensei shita Ojisan
+      type: tv
+      tvdbid: 447354
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58445
+      title: Sayounara Ryuusei, Konnichiwa Jinsei
+      type: tv
+      tvdbid: 447609
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -4096,6 +4618,69 @@ AnimeMap:
       type: tv
       tvdbid: 439507
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58511
+      title: 'Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season'
+      type: tv
+      tvdbid: 420018
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58516
+      title: 'Ao no Exorcist: Yuki no Hate-hen'
+      type: tv
+      tvdbid: 248035
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58572
+      title: 'Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season'
+      type: tv
+      tvdbid: 421855
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58714
+      title: Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru
+      type: tv
+      tvdbid: 449245
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58779
+      title: Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2nd Season
+      type: tv
+      tvdbid: 412843
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58827
+      title: Okaimono Panda!
+      type: tv
+      tvdbid: 449699
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58854
+      title: Kinoko Inu
+      type: tv
+      tvdbid: 449989
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -4127,11 +4712,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59131
+      title: Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
+      type: tv
+      tvdbid: 434704
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 59145
       title: Ranma ½ (2024)
       type: tv
       tvdbid: 451479
-      tvdbseason: 0
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59175
+      title: Ooi! Tonbo 2nd Season
+      type: tv
+      tvdbid: 434358
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -4149,6 +4752,42 @@ AnimeMap:
       title: Terminator 0
       type: ona
       tvdbid: 442145
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59425
+      title: NegaPosi Angler
+      type: tv
+      tvdbid: 452741
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59485
+      title: Shibuya♡Hachi Part 2
+      type: tv
+      tvdbid: 446097
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59499
+      title: 'Asatir 2: Mirai no Mukashi Banashi'
+      type: tv
+      tvdbid: 376126
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59505
+      title: Kankin Kuiki Level X
+      type: tv
+      tvdbid: 452993
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -4212,6 +4851,24 @@ AnimeMap:
       title: Yasei no Last Boss ga Arawareta!
       type: tv
       tvdbid: 453694
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59732
+      title: Pochaazu
+      type: tv
+      tvdbid: 454087
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59892
+      title: Murder Mystery of the Dead
+      type: tv
+      tvdbid: 454700
       tvdbseason: 1
       start: 0
       useMapping: false
