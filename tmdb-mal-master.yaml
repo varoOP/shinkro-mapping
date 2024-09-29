@@ -7439,10 +7439,6 @@ animeMovies:
       tmdbid: 0
       malid: 58517
 
-    - mainTitle: 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie
-      tmdbid: 0
-      malid: 58549
-
     - mainTitle: 'Beuledeu Ibalso Movie: Selleob in Beikeolitaun'
       tmdbid: 0
       malid: 58560
@@ -7595,10 +7591,6 @@ animeMovies:
       tmdbid: 0
       malid: 59655
 
-    - mainTitle: 'Gintama on Theater 2D: Kintama-hen'
-      tmdbid: 0
-      malid: 59688
-
     - mainTitle: Crevice
       tmdbid: 0
       malid: 59691
@@ -7742,4 +7734,12 @@ animeMovies:
     - mainTitle: Kaguya-hime
       tmdbid: 0
       malid: 59930
+
+    - mainTitle: 'Doraemon Movie 44: Nobita no e Sekai Monogatari'
+      tmdbid: 0
+      malid: 59980
+
+    - mainTitle: Taiyou wo Nakushita Hi
+      tmdbid: 0
+      malid: 59981
 
