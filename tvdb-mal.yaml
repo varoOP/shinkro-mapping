@@ -2940,7 +2940,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49757
-      title: Wu Chengen Ji Yao Lu
+      title: 'Ji Yao Lu: Qicheng Pian'
       type: ona
       tvdbid: 454517
       tvdbseason: 1
@@ -4660,7 +4660,7 @@ AnimeMap:
 
     - malid: 58779
       title: Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2nd Season
-      type: tv
+      type: ona
       tvdbid: 412843
       tvdbseason: 2
       start: 0
@@ -4686,8 +4686,8 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58883
-      title: Dead Dead Demons Dededede Destruction (ONA)
-      type: ona
+      title: Dead Dead Demons Dededede Destruction (OVA)
+      type: ova
       tvdbid: 418123
       tvdbseason: 1
       start: 0
@@ -4695,8 +4695,8 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58920
-      title: Dead Dead Demons Dededede Destruction (ONA) Episode 0
-      type: ona
+      title: Dead Dead Demons Dededede Destruction (OVA) Episode 0
+      type: ova
       tvdbid: 418123
       tvdbseason: 0
       start: 0
