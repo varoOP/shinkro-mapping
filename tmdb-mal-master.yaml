@@ -2275,6 +2275,10 @@ animeMovies:
       tmdbid: 0
       malid: 29924
 
+    - mainTitle: Kaguya-hime (1961)
+      tmdbid: 0
+      malid: 29927
+
     - mainTitle: Yume
       tmdbid: 0
       malid: 29932
@@ -3246,10 +3250,6 @@ animeMovies:
     - mainTitle: 'Zhu Zhu Xia: Yong Chuang Juren Dao'
       tmdbid: 0
       malid: 38133
-
-    - mainTitle: Suzumi-bune
-      tmdbid: 0
-      malid: 38339
 
     - mainTitle: Bai Niao
       tmdbid: 0
@@ -7515,10 +7515,6 @@ animeMovies:
       tmdbid: 0
       malid: 59186
 
-    - mainTitle: 'Genjitsu no Yohane: Sunshine in the Mirror Movie'
-      tmdbid: 0
-      malid: 59190
-
     - mainTitle: 'SINoALICE: Ichiban Saigo no Monogatari'
       tmdbid: 0
       malid: 59224
@@ -7671,6 +7667,54 @@ animeMovies:
       tmdbid: 0
       malid: 59829
 
+    - mainTitle: 'F-Chara All Stars Daishuugou: Doraemon & Perman - Kikiippatsu!?'
+      tmdbid: 0
+      malid: 59844
+
+    - mainTitle: '21 Emon & Doraemon: Youkoso!! Hotel Tsuzureya e'
+      tmdbid: 0
+      malid: 59847
+
+    - mainTitle: 'Susume Roboket & Doraemon: Kessen! Kumo no Ue no Tatsumakijou'
+      tmdbid: 0
+      malid: 59849
+
+    - mainTitle: 'Doraemon & Chinpui: Eri-sama Ai no Present Daisakusen'
+      tmdbid: 0
+      malid: 59850
+
+    - mainTitle: 'Kiteretsu Daihyakka & Doraemon: Korosuke no Hajimete no Otsukai'
+      tmdbid: 0
+      malid: 59851
+
+    - mainTitle: 'Pokonyan & Doraemon: Ponpoko-nyan de Koko Hore Nyan Nyan!?'
+      tmdbid: 0
+      malid: 59852
+
+    - mainTitle: 'Umeboshi Denka & Doraemon: Panparopan no Suppappa!'
+      tmdbid: 0
+      malid: 59854
+
+    - mainTitle: 'Doraemon & F-Chara All Stars: Getsumen Race de Dai-Pinch!?'
+      tmdbid: 0
+      malid: 59855
+
+    - mainTitle: Doraemon Tanjou
+      tmdbid: 0
+      malid: 59856
+
+    - mainTitle: 'Doraemon & F-Chara All Stars: Sukoshi Fushigi Express'
+      tmdbid: 0
+      malid: 59857
+
+    - mainTitle: 'Doraemon & SF Tanpen: Sora kara no Otoshidama'
+      tmdbid: 0
+      malid: 59858
+
+    - mainTitle: 'Doraemon & F-Chara All Stars: Yume no Machi, F Land'
+      tmdbid: 0
+      malid: 59859
+
     - mainTitle: Senlin Fei Xia
       tmdbid: 0
       malid: 59876
@@ -7683,7 +7727,19 @@ animeMovies:
       tmdbid: 0
       malid: 59878
 
+    - mainTitle: Goyang-iga Doeeossda
+      tmdbid: 0
+      malid: 59896
+
     - mainTitle: 'Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu'
       tmdbid: 0
       malid: 59897
+
+    - mainTitle: Kaguya-hime (1972)
+      tmdbid: 0
+      malid: 59925
+
+    - mainTitle: Kaguya-hime
+      tmdbid: 0
+      malid: 59930
 
