@@ -4873,3 +4873,12 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 59989
+      title: 'Kami no Tou: Koubou-sen'
+      type: tv
+      tvdbid: 376729
+      tvdbseason: 2
+      start: 14
+      useMapping: false
+      animeMapping: []
