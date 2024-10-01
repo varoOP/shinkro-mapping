@@ -4208,6 +4208,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 56835
+      title: 'Code Geass: Dakkan no Rozé'
+      type: ona
+      tvdbid: 443905
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 56843
       title: Goukon ni Ittara Onna ga Inakatta Hanashi
       type: tv
