@@ -747,6 +747,10 @@ animeMovies:
       tmdbid: 0
       malid: 8663
 
+    - mainTitle: Rokudenashi Blues
+      tmdbid: 0
+      malid: 9077
+
     - mainTitle: 'Kindaichi Shounen no Jikenbo Movie 2: Satsuriku no Deep Blue'
       tmdbid: 0
       malid: 9154
@@ -3394,10 +3398,6 @@ animeMovies:
     - mainTitle: Zounds
       tmdbid: 0
       malid: 39331
-
-    - mainTitle: 'Dayan to Tama to Tobi Neko to: 3-tsu no Neko no Monogatari'
-      tmdbid: 0
-      malid: 39351
 
     - mainTitle: 'Tezuka Osamu no Uchuu Wonder 3: Ginga Renmei no Shisha'
       tmdbid: 0
@@ -7715,10 +7715,6 @@ animeMovies:
       tmdbid: 0
       malid: 59877
 
-    - mainTitle: Agami
-      tmdbid: 0
-      malid: 59878
-
     - mainTitle: Goyang-iga Doeeossda
       tmdbid: 0
       malid: 59896
@@ -7742,4 +7738,8 @@ animeMovies:
     - mainTitle: Taiyou wo Nakushita Hi
       tmdbid: 0
       malid: 59981
+
+    - mainTitle: Kamigami Rairai
+      tmdbid: 0
+      malid: 60007
 
