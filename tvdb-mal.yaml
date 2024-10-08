@@ -841,6 +841,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 11597
+      title: Nisemonogatari
+      type: tv
+      tvdbid: 102261
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 11665
       title: Natsume Yuujinchou Shi
       type: tv
@@ -980,6 +989,15 @@ AnimeMap:
       title: 'Cardfight!! Vanguard: Link Joker-hen'
       type: tv
       tvdbid: 245821
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 17074
+      title: 'Monogatari Series: Second Season'
+      type: tv
+      tvdbid: 102261
       tvdbseason: 3
       start: 0
       useMapping: false
@@ -1312,6 +1330,15 @@ AnimeMap:
       type: special
       tvdbid: 289884
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31181
+      title: Owarimonogatari
+      type: tv
+      tvdbid: 102261
+      tvdbseason: 4
       start: 0
       useMapping: false
       animeMapping: []
@@ -1700,6 +1727,15 @@ AnimeMap:
       tvdbid: 289884
       tvdbseason: 0
       start: 17
+      useMapping: false
+      animeMapping: []
+
+    - malid: 35247
+      title: Owarimonogatari 2nd Season
+      type: tv_special
+      tvdbid: 102261
+      tvdbseason: 5
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -2242,6 +2278,15 @@ AnimeMap:
       type: tv
       tvdbid: 289909
       tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 39988
+      title: Isekai Quartet 2
+      type: tv
+      tvdbid: 357471
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -4472,8 +4517,8 @@ AnimeMap:
     - malid: 57864
       title: 'Monogatari Series: Off & Monster Season'
       type: ona
-      tvdbid: 444877
-      tvdbseason: 1
+      tvdbid: 102261
+      tvdbseason: 6
       start: 0
       useMapping: false
       animeMapping: []
