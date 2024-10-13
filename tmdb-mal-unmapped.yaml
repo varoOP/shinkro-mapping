@@ -7055,10 +7055,6 @@ animeMovies:
       tmdbid: 0
       malid: 56423
 
-    - mainTitle: 'Zegapain: STA'
-      tmdbid: 0
-      malid: 56488
-
     - mainTitle: 'La Nuit des Illusions: Meisou no Yoru'
       tmdbid: 0
       malid: 56500
@@ -7742,4 +7738,8 @@ animeMovies:
     - mainTitle: Kamigami Rairai
       tmdbid: 0
       malid: 60007
+
+    - mainTitle: 'Blue Lock: Episode Nagi - Additional Time!'
+      tmdbid: 0
+      malid: 60076
 
