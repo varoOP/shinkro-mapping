@@ -115,6 +115,10 @@ animeMovies:
       tmdbid: 0
       malid: 2493
 
+    - mainTitle: 'Slam Dunk: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi'
+      tmdbid: 0
+      malid: 2498
+
     - mainTitle: 'The☆Doraemons: Mushimushi Pyonpyon Daisakusen!'
       tmdbid: 0
       malid: 2626
@@ -602,10 +606,6 @@ animeMovies:
     - mainTitle: Umi no Triton (1979)
       tmdbid: 0
       malid: 7626
-
-    - mainTitle: Ari no Seikatsu
-      tmdbid: 0
-      malid: 7633
 
     - mainTitle: 'Sangokushi: Dai Ichi Bu - Eiyuu-tachi no Yoake'
       tmdbid: 0
@@ -3259,10 +3259,6 @@ animeMovies:
       tmdbid: 0
       malid: 38341
 
-    - mainTitle: 'Macross Δ Movie 2: Zettai Live!!!'
-      tmdbid: 0
-      malid: 38373
-
     - mainTitle: 'Free! Movie 4: The Final Stroke - Zenpen'
       tmdbid: 0
       malid: 38400
@@ -3771,7 +3767,7 @@ animeMovies:
       tmdbid: 0
       malid: 42576
 
-    - mainTitle: Black Cat
+    - mainTitle: Black Cat (Movie)
       tmdbid: 0
       malid: 42585
 
@@ -4814,10 +4810,6 @@ animeMovies:
     - mainTitle: Ma Lan Hua
       tmdbid: 0
       malid: 43894
-
-    - mainTitle: Ma Lan Hua (2009)
-      tmdbid: 0
-      malid: 43895
 
     - mainTitle: Jingling Nuhai Xiao Zhuoma
       tmdbid: 0
@@ -5970,10 +5962,6 @@ animeMovies:
     - mainTitle: Ki no Naka Sasu Sakana no Ki
       tmdbid: 0
       malid: 51850
-
-    - mainTitle: Mizube no Shokubutsu
-      tmdbid: 0
-      malid: 51851
 
     - mainTitle: SiNK
       tmdbid: 0
@@ -7447,6 +7435,10 @@ animeMovies:
       tmdbid: 0
       malid: 58735
 
+    - mainTitle: Killtube
+      tmdbid: 0
+      malid: 58756
+
     - mainTitle: Parking Area
       tmdbid: 0
       malid: 58806
@@ -7474,6 +7466,10 @@ animeMovies:
     - mainTitle: Kikyou
       tmdbid: 0
       malid: 58951
+
+    - mainTitle: Ninja Batman tai Yakuza League
+      tmdbid: 0
+      malid: 58964
 
     - mainTitle: Pororo Sinnaneun Ujuyeohaeng
       tmdbid: 0
@@ -7570,6 +7566,10 @@ animeMovies:
     - mainTitle: Wonderer
       tmdbid: 0
       malid: 59550
+
+    - mainTitle: 'Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack'
+      tmdbid: 0
+      malid: 59571
 
     - mainTitle: 'Jyulagi Cops: Jeonseolui Godaesaengmuleul Chajala'
       tmdbid: 0
