@@ -6339,6 +6339,10 @@ animeMovies:
       tmdbid: 0
       malid: 53842
 
+    - mainTitle: SSSS.Dynazenon Movie
+      tmdbid: 0
+      malid: 53851
+
     - mainTitle: Kaerimichi
       tmdbid: 0
       malid: 53867
@@ -6911,7 +6915,7 @@ animeMovies:
       tmdbid: 0
       malid: 55709
 
-    - mainTitle: Love Live! Nijigasaki Gakuen School Idol Doukoukai Kanketsu-hen
+    - mainTitle: 'Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen'
       tmdbid: 0
       malid: 55748
 
@@ -7742,4 +7746,16 @@ animeMovies:
     - mainTitle: 'Blue Lock: Episode Nagi - Additional Time!'
       tmdbid: 0
       malid: 60076
+
+    - mainTitle: 'Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen Part 2'
+      tmdbid: 0
+      malid: 60159
+
+    - mainTitle: Hanei
+      tmdbid: 0
+      malid: 60184
+
+    - mainTitle: Kusari
+      tmdbid: 0
+      malid: 60190
 
