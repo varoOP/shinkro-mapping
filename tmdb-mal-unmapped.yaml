@@ -831,6 +831,10 @@ animeMovies:
       tmdbid: 0
       malid: 9745
 
+    - mainTitle: Lady Lady!! (1988)
+      tmdbid: 0
+      malid: 9773
+
     - mainTitle: 'Meitantei Conan: Conan vs. Kid - Shikkoku no Sniper'
       tmdbid: 0
       malid: 9786
@@ -3279,6 +3283,10 @@ animeMovies:
       tmdbid: 0
       malid: 38618
 
+    - mainTitle: Tug-Tug
+      tmdbid: 0
+      malid: 38640
+
     - mainTitle: Shayou
       tmdbid: 0
       malid: 38641
@@ -4050,10 +4058,6 @@ animeMovies:
     - mainTitle: Meitounao He Bugaoxing
       tmdbid: 0
       malid: 43347
-
-    - mainTitle: Kongque  Gongzhu
-      tmdbid: 0
-      malid: 43354
 
     - mainTitle: Huang Jin Meng
       tmdbid: 0
@@ -7382,10 +7386,6 @@ animeMovies:
     - mainTitle: Sewing Love
       tmdbid: 0
       malid: 57975
-
-    - mainTitle: Kiiroi Kaiyou Kishoudai
-      tmdbid: 0
-      malid: 58014
 
     - mainTitle: 'Spy x Family Movie: Code: White Manner Movie'
       tmdbid: 0
