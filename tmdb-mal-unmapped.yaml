@@ -63,10 +63,6 @@ animeMovies:
       tmdbid: 0
       malid: 2174
 
-    - mainTitle: 'Kino no Tabi: The Beautiful World - Byouki no Kuni - For You'
-      tmdbid: 0
-      malid: 2175
-
     - mainTitle: Jumping
       tmdbid: 0
       malid: 2211
@@ -754,10 +750,6 @@ animeMovies:
     - mainTitle: 'Kindaichi Shounen no Jikenbo Movie 2: Satsuriku no Deep Blue'
       tmdbid: 0
       malid: 9154
-
-    - mainTitle: Attack No.1 (1970)
-      tmdbid: 0
-      malid: 9163
 
     - mainTitle: 'Hana no Ko Lunlun: Konnichiwa Sakura no Kuni'
       tmdbid: 0
@@ -5535,10 +5527,6 @@ animeMovies:
       tmdbid: 0
       malid: 45654
 
-    - mainTitle: 'Argonavis Movie: Axia'
-      tmdbid: 0
-      malid: 45731
-
     - mainTitle: Cike Nieyinniang Qianchuan
       tmdbid: 0
       malid: 45781
@@ -5622,6 +5610,10 @@ animeMovies:
     - mainTitle: Houkago
       tmdbid: 0
       malid: 48646
+
+    - mainTitle: 'Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen'
+      tmdbid: 0
+      malid: 48780
 
     - mainTitle: 'Oshiri Tantei Movie 3: Sufure-tou no Himitsu'
       tmdbid: 0
@@ -7571,10 +7563,6 @@ animeMovies:
       tmdbid: 0
       malid: 59550
 
-    - mainTitle: 'Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack'
-      tmdbid: 0
-      malid: 59571
-
     - mainTitle: 'Jyulagi Cops: Jeonseolui Godaesaengmuleul Chajala'
       tmdbid: 0
       malid: 59587
@@ -7731,7 +7719,7 @@ animeMovies:
       tmdbid: 0
       malid: 59930
 
-    - mainTitle: 'Doraemon Movie 44: Nobita no e Sekai Monogatari'
+    - mainTitle: 'Doraemon Movie 44: Nobita no E Sekai Monogatari'
       tmdbid: 0
       malid: 59980
 
@@ -7758,4 +7746,12 @@ animeMovies:
     - mainTitle: Kusari
       tmdbid: 0
       malid: 60190
+
+    - mainTitle: Metamorphose.
+      tmdbid: 0
+      malid: 60264
+
+    - mainTitle: 'Hypnosis Mic: Division Rap Battle Movie'
+      tmdbid: 0
+      malid: 60273
 
