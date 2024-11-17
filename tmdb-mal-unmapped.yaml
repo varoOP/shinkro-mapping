@@ -859,10 +859,6 @@ animeMovies:
       tmdbid: 0
       malid: 10013
 
-    - mainTitle: 'Black Jack: Heian Sento'
-      tmdbid: 0
-      malid: 10055
-
     - mainTitle: 'Sore Ike! Anpanman: Kyouryuu Nosshii no Daibouken'
       tmdbid: 0
       malid: 10056
@@ -1434,6 +1430,10 @@ animeMovies:
     - mainTitle: Hanasaka Jijii
       tmdbid: 0
       malid: 18457
+
+    - mainTitle: Jungle Taitei (2000)
+      tmdbid: 0
+      malid: 18533
 
     - mainTitle: Donyatsu
       tmdbid: 0
@@ -4283,10 +4283,6 @@ animeMovies:
       tmdbid: 0
       malid: 43490
 
-    - mainTitle: Yuan Yuan He Ji Qi Ren
-      tmdbid: 0
-      malid: 43491
-
     - mainTitle: Long Ya Xing
       tmdbid: 0
       malid: 43493
@@ -5518,10 +5514,6 @@ animeMovies:
     - mainTitle: Don't Cry (Movie)
       tmdbid: 0
       malid: 45584
-
-    - mainTitle: Eomma Chaja Sammanli
-      tmdbid: 0
-      malid: 45645
 
     - mainTitle: 'Xiyou Ji: Zai Shi Yao Wang'
       tmdbid: 0
@@ -7063,6 +7055,10 @@ animeMovies:
       tmdbid: 0
       malid: 56507
 
+    - mainTitle: 'Gintama on Theater 2D: Baragaki-hen'
+      tmdbid: 0
+      malid: 56544
+
     - mainTitle: Nejikure Ojisan
       tmdbid: 0
       malid: 56550
@@ -7170,6 +7166,10 @@ animeMovies:
     - mainTitle: Nanzoya
       tmdbid: 0
       malid: 57062
+
+    - mainTitle: Kasa
+      tmdbid: 0
+      malid: 57073
 
     - mainTitle: Shan Gaogao
       tmdbid: 0
@@ -7331,6 +7331,10 @@ animeMovies:
       tmdbid: 0
       malid: 57622
 
+    - mainTitle: Kennedy Knights Pilot Film
+      tmdbid: 0
+      malid: 57718
+
     - mainTitle: 'Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru - Saikai'
       tmdbid: 0
       malid: 57828
@@ -7346,10 +7350,6 @@ animeMovies:
     - mainTitle: Yodaka
       tmdbid: 0
       malid: 57905
-
-    - mainTitle: 'Pui Pui Molcar the Movie: MOLMAX'
-      tmdbid: 0
-      malid: 57910
 
     - mainTitle: Zou no Katachi
       tmdbid: 0
@@ -7370,6 +7370,10 @@ animeMovies:
     - mainTitle: 'Xiong Haizi: Tanxian Xiong Bing'
       tmdbid: 0
       malid: 57933
+
+    - mainTitle: 'Rakuen Tsuihou: Kokoro no Resonance'
+      tmdbid: 0
+      malid: 57961
 
     - mainTitle: Ran
       tmdbid: 0
@@ -7419,6 +7423,10 @@ animeMovies:
       tmdbid: 0
       malid: 58517
 
+    - mainTitle: Hodong Wangjawa Laglang Gongju (2022)
+      tmdbid: 0
+      malid: 58527
+
     - mainTitle: 'Beuledeu Ibalso Movie: Selleob in Beikeolitaun'
       tmdbid: 0
       malid: 58560
@@ -7430,6 +7438,10 @@ animeMovies:
     - mainTitle: A New Dawn
       tmdbid: 0
       malid: 58735
+
+    - mainTitle: 'Hiro & Hana: Rakko no Okiniiri'
+      tmdbid: 0
+      malid: 58738
 
     - mainTitle: Killtube
       tmdbid: 0
@@ -7750,6 +7762,10 @@ animeMovies:
     - mainTitle: Metamorphose.
       tmdbid: 0
       malid: 60264
+
+    - mainTitle: Xiangle Huayuan
+      tmdbid: 0
+      malid: 60272
 
     - mainTitle: 'Hypnosis Mic: Division Rap Battle Movie'
       tmdbid: 0
