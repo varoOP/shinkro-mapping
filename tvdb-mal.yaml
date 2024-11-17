@@ -3965,6 +3965,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 55194
+      title: Ooi! Tonbo
+      type: tv
+      tvdbid: 434358
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 55570
       title: 'Shin Tennis no Oujisama: U-17 World Cup Semifinal'
       type: tv
@@ -4788,8 +4797,8 @@ AnimeMap:
       title: Ooi! Tonbo 2nd Season
       type: tv
       tvdbid: 434358
-      tvdbseason: 2
-      start: 0
+      tvdbseason: 1
+      start: 14
       useMapping: false
       animeMapping: []
 
