@@ -4361,6 +4361,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57192
+      title: Yeosin Gangnim
+      type: ona
+      tvdbid: 442363
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57334
       title: Dandadan
       type: tv
