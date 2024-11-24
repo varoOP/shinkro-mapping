@@ -47738,7 +47738,7 @@
       "releaseDate": "2013-04-08"
    },
    {
-      "title": "Bakuman.: Deraman.",
+      "title": "Bakuman. Deraman.",
       "malid": 15711,
       "type": "special",
       "releaseDate": "2012-09-29"
@@ -81558,8 +81558,8 @@
       "releaseDate": "1989-04-21"
    },
    {
-      "title": "BanG Dream!: Asonjatta!",
-      "enTitle": "BanG Dream!: We Had Some Fun!",
+      "title": "BanG Dream! Asonjatta!",
+      "enTitle": "BanG Dream! We Had Some Fun!",
       "malid": 34870,
       "type": "special",
       "releaseDate": "2017-11-22"
@@ -138993,10 +138993,10 @@
       "releaseDate": "2004"
    },
    {
-      "title": "Disney: Twisted-Wonderland",
+      "title": "Disney: Twisted-Wonderland The Animation - Episode of Heartslabyul",
       "malid": 50139,
-      "type": "unknown",
-      "releaseDate": ""
+      "type": "ona",
+      "releaseDate": "2025-10"
    },
    {
       "title": "Yoshida Katsuko no Yabai wa! SDGs: Araburu! Trouble! Sustainable!",
@@ -141768,7 +141768,7 @@
       "releaseDate": "2022-12-23"
    },
    {
-      "title": "Grisaia: Phantom Trigger the Animation (TV)",
+      "title": "Grisaia: Phantom Trigger",
       "malid": 51119,
       "type": "tv",
       "releaseDate": "2025-01"
@@ -144720,7 +144720,7 @@
    },
    {
       "title": "Da Wang Rao Ming 2",
-      "enTitle": "Spare Me, Great Lord! 2nd Season",
+      "enTitle": "Spare Me, Great Lord! Season 2",
       "malid": 51898,
       "type": "ona",
       "releaseDate": "2023-12-30"
@@ -148111,7 +148111,7 @@
       "releaseDate": "2021-12-22"
    },
    {
-      "title": "Jib-i Eopseo PV",
+      "title": "Jibi Eopseo PV",
       "enTitle": "No Home PV",
       "malid": 52881,
       "type": "pv",
@@ -148500,7 +148500,7 @@
       "releaseDate": "2020-10-24"
    },
    {
-      "title": "Gu Gu Choki Choki",
+      "title": "Guuguu Chokichoki",
       "malid": 52979,
       "type": "music",
       "releaseDate": "2021-02-01"
@@ -151105,10 +151105,10 @@
       "releaseDate": "2018"
    },
    {
-      "title": "Project Bullet/Bullet",
+      "title": "Bullet/Bullet",
       "malid": 53722,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2025-07"
    },
    {
       "title": "Acro Trip",
@@ -153115,7 +153115,7 @@
       "title": "Cardfight!! Vanguard: Divinez Deluxe-hen",
       "malid": 54144,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-11"
    },
    {
       "title": "Cardfight!! Vanguard: D Series Season 9",
@@ -157282,6 +157282,12 @@
       "releaseDate": "2022-07-25"
    },
    {
+      "title": "Choujin Densetsu Urotsukidouji: Inferno Road Jain Kanzenban",
+      "malid": 55309,
+      "type": "ova",
+      "releaseDate": "1995-11-10"
+   },
+   {
       "title": "Atarashii Joushi wa Do Tennen",
       "enTitle": "My New Boss Is Goofy",
       "malid": 55310,
@@ -157763,6 +157769,12 @@
       "malid": 55418,
       "type": "music",
       "releaseDate": "2022-06-05"
+   },
+   {
+      "title": "Flashback Insanity",
+      "malid": 55421,
+      "type": "music",
+      "releaseDate": "2022-08-21"
    },
    {
       "title": "Dorothy",
@@ -159495,7 +159507,7 @@
       "title": "Fate/strange Fake",
       "malid": 55830,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2024-12-31"
    },
    {
       "title": "Henshin",
@@ -160288,7 +160300,7 @@
       "enTitle": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
       "malid": 55997,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-11"
    },
    {
       "title": "Momochi-san Chi no Ayakashi Ouji",
@@ -166390,7 +166402,7 @@
       "releaseDate": "2021-09-20"
    },
    {
-      "title": "Seishun Buta Yarou: Santa Claus no Yume wo Minai",
+      "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
       "malid": 57433,
       "type": "tv",
       "releaseDate": "2025"
@@ -167262,7 +167274,7 @@
       "enTitle": "Welcome to Japan, Ms. Elf!",
       "malid": 57648,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-10"
    },
    {
       "title": "Hakimono to Kasa no Monogatari (March, 2015)",
@@ -168180,7 +168192,7 @@
       "enTitle": "The Untold Story of Pecharunt",
       "malid": 57858,
       "type": "ona",
-      "releaseDate": "2024-01-15"
+      "releaseDate": "2024-01-11"
    },
    {
       "title": "Egao no Taenai Shokuba desu.",
@@ -168790,6 +168802,13 @@
       "releaseDate": "2024-02-03"
    },
    {
+      "title": "Hissei yo",
+      "enTitle": "This Lifetime",
+      "malid": 58027,
+      "type": "music",
+      "releaseDate": "2020-08-13"
+   },
+   {
       "title": "Shinsekai e",
       "enTitle": "To the New World",
       "malid": 58031,
@@ -169372,7 +169391,7 @@
       "title": "Yoru wa Neko to Issho Season 3",
       "malid": 58199,
       "type": "ona",
-      "releaseDate": "2024-12"
+      "releaseDate": "2024-12-04"
    },
    {
       "title": "Nekokaburi na",
@@ -170306,6 +170325,13 @@
       "releaseDate": "2024-04-16"
    },
    {
+      "title": "Ben Yue Fu Yan",
+      "enTitle": "Flying to the Moon and Banquet",
+      "malid": 58483,
+      "type": "ona",
+      "releaseDate": "2023-03-21"
+   },
+   {
       "title": "Ishura 2nd Season",
       "malid": 58484,
       "type": "tv",
@@ -170528,6 +170554,13 @@
       "malid": 58537,
       "type": "pv",
       "releaseDate": "2022-07-11"
+   },
+   {
+      "title": "Egaki Tsuzuketa Kimi e",
+      "enTitle": "To You, Who Kept on Drawing",
+      "malid": 58538,
+      "type": "music",
+      "releaseDate": "2024-03-27"
    },
    {
       "title": "Say You to Yoasobi Animation: Ikuda Momo! Sobi-",
@@ -170844,6 +170877,13 @@
       "releaseDate": "2024-04-13"
    },
    {
+      "title": "Saiakuma",
+      "enTitle": "Bad Dream Bear",
+      "malid": 58679,
+      "type": "music",
+      "releaseDate": "2013-12-16"
+   },
+   {
       "title": "Panda Narikiri Taisou",
       "malid": 58680,
       "type": "ona",
@@ -170876,6 +170916,13 @@
       "malid": 58698,
       "type": "music",
       "releaseDate": "2024-04-18"
+   },
+   {
+      "title": "Cult.",
+      "enTitle": "Cult.",
+      "malid": 58701,
+      "type": "music",
+      "releaseDate": "2023-11-17"
    },
    {
       "title": "Shadowverse Flame: Seven Shadows-hen Recap",
@@ -170996,7 +171043,7 @@
       "title": "5-toubun no Hanayome*",
       "malid": 58755,
       "type": "tv_special",
-      "releaseDate": ""
+      "releaseDate": "2024-12-24"
    },
    {
       "title": "Killtube",
@@ -171082,6 +171129,13 @@
       "releaseDate": "2024-05-03"
    },
    {
+      "title": "Jantama 5-shuunen Kinen PV",
+      "enTitle": "Mahjong Soul 5th Anniversary PV",
+      "malid": 58792,
+      "type": "pv",
+      "releaseDate": "2024-04-25"
+   },
+   {
       "title": "Dies Irae: Irasshai Zonnenji Specials",
       "malid": 58794,
       "type": "special",
@@ -171142,7 +171196,7 @@
       "title": "Shin Samurai-den Yaiba",
       "malid": 58812,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2025-04"
    },
    {
       "title": "Upapuro",
@@ -171488,6 +171542,13 @@
       "malid": 58909,
       "type": "unknown",
       "releaseDate": ""
+   },
+   {
+      "title": "Misui",
+      "enTitle": "Underway",
+      "malid": 58910,
+      "type": "music",
+      "releaseDate": "2024-05-23"
    },
    {
       "title": "Uso ja Nai",
@@ -171843,7 +171904,7 @@
       "title": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
       "malid": 59002,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-07"
    },
    {
       "title": "Leviathan",
@@ -173878,14 +173939,14 @@
       "enTitle": "Kaiju No. 8 Movie",
       "malid": 59489,
       "type": "movie",
-      "releaseDate": "2025"
+      "releaseDate": "2025-03-28"
    },
    {
       "title": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
       "enTitle": "Hoshina's Day Off",
       "malid": 59490,
       "type": "special",
-      "releaseDate": "2025"
+      "releaseDate": "2025-03-28"
    },
    {
       "title": "Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories",
@@ -173939,6 +174000,12 @@
       "releaseDate": "2017-10-02"
    },
    {
+      "title": "DenDekaDen PV",
+      "malid": 59504,
+      "type": "pv",
+      "releaseDate": "2024-08-06"
+   },
+   {
       "title": "Kankin Kuiki Level X",
       "enTitle": "Lockdown Zone: Lv. X",
       "malid": 59505,
@@ -173968,6 +174035,12 @@
       "malid": 59512,
       "type": "tv",
       "releaseDate": "2024-10-06"
+   },
+   {
+      "title": "Hyururirapappa",
+      "malid": 59513,
+      "type": "music",
+      "releaseDate": "2024-08-08"
    },
    {
       "title": "Sentai Red Isekai de Boukensha ni Naru",
@@ -175356,7 +175429,7 @@
       "releaseDate": "2025"
    },
    {
-      "title": "Jib-i Eopseo",
+      "title": "Jibi Eopseo",
       "malid": 59868,
       "type": "ona",
       "releaseDate": "2024-11-01"
@@ -176041,6 +176114,30 @@
       "releaseDate": "2024-09-30"
    },
    {
+      "title": "Garbage Time PV",
+      "malid": 60035,
+      "type": "pv",
+      "releaseDate": "2024-10-03"
+   },
+   {
+      "title": "Yugsiggo PV",
+      "malid": 60036,
+      "type": "pv",
+      "releaseDate": "2024-09-10"
+   },
+   {
+      "title": "Jagdu PV",
+      "malid": 60037,
+      "type": "pv",
+      "releaseDate": "2024-07-11"
+   },
+   {
+      "title": "Pibugwa Manlebnam PV",
+      "malid": 60041,
+      "type": "pv",
+      "releaseDate": "2024-03-28"
+   },
+   {
       "title": "Sakuranbo Message",
       "enTitle": "Cherry Message",
       "malid": 60042,
@@ -176191,6 +176288,12 @@
       "malid": 60083,
       "type": "tv",
       "releaseDate": "2025"
+   },
+   {
+      "title": "Delico's Nursery: Ikuji Nisshi",
+      "malid": 60084,
+      "type": "tv_special",
+      "releaseDate": "2024-10-10"
    },
    {
       "title": "Meme",
@@ -176791,9 +176894,189 @@
       "releaseDate": ""
    },
    {
+      "title": "Hige yo Saraba",
+      "malid": 60307,
+      "type": "music",
+      "releaseDate": "2008"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Anpanman to Black Christmas",
+      "malid": 60308,
+      "type": "tv_special",
+      "releaseDate": "1996-12-13"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Meringue Sisters no Christmas",
+      "malid": 60309,
+      "type": "tv_special",
+      "releaseDate": "1997-12-25"
+   },
+   {
       "title": "Mairimashita! Iruma-kun 4th Season",
       "malid": 60310,
       "type": "tv",
       "releaseDate": ""
+   },
+   {
+      "title": "Qia Tongxue Shaonian",
+      "malid": 60311,
+      "type": "ona",
+      "releaseDate": "2024-11-17"
+   },
+   {
+      "title": "Naruheso-kun Pilot",
+      "malid": 60313,
+      "type": "special",
+      "releaseDate": "1999-11-21"
+   },
+   {
+      "title": "Bikkuri-kun Pilot",
+      "malid": 60314,
+      "type": "special",
+      "releaseDate": "1999-11-21"
+   },
+   {
+      "title": "Dekin no Mogura",
+      "malid": 60315,
+      "type": "tv",
+      "releaseDate": "2025-07"
+   },
+   {
+      "title": "Busamen Gachi Fighter",
+      "malid": 60316,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Charisma Pizza Party",
+      "malid": 60320,
+      "type": "music",
+      "releaseDate": "2024-11-15"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Bokura no Christmas Concert",
+      "malid": 60322,
+      "type": "tv_special",
+      "releaseDate": "1998-12-18"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Anpanman to Merry Christmas",
+      "malid": 60323,
+      "type": "tv_special",
+      "releaseDate": "1999-12-17"
+   },
+   {
+      "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+      "malid": 60326,
+      "type": "tv",
+      "releaseDate": "2025-07"
+   },
+   {
+      "title": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita 7th Season",
+      "malid": 60328,
+      "type": "ona",
+      "releaseDate": "2024-06-10"
+   },
+   {
+      "title": "Anne Shirley",
+      "malid": 60334,
+      "type": "tv",
+      "releaseDate": "2025-04"
+   },
+   {
+      "title": "Star Wars: Visions Volume 3",
+      "enTitle": "Star Wars: Visions Volume 3",
+      "malid": 60336,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Hitchcock-ui Eotteonhalu",
+      "enTitle": "One Day of Hitchcock",
+      "malid": 60339,
+      "type": "movie",
+      "releaseDate": "1998"
+   },
+   {
+      "title": "Neogs",
+      "enTitle": "Soul",
+      "malid": 60340,
+      "type": "movie",
+      "releaseDate": "1995"
+   },
+   {
+      "title": "Du Gaeui Bang",
+      "malid": 60341,
+      "type": "movie",
+      "releaseDate": "1995"
+   },
+   {
+      "title": "Usan",
+      "enTitle": "Umbrella",
+      "malid": 60342,
+      "type": "movie",
+      "releaseDate": "1997"
+   },
+   {
+      "title": "Ocean",
+      "enTitle": "Ocean",
+      "malid": 60343,
+      "type": "movie",
+      "releaseDate": "1997"
+   },
+   {
+      "title": "Deombul Sogui Jae",
+      "enTitle": "Ashes In The Thicket",
+      "malid": 60344,
+      "type": "movie",
+      "releaseDate": "1998"
+   },
+   {
+      "title": "Cat's♥Eye",
+      "malid": 60347,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Disney: Twisted-Wonderland The Animation - Episode of Savanaclaw",
+      "malid": 60348,
+      "type": "ona",
+      "releaseDate": ""
+   },
+   {
+      "title": "Disney: Twisted-Wonderland The Animation - Episode of Octavinelle",
+      "malid": 60349,
+      "type": "ona",
+      "releaseDate": ""
+   },
+   {
+      "title": "Ikuiku Succubus Saikyouiku",
+      "malid": 60351,
+      "type": "ova",
+      "releaseDate": "2025-01-31"
+   },
+   {
+      "title": "Custom Robo The Animation",
+      "malid": 60355,
+      "type": "ova",
+      "releaseDate": "1999-12-08"
+   },
+   {
+      "title": "Maarui Kanojo to Zannen na Kareshi 2nd Season",
+      "malid": 60357,
+      "type": "tv",
+      "releaseDate": "2024-11-15"
+   },
+   {
+      "title": "Cats Are Dangerous",
+      "malid": 60358,
+      "type": "music",
+      "releaseDate": "2024-10-09"
+   },
+   {
+      "title": "Utakata",
+      "malid": 60360,
+      "type": "music",
+      "releaseDate": "2024-11-23"
    }
 ]

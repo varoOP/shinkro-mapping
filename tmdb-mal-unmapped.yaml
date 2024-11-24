@@ -23,6 +23,10 @@ animeMovies:
       tmdbid: 0
       malid: 1078
 
+    - mainTitle: Kakurenbo
+      tmdbid: 0
+      malid: 1192
+
     - mainTitle: 'Lupin III: Pilot Film (1978)'
       tmdbid: 0
       malid: 1428
@@ -86,6 +90,10 @@ animeMovies:
     - mainTitle: 'Doraemon Movie 24: Nobita to Fushigi Kaze Tsukai'
       tmdbid: 0
       malid: 2393
+
+    - mainTitle: 'Digimon Adventure: Bokura no War Game!'
+      tmdbid: 0
+      malid: 2397
 
     - mainTitle: Keroro Gunsou Movie 1
       tmdbid: 0
@@ -190,6 +198,10 @@ animeMovies:
     - mainTitle: 'Hi no Tori 2772: Ai no CosmoZone'
       tmdbid: 0
       malid: 2793
+
+    - mainTitle: Soratobu Yuureisen
+      tmdbid: 0
+      malid: 2811
 
     - mainTitle: Chibikko Remi to Meiken Kapi
       tmdbid: 0
@@ -530,6 +542,10 @@ animeMovies:
     - mainTitle: 'Tottoko Hamtarou Movie 2: Ham-Ham Hamuuja! Maboroshi no Princess'
       tmdbid: 0
       malid: 7330
+
+    - mainTitle: 'Hetalia Axis Powers Movie: Paint it, White'
+      tmdbid: 0
+      malid: 7337
 
     - mainTitle: 'Boku no Chikyuu wo Mamotte: Alice kara, Rin-kun e'
       tmdbid: 0
@@ -1023,6 +1039,10 @@ animeMovies:
       tmdbid: 0
       malid: 11097
 
+    - mainTitle: Blue Seagull
+      tmdbid: 0
+      malid: 11141
+
     - mainTitle: Tetsu no Ko Kanahiru
       tmdbid: 0
       malid: 11681
@@ -1078,6 +1098,10 @@ animeMovies:
     - mainTitle: Yoru no Hi
       tmdbid: 0
       malid: 12919
+
+    - mainTitle: 'Jewelpet Movie: Sweets Dance Princess'
+      tmdbid: 0
+      malid: 12965
 
     - mainTitle: Cornelis
       tmdbid: 0
@@ -1258,6 +1282,10 @@ animeMovies:
     - mainTitle: Son O-gong gwa Byeoldeul-ui Jeonjaeng
       tmdbid: 0
       malid: 16814
+
+    - mainTitle: David gwa Goliath
+      tmdbid: 0
+      malid: 16816
 
     - mainTitle: Eunhahamdae Jiguho
       tmdbid: 0
@@ -1494,6 +1522,10 @@ animeMovies:
     - mainTitle: 'Taka no Tsume GO: Utsukushiki Elleair Shoushuu Plus'
       tmdbid: 0
       malid: 19535
+
+    - mainTitle: Ttoli Janggun
+      tmdbid: 0
+      malid: 19555
 
     - mainTitle: 'Kaiketsu Zorori: Mamoru ze! Kyouryuu no Tamago'
       tmdbid: 0
@@ -2583,6 +2615,10 @@ animeMovies:
       tmdbid: 0
       malid: 31348
 
+    - mainTitle: Aikatsu Stars! Movie
+      tmdbid: 0
+      malid: 31485
+
     - mainTitle: Ari Ningen Monogatari
       tmdbid: 0
       malid: 31507
@@ -2606,6 +2642,10 @@ animeMovies:
     - mainTitle: 'Kizumonogatari III: Reiketsu-hen'
       tmdbid: 0
       malid: 31758
+
+    - mainTitle: 'Kojiki: Hyuuga-hen'
+      tmdbid: 0
+      malid: 31769
 
     - mainTitle: Fantasy
       tmdbid: 0
@@ -5843,6 +5883,10 @@ animeMovies:
       tmdbid: 0
       malid: 51014
 
+    - mainTitle: Imagination of Marathon Runners
+      tmdbid: 0
+      malid: 51048
+
     - mainTitle: Dreamland
       tmdbid: 0
       malid: 51051
@@ -5934,6 +5978,10 @@ animeMovies:
     - mainTitle: Meogda
       tmdbid: 0
       malid: 51749
+
+    - mainTitle: The Angler
+      tmdbid: 0
+      malid: 51750
 
     - mainTitle: Kagi wo Hitsu Kushita Yamabiko
       tmdbid: 0
@@ -6563,6 +6611,10 @@ animeMovies:
       tmdbid: 0
       malid: 54109
 
+    - mainTitle: 'Ooyukiumi no Kaina: Hoshi no Kenja'
+      tmdbid: 0
+      malid: 54122
+
     - mainTitle: Mouse Doubutsuen
       tmdbid: 0
       malid: 54129
@@ -6807,10 +6859,6 @@ animeMovies:
       tmdbid: 0
       malid: 54705
 
-    - mainTitle: 'Given Movie 2: Hiiragi Mix'
-      tmdbid: 0
-      malid: 54791
-
     - mainTitle: 'Planetarium Chibi Maruko-chan: Minamijuujisei ni Miserarete'
       tmdbid: 0
       malid: 54832
@@ -6826,6 +6874,10 @@ animeMovies:
     - mainTitle: Ojing-eoui Nwiuchim
       tmdbid: 0
       malid: 55019
+
+    - mainTitle: Komada Jouryuusho e Youkoso
+      tmdbid: 0
+      malid: 55149
 
     - mainTitle: Eraser Wars
       tmdbid: 0
@@ -7411,10 +7463,6 @@ animeMovies:
       tmdbid: 0
       malid: 58219
 
-    - mainTitle: 'Given Movie 3: Umi e'
-      tmdbid: 0
-      malid: 58222
-
     - mainTitle: Hana (2018)
       tmdbid: 0
       malid: 58274
@@ -7570,10 +7618,6 @@ animeMovies:
     - mainTitle: Jjangttung-ine Ttonghwangto
       tmdbid: 0
       malid: 59479
-
-    - mainTitle: Kaijuu 8-gou Movie
-      tmdbid: 0
-      malid: 59489
 
     - mainTitle: Wonderer
       tmdbid: 0
@@ -7774,4 +7818,16 @@ animeMovies:
     - mainTitle: 'Hypnosis Mic: Division Rap Battle Movie'
       tmdbid: 0
       malid: 60273
+
+    - mainTitle: Neogs
+      tmdbid: 0
+      malid: 60340
+
+    - mainTitle: Du Gaeui Bang
+      tmdbid: 0
+      malid: 60341
+
+    - mainTitle: Ocean
+      tmdbid: 0
+      malid: 60343
 
