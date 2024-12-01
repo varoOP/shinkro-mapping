@@ -23,10 +23,6 @@ animeMovies:
       tmdbid: 0
       malid: 1078
 
-    - mainTitle: Kakurenbo
-      tmdbid: 0
-      malid: 1192
-
     - mainTitle: 'Lupin III: Pilot Film (1978)'
       tmdbid: 0
       malid: 1428
@@ -198,10 +194,6 @@ animeMovies:
     - mainTitle: 'Hi no Tori 2772: Ai no CosmoZone'
       tmdbid: 0
       malid: 2793
-
-    - mainTitle: Soratobu Yuureisen
-      tmdbid: 0
-      malid: 2811
 
     - mainTitle: Chibikko Remi to Meiken Kapi
       tmdbid: 0
@@ -542,10 +534,6 @@ animeMovies:
     - mainTitle: 'Tottoko Hamtarou Movie 2: Ham-Ham Hamuuja! Maboroshi no Princess'
       tmdbid: 0
       malid: 7330
-
-    - mainTitle: 'Hetalia Axis Powers Movie: Paint it, White'
-      tmdbid: 0
-      malid: 7337
 
     - mainTitle: 'Boku no Chikyuu wo Mamotte: Alice kara, Rin-kun e'
       tmdbid: 0
@@ -1039,10 +1027,6 @@ animeMovies:
       tmdbid: 0
       malid: 11097
 
-    - mainTitle: Blue Seagull
-      tmdbid: 0
-      malid: 11141
-
     - mainTitle: Tetsu no Ko Kanahiru
       tmdbid: 0
       malid: 11681
@@ -1098,10 +1082,6 @@ animeMovies:
     - mainTitle: Yoru no Hi
       tmdbid: 0
       malid: 12919
-
-    - mainTitle: 'Jewelpet Movie: Sweets Dance Princess'
-      tmdbid: 0
-      malid: 12965
 
     - mainTitle: Cornelis
       tmdbid: 0
@@ -1219,14 +1199,6 @@ animeMovies:
       tmdbid: 0
       malid: 16558
 
-    - mainTitle: 'Robot Taekwon V: Wooju Jakjeon'
-      tmdbid: 0
-      malid: 16562
-
-    - mainTitle: Robot Taekwon V 3tan! Sujung Teukgongdae
-      tmdbid: 0
-      malid: 16566
-
     - mainTitle: Agigongryong Doolie (Movie)
       tmdbid: 0
       malid: 16570
@@ -1282,10 +1254,6 @@ animeMovies:
     - mainTitle: Son O-gong gwa Byeoldeul-ui Jeonjaeng
       tmdbid: 0
       malid: 16814
-
-    - mainTitle: David gwa Goliath
-      tmdbid: 0
-      malid: 16816
 
     - mainTitle: Eunhahamdae Jiguho
       tmdbid: 0
@@ -2403,10 +2371,6 @@ animeMovies:
       tmdbid: 0
       malid: 30150
 
-    - mainTitle: Ryoukan-san
-      tmdbid: 0
-      malid: 30204
-
     - mainTitle: Chel-in sacheon-wang
       tmdbid: 0
       malid: 30228
@@ -2615,10 +2579,6 @@ animeMovies:
       tmdbid: 0
       malid: 31348
 
-    - mainTitle: Aikatsu Stars! Movie
-      tmdbid: 0
-      malid: 31485
-
     - mainTitle: Ari Ningen Monogatari
       tmdbid: 0
       malid: 31507
@@ -2642,10 +2602,6 @@ animeMovies:
     - mainTitle: 'Kizumonogatari III: Reiketsu-hen'
       tmdbid: 0
       malid: 31758
-
-    - mainTitle: 'Kojiki: Hyuuga-hen'
-      tmdbid: 0
-      malid: 31769
 
     - mainTitle: Fantasy
       tmdbid: 0
@@ -4379,10 +4335,6 @@ animeMovies:
       tmdbid: 0
       malid: 43518
 
-    - mainTitle: Xiao Xiongmao Xue Mu Jiang
-      tmdbid: 0
-      malid: 43520
-
     - mainTitle: Zhuo Mi Cang
       tmdbid: 0
       malid: 43526
@@ -5883,10 +5835,6 @@ animeMovies:
       tmdbid: 0
       malid: 51014
 
-    - mainTitle: Imagination of Marathon Runners
-      tmdbid: 0
-      malid: 51048
-
     - mainTitle: Dreamland
       tmdbid: 0
       malid: 51051
@@ -5978,10 +5926,6 @@ animeMovies:
     - mainTitle: Meogda
       tmdbid: 0
       malid: 51749
-
-    - mainTitle: The Angler
-      tmdbid: 0
-      malid: 51750
 
     - mainTitle: Kagi wo Hitsu Kushita Yamabiko
       tmdbid: 0
@@ -6611,10 +6555,6 @@ animeMovies:
       tmdbid: 0
       malid: 54109
 
-    - mainTitle: 'Ooyukiumi no Kaina: Hoshi no Kenja'
-      tmdbid: 0
-      malid: 54122
-
     - mainTitle: Mouse Doubutsuen
       tmdbid: 0
       malid: 54129
@@ -6874,10 +6814,6 @@ animeMovies:
     - mainTitle: Ojing-eoui Nwiuchim
       tmdbid: 0
       malid: 55019
-
-    - mainTitle: Komada Jouryuusho e Youkoso
-      tmdbid: 0
-      malid: 55149
 
     - mainTitle: Eraser Wars
       tmdbid: 0
@@ -7539,10 +7475,6 @@ animeMovies:
       tmdbid: 0
       malid: 59024
 
-    - mainTitle: 'Pororo Movie: Badas-sog Daemoheom'
-      tmdbid: 0
-      malid: 59031
-
     - mainTitle: 'Qian Ting Zong Dong Yuan: Xun Long'
       tmdbid: 0
       malid: 59041
@@ -7622,6 +7554,10 @@ animeMovies:
     - mainTitle: Wonderer
       tmdbid: 0
       malid: 59550
+
+    - mainTitle: 'Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack'
+      tmdbid: 0
+      malid: 59571
 
     - mainTitle: 'Jyulagi Cops: Jeonseolui Godaesaengmuleul Chajala'
       tmdbid: 0
@@ -7830,4 +7766,12 @@ animeMovies:
     - mainTitle: Ocean
       tmdbid: 0
       malid: 60343
+
+    - mainTitle: Lupin the IIIrd the Movie
+      tmdbid: 0
+      malid: 60408
+
+    - mainTitle: Tenohira no Haru
+      tmdbid: 0
+      malid: 60417
 
