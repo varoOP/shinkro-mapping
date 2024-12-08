@@ -1910,6 +1910,7 @@
    },
    {
       "title": "Abashiri Ikka",
+      "enTitle": "The Abashiri Family",
       "malid": 305,
       "type": "ova",
       "releaseDate": "1991-05-21"
@@ -3154,6 +3155,7 @@
    },
    {
       "title": "Kamui no Ken",
+      "enTitle": "The Dagger of Kamui",
       "malid": 496,
       "type": "movie",
       "releaseDate": "1985-03-09"
@@ -6774,6 +6776,7 @@
    },
    {
       "title": "Eikyuu Kazoku",
+      "enTitle": "Eternal Family",
       "malid": 1106,
       "type": "movie",
       "releaseDate": "1997-04-01"
@@ -7335,7 +7338,7 @@
       "releaseDate": "2006-07-03"
    },
    {
-      "title": "Masuda Kousuke Gekijou Gag Manga Biyori",
+      "title": "Masuda Kousuke Gekijou: Gag Manga Biyori",
       "malid": 1196,
       "type": "tv",
       "releaseDate": "2005-02-07"
@@ -12058,6 +12061,7 @@
    },
    {
       "title": "X Densha de Ikou",
+      "enTitle": "Take the X Train",
       "malid": 1973,
       "type": "ova",
       "releaseDate": "1987-11-06"
@@ -12524,6 +12528,7 @@
    },
    {
       "title": "Kikou Ryouhei Mellowlink",
+      "enTitle": "Armor Hunter Mellowlink",
       "malid": 2048,
       "type": "ova",
       "releaseDate": "1988-11-21"
@@ -12791,6 +12796,7 @@
    },
    {
       "title": "Choujikuu Seiki Orguss 02",
+      "enTitle": "The Super Dimension Century Orguss 02",
       "malid": 2090,
       "type": "ova",
       "releaseDate": "1993-12-05"
@@ -14797,12 +14803,14 @@
    },
    {
       "title": "Spirit of Wonder: China-san no Yuuutsu",
+      "enTitle": "Spirit of Wonder: Miss China's Ring",
       "malid": 2419,
       "type": "ova",
       "releaseDate": "1992-06-03"
    },
    {
       "title": "Spirit of Wonder: Shounen Kagaku Club",
+      "enTitle": "Spirit of Wonder: Scientific Boys Club",
       "malid": 2420,
       "type": "ova",
       "releaseDate": "2001-01-25"
@@ -15343,7 +15351,7 @@
       "releaseDate": "1985-04-27"
    },
    {
-      "title": "Meitantei Conan OVA 02: 16-nin no Yougisha",
+      "title": "Meitantei Conan OVA 02: 16-nin no Yougisha!?",
       "enTitle": "Detective Conan OVA 02: 16 Suspects",
       "malid": 2512,
       "type": "ova",
@@ -15385,7 +15393,7 @@
       "releaseDate": "2007-04-21"
    },
    {
-      "title": "Masuda Kousuke Gekijou Gag Manga Biyori 2",
+      "title": "Masuda Kousuke Gekijou: Gag Manga Biyori 2",
       "malid": 2518,
       "type": "tv",
       "releaseDate": "2006-08-05"
@@ -17465,12 +17473,14 @@
    },
    {
       "title": "Kazama Mana",
+      "enTitle": "Night Shift Nurses: Mana Kazama",
       "malid": 2868,
       "type": "ova",
       "releaseDate": "2006-08-25"
    },
    {
       "title": "Nanase Ren",
+      "enTitle": "Night Shift Nurses: Ren Nanase",
       "malid": 2869,
       "type": "ova",
       "releaseDate": "2005-12-04"
@@ -22151,6 +22161,7 @@
    },
    {
       "title": "Souten no Ken Specials",
+      "enTitle": "Fist of the Blue Sky Specials",
       "malid": 3864,
       "type": "special",
       "releaseDate": "2007-05-24"
@@ -23004,7 +23015,7 @@
       "releaseDate": "1999-04-29"
    },
    {
-      "title": "Masuda Kousuke Gekijou Gag Manga Biyori 3",
+      "title": "Masuda Kousuke Gekijou: Gag Manga Biyori 3",
       "malid": 4056,
       "type": "tv",
       "releaseDate": "2008-03-17"
@@ -24846,6 +24857,7 @@
    },
    {
       "title": "Nana Toshi Monogatari: Hokkyokukai Sensen",
+      "enTitle": "Seven Cities Story: Arctic Front",
       "malid": 4617,
       "type": "ova",
       "releaseDate": "1994-06-22"
@@ -33930,7 +33942,7 @@
       "releaseDate": "2009-09-02"
    },
    {
-      "title": "Masuda Kousuke Gekijou Gag Manga Biyori +",
+      "title": "Masuda Kousuke Gekijou: Gag Manga Biyori +",
       "malid": 7761,
       "type": "tv",
       "releaseDate": "2010-01-05"
@@ -35965,6 +35977,7 @@
    },
    {
       "title": "Mahou Shoujo Isuka",
+      "enTitle": "Magical Girl Isuka",
       "malid": 8653,
       "type": "ova",
       "releaseDate": "2010-04-24"
@@ -37602,6 +37615,7 @@
    },
    {
       "title": "Ore no Sora Keiji-hen",
+      "enTitle": "My Sky: Detective Story",
       "malid": 9338,
       "type": "ova",
       "releaseDate": "1991-10-21"
@@ -50221,6 +50235,7 @@
    },
    {
       "title": "Kyoufu Shinbun",
+      "enTitle": "Terror Newspaper",
       "malid": 17615,
       "type": "ova",
       "releaseDate": "1991-07-21"
@@ -53466,6 +53481,7 @@
    },
    {
       "title": "Toaru Majutsu no Index-tan Movie: Endymion no Kiseki - Ga Attari Nakattari",
+      "enTitle": "A Certain Magical Index Movie Special",
       "malid": 20035,
       "type": "special",
       "releaseDate": "2013-08-28"
@@ -53608,6 +53624,7 @@
    },
    {
       "title": "Lupin III: Princess of the Breeze - Kakusareta Kuuchuu Toshi",
+      "enTitle": "Lupin III: Princess of the Breeze",
       "malid": 20141,
       "type": "tv_special",
       "releaseDate": "2013-11-15"
@@ -62157,7 +62174,7 @@
    },
    {
       "title": "Toaru Majutsu no Index 10-shuunen Kinen PV",
-      "enTitle": "Toaru Majutsu no Index 10th Anniversary PV",
+      "enTitle": "A Certain Magical Index 10th Anniversary PV",
       "malid": 27509,
       "type": "pv",
       "releaseDate": "2014-09-10"
@@ -80658,6 +80675,7 @@
    },
    {
       "title": "Shingeki no Bahamut: Genesis - Short Story",
+      "enTitle": "Rage of Bahamut: Genesis - Short Story",
       "malid": 34642,
       "type": "ona",
       "releaseDate": "2016-12-28"
@@ -89804,6 +89822,7 @@
    },
    {
       "title": "Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka",
+      "enTitle": "Yu Yu Hakusho: Ghost Files -  Two Shots / All or Nothing",
       "malid": 36951,
       "type": "special",
       "releaseDate": "2018-10-26"
@@ -91065,6 +91084,7 @@
    },
    {
       "title": "Tsuma Netori: Ryoujoku Rinne",
+      "enTitle": "Wife Stealing: Endless Indecency",
       "malid": 37287,
       "type": "ova",
       "releaseDate": "2018-03-16"
@@ -93954,6 +93974,7 @@
    },
    {
       "title": "Trinity Seven Movie 2: Heavens Library to Crimson Lord",
+      "enTitle": "Trinity Seven: Heavens Library \u0026 Crimson Lord",
       "malid": 37986,
       "type": "movie",
       "releaseDate": "2019-03-29"
@@ -97033,6 +97054,7 @@
    },
    {
       "title": "Tsuma Netori: Ikumi to Shizuka",
+      "enTitle": "Wife Stealing: Ikumi and Shizuka",
       "malid": 38760,
       "type": "ova",
       "releaseDate": "2018-12-28"
@@ -97925,7 +97947,7 @@
       "releaseDate": "2019-05-11"
    },
    {
-      "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi",
+      "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi",
       "enTitle": "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note - A Grave Keeper, a Cat, and a Mage",
       "malid": 38936,
       "type": "tv_special",
@@ -97976,7 +97998,7 @@
       "releaseDate": "2018-12-31"
    },
    {
-      "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+      "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note",
       "enTitle": "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note",
       "malid": 38959,
       "type": "tv",
@@ -98178,6 +98200,7 @@
    },
    {
       "title": "Sore Ike! Anpanman: Kirameke! Ice no Kuni no Vanilla-hime",
+      "enTitle": "Anpanman: Twinkle! Princess Vanilla of Ice Cream Land",
       "malid": 39002,
       "type": "movie",
       "releaseDate": "2019-06-28"
@@ -102262,6 +102285,7 @@
    },
    {
       "title": "Lovely ♡",
+      "enTitle": "Lovely Aina-chan",
       "malid": 40023,
       "type": "ova",
       "releaseDate": "2019-11-08"
@@ -103549,6 +103573,7 @@
    },
    {
       "title": "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi",
+      "enTitle": "Star Blazers: Space Battleship Yamato 2205",
       "malid": 40389,
       "type": "ova",
       "releaseDate": "2021-10-08"
@@ -104172,6 +104197,7 @@
    },
    {
       "title": "\"Uchuu Senkan Yamato\" to Iu Jidai: Seireki 2202-nen no Sentaku",
+      "enTitle": "Star Blazers Chronicle 2202",
       "malid": 40554,
       "type": "movie",
       "releaseDate": "2021-06-11"
@@ -105860,6 +105886,7 @@
    },
    {
       "title": "Sore Ike! Anpanman: Fuwa Fuwa Fuwaly to Kumo no Kuni",
+      "enTitle": "Anpanman: Fluffy Flurry \u0026 the Land of the Clouds",
       "malid": 41028,
       "type": "movie",
       "releaseDate": "2021-06-25"
@@ -111314,6 +111341,7 @@
    },
    {
       "title": "Biohazard: Infinite Darkness",
+      "enTitle": "Resident Evil: Infinite Darkness",
       "malid": 42976,
       "type": "ona",
       "releaseDate": "2021-07-08"
@@ -136569,7 +136597,7 @@
       "releaseDate": "2021-09-22"
    },
    {
-      "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note Special",
+      "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note Special",
       "enTitle": "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note - Waver, Reunion, and the Magic Lantern",
       "malid": 49361,
       "type": "tv_special",
@@ -138428,7 +138456,7 @@
       "title": "Tom to Jerry",
       "enTitle": "Tom and Jerry",
       "malid": 50001,
-      "type": "special",
+      "type": "movie",
       "releaseDate": "2021-03-12"
    },
    {
@@ -141514,7 +141542,6 @@
    },
    {
       "title": "Doupo Cangqiong: Nian Fan",
-      "enTitle": "Fights Break Sphere 5th Season",
       "malid": 51039,
       "type": "ona",
       "releaseDate": "2022-07-31"
@@ -141771,7 +141798,7 @@
       "title": "Grisaia: Phantom Trigger",
       "malid": 51119,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-02"
    },
    {
       "title": "Kamen Rider Saber \u0026 Kamen Rider Zero-One Manner Movie",
@@ -142311,7 +142338,7 @@
       "releaseDate": "2024-05-17"
    },
    {
-      "title": "Katu",
+      "title": "Ka Tu",
       "enTitle": "The War of Cards",
       "malid": 51278,
       "type": "ona",
@@ -146480,6 +146507,7 @@
    },
    {
       "title": "Sore Ike! Anpanman: Dororin to Bakeru Carnival",
+      "enTitle": "Anpanman: Dororin \u0026 the Transformation Carnival",
       "malid": 52452,
       "type": "movie",
       "releaseDate": "2022-06-24"
@@ -151947,10 +151975,10 @@
       "releaseDate": "2022-12-23"
    },
    {
-      "title": "Tom to Jerry (ONA)",
-      "enTitle": "Tom and Jerry (ONA)",
+      "title": "Tom to Jerry Gokko",
+      "enTitle": "Tom and Jerry",
       "malid": 53907,
-      "type": "ona",
+      "type": "tv",
       "releaseDate": "2022-11-11"
    },
    {
@@ -155287,7 +155315,7 @@
       "enTitle": "Aquarion: Myth of Emotions",
       "malid": 54769,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-10"
    },
    {
       "title": "Ququ Bucai, Zaixia Yeguai",
@@ -159569,7 +159597,7 @@
       "enTitle": "Okitsura",
       "malid": 55842,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-05"
    },
    {
       "title": "Rebuild World",
@@ -159817,7 +159845,7 @@
    },
    {
       "title": "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi",
-      "enTitle": "My Happy Marriage: The Shape of Happiness",
+      "enTitle": "My Happy Marriage: The Shape of My Happiness",
       "malid": 55889,
       "type": "ova",
       "releaseDate": "2024-03-15"
@@ -162283,6 +162311,7 @@
    },
    {
       "title": "Secret Mission: Sennyuu Sousakan wa Zettai ni Makenai!",
+      "enTitle": "Secret Mission: Undercover Agents Never Back Down!",
       "malid": 56497,
       "type": "ona",
       "releaseDate": "2023-10-02"
@@ -166567,8 +166596,8 @@
       "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
       "enTitle": "Ascendance of a Bookworm Season 4",
       "malid": 57466,
-      "type": "unknown",
-      "releaseDate": ""
+      "type": "tv",
+      "releaseDate": "2026"
    },
    {
       "title": "Zhen Dao Ge 2nd Season",
@@ -166713,6 +166742,7 @@
    },
    {
       "title": "Shi ga Utsukushii Nante dare ga Itta",
+      "enTitle": "Who Said Death Was Beautiful?",
       "malid": 57500,
       "type": "movie",
       "releaseDate": "2023-12-22"
@@ -168843,7 +168873,7 @@
       "releaseDate": "2023-02-01"
    },
    {
-      "title": "Tom to Jerry Gokko",
+      "title": "Tom to Jerry Gokko Aeon Cinema Collab Movie",
       "malid": 58035,
       "type": "cm",
       "releaseDate": "2024-02-05"
@@ -169719,7 +169749,7 @@
       "enTitle": "Honey Lemon Soda",
       "malid": 58271,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-09"
    },
    {
       "title": "Boku no Tsuma wa Kanjou ga Nai",
@@ -170270,7 +170300,7 @@
       "enTitle": "I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
       "malid": 58437,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-07"
    },
    {
       "title": "Pokemon Go CMs",
@@ -170354,7 +170384,7 @@
       "title": "Ishura 2nd Season",
       "malid": 58484,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-08"
    },
    {
       "title": "Xuwu Bianjing",
@@ -170392,7 +170422,7 @@
    },
    {
       "title": "San Xiuzhi Wang",
-      "enTitle": "King of Casual Cultivators",
+      "enTitle": "The King of Wandering Cultivators",
       "malid": 58493,
       "type": "ona",
       "releaseDate": "2024-04-01"
@@ -170427,7 +170457,7 @@
       "enTitle": "ZENSHU",
       "malid": 58502,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-05"
    },
    {
       "title": "Mato Seihei no Slave 2nd Season",
@@ -171259,7 +171289,7 @@
       "enTitle": "Someday Will I Be the Greatest Alchemist?",
       "malid": 58822,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-08"
    },
    {
       "title": "Wonder Scale",
@@ -171359,7 +171389,7 @@
       "enTitle": "Medaka Kuroiwa Is Impervious to My Charms",
       "malid": 58853,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-07"
    },
    {
       "title": "Kinoko Inu",
@@ -171701,6 +171731,7 @@
    },
    {
       "title": "Sakamoto Days",
+      "enTitle": "Sakamoto Days",
       "malid": 58939,
       "type": "tv",
       "releaseDate": "2025-01-11"
@@ -172199,7 +172230,7 @@
       "enTitle": "Flower and Asura",
       "malid": 59055,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-08"
    },
    {
       "title": "Emerald",
@@ -172402,6 +172433,7 @@
    },
    {
       "title": "Farmagia",
+      "enTitle": "Farmagia",
       "malid": 59113,
       "type": "tv",
       "releaseDate": "2025-01-10"
@@ -172516,12 +172548,14 @@
    },
    {
       "title": "Unnamed Memory Act.2",
+      "enTitle": "Unnamed Memory Season 2",
       "malid": 59142,
       "type": "tv",
       "releaseDate": "2025-01"
    },
    {
       "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
+      "enTitle": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
       "malid": 59144,
       "type": "tv",
       "releaseDate": "2025-01-09"
@@ -173068,6 +173102,7 @@
    },
    {
       "title": "Magic Maker: Isekai Mahou no Tsukurikata",
+      "enTitle": "Magic Maker: How to Make Magic in Another World",
       "malid": 59265,
       "type": "tv",
       "releaseDate": "2025-01-09"
@@ -173235,7 +173270,7 @@
    },
    {
       "title": "Zhan Shen: Fanchen Shenyu",
-      "enTitle": "Slay The God",
+      "enTitle": "Slay The Gods",
       "malid": 59306,
       "type": "ona",
       "releaseDate": "2024-07-31"
@@ -173356,8 +173391,8 @@
    {
       "title": "Jigoku Sensei Nube (2025)",
       "malid": 59342,
-      "type": "unknown",
-      "releaseDate": "2025"
+      "type": "tv",
+      "releaseDate": "2025-07"
    },
    {
       "title": "Hoyahoyaraa",
@@ -173382,7 +173417,7 @@
       "enTitle": "Headhunted to Another World: From Salaryman to Big Four!",
       "malid": 59349,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-06"
    },
    {
       "title": "Dai Dai Dai Fantasista",
@@ -174009,7 +174044,7 @@
    },
    {
       "title": "Asatir 2: Mirai no Mukashi Banashi",
-      "enTitle": "Future's Folktales 2",
+      "enTitle": "Future Folktales 2",
       "malid": 59499,
       "type": "tv",
       "releaseDate": "2024-11-03"
@@ -174747,9 +174782,10 @@
    },
    {
       "title": "Game Center Shoujo to Ibunka Kouryuu",
+      "enTitle": "Cultural Exchange With a Game Centre Girl",
       "malid": 59689,
-      "type": "unknown",
-      "releaseDate": ""
+      "type": "tv",
+      "releaseDate": "2025-07"
    },
    {
       "title": "Ko Sute Yama",
@@ -174803,7 +174839,7 @@
    },
    {
       "title": "Taishou Itsuwari Bridal: Migawari Hanayome to Gunpuku no Mouai",
-      "enTitle": "Taisho Marriage Blanc",
+      "enTitle": "Taisho Era Contract Marriage: The Substitute Bride and a Soldier's Fierce Love",
       "malid": 59698,
       "type": "ona",
       "releaseDate": "2024-10-07"
@@ -175672,7 +175708,7 @@
    },
    {
       "title": "Dadao Chaotian",
-      "enTitle": "The Path Toward Heaven",
+      "enTitle": "One Way or Another",
       "malid": 59916,
       "type": "ona",
       "releaseDate": "2024-10-10"
@@ -175724,7 +175760,7 @@
       "title": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
       "malid": 59935,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Sunao",
@@ -176765,6 +176801,7 @@
    },
    {
       "title": "Wangu Zui Qiang Zong",
+      "enTitle": "The Strongest Sect of All Ages",
       "malid": 60249,
       "type": "ona",
       "releaseDate": "2024-11-06"
@@ -176932,6 +176969,7 @@
    },
    {
       "title": "Natsume Yuujinchou Shichi Special",
+      "enTitle": "Natsume’s Book of Friends Season 7 Special",
       "malid": 60302,
       "type": "special",
       "releaseDate": "2025-04-23"
@@ -177016,6 +177054,7 @@
    },
    {
       "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+      "enTitle": "There's No Freaking Way I'll be Your Lover! Unless...",
       "malid": 60326,
       "type": "tv",
       "releaseDate": "2025-07"
@@ -177199,6 +177238,12 @@
       "releaseDate": "2025"
    },
    {
+      "title": "MARO17: Mada, Akirametenai Daro?",
+      "malid": 60380,
+      "type": "cm",
+      "releaseDate": "2024-11-25"
+   },
+   {
       "title": "Fragile",
       "malid": 60382,
       "type": "music",
@@ -177215,6 +177260,12 @@
       "malid": 60384,
       "type": "tv_special",
       "releaseDate": "2009-12-25"
+   },
+   {
+      "title": "Rolling Sobat",
+      "malid": 60391,
+      "type": "music",
+      "releaseDate": "2024-07-29"
    },
    {
       "title": "Sore Ike! Anpanman: Akahana Chappie Yuuki no Christmas",
@@ -177317,6 +177368,25 @@
       "releaseDate": "2024-11-30"
    },
    {
+      "title": "Cang Yuan Tu 2nd Season",
+      "enTitle": "The Demon Hunter 2nd Season",
+      "malid": 60420,
+      "type": "ona",
+      "releaseDate": "2024-12-06"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Anpanman to Santa-san e no Tegami",
+      "malid": 60422,
+      "type": "tv_special",
+      "releaseDate": "2014-12-19"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Baikinman to Suteki na Christmas Cake",
+      "malid": 60423,
+      "type": "tv_special",
+      "releaseDate": "2015-12-18"
+   },
+   {
       "title": "0-saiji Start Dash Monogatari Season 2",
       "enTitle": "0 Years Old Child Starting Dash Story Season 2",
       "malid": 60425,
@@ -177324,9 +177394,215 @@
       "releaseDate": "2025-01-05"
    },
    {
+      "title": "Huyao Xiao Hongniang: Huang Feng Ling Pian",
+      "malid": 60426,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
       "title": "Gnosia",
       "malid": 60427,
       "type": "tv",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Poppo-chan no Kirakira Christmas",
+      "malid": 60430,
+      "type": "tv_special",
+      "releaseDate": "2016-12-23"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Kokin-chan to Christmas no Okurimono",
+      "malid": 60431,
+      "type": "tv_special",
+      "releaseDate": "2017-12-22"
+   },
+   {
+      "title": "Heart Break",
+      "malid": 60432,
+      "type": "music",
+      "releaseDate": "2024-10-29"
+   },
+   {
+      "title": "Senritsu",
+      "malid": 60433,
+      "type": "music",
+      "releaseDate": "1979-06-05"
+   },
+   {
+      "title": "Juedai Shuang Jiao: Tian Wai You Tian",
+      "enTitle": "Legendary Twins Special",
+      "malid": 60434,
+      "type": "ona",
+      "releaseDate": "2024-12-01"
+   },
+   {
+      "title": "Zhao Lin de Tanxian Riji",
+      "enTitle": "Adventurer Carly",
+      "malid": 60435,
+      "type": "ona",
+      "releaseDate": "2023-10-20"
+   },
+   {
+      "title": "Renjian Zui Deyi 2nd Season",
+      "enTitle": "Proud Swordsman 2nd Season",
+      "malid": 60436,
+      "type": "ona",
+      "releaseDate": "2024-12-01"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Anpanman to Hajimete no Christmas Night",
+      "malid": 60438,
+      "type": "tv_special",
+      "releaseDate": "2018-12-21"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Santa ni Natta Chibi wo Ookami-kun",
+      "malid": 60439,
+      "type": "tv_special",
+      "releaseDate": "2019-12-20"
+   },
+   {
+      "title": "Youkan March",
+      "malid": 60440,
+      "type": "music",
+      "releaseDate": "2024-12-01"
+   },
+   {
+      "title": "Hana yori mo Hana wo Sakaseru Tsuchi ni Nare",
+      "malid": 60441,
+      "type": "music",
+      "releaseDate": "2024-12-01"
+   },
+   {
+      "title": "Jiaonang Jihua: Yingxiong",
+      "malid": 60442,
+      "type": "ona",
+      "releaseDate": "2024-12-17"
+   },
+   {
+      "title": "Yowayowa Sensei",
+      "malid": 60444,
+      "type": "tv",
       "releaseDate": ""
+   },
+   {
+      "title": "Meitantei Conan Movie 28: Sekigan no Flashback",
+      "enTitle": "Detective Conan Movie 28: One-Eyed Flashback",
+      "malid": 60445,
+      "type": "movie",
+      "releaseDate": "2025-04-18"
+   },
+   {
+      "title": "Masuda Kousuke Gekijou: Gag Manga Biyori Go",
+      "malid": 60446,
+      "type": "tv",
+      "releaseDate": "2025-04"
+   },
+   {
+      "title": "Kidou Senshi Gundam: GQuuuuuuX",
+      "malid": 60449,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Meirenyu de Xiatian",
+      "enTitle": "Mermaid Summer",
+      "malid": 60450,
+      "type": "movie",
+      "releaseDate": "2024-11-22"
+   },
+   {
+      "title": "Xiaoqian",
+      "enTitle": "Nie Xiaoqian",
+      "malid": 60451,
+      "type": "movie",
+      "releaseDate": "2024-12-06"
+   },
+   {
+      "title": "Xiong Shi Shaonian 2",
+      "enTitle": "I Am What I Am 2",
+      "malid": 60452,
+      "type": "movie",
+      "releaseDate": "2024-12-14"
+   },
+   {
+      "title": "Xiong Chumo: Chongqi Weilai",
+      "enTitle": "Boonie Bears: Future Reborn",
+      "malid": 60453,
+      "type": "movie",
+      "releaseDate": "2025-01-29"
+   },
+   {
+      "title": "Pipilu He Lu Xixi: 309 Anshi",
+      "malid": 60454,
+      "type": "movie",
+      "releaseDate": "2024-10-01"
+   },
+   {
+      "title": "Xin Datou Er Zi He Xiao Tou Baba 4: Wanmei Baba",
+      "malid": 60455,
+      "type": "movie",
+      "releaseDate": "2021-07-09"
+   },
+   {
+      "title": "Xin Datou Er Zi He Xiao Tou Baba 5: Wo de Wai Xing Pengyou",
+      "malid": 60456,
+      "type": "movie",
+      "releaseDate": "2022-10-01"
+   },
+   {
+      "title": "Xin Datou Er Zi He Xiao Tou Baba 6: Mini da Maoxian",
+      "malid": 60457,
+      "type": "movie",
+      "releaseDate": "2024-10-01"
+   },
+   {
+      "title": "Jungle Taxi",
+      "malid": 60459,
+      "type": "movie",
+      "releaseDate": "2016-11-04"
+   },
+   {
+      "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
+      "malid": 60460,
+      "type": "tv",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Taidada",
+      "malid": 60461,
+      "type": "music",
+      "releaseDate": "2024-12-05"
+   },
+   {
+      "title": "Desk Bugs",
+      "malid": 60465,
+      "type": "movie",
+      "releaseDate": "2024-07-18"
+   },
+   {
+      "title": "Koala ni Naretara",
+      "malid": 60466,
+      "type": "music",
+      "releaseDate": "2024-12-01"
+   },
+   {
+      "title": "Hoshi to Sobakasu to Diamond",
+      "malid": 60467,
+      "type": "music",
+      "releaseDate": "2024-12-01"
+   },
+   {
+      "title": "Gaming Party Xmas",
+      "malid": 60468,
+      "type": "music",
+      "releaseDate": "2020-11-27"
+   },
+   {
+      "title": "Nikuen",
+      "malid": 60470,
+      "type": "ova",
+      "releaseDate": "2025-02-21"
    }
 ]
