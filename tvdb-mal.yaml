@@ -4154,6 +4154,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 56242
+      title: 'Sengoku Youko: Yonaoshi Kyoudai-hen'
+      type: tv
+      tvdbid: 438151
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 56400
       title: Maou-sama, Retry! R
       type: tv
@@ -4407,7 +4416,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57433
-      title: 'Seishun Buta Yarou: Santa Claus no Yume wo Minai'
+      title: Seishun Buta Yarou wa Santa Claus no Yume wo Minai
       type: tv
       tvdbid: 345596
       tvdbseason: 2
@@ -4515,7 +4524,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57796
-      title: 'Touhai: Ura Rate Mahjong Touhai Roku'
+      title: 'Touhai: Ura Rate Mahjong Touhairoku'
       type: tv
       tvdbid: 444559
       tvdbseason: 1
@@ -4680,8 +4689,8 @@ AnimeMap:
       title: 'Sengoku Youko: Senma Konton-hen'
       type: tv
       tvdbid: 438151
-      tvdbseason: 1
-      start: 14
+      tvdbseason: 2
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -4946,11 +4955,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59945
+      title: 'Sengoku Youko: Senma Konton-hen Recap'
+      type: tv_special
+      tvdbid: 438151
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 59989
       title: 'Kami no Tou: Koubou-sen'
       type: tv
       tvdbid: 376729
       tvdbseason: 2
       start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59990
+      title: 'Sengoku Youko: Yonaoshi Kyoudai-hen Recap'
+      type: tv_special
+      tvdbid: 438151
+      tvdbseason: 0
+      start: 1
       useMapping: false
       animeMapping: []

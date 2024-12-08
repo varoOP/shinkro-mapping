@@ -87,6 +87,10 @@ animeMovies:
       tmdbid: 0
       malid: 2393
 
+    - mainTitle: 'Digimon Adventure: Bokura no War Game!'
+      tmdbid: 0
+      malid: 2397
+
     - mainTitle: Keroro Gunsou Movie 1
       tmdbid: 0
       malid: 2407
@@ -1179,9 +1183,9 @@ animeMovies:
       tmdbid: 0
       malid: 16442
 
-    - mainTitle: Robot Taekwon V wa Hwanggeum Nalgae
+    - mainTitle: San Ge Heshang
       tmdbid: 0
-      malid: 16490
+      malid: 16506
 
     - mainTitle: Batsu & Terry
       tmdbid: 0
@@ -1194,14 +1198,6 @@ animeMovies:
     - mainTitle: Cheol-in 007
       tmdbid: 0
       malid: 16558
-
-    - mainTitle: 'Robot Taekwon V: Wooju Jakjeon'
-      tmdbid: 0
-      malid: 16562
-
-    - mainTitle: Robot Taekwon V 3tan! Sujung Teukgongdae
-      tmdbid: 0
-      malid: 16566
 
     - mainTitle: Agigongryong Doolie (Movie)
       tmdbid: 0
@@ -1494,6 +1490,10 @@ animeMovies:
     - mainTitle: 'Taka no Tsume GO: Utsukushiki Elleair Shoushuu Plus'
       tmdbid: 0
       malid: 19535
+
+    - mainTitle: Ttoli Janggun
+      tmdbid: 0
+      malid: 19555
 
     - mainTitle: 'Kaiketsu Zorori: Mamoru ze! Kyouryuu no Tamago'
       tmdbid: 0
@@ -2370,10 +2370,6 @@ animeMovies:
     - mainTitle: Kamiusagi Rope 3
       tmdbid: 0
       malid: 30150
-
-    - mainTitle: Ryoukan-san
-      tmdbid: 0
-      malid: 30204
 
     - mainTitle: Chel-in sacheon-wang
       tmdbid: 0
@@ -3359,10 +3355,6 @@ animeMovies:
       tmdbid: 0
       malid: 38970
 
-    - mainTitle: 'Sore Ike! Anpanman: Kirameke! Ice no Kuni no Vanilla-hime'
-      tmdbid: 0
-      malid: 39002
-
     - mainTitle: 'High & Low: G-Sword (Movie)'
       tmdbid: 0
       malid: 39032
@@ -3546,6 +3538,10 @@ animeMovies:
     - mainTitle: Feed
       tmdbid: 0
       malid: 40499
+
+    - mainTitle: '"Uchuu Senkan Yamato" to Iu Jidai: Seireki 2202-nen no Sentaku'
+      tmdbid: 0
+      malid: 40554
 
     - mainTitle: Shimajirou no Wow! Movie 8: Shimajirou to Soratobu Fune
       tmdbid: 0
@@ -4339,10 +4335,6 @@ animeMovies:
       tmdbid: 0
       malid: 43518
 
-    - mainTitle: Xiao Xiongmao Xue Mu Jiang
-      tmdbid: 0
-      malid: 43520
-
     - mainTitle: Zhuo Mi Cang
       tmdbid: 0
       malid: 43526
@@ -4747,10 +4739,6 @@ animeMovies:
       tmdbid: 0
       malid: 43838
 
-    - mainTitle: Die Shuangfei
-      tmdbid: 0
-      malid: 43839
-
     - mainTitle: Huan You Diqiu Bashi Tian
       tmdbid: 0
       malid: 43840
@@ -4791,10 +4779,6 @@ animeMovies:
       tmdbid: 0
       malid: 43850
 
-    - mainTitle: Xue Hu
-      tmdbid: 0
-      malid: 43851
-
     - mainTitle: Shui De Zhangfu Li De Zui Yuan
       tmdbid: 0
       malid: 43866
@@ -4802,10 +4786,6 @@ animeMovies:
     - mainTitle: Huixiang
       tmdbid: 0
       malid: 43867
-
-    - mainTitle: Ma Lan Hua
-      tmdbid: 0
-      malid: 43894
 
     - mainTitle: Jingling Nuhai Xiao Zhuoma
       tmdbid: 0
@@ -5751,6 +5731,10 @@ animeMovies:
       tmdbid: 0
       malid: 49956
 
+    - mainTitle: Tom to Jerry
+      tmdbid: 0
+      malid: 50001
+
     - mainTitle: 'Da Erduo Tu Tu: Meishi Kuangxiangqu'
       tmdbid: 0
       malid: 50050
@@ -6007,10 +5991,6 @@ animeMovies:
       tmdbid: 0
       malid: 52438
 
-    - mainTitle: 'Sore Ike! Anpanman: Dororin to Bakeru Carnival'
-      tmdbid: 0
-      malid: 52452
-
     - mainTitle: 'Sore Ike! Anpanman: Tanoshiku Teasobi Mama ni Natta Kokin-chan!?'
       tmdbid: 0
       malid: 52473
@@ -6114,10 +6094,6 @@ animeMovies:
     - mainTitle: Forest and Trees
       tmdbid: 0
       malid: 52958
-
-    - mainTitle: Versailles no Bara (Movie)
-      tmdbid: 0
-      malid: 52967
 
     - mainTitle: 'Aikatsu! 10th Story: Mirai e no Starway'
       tmdbid: 0
@@ -6807,10 +6783,6 @@ animeMovies:
       tmdbid: 0
       malid: 54705
 
-    - mainTitle: 'Given Movie 2: Hiiragi Mix'
-      tmdbid: 0
-      malid: 54791
-
     - mainTitle: 'Planetarium Chibi Maruko-chan: Minamijuujisei ni Miserarete'
       tmdbid: 0
       malid: 54832
@@ -7315,10 +7287,6 @@ animeMovies:
       tmdbid: 0
       malid: 57499
 
-    - mainTitle: Shi ga Utsukushii Nante dare ga Itta
-      tmdbid: 0
-      malid: 57500
-
     - mainTitle: Tokyo
       tmdbid: 0
       malid: 57587
@@ -7411,10 +7379,6 @@ animeMovies:
       tmdbid: 0
       malid: 58219
 
-    - mainTitle: 'Given Movie 3: Umi e'
-      tmdbid: 0
-      malid: 58222
-
     - mainTitle: Hana (2018)
       tmdbid: 0
       malid: 58274
@@ -7479,10 +7443,6 @@ animeMovies:
       tmdbid: 0
       malid: 58951
 
-    - mainTitle: Ninja Batman tai Yakuza League
-      tmdbid: 0
-      malid: 58964
-
     - mainTitle: Pororo Sinnaneun Ujuyeohaeng
       tmdbid: 0
       malid: 58993
@@ -7490,10 +7450,6 @@ animeMovies:
     - mainTitle: Chan
       tmdbid: 0
       malid: 59024
-
-    - mainTitle: 'Pororo Movie: Badas-sog Daemoheom'
-      tmdbid: 0
-      malid: 59031
 
     - mainTitle: 'Qian Ting Zong Dong Yuan: Xun Long'
       tmdbid: 0
@@ -7571,13 +7527,13 @@ animeMovies:
       tmdbid: 0
       malid: 59479
 
-    - mainTitle: Kaijuu 8-gou Movie
-      tmdbid: 0
-      malid: 59489
-
     - mainTitle: Wonderer
       tmdbid: 0
       malid: 59550
+
+    - mainTitle: 'Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack'
+      tmdbid: 0
+      malid: 59571
 
     - mainTitle: 'Jyulagi Cops: Jeonseolui Godaesaengmuleul Chajala'
       tmdbid: 0
@@ -7774,4 +7730,44 @@ animeMovies:
     - mainTitle: 'Hypnosis Mic: Division Rap Battle Movie'
       tmdbid: 0
       malid: 60273
+
+    - mainTitle: Neogs
+      tmdbid: 0
+      malid: 60340
+
+    - mainTitle: Du Gaeui Bang
+      tmdbid: 0
+      malid: 60341
+
+    - mainTitle: Ocean
+      tmdbid: 0
+      malid: 60343
+
+    - mainTitle: Lupin the IIIrd the Movie
+      tmdbid: 0
+      malid: 60408
+
+    - mainTitle: Tenohira no Haru
+      tmdbid: 0
+      malid: 60417
+
+    - mainTitle: 'Meitantei Conan Movie 28: Sekigan no Flashback'
+      tmdbid: 0
+      malid: 60445
+
+    - mainTitle: 'Pipilu He Lu Xixi: 309 Anshi'
+      tmdbid: 0
+      malid: 60454
+
+    - mainTitle: 'Xin Datou Er Zi He Xiao Tou Baba 4: Wanmei Baba'
+      tmdbid: 0
+      malid: 60455
+
+    - mainTitle: 'Xin Datou Er Zi He Xiao Tou Baba 5: Wo de Wai Xing Pengyou'
+      tmdbid: 0
+      malid: 60456
+
+    - mainTitle: 'Xin Datou Er Zi He Xiao Tou Baba 6: Mini da Maoxian'
+      tmdbid: 0
+      malid: 60457
 
