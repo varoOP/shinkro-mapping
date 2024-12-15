@@ -90782,7 +90782,7 @@
    },
    {
       "title": "Mo Dao Zu Shi",
-      "enTitle": "The Founder of Diabolism",
+      "enTitle": "The Master of Diabolism 1",
       "malid": 37208,
       "type": "ona",
       "releaseDate": "2018-07-09"
@@ -95850,7 +95850,7 @@
    },
    {
       "title": "Mo Dao Zu Shi: Xian Yun Pian",
-      "enTitle": "The Founder of Diabolism Season 2",
+      "enTitle": "The Master of Diabolism 2",
       "malid": 38450,
       "type": "ona",
       "releaseDate": "2019-08-03"
@@ -103739,7 +103739,7 @@
    },
    {
       "title": "Mo Dao Zu Shi: Wanjie Pian",
-      "enTitle": "The Founder of Diabolism Season 3",
+      "enTitle": "The Master of Diabolism 3",
       "malid": 40434,
       "type": "ona",
       "releaseDate": "2021-08-07"
@@ -137232,7 +137232,7 @@
    },
    {
       "title": "Ya She",
-      "enTitle": "Ya She",
+      "enTitle": "YaShe",
       "malid": 49573,
       "type": "ona",
       "releaseDate": "2024-10-04"
@@ -137901,7 +137901,7 @@
       "releaseDate": "2021-07-08"
    },
    {
-      "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… Movie",
+      "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... Movie",
       "malid": 49842,
       "type": "movie",
       "releaseDate": "2023-12-08"
@@ -139249,6 +139249,7 @@
    },
    {
       "title": "Sorairo Utility",
+      "enTitle": "Sorairo Utility",
       "malid": 50209,
       "type": "tv_special",
       "releaseDate": "2021-12-31"
@@ -141796,6 +141797,7 @@
    },
    {
       "title": "Grisaia: Phantom Trigger",
+      "enTitle": "Grisaia: Phantom Trigger",
       "malid": 51119,
       "type": "tv",
       "releaseDate": "2025-01-02"
@@ -147511,7 +147513,7 @@
       "title": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
       "malid": 52709,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Ookina Ringo no Shita de",
@@ -147791,7 +147793,7 @@
       "enTitle": "One Punch Man Season 3",
       "malid": 52807,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2025"
    },
    {
       "title": "Kami no Manimani PV",
@@ -150318,7 +150320,7 @@
       "enTitle": "To Be Hero X",
       "malid": 53447,
       "type": "ona",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04-25"
    },
    {
       "title": "Xiao Lu He Xiao Lan 2nd Season",
@@ -151152,7 +151154,7 @@
       "releaseDate": "2023-02-24"
    },
    {
-      "title": "Class de Otoko wa Boku Ichinin!?",
+      "title": "Class de Otoko wa Boku Hitori!?",
       "malid": 53725,
       "type": "ova",
       "releaseDate": "2023-03-03"
@@ -151331,7 +151333,7 @@
       "title": "#Compass 2.0: Sentou Setsuri Kaiseki System",
       "malid": 53762,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Akai Fuusen",
@@ -153872,7 +153874,7 @@
    {
       "title": "Mahou Shoujo Ikusei Keikaku: Restart",
       "malid": 54344,
-      "type": "unknown",
+      "type": "tv",
       "releaseDate": ""
    },
    {
@@ -159533,6 +159535,7 @@
    },
    {
       "title": "Fate/strange Fake",
+      "enTitle": "Fate/strange Fake",
       "malid": 55830,
       "type": "tv",
       "releaseDate": "2024-12-31"
@@ -159594,7 +159597,7 @@
    },
    {
       "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
-      "enTitle": "Okitsura",
+      "enTitle": "Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying",
       "malid": 55842,
       "type": "tv",
       "releaseDate": "2025-01-05"
@@ -167071,9 +167074,10 @@
    },
    {
       "title": "Dr. Stone: Science Future",
+      "enTitle": "Dr. Stone: Science Future",
       "malid": 57592,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-09"
    },
    {
       "title": "Hajimete no Futarikkiri Ryokou",
@@ -168963,7 +168967,7 @@
       "title": "Sorairo Utility (TV)",
       "malid": 58066,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-04"
    },
    {
       "title": "Spookiz Songs",
@@ -170358,7 +170362,7 @@
       "enTitle": "Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!",
       "malid": 58473,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-04"
    },
    {
       "title": "Fanpai Chushihua",
@@ -170454,7 +170458,7 @@
    },
    {
       "title": "Zenshuu.",
-      "enTitle": "ZENSHU",
+      "enTitle": "Zenshu",
       "malid": 58502,
       "type": "tv",
       "releaseDate": "2025-01-05"
@@ -170842,13 +170846,13 @@
       "title": "Oshiri Tantei 8th Season",
       "malid": 58630,
       "type": "tv",
-      "releaseDate": "2023-10-07"
+      "releaseDate": "2024-04-06"
    },
    {
       "title": "Oshiri Tantei 9th Season",
       "malid": 58631,
       "type": "tv",
-      "releaseDate": "2024-04-06"
+      "releaseDate": "2025-04"
    },
    {
       "title": "AOTU Xueyuan 3rd Season",
@@ -171051,9 +171055,10 @@
    },
    {
       "title": "Momentary Lily",
+      "enTitle": "Momentary Lily",
       "malid": 58739,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-02"
    },
    {
       "title": "Yao Shen Ji 8th Season",
@@ -171286,7 +171291,7 @@
    },
    {
       "title": "Izure Saikyou no Renkinjutsushi?",
-      "enTitle": "Someday Will I Be the Greatest Alchemist?",
+      "enTitle": "Possibly the Greatest Alchemist of All Time",
       "malid": 58822,
       "type": "tv",
       "releaseDate": "2025-01-08"
@@ -171386,7 +171391,7 @@
    },
    {
       "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
-      "enTitle": "Medaka Kuroiwa Is Impervious to My Charms",
+      "enTitle": "Medaka Kuroiwa is Impervious to My Charms",
       "malid": 58853,
       "type": "tv",
       "releaseDate": "2025-01-07"
@@ -171828,7 +171833,7 @@
       "enTitle": "Batman Ninja vs. Yakuza League",
       "malid": 58964,
       "type": "movie",
-      "releaseDate": "2025"
+      "releaseDate": "2025-03-21"
    },
    {
       "title": "Robotex",
@@ -171959,7 +171964,7 @@
    },
    {
       "title": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
-      "enTitle": "Bogus Skill \u003c\u003cFruitmaster\u003e\u003e: About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)",
+      "enTitle": "Bogus Skill \u003c\u003cFruitmaster\u003e\u003e ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~",
       "malid": 59002,
       "type": "tv",
       "releaseDate": "2025-01-07"
@@ -172508,6 +172513,7 @@
    },
    {
       "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
+      "enTitle": "I'm Getting Married to a Girl I Hate in My Class",
       "malid": 59135,
       "type": "tv",
       "releaseDate": "2025-01-03"
@@ -172516,7 +172522,7 @@
       "title": "Tasokare Hotel",
       "malid": 59136,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-08"
    },
    {
       "title": "Mash Burnedead-tachi to School Life",
@@ -172551,7 +172557,7 @@
       "enTitle": "Unnamed Memory Season 2",
       "malid": 59142,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-07"
    },
    {
       "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
@@ -172795,7 +172801,7 @@
       "enTitle": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
       "malid": 59192,
       "type": "movie",
-      "releaseDate": ""
+      "releaseDate": "2025"
    },
    {
       "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
@@ -172933,7 +172939,7 @@
    },
    {
       "title": "Ao no Exorcist: Yosuga-hen",
-      "enTitle": "Blue Exorcist Season 5",
+      "enTitle": "Blue Exorcist: The Blue Night Saga",
       "malid": 59226,
       "type": "tv",
       "releaseDate": "2025-01"
@@ -172943,7 +172949,7 @@
       "enTitle": "Black Butler: Emerald Witch Arc",
       "malid": 59228,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Enen no Shouboutai: San no Shou Part 2",
@@ -174116,7 +174122,7 @@
       "enTitle": "The Red Ranger Becomes an Adventurer in Another World",
       "malid": 59514,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-12"
    },
    {
       "title": "Time Tides",
@@ -174303,9 +174309,10 @@
    },
    {
       "title": "Around 40 Otoko no Isekai Tsuuhan",
+      "enTitle": "The Daily Life of a Middle-Aged Online Shopper in Another World",
       "malid": 59561,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-09"
    },
    {
       "title": "NieR:Automata Ver1.1a Part 2: Chapter. 13-18 Chousa Report",
@@ -175344,11 +175351,11 @@
       "releaseDate": "2021-06-16"
    },
    {
-      "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 OVA",
+      "title": "Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage",
       "enTitle": "KonoSuba: God's Blessing on This Wonderful World! 3 OVA",
       "malid": 59833,
       "type": "ova",
-      "releaseDate": ""
+      "releaseDate": "2025-04-25"
    },
    {
       "title": "Paipai Kamen de Doukashiran?",
@@ -176069,7 +176076,7 @@
       "enTitle": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
       "malid": 60009,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Mad Popcorn World!",
@@ -176519,7 +176526,7 @@
       "enTitle": "The Beginning After the End",
       "malid": 60146,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Ikusei",
@@ -176917,6 +176924,12 @@
       "releaseDate": "2025"
    },
    {
+      "title": "Boom",
+      "malid": 60283,
+      "type": "music",
+      "releaseDate": "2024-11-12"
+   },
+   {
       "title": "Tousouchuu: Great Mission - Maika to Rabbi no Souryoku Shuzai - Tsuki Sekaiichi no Tousousha wa Dare da!",
       "malid": 60284,
       "type": "tv_special",
@@ -177229,7 +177242,7 @@
       "enTitle": "The Dinner Table Detective",
       "malid": 60377,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Shabake",
@@ -177604,5 +177617,136 @@
       "malid": 60470,
       "type": "ova",
       "releaseDate": "2025-02-21"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Santa-san wo Sukue! Koori no Shiro no Christmas",
+      "malid": 60471,
+      "type": "tv_special",
+      "releaseDate": "2020-12-25"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Tetsu no Hoshi no Iron Christmas",
+      "malid": 60472,
+      "type": "tv_special",
+      "releaseDate": "2021-12-24"
+   },
+   {
+      "title": "Complex♡Princess",
+      "malid": 60482,
+      "type": "music",
+      "releaseDate": "2024-12-08"
+   },
+   {
+      "title": "Hello Kitty to Asobou! Manabou!",
+      "enTitle": "Hello Kitty \u0026 Friends: Let's Learn Together",
+      "malid": 60485,
+      "type": "tv",
+      "releaseDate": "2017-07-28"
+   },
+   {
+      "title": "520",
+      "malid": 60486,
+      "type": "movie",
+      "releaseDate": "2023"
+   },
+   {
+      "title": "Red Table",
+      "malid": 60487,
+      "type": "movie",
+      "releaseDate": "2021"
+   },
+   {
+      "title": "Takopii no Genzai",
+      "malid": 60489,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Moana to Densetsu no Umi 2 PVs",
+      "enTitle": "Moana 2 PVs",
+      "malid": 60490,
+      "type": "pv",
+      "releaseDate": "2024-12-07"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Chibikko Santa no Niconico Christmas",
+      "malid": 60491,
+      "type": "tv_special",
+      "releaseDate": "2022-12-23"
+   },
+   {
+      "title": "Sore Ike! Anpanman: Akachanman to Baikin Santa",
+      "malid": 60492,
+      "type": "tv_special",
+      "releaseDate": "2023-12-22"
+   },
+   {
+      "title": "Geulium",
+      "malid": 60493,
+      "type": "movie",
+      "releaseDate": "2011"
+   },
+   {
+      "title": "Immoral Routine The Animation",
+      "malid": 60494,
+      "type": "ova",
+      "releaseDate": "2025-03-28"
+   },
+   {
+      "title": "Kanochi x Netorare Kazoku The Animation",
+      "malid": 60495,
+      "type": "ova",
+      "releaseDate": "2025-03-21"
+   },
+   {
+      "title": "Kimi yori mo Kimirashii",
+      "enTitle": "More You Than You",
+      "malid": 60496,
+      "type": "music",
+      "releaseDate": "2024-12-05"
+   },
+   {
+      "title": "R",
+      "malid": 60502,
+      "type": "ona",
+      "releaseDate": "2006-02"
+   },
+   {
+      "title": "Nekko",
+      "malid": 60504,
+      "type": "music",
+      "releaseDate": "2024-12-01"
+   },
+   {
+      "title": "Necronomico no Cosmic Horror Show",
+      "enTitle": "Necronomico and the Cosmic Horrow Show",
+      "malid": 60505,
+      "type": "tv",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Araiguma Calcal-dan",
+      "malid": 60506,
+      "type": "unknown",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Food Court de, Mata Ashita.",
+      "malid": 60508,
+      "type": "tv",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Champignon no Majo",
+      "enTitle": "Champignon Witch",
+      "malid": 60509,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "2.5-jigen no Ririsa 2nd Season",
+      "malid": 60510,
+      "type": "tv",
+      "releaseDate": ""
    }
 ]

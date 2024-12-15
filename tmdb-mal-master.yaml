@@ -71,10 +71,6 @@ animeMovies:
       tmdbid: 58704
       malid: 2279
 
-    - mainTitle: 'Akihabara Dennou-gumi: 2011-nen no Natsuyasumi'
-      tmdbid: 366640
-      malid: 2289
-
     - mainTitle: Choujin Densetsu Urotsukidouji Movie
       tmdbid: 48624
       malid: 2359
@@ -6047,6 +6043,10 @@ animeMovies:
       tmdbid: 0
       malid: 52766
 
+    - mainTitle: Xiong Shi Shaonian
+      tmdbid: 0
+      malid: 52769
+
     - mainTitle: Shi Tu
       tmdbid: 0
       malid: 52772
@@ -7531,10 +7531,6 @@ animeMovies:
       tmdbid: 0
       malid: 59550
 
-    - mainTitle: 'Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack'
-      tmdbid: 0
-      malid: 59571
-
     - mainTitle: 'Jyulagi Cops: Jeonseolui Godaesaengmuleul Chajala'
       tmdbid: 0
       malid: 59587
@@ -7770,4 +7766,12 @@ animeMovies:
     - mainTitle: 'Xin Datou Er Zi He Xiao Tou Baba 6: Mini da Maoxian'
       tmdbid: 0
       malid: 60457
+
+    - mainTitle: "520"
+      tmdbid: 0
+      malid: 60486
+
+    - mainTitle: Geulium
+      tmdbid: 0
+      malid: 60493
 
