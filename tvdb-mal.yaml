@@ -195,6 +195,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 276
+      title: 'Mahoromatic: Automatic Maiden'
+      type: tv
+      tvdbid: 79035
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 277
+      title: 'Mahoromatic: Motto Utsukushii Mono'
+      type: tv
+      tvdbid: 79035
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 371
       title: Cardcaptor Sakura Movie 1
       type: movie
@@ -247,6 +265,24 @@ AnimeMap:
       tvdbseason: 0
       start: 1
       useMapping: true
+      animeMapping: []
+
+    - malid: 631
+      title: Mahoromatic Summer Special
+      type: special
+      tvdbid: 79035
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 632
+      title: Mahoromatic End Year Special
+      type: tv_special
+      tvdbid: 79035
+      tvdbseason: 0
+      start: 1
+      useMapping: false
       animeMapping: []
 
     - malid: 792
@@ -608,6 +644,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 4997
+      title: Mahoromatic 2 End Year Special
+      type: special
+      tvdbid: 79035
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 5300
       title: Zoku Natsume Yuujinchou
       type: tv
@@ -721,6 +766,15 @@ AnimeMap:
       tvdbid: 83996
       tvdbseason: 0
       start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 7066
+      title: 'Mahoromatic: Tadaima Okaeri'
+      type: tv_special
+      tvdbid: 79035
+      tvdbseason: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
