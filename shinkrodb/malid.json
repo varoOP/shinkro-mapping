@@ -8464,6 +8464,7 @@
    },
    {
       "title": "Yakin Byoutou Ni",
+      "enTitle": "Night Shift Nurses 2",
       "malid": 1388,
       "type": "ova",
       "releaseDate": "2004-07-30"
@@ -13647,6 +13648,7 @@
    },
    {
       "title": "Dragon Quest: Dai no Daibouken (TV)",
+      "enTitle": "Dragon Quest: The Adventure of Dai",
       "malid": 2229,
       "type": "tv",
       "releaseDate": "1991-10-17"
@@ -17430,6 +17432,7 @@
    },
    {
       "title": "Ikusa Otome Valkyrie Shinshou",
+      "enTitle": "Battle-Maiden Valkyrie True Chapter",
       "malid": 2859,
       "type": "ova",
       "releaseDate": "2006-02-24"
@@ -30475,6 +30478,7 @@
    },
    {
       "title": "Chokin Senshi Cashman",
+      "enTitle": "Saving Soldier Cashman",
       "malid": 6484,
       "type": "ova",
       "releaseDate": "1997-07-29"
@@ -30771,6 +30775,7 @@
    },
    {
       "title": "Makai Kishi Ingrid",
+      "enTitle": "Hell Knight Ingrid",
       "malid": 6590,
       "type": "ova",
       "releaseDate": "2009-06-26"
@@ -45388,6 +45393,7 @@
    },
    {
       "title": "Inazuma Eleven Go: Chrono Stone",
+      "enTitle": "Inazuma Eleven Go: Chrono Stones",
       "malid": 13261,
       "type": "tv",
       "releaseDate": "2012-04-18"
@@ -54477,6 +54483,7 @@
    },
    {
       "title": "Himekishi Olivia",
+      "enTitle": "Slave Princess Olivia",
       "malid": 20995,
       "type": "ova",
       "releaseDate": "2013-12-06"
@@ -65513,6 +65520,7 @@
    },
    {
       "title": "Ienai Koto The Animation",
+      "enTitle": "Price Of A Secret",
       "malid": 29730,
       "type": "ova",
       "releaseDate": "2015-03-06"
@@ -73025,6 +73033,7 @@
    },
    {
       "title": "Tabi Machi Late Show",
+      "enTitle": "Tabimachi Lateshow",
       "malid": 32309,
       "type": "tv",
       "releaseDate": "2016-01-08"
@@ -90782,7 +90791,7 @@
    },
    {
       "title": "Mo Dao Zu Shi",
-      "enTitle": "The Master of Diabolism 1",
+      "enTitle": "The Master of Diabolism",
       "malid": 37208,
       "type": "ona",
       "releaseDate": "2018-07-09"
@@ -93461,7 +93470,8 @@
       "releaseDate": "2018-05-19"
    },
    {
-      "title": "Golden Kamuy OVA",
+      "title": "Golden Kamuy: Barato no Youjinbou/Kaiki! Nazo no Kyodai Tori",
+      "enTitle": "Golden Kamuy: The Bodyguards of Barato/Terror! The Mysterious Giant Bird",
       "malid": 37884,
       "type": "ova",
       "releaseDate": "2018-09-19"
@@ -95679,6 +95689,7 @@
    },
    {
       "title": "Free! Movie 4: The Final Stroke - Zenpen",
+      "enTitle": "Free! the Final Stroke: The First Volume",
       "malid": 38400,
       "type": "movie",
       "releaseDate": "2021-09-17"
@@ -95850,7 +95861,7 @@
    },
    {
       "title": "Mo Dao Zu Shi: Xian Yun Pian",
-      "enTitle": "The Master of Diabolism 2",
+      "enTitle": "The Master of Diabolism Season 2",
       "malid": 38450,
       "type": "ona",
       "releaseDate": "2019-08-03"
@@ -98237,6 +98248,7 @@
    },
    {
       "title": "Free! Movie 3: Road to the World - Yume",
+      "enTitle": "Free! -Road to the World- the Dream",
       "malid": 39014,
       "type": "movie",
       "releaseDate": "2019-07-05"
@@ -103695,6 +103707,7 @@
    },
    {
       "title": "Given Movie 1",
+      "enTitle": "given The Movie",
       "malid": 40421,
       "type": "movie",
       "releaseDate": "2020-08-22"
@@ -135100,6 +135113,7 @@
    },
    {
       "title": "Free! Movie 5: The Final Stroke - Kouhen",
+      "enTitle": "Free! the Final Stroke: The Second Volume",
       "malid": 48830,
       "type": "movie",
       "releaseDate": "2022-04-22"
@@ -138011,6 +138025,7 @@
    },
    {
       "title": "Mahou Shoujo Elena DVD-BOX Special",
+      "enTitle": "Mahou Shoujo Elena Special",
       "malid": 49876,
       "type": "special",
       "releaseDate": "2015-12-11"
@@ -140816,7 +140831,7 @@
       "title": "Summer Pockets",
       "malid": 50694,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "MF Ghost",
@@ -148932,11 +148947,11 @@
       "releaseDate": "2012"
    },
    {
-      "title": "Sono Bisque Doll wa Koi wo Suru (Zoku-hen)",
-      "enTitle": "My Dress-Up Darling (Sequel)",
+      "title": "Sono Bisque Doll wa Koi wo Suru 2nd Season",
+      "enTitle": "My Dress-Up Darling Season 2",
       "malid": 53065,
-      "type": "unknown",
-      "releaseDate": ""
+      "type": "tv",
+      "releaseDate": "2025"
    },
    {
       "title": "Wo He Xitieshi He Yige Siqu de Pengyou",
@@ -155073,7 +155088,7 @@
       "enTitle": "Mirage Queen Vacances Élégantes",
       "malid": 54705,
       "type": "movie",
-      "releaseDate": "2025"
+      "releaseDate": "2025-05-23"
    },
    {
       "title": "Dokgo PV",
@@ -155409,6 +155424,7 @@
    },
    {
       "title": "Given Movie 2: Hiiragi Mix",
+      "enTitle": "given The Movie: Hiiragi Mix",
       "malid": 54791,
       "type": "movie",
       "releaseDate": "2024-01-27"
@@ -158992,7 +159008,7 @@
       "enTitle": "Harmony of Mille-Feuille",
       "malid": 55689,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-07"
    },
    {
       "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
@@ -159511,7 +159527,7 @@
       "enTitle": "Hell's Paradise Season 2",
       "malid": 55825,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2026-01"
    },
    {
       "title": "Seishun Archive",
@@ -160317,7 +160333,7 @@
       "enTitle": "Your Forma",
       "malid": 55995,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2025-04"
    },
    {
       "title": "Koi wa Futago de Warikirenai",
@@ -162018,6 +162034,12 @@
       "releaseDate": "2008-12-31"
    },
    {
+      "title": "Symphonia",
+      "malid": 56429,
+      "type": "music",
+      "releaseDate": "2023-08-16"
+   },
+   {
       "title": "Spicy Boy",
       "malid": 56430,
       "type": "ona",
@@ -163019,6 +163041,7 @@
    },
    {
       "title": "BanG Dream! Ave Mujica",
+      "enTitle": "Ave Mujica: The Die is Cast",
       "malid": 56653,
       "type": "tv",
       "releaseDate": "2025-01-02"
@@ -163513,7 +163536,7 @@
       "enTitle": "Link Click: Bridon Arc",
       "malid": 56752,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2024-12-27"
    },
    {
       "title": "Object",
@@ -164703,7 +164726,7 @@
       "enTitle": "Campfire Cooking in Another World with My Absurd Skill Season 2",
       "malid": 57025,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2025"
    },
    {
       "title": "Oira ni Horecha Kega Suru ze!",
@@ -164932,7 +164955,7 @@
    },
    {
       "title": "Yangguang Shai Pigu",
-      "enTitle": "The Moring Sun",
+      "enTitle": "The Morning Sun",
       "malid": 57081,
       "type": "movie",
       "releaseDate": "2022-07-28"
@@ -166927,7 +166950,7 @@
       "enTitle": "Chainsaw Man the Movie: Reze Arc",
       "malid": 57555,
       "type": "movie",
-      "releaseDate": ""
+      "releaseDate": "2025"
    },
    {
       "title": "One Piece: Dai Tokushuu! Momonosuke no Mei Shougun e no Michi",
@@ -168081,7 +168104,7 @@
       "title": "Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru - Saikai",
       "malid": 57828,
       "type": "movie",
-      "releaseDate": "2022-07-01"
+      "releaseDate": "2022-01-07"
    },
    {
       "title": "Kobito no Uta: Snow White and The Seven Dwarfs kara",
@@ -169219,7 +169242,7 @@
       "title": "Shiunji-ke no Kodomotachi",
       "malid": 58131,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Shiroi Iki wa Kimi no Kemuri",
@@ -170697,7 +170720,7 @@
       "enTitle": "Solo Leveling Season 2: Arise from the Shadow",
       "malid": 58567,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-05"
    },
    {
       "title": "Kkoma Bus Tayo 7",
@@ -171139,6 +171162,7 @@
    },
    {
       "title": "Mamahaha no Tsurego ga Motokano datta Picture Drama",
+      "enTitle": "My Stepmom's Daughter Is My Ex Picture Drama",
       "malid": 58774,
       "type": "ona",
       "releaseDate": "2022-02-14"
@@ -171359,10 +171383,10 @@
       "releaseDate": "2024-05-10"
    },
    {
-      "title": "Odekake Kozame (Movie)",
+      "title": "Odekake Kozama Movie: Tokai no Otomodachi",
       "malid": 58837,
       "type": "movie",
-      "releaseDate": ""
+      "releaseDate": "2025"
    },
    {
       "title": "Harinezumi no Luchika",
@@ -171626,6 +171650,7 @@
    },
    {
       "title": "Hikaru ga Shinda Natsu",
+      "enTitle": "The Summer Hikaru Died",
       "malid": 58913,
       "type": "tv",
       "releaseDate": "2025-07"
@@ -172092,7 +172117,7 @@
       "title": "Spy x Family Season 3",
       "malid": 59027,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2025-10"
    },
    {
       "title": "One Piece: Kizamareru Rekishi! Gekidou no Shinkyuu Yonkou!",
@@ -172112,7 +172137,7 @@
       "enTitle": "Pororo: Underwater Adventure",
       "malid": 59031,
       "type": "movie",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-01"
    },
    {
       "title": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
@@ -172326,7 +172351,7 @@
       "title": "Princession Orchestra",
       "malid": 59078,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Tokyo Friday Night",
@@ -172716,7 +172741,7 @@
       "enTitle": "Kaiju No. 8 Season 2",
       "malid": 59177,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-07"
    },
    {
       "title": "Zhui Xu 2nd Season",
@@ -172942,7 +172967,7 @@
       "enTitle": "Blue Exorcist: The Blue Night Saga",
       "malid": 59226,
       "type": "tv",
-      "releaseDate": "2025-01"
+      "releaseDate": "2025-01-05"
    },
    {
       "title": "Kuroshitsuji: Midori no Majo-hen",
@@ -173789,9 +173814,10 @@
    },
    {
       "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+      "enTitle": "Betrothed to My Sister's Ex",
       "malid": 59421,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-07"
    },
    {
       "title": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
@@ -173934,7 +173960,7 @@
       "enTitle": "Aharen-san wa Hakarenai Season 2",
       "malid": 59466,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2025-04"
    },
    {
       "title": "Chiyu Mahou no Machigatta Tsukaikata 2nd Season",
@@ -174674,7 +174700,7 @@
       "title": "Jujutsu Kaisen: Kaigyoku/Gyokusetsu",
       "malid": 59654,
       "type": "movie",
-      "releaseDate": "2025"
+      "releaseDate": "2025-05-30"
    },
    {
       "title": "Omocha Bako Series Dai 2-wa: Kuroneko Banzai",
@@ -175033,7 +175059,7 @@
       "enTitle": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
       "malid": 59745,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Melting",
@@ -175292,7 +175318,7 @@
       "title": "Bye Bye, Earth 2nd Season",
       "malid": 59819,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Elf-san wa Yaserarenai.: Hami Niku no Shima/Calorie Lovers",
@@ -176268,7 +176294,7 @@
       "title": "Yozakura-san Chi no Daisakusen 2nd Season",
       "malid": 60055,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2026"
    },
    {
       "title": "\"Oshi no Ko\" 3rd Season",
@@ -176348,6 +176374,12 @@
       "releaseDate": "2024-10-01"
    },
    {
+      "title": "Charisma Picnic",
+      "malid": 60078,
+      "type": "music",
+      "releaseDate": "2023-03-15"
+   },
+   {
       "title": "Lucky Doki",
       "malid": 60079,
       "type": "music",
@@ -176364,7 +176396,7 @@
       "enTitle": "Kowloon Generic Romance",
       "malid": 60083,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Delico's Nursery: Ikuji Nisshi",
@@ -176421,7 +176453,7 @@
       "enTitle": "My Hero Academia Final Season",
       "malid": 60098,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-10"
    },
    {
       "title": "Sayonara Mata Itsuka!",
@@ -176483,6 +176515,13 @@
       "malid": 60131,
       "type": "tv",
       "releaseDate": "2025"
+   },
+   {
+      "title": "Himitsu no Moumaku",
+      "enTitle": "The Esoteric Retina",
+      "malid": 60133,
+      "type": "music",
+      "releaseDate": "1994"
    },
    {
       "title": "Tudi Ge Ge Shi Da Lao",
@@ -176569,7 +176608,7 @@
       "title": "Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru",
       "malid": 60157,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen Part 2",
@@ -176798,6 +176837,13 @@
       "malid": 60246,
       "type": "ona",
       "releaseDate": "2024-10-03"
+   },
+   {
+      "title": "Benghuai: Xing Qiong Tiedao - Yinhe Renfa Tie Luan Wu Qu Mo Poxie Zhan Yue Zhi Juan",
+      "enTitle": "Honkai: Star Rail - Cosmic Ninjutsu Inscriptions — Havoc Exorcism: Lunar Vileslayer Scroll",
+      "malid": 60247,
+      "type": "ona",
+      "releaseDate": "2024-10-18"
    },
    {
       "title": "Shanhai Fu Mo Lu",
@@ -177054,6 +177100,13 @@
       "releaseDate": "2024-11-15"
    },
    {
+      "title": "Kuroi Rayquaza Kourin",
+      "enTitle": "Shiny Rayquaza Takes Flight Across Paldea!",
+      "malid": 60321,
+      "type": "pv",
+      "releaseDate": "2024-11-18"
+   },
+   {
       "title": "Sore Ike! Anpanman: Bokura no Christmas Concert",
       "malid": 60322,
       "type": "tv_special",
@@ -177275,6 +177328,13 @@
       "releaseDate": "2009-12-25"
    },
    {
+      "title": "Shiranai Koto Shiritai no? The Animation",
+      "enTitle": "Don't You Wanna Learn Something New? The Animation",
+      "malid": 60390,
+      "type": "ova",
+      "releaseDate": "2025-02-28"
+   },
+   {
       "title": "Rolling Sobat",
       "malid": 60391,
       "type": "music",
@@ -177342,7 +177402,15 @@
       "releaseDate": "2025"
    },
    {
+      "title": "Watashi no Yokotawaru Naizou",
+      "enTitle": "My Organs Lying on the Ground",
+      "malid": 60409,
+      "type": "movie",
+      "releaseDate": "2024-06-23"
+   },
+   {
       "title": "Yami Shibai 14",
+      "enTitle": "Theatre of Darkness: Yamishibai 14",
       "malid": 60410,
       "type": "tv",
       "releaseDate": "2025-01-05"
@@ -177362,6 +177430,7 @@
    },
    {
       "title": "Wu Lian Dianfeng",
+      "enTitle": "Martial Peak",
       "malid": 60416,
       "type": "ona",
       "releaseDate": "2024-12-05"
@@ -177631,6 +177700,12 @@
       "releaseDate": "2021-12-24"
    },
    {
+      "title": "Crz Love",
+      "malid": 60479,
+      "type": "music",
+      "releaseDate": "2024-12-07"
+   },
+   {
       "title": "Complex♡Princess",
       "malid": 60482,
       "type": "music",
@@ -177659,7 +177734,7 @@
       "title": "Takopii no Genzai",
       "malid": 60489,
       "type": "unknown",
-      "releaseDate": ""
+      "releaseDate": "2025"
    },
    {
       "title": "Moana to Densetsu no Umi 2 PVs",
@@ -177719,7 +177794,7 @@
    },
    {
       "title": "Necronomico no Cosmic Horror Show",
-      "enTitle": "Necronomico and the Cosmic Horrow Show",
+      "enTitle": "Necronomico and the Cosmic Horror Show",
       "malid": 60505,
       "type": "tv",
       "releaseDate": "2025"
@@ -177748,5 +177823,394 @@
       "malid": 60510,
       "type": "tv",
       "releaseDate": ""
+   },
+   {
+      "title": "Quanzhi Gaoshou: Rongyao Xiao Juchang",
+      "malid": 60513,
+      "type": "ona",
+      "releaseDate": "2024-12-14"
+   },
+   {
+      "title": "Bawang Long Lei Qi",
+      "malid": 60515,
+      "type": "tv",
+      "releaseDate": "2023-08-24"
+   },
+   {
+      "title": "Bawang Long Lei Qi 2nd Season",
+      "malid": 60516,
+      "type": "tv",
+      "releaseDate": "2024-12-04"
+   },
+   {
+      "title": "Wo Jiao MT 7th Season",
+      "malid": 60517,
+      "type": "ona",
+      "releaseDate": "2024-07-10"
+   },
+   {
+      "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+      "enTitle": "Skeleton Knight in Another World II",
+      "malid": 60522,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Tsuihousha Shokudou e Youkoso!",
+      "malid": 60523,
+      "type": "tv",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Moonlight",
+      "malid": 60524,
+      "type": "music",
+      "releaseDate": "2024-12-09"
+   },
+   {
+      "title": "Nozomanu Fushi no Boukensha 2nd Season",
+      "enTitle": "The Unwanted Undead Adventurer Season 2",
+      "malid": 60525,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Quanqiu Gao Wu",
+      "enTitle": "World's Best Martial Artist",
+      "malid": 60526,
+      "type": "ona",
+      "releaseDate": "2024-12-21"
+   },
+   {
+      "title": "Yongheng Jian Zu",
+      "enTitle": "Eternal Sword Ancestor",
+      "malid": 60529,
+      "type": "ona",
+      "releaseDate": "2024-12-19"
+   },
+   {
+      "title": "7-gatsu",
+      "malid": 60530,
+      "type": "music",
+      "releaseDate": "2024-04-10"
+   },
+   {
+      "title": "Bukiyou na Senpai.",
+      "malid": 60531,
+      "type": "tv",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Kodamasuru",
+      "malid": 60533,
+      "type": "music",
+      "releaseDate": "2024-01-27"
+   },
+   {
+      "title": "Koupen-chan",
+      "malid": 60534,
+      "type": "tv",
+      "releaseDate": "2025-04"
+   },
+   {
+      "title": "Everyday Host",
+      "malid": 60535,
+      "type": "tv",
+      "releaseDate": "2025-04"
+   },
+   {
+      "title": "Awaiting",
+      "enTitle": "Awaiting",
+      "malid": 60536,
+      "type": "movie",
+      "releaseDate": "2012"
+   },
+   {
+      "title": "Monpoke",
+      "malid": 60537,
+      "type": "ona",
+      "releaseDate": "2025-02-19"
+   },
+   {
+      "title": "Wu Dong Qian Kun 5th Season",
+      "enTitle": "Martial Universe 5th Season",
+      "malid": 60541,
+      "type": "ona",
+      "releaseDate": "2025-01-01"
+   },
+   {
+      "title": "Maze King",
+      "malid": 60542,
+      "type": "movie",
+      "releaseDate": "2013"
+   },
+   {
+      "title": "Dandadan 2nd Season",
+      "enTitle": "Dan Da Dan Season 2",
+      "malid": 60543,
+      "type": "tv",
+      "releaseDate": "2025-07"
+   },
+   {
+      "title": "Nezha Zhi Mo Tong Nao Hai",
+      "malid": 60544,
+      "type": "movie",
+      "releaseDate": "2025-01-29"
+   },
+   {
+      "title": "Xue Wang Zhi Qihuan Sha Zhou",
+      "malid": 60545,
+      "type": "ona",
+      "releaseDate": "2024-12-21"
+   },
+   {
+      "title": "Momose Akira no Hatsukoi Hatanchuu. PV",
+      "malid": 60546,
+      "type": "pv",
+      "releaseDate": "2024-12-18"
+   },
+   {
+      "title": "Tteotda Keunyeo!! Another Step",
+      "enTitle": "There She Is!! Another Step",
+      "malid": 60547,
+      "type": "ona",
+      "releaseDate": "2024-03-30"
+   },
+   {
+      "title": "Skip to Loafer 2nd Season",
+      "enTitle": "Skip and Loafer Season 2",
+      "malid": 60548,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Arcanadea",
+      "malid": 60549,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Vortex",
+      "enTitle": "VORTEX",
+      "malid": 60550,
+      "type": "music",
+      "releaseDate": "2024-10-04"
+   },
+   {
+      "title": "Hyakushou Kizoku 3rd Season",
+      "malid": 60551,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Kabushikigaisha Magi-Lumière 2nd Season",
+      "enTitle": "Magilumiere Magical Girls Inc. 2nd Season",
+      "malid": 60552,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Nonohara Yuzuka no Himitsu no Haishin",
+      "malid": 60553,
+      "type": "ova",
+      "releaseDate": "2025-02-28"
+   },
+   {
+      "title": "Bao Ke Meng Donghua Tujian: Qian Ling Bai Li",
+      "malid": 60554,
+      "type": "ona",
+      "releaseDate": "2024-11-27"
+   },
+   {
+      "title": "Ramen Akaneko 2nd Season",
+      "enTitle": "Ramen Akaneko Season 2",
+      "malid": 60555,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Practice for Henteko",
+      "malid": 60556,
+      "type": "movie",
+      "releaseDate": "2009"
+   },
+   {
+      "title": "Fanren Xiu Xian Chuan 4th Season",
+      "enTitle": "A Record of Mortal's Journey to Immortality Season 4",
+      "malid": 60557,
+      "type": "ona",
+      "releaseDate": "2025-01-18"
+   },
+   {
+      "title": "Huo Feng Liao Yuan 2nd Season",
+      "enTitle": "The Ravages of Time",
+      "malid": 60558,
+      "type": "ona",
+      "releaseDate": "2025-01-16"
+   },
+   {
+      "title": "Narrative",
+      "malid": 60559,
+      "type": "music",
+      "releaseDate": "2024-12-21"
+   },
+   {
+      "title": "Xian Wang de Richang Shenghuo 5",
+      "enTitle": "The Daily Life of the Immortal King 5",
+      "malid": 60560,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Shaonian Ge Xing: Xue Ran Tianqi Pian",
+      "malid": 60561,
+      "type": "ona",
+      "releaseDate": "2025-01"
+   },
+   {
+      "title": "Bai Yao Pu 5th Season",
+      "enTitle": "Fairies Albums 5",
+      "malid": 60562,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Ye De Mingming Shu",
+      "malid": 60563,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Ranma ½ (2024) 2nd Season",
+      "malid": 60564,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Junzi Wu Ji",
+      "enTitle": "Everything is Fine with the Emperor",
+      "malid": 60565,
+      "type": "ona",
+      "releaseDate": "2025-02-12"
+   },
+   {
+      "title": "Nan Hong",
+      "malid": 60566,
+      "type": "ona",
+      "releaseDate": ""
+   },
+   {
+      "title": "Chang Ge Xing",
+      "malid": 60567,
+      "type": "ona",
+      "releaseDate": "2025-02-23"
+   },
+   {
+      "title": "Jiyi Guanli Ju (2025)",
+      "enTitle": "False Memory",
+      "malid": 60568,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Zhongguo Qi Tan 2",
+      "enTitle": "Yao-Chinese Folktales 2",
+      "malid": 60569,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Ling Long 2nd Season",
+      "enTitle": "Ling Cage Season 2",
+      "malid": 60570,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Jiang Ye",
+      "malid": 60571,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Kun Tun Tianxia Zhi Zhang Men Guilai",
+      "malid": 60572,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Shen Kong Bi'An",
+      "malid": 60574,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Qing Chi Hong Xiaodou Ba! Shiwu Shijie 1st Season",
+      "enTitle": "Beanie's Daily! Food City",
+      "malid": 60576,
+      "type": "ona",
+      "releaseDate": "2025-01"
+   },
+   {
+      "title": "Tong Ling Fei 2nd Season",
+      "enTitle": "Psychic Princess Season 2",
+      "malid": 60577,
+      "type": "ona",
+      "releaseDate": ""
+   },
+   {
+      "title": "Bai Ri Cheng Cai",
+      "malid": 60578,
+      "type": "ona",
+      "releaseDate": ""
+   },
+   {
+      "title": "Jian Wang 3: Shen Jianxin de 365 Tian",
+      "malid": 60579,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Cengjing You Yongshi",
+      "enTitle": "So You're Raising a Warrior",
+      "malid": 60582,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Xian Di Guilai",
+      "malid": 60583,
+      "type": "unknown",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Kaiju Ditan Mai Dali",
+      "malid": 60586,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Da Xia Qing Shang Gong",
+      "malid": 60589,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Lao Ma Yu Xiao Bai",
+      "malid": 60590,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Wei Miao Rensheng",
+      "malid": 60591,
+      "type": "ona",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Vigilante: Boku no Hero Academia Illegals",
+      "malid": 60593,
+      "type": "tv",
+      "releaseDate": "2025-04"
    }
 ]

@@ -1399,10 +1399,6 @@ animeMovies:
       tmdbid: 0
       malid: 18325
 
-    - mainTitle: Meoteoldosawa Ttomae
-      tmdbid: 0
-      malid: 18329
-
     - mainTitle: Pro Yakyuu wo 10-bai Tanoshiku Miru Houhou
       tmdbid: 0
       malid: 18339
@@ -3251,10 +3247,6 @@ animeMovies:
       tmdbid: 0
       malid: 38341
 
-    - mainTitle: 'Free! Movie 4: The Final Stroke - Zenpen'
-      tmdbid: 0
-      malid: 38400
-
     - mainTitle: Timing (Movie)
       tmdbid: 0
       malid: 38461
@@ -3518,10 +3510,6 @@ animeMovies:
     - mainTitle: 'Bomberman: Yuuki wo Arigatou - Watashi ga Mimi ni Naru'
       tmdbid: 0
       malid: 40301
-
-    - mainTitle: Given Movie 1
-      tmdbid: 0
-      malid: 40421
 
     - mainTitle: 'Neko Neko Nihonshi Movie: Ryouma no Hachamecha Time Travel ze yo!'
       tmdbid: 0
@@ -7151,10 +7139,6 @@ animeMovies:
       tmdbid: 0
       malid: 57079
 
-    - mainTitle: Yangguang Shai Pigu
-      tmdbid: 0
-      malid: 57081
-
     - mainTitle: Voyant
       tmdbid: 0
       malid: 57088
@@ -7287,13 +7271,13 @@ animeMovies:
       tmdbid: 0
       malid: 57499
 
+    - mainTitle: 'Chainsaw Man Movie: Reze-hen'
+      tmdbid: 0
+      malid: 57555
+
     - mainTitle: Tokyo
       tmdbid: 0
       malid: 57587
-
-    - mainTitle: 'Oshiri Tantei Movie 5: Saraba Itoshiki Aibou (Oshiri) yo'
-      tmdbid: 0
-      malid: 57590
 
     - mainTitle: Tori no Machi
       tmdbid: 0
@@ -7431,6 +7415,10 @@ animeMovies:
       tmdbid: 0
       malid: 58828
 
+    - mainTitle: 'Odekake Kozama Movie: Tokai no Otomodachi'
+      tmdbid: 0
+      malid: 58837
+
     - mainTitle: Hyakuemu.
       tmdbid: 0
       malid: 58919
@@ -7470,6 +7458,10 @@ animeMovies:
     - mainTitle: 'Fuuto Tantei Movie: Kamen Rider Skull no Shouzou'
       tmdbid: 0
       malid: 59186
+
+    - mainTitle: 'Kimetsu no Yaiba Movie: Mugen Jou-hen'
+      tmdbid: 0
+      malid: 59192
 
     - mainTitle: 'SINoALICE: Ichiban Saigo no Monogatari'
       tmdbid: 0
@@ -7687,10 +7679,6 @@ animeMovies:
       tmdbid: 0
       malid: 59930
 
-    - mainTitle: 'Doraemon Movie 44: Nobita no E Sekai Monogatari'
-      tmdbid: 0
-      malid: 59980
-
     - mainTitle: Taiyou wo Nakushita Hi
       tmdbid: 0
       malid: 59981
@@ -7774,4 +7762,16 @@ animeMovies:
     - mainTitle: Geulium
       tmdbid: 0
       malid: 60493
+
+    - mainTitle: Awaiting
+      tmdbid: 0
+      malid: 60536
+
+    - mainTitle: Nezha Zhi Mo Tong Nao Hai
+      tmdbid: 0
+      malid: 60544
+
+    - mainTitle: Practice for Henteko
+      tmdbid: 0
+      malid: 60556
 
