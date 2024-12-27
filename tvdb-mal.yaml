@@ -2768,6 +2768,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 44074
+      title: Shiguang Dailiren
+      type: ona
+      tvdbid: 402033
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 44200
       title: 'Boku no Hero Academia the Movie 3: World Heroes'' Mission'
       type: movie
@@ -3051,6 +3060,15 @@ AnimeMap:
       title: Vinland Saga Season 2
       type: tv
       tvdbid: 359274
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49413
+      title: Shiguang Dailiren II
+      type: ona
+      tvdbid: 402033
       tvdbseason: 2
       start: 0
       useMapping: false
@@ -5204,6 +5222,15 @@ AnimeMap:
       tvdbid: 449407
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58755
+      title: 5-toubun no Hanayome*
+      type: tv_special
+      tvdbid: 355966
+      tvdbseason: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
