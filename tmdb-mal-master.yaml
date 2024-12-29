@@ -5547,10 +5547,6 @@ animeMovies:
       tmdbid: 0
       malid: 48279
 
-    - mainTitle: Jeonsa Ryan
-      tmdbid: 0
-      malid: 48320
-
     - mainTitle: 'Taoleujima Beoseuteo: Beullaeg-Eosseolteuui Gwihwan'
       tmdbid: 0
       malid: 48345
@@ -7774,4 +7770,16 @@ animeMovies:
     - mainTitle: Practice for Henteko
       tmdbid: 0
       malid: 60556
+
+    - mainTitle: Gag Mensou
+      tmdbid: 0
+      malid: 60575
+
+    - mainTitle: Hateshinaki Scarlet
+      tmdbid: 0
+      malid: 60610
+
+    - mainTitle: 'Oshiri Tantei Movie 6: Star and Moon'
+      tmdbid: 0
+      malid: 60613
 

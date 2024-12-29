@@ -15203,7 +15203,7 @@
       "title": "Doku Tenshi no Shippo",
       "malid": 2485,
       "type": "special",
-      "releaseDate": "2005"
+      "releaseDate": "2002-01-25"
    },
    {
       "title": "Takahashi Rumiko Gekijou",
@@ -40766,8 +40766,8 @@
    {
       "title": "Rain Town",
       "malid": 10448,
-      "type": "ona",
-      "releaseDate": "2011-03-04"
+      "type": "movie",
+      "releaseDate": "2011"
    },
    {
       "title": "Kyoukaisenjou no Horizon",
@@ -55418,7 +55418,7 @@
       "releaseDate": "2014-03-09"
    },
    {
-      "title": "Tamayura: More Aggressive - Tsuitachi dake no Shuugakuryokou, nanode",
+      "title": "Tamayura: More Aggressive - Ichinichi dake no Shuugakuryokou, nanode",
       "malid": 21737,
       "type": "special",
       "releaseDate": "2014-06-07"
@@ -109829,13 +109829,13 @@
       "releaseDate": "2020-04-06"
    },
    {
-      "title": "Fei Ren Zai 1st Season Part 2",
+      "title": "Fei Ren Zai Part 2",
       "malid": 42454,
       "type": "ona",
       "releaseDate": "2020-01-08"
    },
    {
-      "title": "Fei Ren Zai 1st Season Part 3",
+      "title": "Fei Ren Zai Part 3",
       "malid": 42455,
       "type": "ona",
       "releaseDate": "2020-06-17"
@@ -116713,7 +116713,7 @@
       "releaseDate": "2021-12-03"
    },
    {
-      "title": "Shinkai",
+      "title": "Shinkai (2020)",
       "malid": 44407,
       "type": "music",
       "releaseDate": "2020-12-07"
@@ -133951,7 +133951,7 @@
       "releaseDate": "2021-02-25"
    },
    {
-      "title": "Fei Ren Zai 1st Season Part 4",
+      "title": "Fei Ren Zai Part 4",
       "malid": 48374,
       "type": "ona",
       "releaseDate": "2021-02-03"
@@ -136433,7 +136433,7 @@
       "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Final Season - Asaki Yume no Akatsuki",
       "enTitle": "Magia Record: Puella Magi Madoka Magica Side Story Final Season",
       "malid": 49291,
-      "type": "special",
+      "type": "tv_special",
       "releaseDate": "2022-04-03"
    },
    {
@@ -137382,7 +137382,7 @@
       "releaseDate": "2023-01-26"
    },
    {
-      "title": "Fei Ren Zai 1st Season Part 5",
+      "title": "Fei Ren Zai Part 5",
       "malid": 49620,
       "type": "ona",
       "releaseDate": "2021-07-21"
@@ -148867,8 +148867,8 @@
       "releaseDate": "2018-09-20"
    },
    {
-      "title": "Bo \u0026 To's Family 1st Season Part 2",
-      "enTitle": "Bo \u0026 To's Family 1st Season Part 2",
+      "title": "Bo \u0026 To's Family Part 2",
+      "enTitle": "Bo \u0026 To's Family Part 2",
       "malid": 53043,
       "type": "tv",
       "releaseDate": "2019-04-18"
@@ -158290,7 +158290,7 @@
       "title": "Zatsu Tabi: That's Journey",
       "malid": 55514,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Anpanman ga Umareta Hi",
@@ -159554,7 +159554,7 @@
       "enTitle": "Fate/strange Fake",
       "malid": 55830,
       "type": "tv",
-      "releaseDate": "2024-12-31"
+      "releaseDate": ""
    },
    {
       "title": "Henshin",
@@ -160960,6 +160960,18 @@
       "malid": 56159,
       "type": "music",
       "releaseDate": "1993-02-02"
+   },
+   {
+      "title": "Retronix Symphony",
+      "malid": 56161,
+      "type": "music",
+      "releaseDate": "2011-10-26"
+   },
+   {
+      "title": "Retronix Symphony: Betsu Vector Version",
+      "malid": 56162,
+      "type": "music",
+      "releaseDate": "2011-10-26"
    },
    {
       "title": "Hisyo",
@@ -164349,7 +164361,7 @@
       "releaseDate": "2023-12-10"
    },
    {
-      "title": "Veil",
+      "title": "Veil (July 2019)",
       "malid": 56949,
       "type": "music",
       "releaseDate": "2019-07-19"
@@ -165473,6 +165485,12 @@
       "malid": 57186,
       "type": "tv",
       "releaseDate": "2023-07-31"
+   },
+   {
+      "title": "Veil",
+      "malid": 57187,
+      "type": "music",
+      "releaseDate": "2019-04-05"
    },
    {
       "title": "Plankton",
@@ -170292,6 +170310,12 @@
       "releaseDate": "2015-08-01"
    },
    {
+      "title": "Beyond Meta",
+      "malid": 58411,
+      "type": "music",
+      "releaseDate": "2022-05-11"
+   },
+   {
       "title": "Chichin Pui Pui",
       "malid": 58412,
       "type": "music",
@@ -170302,6 +170326,12 @@
       "malid": 58413,
       "type": "music",
       "releaseDate": "2015-04-02"
+   },
+   {
+      "title": "Otsuki-sama no Uta",
+      "malid": 58416,
+      "type": "music",
+      "releaseDate": "2014-10-01"
    },
    {
       "title": "Funkorogashi wa, Isogashii.",
@@ -170759,6 +170789,12 @@
       "malid": 58577,
       "type": "tv",
       "releaseDate": "2024-02-26"
+   },
+   {
+      "title": "Charging Topspinner BX",
+      "malid": 58578,
+      "type": "tv",
+      "releaseDate": "2024-01-27"
    },
    {
       "title": "Kodomo Keiji Memetan",
@@ -171827,8 +171863,8 @@
       "releaseDate": "2025"
    },
    {
-      "title": "Pipilu Anquan Tegong Dui 1st Season Part 2",
-      "enTitle": "Pipilu Rangers 1st Season Part 2",
+      "title": "Pipilu Anquan Tegong Dui Part 2",
+      "enTitle": "Pipilu Rangers Part 2",
       "malid": 58959,
       "type": "tv",
       "releaseDate": "2019-07-12"
@@ -172586,7 +172622,7 @@
    },
    {
       "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
-      "enTitle": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
+      "enTitle": "Even Given the Worthless \"Appraiser\" Class, I’m Actually the Strongest",
       "malid": 59144,
       "type": "tv",
       "releaseDate": "2025-01-09"
@@ -173148,7 +173184,7 @@
       "title": "Sanda",
       "malid": 59267,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2025-10"
    },
    {
       "title": "Sekai wa Melody",
@@ -173473,6 +173509,13 @@
       "malid": 59353,
       "type": "ona",
       "releaseDate": "2024-07-14"
+   },
+   {
+      "title": "Shi Dao Zhe",
+      "enTitle": "Arknights' Original Animation: The Daggers' Inheritors",
+      "malid": 59354,
+      "type": "ona",
+      "releaseDate": "2024-04-27"
    },
    {
       "title": "Hajimete no Boku desu",
@@ -174253,6 +174296,12 @@
       "releaseDate": "2017-06-20"
    },
    {
+      "title": "New Jersey and Enterprise's Beach Vacation",
+      "malid": 59543,
+      "type": "ona",
+      "releaseDate": "2024-08-12"
+   },
+   {
       "title": "Gachagacha Band",
       "malid": 59544,
       "type": "music",
@@ -174627,7 +174676,7 @@
       "title": "Uma Musume: Cinderella Gray",
       "malid": 59636,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Hoshi X kara no Rakko",
@@ -176787,6 +176836,18 @@
       "releaseDate": "2025-01-31"
    },
    {
+      "title": "POPular UPrising",
+      "malid": 60219,
+      "type": "music",
+      "releaseDate": "2002"
+   },
+   {
+      "title": "Shinkai",
+      "malid": 60220,
+      "type": "music",
+      "releaseDate": "2002"
+   },
+   {
       "title": "Elemon",
       "malid": 60221,
       "type": "ona",
@@ -177059,6 +177120,7 @@
    },
    {
       "title": "Mairimashita! Iruma-kun 4th Season",
+      "enTitle": "Welcome to Demon School! Iruma-kun Season 4",
       "malid": 60310,
       "type": "tv",
       "releaseDate": ""
@@ -177143,6 +177205,13 @@
       "malid": 60336,
       "type": "ona",
       "releaseDate": "2025"
+   },
+   {
+      "title": "Endless Fes",
+      "enTitle": "ENDLESS FES",
+      "malid": 60338,
+      "type": "music",
+      "releaseDate": "2024-11-01"
    },
    {
       "title": "Hitchcock-ui Eotteonhalu",
@@ -177368,7 +177437,7 @@
       "title": "Uchuujin Muumuu",
       "malid": 60401,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-04"
    },
    {
       "title": "Sore Ike! Anpanman: Doremifa Shima no Christmas",
@@ -177563,6 +177632,13 @@
       "releaseDate": "2024-12-17"
    },
    {
+      "title": "Oniisan Ohitori desu ka?",
+      "enTitle": "Are You Alone, Mister?",
+      "malid": 60443,
+      "type": "ona",
+      "releaseDate": "2024-11-29"
+   },
+   {
       "title": "Yowayowa Sensei",
       "malid": 60444,
       "type": "tv",
@@ -177704,6 +177780,12 @@
       "malid": 60479,
       "type": "music",
       "releaseDate": "2024-12-07"
+   },
+   {
+      "title": "Minute! Kaijuu 8-gou",
+      "malid": 60480,
+      "type": "ona",
+      "releaseDate": "2024-12-06"
    },
    {
       "title": "Complex♡Princess",
@@ -178004,7 +178086,7 @@
    },
    {
       "title": "Kabushikigaisha Magi-Lumière 2nd Season",
-      "enTitle": "Magilumiere Magical Girls Inc. 2nd Season",
+      "enTitle": "Magilumiere Magical Girls Inc. Season 2",
       "malid": 60552,
       "type": "tv",
       "releaseDate": ""
@@ -178145,7 +178227,13 @@
       "releaseDate": "2025"
    },
    {
-      "title": "Qing Chi Hong Xiaodou Ba! Shiwu Shijie 1st Season",
+      "title": "Gag Mensou",
+      "malid": 60575,
+      "type": "movie",
+      "releaseDate": "1981"
+   },
+   {
+      "title": "Qing Chi Hong Xiaodou Ba! Shiwu Shijie",
       "enTitle": "Beanie's Daily! Food City",
       "malid": 60576,
       "type": "ona",
@@ -178179,12 +178267,14 @@
    },
    {
       "title": "Xian Di Guilai",
+      "enTitle": "Back as Immortal Lord",
       "malid": 60583,
-      "type": "unknown",
+      "type": "ona",
       "releaseDate": "2025"
    },
    {
       "title": "Kaiju Ditan Mai Dali",
+      "enTitle": "The Most Powerful Vendor",
       "malid": 60586,
       "type": "ona",
       "releaseDate": "2025"
@@ -178209,8 +178299,153 @@
    },
    {
       "title": "Vigilante: Boku no Hero Academia Illegals",
+      "enTitle": "My Hero Academia: Vigilantes",
       "malid": 60593,
       "type": "tv",
       "releaseDate": "2025-04"
+   },
+   {
+      "title": "Gaming Party Xmas (maeshima soshi Remix)",
+      "malid": 60594,
+      "type": "music",
+      "releaseDate": "2021-11-22"
+   },
+   {
+      "title": "Hyakushou Kizoku 2nd Season Specials",
+      "malid": 60595,
+      "type": "special",
+      "releaseDate": "2025-04-23"
+   },
+   {
+      "title": "Sai-Kyo-Oh! Zukan: The Ultimate Tournament",
+      "malid": 60596,
+      "type": "tv",
+      "releaseDate": "2025-04"
+   },
+   {
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+      "enTitle": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+      "malid": 60601,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "MF Ghost 3rd Season",
+      "malid": 60602,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Puniru wa Kawaii Slime 2nd Season",
+      "malid": 60603,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Hajimemashite, wo Atsumeyou.",
+      "malid": 60605,
+      "type": "music",
+      "releaseDate": "2024-12-18"
+   },
+   {
+      "title": "Hatenaki Sora e",
+      "malid": 60606,
+      "type": "music",
+      "releaseDate": "2024-12-19"
+   },
+   {
+      "title": "Hateshinaki Scarlet",
+      "enTitle": "Scarlet",
+      "malid": 60610,
+      "type": "movie",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Shibuya♡Hachi 2nd Season",
+      "malid": 60612,
+      "type": "tv",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Oshiri Tantei Movie 6: Star and Moon",
+      "malid": 60613,
+      "type": "movie",
+      "releaseDate": "2025-03-20"
+   },
+   {
+      "title": "Sayonara End Roll",
+      "malid": 60617,
+      "type": "music",
+      "releaseDate": "2024-12-24"
+   },
+   {
+      "title": "Nageki no Bourei wa Intai shitai 2nd Season",
+      "enTitle": "Let This Grieving Soul Retire Season 2",
+      "malid": 60619,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Kabita Mikan no Santa Claus",
+      "malid": 60620,
+      "type": "ona",
+      "releaseDate": "2009-12-26"
+   },
+   {
+      "title": "Tokyo Shinya",
+      "enTitle": "Tokyo Midnight",
+      "malid": 60621,
+      "type": "music",
+      "releaseDate": "2022-11-26"
+   },
+   {
+      "title": "Rollback",
+      "malid": 60622,
+      "type": "music",
+      "releaseDate": "2024-12-24"
+   },
+   {
+      "title": "YouTuNya: Christmas tte Mita",
+      "malid": 60623,
+      "type": "tv_special",
+      "releaseDate": "2024-12-24"
+   },
+   {
+      "title": "Bokura no Motte Iru Mono",
+      "malid": 60627,
+      "type": "cm",
+      "releaseDate": "2024-12-26"
+   },
+   {
+      "title": "Mohan Kaitou Jikkenshitsu",
+      "malid": 60628,
+      "type": "music",
+      "releaseDate": "2024-01-25"
+   },
+   {
+      "title": "\"1-funkan dake Furete mo Ii yo...\" Share House no Himitsu Rule.",
+      "enTitle": "The Share House's Secret Rule",
+      "malid": 60629,
+      "type": "ona",
+      "releaseDate": "2025-01-05"
+   },
+   {
+      "title": "Pinka to Umi no Otomodachi",
+      "malid": 60631,
+      "type": "tv",
+      "releaseDate": "1998-04-13"
+   },
+   {
+      "title": "Bleach: Sennen Kessen-hen - Kashin-tan",
+      "enTitle": "Bleach: Thousand-Year Blood War - The Calamity",
+      "malid": 60636,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+      "malid": 60637,
+      "type": "tv",
+      "releaseDate": ""
    }
 ]
