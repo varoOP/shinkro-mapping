@@ -3101,6 +3101,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 49596
+      title: Blue Lock
+      type: tv
+      tvdbid: 408629
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 49757
       title: 'Ji Yao Lu: Qicheng Pian'
       type: ona
@@ -4114,6 +4123,15 @@ AnimeMap:
       type: tv
       tvdbid: 408629
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54866
+      title: 'Blue Lock: Episode Nagi'
+      type: movie
+      tvdbid: 408629
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
