@@ -743,10 +743,6 @@ animeMovies:
       tmdbid: 0
       malid: 8663
 
-    - mainTitle: Rokudenashi Blues
-      tmdbid: 0
-      malid: 9077
-
     - mainTitle: 'Kindaichi Shounen no Jikenbo Movie 2: Satsuriku no Deep Blue'
       tmdbid: 0
       malid: 9154
@@ -2559,10 +2555,6 @@ animeMovies:
       tmdbid: 0
       malid: 31269
 
-    - mainTitle: Shounen to Sakura
-      tmdbid: 0
-      malid: 31321
-
     - mainTitle: 'K: Missing Kings - Manner Movie'
       tmdbid: 0
       malid: 31344
@@ -3135,10 +3127,6 @@ animeMovies:
       tmdbid: 0
       malid: 36818
 
-    - mainTitle: 'Youtai Nuhai Zai Shanghai 2: Xianglian Mima'
-      tmdbid: 0
-      malid: 36843
-
     - mainTitle: Mirai no Mirai
       tmdbid: 0
       malid: 36936
@@ -3694,6 +3682,10 @@ animeMovies:
     - mainTitle: Line
       tmdbid: 0
       malid: 42271
+
+    - mainTitle: Karasu
+      tmdbid: 0
+      malid: 42272
 
     - mainTitle: Kidou
       tmdbid: 0
@@ -5723,10 +5715,6 @@ animeMovies:
       tmdbid: 0
       malid: 50110
 
-    - mainTitle: 'Youkai Watch ♪ Movie 7: Keita to Orecchi no Deai Hen da Nyan ♪ Wa, Watakushi mo ♪♪'
-      tmdbid: 0
-      malid: 50191
-
     - mainTitle: Sigh of Sighs
       tmdbid: 0
       malid: 50241
@@ -6951,6 +6939,10 @@ animeMovies:
       tmdbid: 0
       malid: 56323
 
+    - mainTitle: 'Shimajirou no Wow! Movie 11: Shimajirou to Yuuki no Uta'
+      tmdbid: 0
+      malid: 56335
+
     - mainTitle: Fengkuang Xiao Shijie
       tmdbid: 0
       malid: 56337
@@ -7451,6 +7443,10 @@ animeMovies:
       tmdbid: 0
       malid: 59167
 
+    - mainTitle: 'Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen'
+      tmdbid: 0
+      malid: 59174
+
     - mainTitle: 'Fuuto Tantei Movie: Kamen Rider Skull no Shouzou'
       tmdbid: 0
       malid: 59186
@@ -7518,6 +7514,10 @@ animeMovies:
     - mainTitle: Wonderer
       tmdbid: 0
       malid: 59550
+
+    - mainTitle: 'Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack'
+      tmdbid: 0
+      malid: 59571
 
     - mainTitle: 'Jyulagi Cops: Jeonseolui Godaesaengmuleul Chajala'
       tmdbid: 0
@@ -7683,6 +7683,10 @@ animeMovies:
       tmdbid: 0
       malid: 60007
 
+    - mainTitle: Toemarok
+      tmdbid: 0
+      malid: 60034
+
     - mainTitle: 'Blue Lock: Episode Nagi - Additional Time!'
       tmdbid: 0
       malid: 60076
@@ -7698,10 +7702,6 @@ animeMovies:
     - mainTitle: Kusari
       tmdbid: 0
       malid: 60190
-
-    - mainTitle: Metamorphose.
-      tmdbid: 0
-      malid: 60264
 
     - mainTitle: Xiangle Huayuan
       tmdbid: 0
