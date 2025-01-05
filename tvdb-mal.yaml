@@ -5450,6 +5450,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59226
+      title: 'Ao no Exorcist: Yosuga-hen'
+      type: tv
+      tvdbid: 248035
+      tvdbseason: 5
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 59265
       title: 'Magic Maker: Isekai Mahou no Tsukurikata'
       type: tv
