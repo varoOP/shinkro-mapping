@@ -1827,10 +1827,6 @@ animeMovies:
       tmdbid: 0
       malid: 23849
 
-    - mainTitle: Ganbare Swimmy
-      tmdbid: 0
-      malid: 23863
-
     - mainTitle: Ojisan Kaizou Kouza
       tmdbid: 0
       malid: 23865
@@ -2151,9 +2147,9 @@ animeMovies:
       tmdbid: 0
       malid: 29649
 
-    - mainTitle: Ikedaya Soudou
+    - mainTitle: Chanda Gou
       tmdbid: 0
-      malid: 29651
+      malid: 29655
 
     - mainTitle: Stone
       tmdbid: 0
@@ -3722,6 +3718,10 @@ animeMovies:
     - mainTitle: Honnouji no Hen
       tmdbid: 0
       malid: 42399
+
+    - mainTitle: 'Healin'' Good♡Precure Movie: Yume no Machi de Kyun! Tto GoGo! Daihenshin!!'
+      tmdbid: 0
+      malid: 42422
 
     - mainTitle: Wu Sheng Guan Gong
       tmdbid: 0
@@ -6067,6 +6067,10 @@ animeMovies:
       tmdbid: 0
       malid: 52958
 
+    - mainTitle: Versailles no Bara (Movie)
+      tmdbid: 0
+      malid: 52967
+
     - mainTitle: 'Aikatsu! 10th Story: Mirai e no Starway'
       tmdbid: 0
       malid: 52993
@@ -7007,10 +7011,6 @@ animeMovies:
       tmdbid: 0
       malid: 56507
 
-    - mainTitle: 'Gintama on Theater 2D: Baragaki-hen'
-      tmdbid: 0
-      malid: 56544
-
     - mainTitle: Nejikure Ojisan
       tmdbid: 0
       malid: 56550
@@ -7403,7 +7403,7 @@ animeMovies:
       tmdbid: 0
       malid: 58828
 
-    - mainTitle: 'Odekake Kozama Movie: Tokai no Otomodachi'
+    - mainTitle: 'Odekake Kozame Movie: Tokai no Otomodachi'
       tmdbid: 0
       malid: 58837
 
@@ -7515,10 +7515,6 @@ animeMovies:
       tmdbid: 0
       malid: 59550
 
-    - mainTitle: 'Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack'
-      tmdbid: 0
-      malid: 59571
-
     - mainTitle: 'Jyulagi Cops: Jeonseolui Godaesaengmuleul Chajala'
       tmdbid: 0
       malid: 59587
@@ -7526,10 +7522,6 @@ animeMovies:
     - mainTitle: 'Jyulagi Cops: Gonglyongsidae Daemoheom'
       tmdbid: 0
       malid: 59588
-
-    - mainTitle: 'Jujutsu Kaisen: Kaigyoku/Gyokusetsu'
-      tmdbid: 0
-      malid: 59654
 
     - mainTitle: 'Omocha Bako Series Dai 2-wa: Kuroneko Banzai'
       tmdbid: 0
@@ -7683,10 +7675,6 @@ animeMovies:
       tmdbid: 0
       malid: 60007
 
-    - mainTitle: Toemarok
-      tmdbid: 0
-      malid: 60034
-
     - mainTitle: 'Blue Lock: Episode Nagi - Additional Time!'
       tmdbid: 0
       malid: 60076
@@ -7694,6 +7682,10 @@ animeMovies:
     - mainTitle: 'Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen Part 2'
       tmdbid: 0
       malid: 60159
+
+    - mainTitle: Origami
+      tmdbid: 0
+      malid: 60170
 
     - mainTitle: Hanei
       tmdbid: 0
@@ -7706,10 +7698,6 @@ animeMovies:
     - mainTitle: Xiangle Huayuan
       tmdbid: 0
       malid: 60272
-
-    - mainTitle: 'Hypnosis Mic: Division Rap Battle Movie'
-      tmdbid: 0
-      malid: 60273
 
     - mainTitle: Neogs
       tmdbid: 0

@@ -100196,7 +100196,7 @@
    },
    {
       "title": "Yichang Shengwu Jianwenlu",
-      "enTitle": "Journal of the Mysterious Creatures",
+      "enTitle": "Journal of Mysterious Creatures",
       "malid": 39421,
       "type": "ona",
       "releaseDate": "2019-06-28"
@@ -105441,6 +105441,13 @@
       "releaseDate": "2015-07-03"
    },
    {
+      "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+      "enTitle": "Love Live! Nijigasaki High School Idol Club",
+      "malid": 40879,
+      "type": "tv",
+      "releaseDate": "2020-10-03"
+   },
+   {
       "title": "Kiratto Pri☆chan Season 3",
       "malid": 40880,
       "type": "tv",
@@ -109705,7 +109712,7 @@
       "releaseDate": "2020-10-05"
    },
    {
-      "title": "Healin' Good♡Precure Movie: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!",
+      "title": "Healin' Good♡Precure Movie: Yume no Machi de Kyun! Tto GoGo! Daihenshin!!",
       "malid": 42422,
       "type": "movie",
       "releaseDate": "2021-03-20"
@@ -115295,8 +115302,8 @@
       "releaseDate": "2018-02-22"
    },
    {
-      "title": "Zhiqu Yang Xuetang: Yangyang Qu Maoxian",
-      "enTitle": "Pleasant Goat Fun Class: Mighty Goat Squad",
+      "title": "Xi Yangyang Yu Hui Tailang: Yangyang Qu Maoxian",
+      "enTitle": "Pleasant Goat and Big Big Wolf: Mighty Goat Squad",
       "malid": 44013,
       "type": "ona",
       "releaseDate": "2020-08-01"
@@ -140968,7 +140975,7 @@
       "releaseDate": "2022-07-02"
    },
    {
-      "title": "Anata wo Hitokoto de Arawashite Kudasai: no Shitsumon ga Nigate da.",
+      "title": "\"Anata wo Hitokoto de Arawashite Kudasai\" no Shitsumon ga Nigate da.",
       "malid": 50762,
       "type": "cm",
       "releaseDate": "2022-01-11"
@@ -145176,7 +145183,7 @@
       "releaseDate": "1996"
    },
    {
-      "title": "\"Oshi no Ko\"",
+      "title": "[Oshi no Ko]",
       "enTitle": "[Oshi No Ko]",
       "malid": 52034,
       "type": "tv",
@@ -159397,7 +159404,7 @@
       "releaseDate": "2023-07-29"
    },
    {
-      "title": "\"Oshi no Ko\" 2nd Season",
+      "title": "[Oshi no Ko] 2nd Season",
       "enTitle": "[Oshi No Ko] Season 2",
       "malid": 55791,
       "type": "tv",
@@ -170340,6 +170347,13 @@
       "releaseDate": "2023-09-18"
    },
    {
+      "title": "Tamagotchi Short Anime",
+      "enTitle": "Tamagotchi Short Animation",
+      "malid": 58436,
+      "type": "ona",
+      "releaseDate": "2024-03-01"
+   },
+   {
       "title": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita",
       "enTitle": "I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
       "malid": 58437,
@@ -171130,7 +171144,7 @@
       "enTitle": "Arknights: Rise from Ember",
       "malid": 58749,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2025"
    },
    {
       "title": "Arknights 2024 Special Commemorative Animation PV",
@@ -171304,7 +171318,7 @@
       "title": "Tougen Anki",
       "malid": 58811,
       "type": "tv",
-      "releaseDate": "2025"
+      "releaseDate": "2025-07"
    },
    {
       "title": "Shin Samurai-den Yaiba",
@@ -171413,7 +171427,7 @@
       "releaseDate": "2024-05-10"
    },
    {
-      "title": "Odekake Kozama Movie: Tokai no Otomodachi",
+      "title": "Odekake Kozame Movie: Tokai no Otomodachi",
       "malid": 58837,
       "type": "movie",
       "releaseDate": "2025"
@@ -172008,7 +172022,7 @@
       "title": "Osomatsu-san 4th Season",
       "malid": 58996,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2025-07"
    },
    {
       "title": "Blues in the Closet",
@@ -173007,13 +173021,6 @@
       "releaseDate": "2025-01-05"
    },
    {
-      "title": "Ao no Exorcist: Yosuga-hen",
-      "enTitle": "Blue Exorcist: The Blue Night Saga",
-      "malid": 59226,
-      "type": "tv",
-      "releaseDate": "2025-01-05"
-   },
-   {
       "title": "Kuroshitsuji: Midori no Majo-hen",
       "enTitle": "Black Butler: Emerald Witch Arc",
       "malid": 59228,
@@ -173385,7 +173392,7 @@
       "title": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
       "malid": 59322,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2025-07"
    },
    {
       "title": "Wakiaiai",
@@ -176361,7 +176368,7 @@
       "releaseDate": "2026"
    },
    {
-      "title": "\"Oshi no Ko\" 3rd Season",
+      "title": "[Oshi no Ko] 3rd Season",
       "enTitle": "[Oshi No Ko] Season 3",
       "malid": 60058,
       "type": "tv",
@@ -176716,6 +176723,13 @@
       "malid": 60168,
       "type": "tv",
       "releaseDate": "2025"
+   },
+   {
+      "title": "Origami",
+      "enTitle": "Origami",
+      "malid": 60170,
+      "type": "movie",
+      "releaseDate": "2024"
    },
    {
       "title": "Wo Shi Da Shenxian 3rd Season",
@@ -177300,6 +177314,12 @@
       "releaseDate": "1999-12-08"
    },
    {
+      "title": "Teenage Blue",
+      "malid": 60356,
+      "type": "music",
+      "releaseDate": "2024-11-22"
+   },
+   {
       "title": "Maarui Kanojo to Zannen na Kareshi 2nd Season",
       "malid": 60357,
       "type": "tv",
@@ -177476,7 +177496,7 @@
       "title": "Kimi to Idol Precure♪",
       "enTitle": "You and Idol Precure♪",
       "malid": 60407,
-      "type": "unknown",
+      "type": "tv",
       "releaseDate": "2025-02-02"
    },
    {
@@ -178525,6 +178545,12 @@
       "releaseDate": "2024-12-30"
    },
    {
+      "title": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita 8th Season",
+      "malid": 60653,
+      "type": "ona",
+      "releaseDate": "2024-12-10"
+   },
+   {
       "title": "Owaranai Love Song wo",
       "malid": 60655,
       "type": "music",
@@ -178551,7 +178577,7 @@
    {
       "title": "Neko ni Naritai Tamagawa-kun",
       "malid": 60662,
-      "type": "special",
+      "type": "tv_special",
       "releaseDate": "2025-01-05"
    },
    {
@@ -178606,6 +178632,12 @@
       "releaseDate": "2025-01-01"
    },
    {
+      "title": "Minimini Minini",
+      "malid": 60677,
+      "type": "tv",
+      "releaseDate": "2025-01-04"
+   },
+   {
       "title": "I Want",
       "malid": 60678,
       "type": "music",
@@ -178655,5 +178687,161 @@
       "malid": 60692,
       "type": "tv",
       "releaseDate": ""
+   },
+   {
+      "title": "Fermat no Ryouri",
+      "malid": 60697,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Tera e",
+      "malid": 60702,
+      "type": "music",
+      "releaseDate": "2024-08-26"
+   },
+   {
+      "title": "Want U Luv It",
+      "malid": 60703,
+      "type": "music",
+      "releaseDate": "2024-03-29"
+   },
+   {
+      "title": "Xiong Chumo: Xiongxiong Bang Bang Tuan 3",
+      "enTitle": "Boonie Squad 3",
+      "malid": 60705,
+      "type": "tv",
+      "releaseDate": "2024-12-20"
+   },
+   {
+      "title": "Xiong Chumo: Xiongxiong Huanle Song 2",
+      "enTitle": "Boonie Cub Tune Club 2",
+      "malid": 60706,
+      "type": "tv",
+      "releaseDate": "2022-12-23"
+   },
+   {
+      "title": "Xi Yangyang Yu Hui Tailang: Qimiao da Yingjiu",
+      "enTitle": "Pleasant Goat and Big Big Wolf: The Great Rescue",
+      "malid": 60707,
+      "type": "tv",
+      "releaseDate": "2022-07-15"
+   },
+   {
+      "title": "Xi Yangyang Yu Hui Tailang: Yong Chuang Siji Cheng",
+      "enTitle": "Pleasant Goat and Big Big Wolf: The Season Towns",
+      "malid": 60708,
+      "type": "tv",
+      "releaseDate": "2023-01-06"
+   },
+   {
+      "title": "Xi Yangyang Yu Hui Tailang: Aoyou Shenmi Yang",
+      "enTitle": "Pleasant Goat and Big Big Wolf: Mysterious Ocean Adventure",
+      "malid": 60709,
+      "type": "tv",
+      "releaseDate": "2023-07-06"
+   },
+   {
+      "title": "Xi Yangyang Yu Hui Tailang: Xin Shijie Qiyu",
+      "enTitle": "Pleasant Goat and Big Big Wolf: Explore Wolffy's Mind",
+      "malid": 60710,
+      "type": "tv",
+      "releaseDate": "2024-01-19"
+   },
+   {
+      "title": "Xi Yangyang Yu Hui Tailang: Fengkuang Chao Neng Ying",
+      "enTitle": "Pleasant Goat and Big Big Wolf: Crazy Hubs",
+      "malid": 60711,
+      "type": "tv",
+      "releaseDate": "2024-07-05"
+   },
+   {
+      "title": "Xi Yangyang Yu Hui Tailang: Qi Xia da Yingjiu",
+      "enTitle": "Pleasant Goat and Big Big Wolf: Martial World Rescue",
+      "malid": 60712,
+      "type": "tv",
+      "releaseDate": "2025-01-10"
+   },
+   {
+      "title": "Xi Yangyang Yu Hui Tailang: Yangyang Qu Maoxian 2",
+      "enTitle": "Pleasant Goat and Big Big Wolf: Mighty Goat Squad 2",
+      "malid": 60713,
+      "type": "ona",
+      "releaseDate": "2022-11-26"
+   },
+   {
+      "title": "Ghost of Tsushima: Legends",
+      "malid": 60714,
+      "type": "unknown",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Hadaka no Yume",
+      "malid": 60715,
+      "type": "music",
+      "releaseDate": "2023-02-10"
+   },
+   {
+      "title": "Ajin ga Osuki nan Desu ne",
+      "malid": 60720,
+      "type": "ova",
+      "releaseDate": "2025-03-28"
+   },
+   {
+      "title": "Babanbabanban Vampire Mini Anime",
+      "malid": 60729,
+      "type": "ona",
+      "releaseDate": "2025-01-06"
+   },
+   {
+      "title": "Fukakumei Zenya",
+      "malid": 60730,
+      "type": "music",
+      "releaseDate": "2020-08-07"
+   },
+   {
+      "title": "Mizu Zokusei no Mahoutsukai",
+      "malid": 60732,
+      "type": "tv",
+      "releaseDate": "2025-07"
+   },
+   {
+      "title": "Tamagotchi Short Anime 2nd Season",
+      "enTitle": "Tamagotchi Short Animation 2nd Season",
+      "malid": 60733,
+      "type": "ona",
+      "releaseDate": "2024-10-18"
+   },
+   {
+      "title": "Buyao Fan",
+      "enTitle": "Leave Me Alone",
+      "malid": 60734,
+      "type": "music",
+      "releaseDate": "2024-02-15"
+   },
+   {
+      "title": "Tsumi to Batsu (Reloaded)",
+      "enTitle": "Crime and Punishment (Reloaded)",
+      "malid": 60736,
+      "type": "music",
+      "releaseDate": "2025-01-10"
+   },
+   {
+      "title": "Shinkalion: Change the World - Present the World",
+      "malid": 60737,
+      "type": "tv_special",
+      "releaseDate": "2025-01-05"
+   },
+   {
+      "title": "Otome Game no Heroine de Saikyou Survival",
+      "malid": 60739,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Aye, Aye, Sir!",
+      "malid": 60741,
+      "type": "music",
+      "releaseDate": "2024-09-16"
    }
 ]
