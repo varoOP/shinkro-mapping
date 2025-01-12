@@ -4299,7 +4299,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55791
-      title: '"Oshi no Ko" 2nd Season'
+      title: '[Oshi no Ko] 2nd Season'
       type: tv
       tvdbid: 421069
       tvdbseason: 2
@@ -5437,15 +5437,6 @@ AnimeMap:
       type: unknown
       tvdbid: 451787
       tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 59226
-      title: 'Ao no Exorcist: Yosuga-hen'
-      type: tv
-      tvdbid: 248035
-      tvdbseason: 5
       start: 0
       useMapping: false
       animeMapping: []
