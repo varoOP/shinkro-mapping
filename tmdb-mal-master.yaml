@@ -67,10 +67,6 @@ animeMovies:
       tmdbid: 47217
       malid: 2211
 
-    - mainTitle: Nagagutsu wo Haita Neko
-      tmdbid: 58704
-      malid: 2279
-
     - mainTitle: Choujin Densetsu Urotsukidouji Movie
       tmdbid: 48624
       malid: 2359
@@ -3134,10 +3130,6 @@ animeMovies:
     - mainTitle: Panpaka Pants x Lala-chan
       tmdbid: 0
       malid: 37028
-
-    - mainTitle: 'Xiong Chumo: Xiong Zin Guilai'
-      tmdbid: 0
-      malid: 37099
 
     - mainTitle: Doraemon Anniversary 25
       tmdbid: 0
@@ -7219,10 +7211,6 @@ animeMovies:
       tmdbid: 0
       malid: 57386
 
-    - mainTitle: 'Mini Shijie: Juexing'
-      tmdbid: 0
-      malid: 57387
-
     - mainTitle: 'Xiong Chumo: Nizhuan Shikong'
       tmdbid: 0
       malid: 57416
@@ -7375,7 +7363,7 @@ animeMovies:
       tmdbid: 0
       malid: 58619
 
-    - mainTitle: A New Dawn
+    - mainTitle: Hanarokushou ga Akeru Hi ni
       tmdbid: 0
       malid: 58735
 
@@ -7591,6 +7579,10 @@ animeMovies:
       tmdbid: 0
       malid: 59803
 
+    - mainTitle: Girls Band Cry Movie
+      tmdbid: 0
+      malid: 59817
+
     - mainTitle: 'Doraemon: Ken-chan no Bouken'
       tmdbid: 0
       malid: 59829
@@ -7654,10 +7646,6 @@ animeMovies:
     - mainTitle: Goyang-iga Doeeossda
       tmdbid: 0
       malid: 59896
-
-    - mainTitle: 'Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu'
-      tmdbid: 0
-      malid: 59897
 
     - mainTitle: Kaguya-hime (1972)
       tmdbid: 0
@@ -7763,11 +7751,23 @@ animeMovies:
       tmdbid: 0
       malid: 60575
 
-    - mainTitle: Hateshinaki Scarlet
-      tmdbid: 0
-      malid: 60610
-
     - mainTitle: 'Oshiri Tantei Movie 6: Star and Moon'
       tmdbid: 0
       malid: 60613
+
+    - mainTitle: Seikatsu wa Psychopath no Shi no You ni
+      tmdbid: 0
+      malid: 60770
+
+    - mainTitle: Kimi to Idol Precure♪ Movie
+      tmdbid: 0
+      malid: 60773
+
+    - mainTitle: ChaO
+      tmdbid: 0
+      malid: 60774
+
+    - mainTitle: Kingyo no Ohirune
+      tmdbid: 0
+      malid: 60780
 
