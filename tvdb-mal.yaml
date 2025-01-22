@@ -3875,6 +3875,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53888
+      title: 'Spy x Family Movie: Code: White'
+      type: movie
+      tvdbid: 405920
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 53889
       title: 'Ao no Exorcist: Shimane Illuminati-hen'
       type: tv
@@ -5347,6 +5356,15 @@ AnimeMap:
       type: tv
       tvdbid: 271591
       tvdbseason: 13
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59027
+      title: Spy x Family Season 3
+      type: tv
+      tvdbid: 405920
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
