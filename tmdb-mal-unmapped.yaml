@@ -3179,10 +3179,6 @@ animeMovies:
       tmdbid: 0
       malid: 37860
 
-    - mainTitle: Sanpou Shoujo
-      tmdbid: 0
-      malid: 37878
-
     - mainTitle: Mandamgangho
       tmdbid: 0
       malid: 37929
@@ -7571,10 +7567,6 @@ animeMovies:
       tmdbid: 0
       malid: 59795
 
-    - mainTitle: Tulip-chan
-      tmdbid: 0
-      malid: 59802
-
     - mainTitle: Aki no Kaze Fuku
       tmdbid: 0
       malid: 59803
@@ -7770,4 +7762,28 @@ animeMovies:
     - mainTitle: Kingyo no Ohirune
       tmdbid: 0
       malid: 60780
+
+    - mainTitle: Luffy, Law
+      tmdbid: 0
+      malid: 60790
+
+    - mainTitle: Hiru no Yume
+      tmdbid: 0
+      malid: 60801
+
+    - mainTitle: Juroring Dongmultanjeong Geukjangpan
+      tmdbid: 0
+      malid: 60804
+
+    - mainTitle: Fukusuke (1984)
+      tmdbid: 0
+      malid: 60807
+
+    - mainTitle: Yoru Neko
+      tmdbid: 0
+      malid: 60809
+
+    - mainTitle: Vision
+      tmdbid: 0
+      malid: 60816
 
