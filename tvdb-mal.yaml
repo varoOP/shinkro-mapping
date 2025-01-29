@@ -213,6 +213,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 318
+      title: Hand Maid May
+      type: tv
+      tvdbid: 72470
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 371
       title: Cardcaptor Sakura Movie 1
       type: movie
@@ -537,6 +546,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1234
+      title: Hand Maid Mai
+      type: ova
+      tvdbid: 72470
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 1563
       title: Magic Knight Rayearth II
       type: tv
@@ -605,6 +623,15 @@ AnimeMap:
       tvdbid: 358557
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 2217
+      title: 'Hand Maid May: Akiramemasen'
+      type: special
+      tvdbid: 72470
+      tvdbseason: 0
+      start: 1
       useMapping: false
       animeMapping: []
 
