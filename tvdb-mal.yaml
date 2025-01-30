@@ -653,10 +653,28 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 3456
+      title: 'Candy☆Boy: Side Story For Archive'
+      type: ona
+      tvdbid: 87991
+      tvdbseason: 0
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 3841
       title: Chi's Sweet Home
       type: tv
       tvdbid: 81844
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4535
+      title: 'Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life'
+      type: ona
+      tvdbid: 87991
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -675,6 +693,15 @@ AnimeMap:
       title: Mahoromatic 2 End Year Special
       type: special
       tvdbid: 79035
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5116
+      title: 'Candy Boy Episode: EX01 - Mirai Yohouzu'
+      type: ova
+      tvdbid: 87991
       tvdbseason: 0
       start: 2
       useMapping: false
@@ -731,6 +758,15 @@ AnimeMap:
       tvdbid: 83996
       tvdbseason: 0
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 6479
+      title: 'Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron'
+      type: special
+      tvdbid: 87991
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
