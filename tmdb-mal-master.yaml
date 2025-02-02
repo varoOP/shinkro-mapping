@@ -5703,6 +5703,10 @@ animeMovies:
       tmdbid: 0
       malid: 50110
 
+    - mainTitle: 'Zombieland Saga Movie: Yumeginga Paradise'
+      tmdbid: 0
+      malid: 50159
+
     - mainTitle: Sigh of Sighs
       tmdbid: 0
       malid: 50241
@@ -7239,10 +7243,6 @@ animeMovies:
       tmdbid: 0
       malid: 57463
 
-    - mainTitle: 'Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki'
-      tmdbid: 0
-      malid: 57499
-
     - mainTitle: 'Chainsaw Man Movie: Reze-hen'
       tmdbid: 0
       malid: 57555
@@ -7786,4 +7786,20 @@ animeMovies:
     - mainTitle: Vision
       tmdbid: 0
       malid: 60816
+
+    - mainTitle: Yoru no Hitomi
+      tmdbid: 0
+      malid: 60833
+
+    - mainTitle: IVA
+      tmdbid: 0
+      malid: 60842
+
+    - mainTitle: Hoshi no Shushi
+      tmdbid: 0
+      malid: 60861
+
+    - mainTitle: 'Crayon Shin-chan Movie 33: Chou Karei! Shakunetsu no Kasukabe Dancers'
+      tmdbid: 0
+      malid: 60862
 
