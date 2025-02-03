@@ -2246,6 +2246,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 38555
+      title: Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...
+      type: tv
+      tvdbid: 371437
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 38691
       title: Dr. Stone
       type: tv
@@ -2696,11 +2705,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 42194
+      title: Katarina to Manabou
+      type: ona
+      tvdbid: 371437
+      tvdbseason: 0
+      start: 11
+      useMapping: false
+      animeMapping: []
+
     - malid: 42249
       title: Tokyo Revengers
       type: tv
       tvdbid: 393478
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 42282
+      title: Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X
+      type: tv
+      tvdbid: 371437
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -3137,6 +3164,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 49457
+      title: Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... OVA
+      type: ova
+      tvdbid: 371437
+      tvdbseason: 0
+      start: 8
+      useMapping: false
+      animeMapping: []
+
     - malid: 49458
       title: Kono Subarashii Sekai ni Shukufuku wo! 3
       type: tv
@@ -3215,6 +3251,15 @@ AnimeMap:
       tvdbid: 245821
       tvdbseason: 15
       start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49842
+      title: Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... Movie
+      type: movie
+      tvdbid: 371437
+      tvdbseason: 0
+      start: 20
       useMapping: false
       animeMapping: []
 
@@ -3502,6 +3547,15 @@ AnimeMap:
       type: tv
       tvdbid: 348545
       tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 51036
+      title: Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... Voice Drama
+      type: ona
+      tvdbid: 371437
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
