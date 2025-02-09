@@ -955,10 +955,6 @@ animeMovies:
       tmdbid: 0
       malid: 10731
 
-    - mainTitle: Saru to Kani no Gassen
-      tmdbid: 0
-      malid: 10742
-
     - mainTitle: Shita-kiri Suzume
       tmdbid: 0
       malid: 10756
@@ -4867,10 +4863,6 @@ animeMovies:
       tmdbid: 0
       malid: 44397
 
-    - mainTitle: Konglong Baobei
-      tmdbid: 0
-      malid: 44402
-
     - mainTitle: 'Shaonian Shiye: Da Yu Baozang'
       tmdbid: 0
       malid: 44427
@@ -7571,10 +7563,6 @@ animeMovies:
       tmdbid: 0
       malid: 59803
 
-    - mainTitle: Girls Band Cry Movie
-      tmdbid: 0
-      malid: 59817
-
     - mainTitle: 'Doraemon: Ken-chan no Bouken'
       tmdbid: 0
       malid: 59829
@@ -7646,6 +7634,10 @@ animeMovies:
     - mainTitle: Kaguya-hime
       tmdbid: 0
       malid: 59930
+
+    - mainTitle: 'Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen'
+      tmdbid: 0
+      malid: 59971
 
     - mainTitle: Taiyou wo Nakushita Hi
       tmdbid: 0
@@ -7731,10 +7723,6 @@ animeMovies:
       tmdbid: 0
       malid: 60536
 
-    - mainTitle: Nezha Zhi Mo Tong Nao Hai
-      tmdbid: 0
-      malid: 60544
-
     - mainTitle: Practice for Henteko
       tmdbid: 0
       malid: 60556
@@ -7802,4 +7790,36 @@ animeMovies:
     - mainTitle: 'Crayon Shin-chan Movie 33: Chou Karei! Shakunetsu no Kasukabe Dancers'
       tmdbid: 0
       malid: 60862
+
+    - mainTitle: Kuuchuu no Ongaku I
+      tmdbid: 0
+      malid: 60872
+
+    - mainTitle: Kuuchuu no Ongaku II
+      tmdbid: 0
+      malid: 60873
+
+    - mainTitle: Shizen wo Korosu Kikai
+      tmdbid: 0
+      malid: 60895
+
+    - mainTitle: Mister Robot
+      tmdbid: 0
+      malid: 60916
+
+    - mainTitle: 'Ahobsan Sup: Gisaenghon'
+      tmdbid: 0
+      malid: 60917
+
+    - mainTitle: Haru no Akubi
+      tmdbid: 0
+      malid: 60920
+
+    - mainTitle: Lion no Koushin
+      tmdbid: 0
+      malid: 60942
+
+    - mainTitle: Enkan no Suigyo
+      tmdbid: 0
+      malid: 60943
 
