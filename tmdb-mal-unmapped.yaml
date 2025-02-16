@@ -831,7 +831,7 @@ animeMovies:
       tmdbid: 0
       malid: 9895
 
-    - mainTitle: Document Taiyou no Kiba Dagram
+    - mainTitle: Document Taiyou no Kiba Dougram
       tmdbid: 0
       malid: 9972
 
@@ -870,10 +870,6 @@ animeMovies:
     - mainTitle: 'Sore Ike! Anpanman: Baikinman no Gyakushuu'
       tmdbid: 0
       malid: 10061
-
-    - mainTitle: 'Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D'
-      tmdbid: 0
-      malid: 10090
 
     - mainTitle: 'Super Doll Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki'
       tmdbid: 0
@@ -6751,6 +6747,10 @@ animeMovies:
       tmdbid: 0
       malid: 54872
 
+    - mainTitle: Chang An San Wan Li
+      tmdbid: 0
+      malid: 54945
+
     - mainTitle: 'Sylvanian Families Movie: Freya kara no Okurimono'
       tmdbid: 0
       malid: 54989
@@ -7118,6 +7118,10 @@ animeMovies:
     - mainTitle: Play House
       tmdbid: 0
       malid: 57089
+
+    - mainTitle: 'Princess Principal: Crown Handler Movie 4'
+      tmdbid: 0
+      malid: 57093
 
     - mainTitle: 'Gegege no Kitarou: Kappa no Terraforming'
       tmdbid: 0
@@ -7679,6 +7683,10 @@ animeMovies:
       tmdbid: 0
       malid: 60341
 
+    - mainTitle: Usan
+      tmdbid: 0
+      malid: 60342
+
     - mainTitle: Ocean
       tmdbid: 0
       malid: 60343
@@ -7822,4 +7830,32 @@ animeMovies:
     - mainTitle: Enkan no Suigyo
       tmdbid: 0
       malid: 60943
+
+    - mainTitle: Mizu no Enkan
+      tmdbid: 0
+      malid: 60952
+
+    - mainTitle: Mizu no Enkan (2003)
+      tmdbid: 0
+      malid: 60953
+
+    - mainTitle: 'Sore Ike! Anpanman: Chapon no Hero!'
+      tmdbid: 0
+      malid: 60962
+
+    - mainTitle: Yamazaki Kaidou
+      tmdbid: 0
+      malid: 60972
+
+    - mainTitle: Sankaku no Dance
+      tmdbid: 0
+      malid: 60973
+
+    - mainTitle: Bunbuku Chagama (1932)
+      tmdbid: 0
+      malid: 61000
+
+    - mainTitle: Shita-kiri Suzume (1928)
+      tmdbid: 0
+      malid: 61004
 
