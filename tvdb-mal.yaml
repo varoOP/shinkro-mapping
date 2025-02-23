@@ -5424,8 +5424,8 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58883
-      title: Dead Dead Demons Dededede Destruction (OVA)
-      type: ova
+      title: Dead Dead Demons Dededede Destruction (ONA)
+      type: ona
       tvdbid: 418123
       tvdbseason: 1
       start: 0
@@ -5433,8 +5433,8 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58920
-      title: Dead Dead Demons Dededede Destruction (OVA) Episode 0
-      type: ova
+      title: Dead Dead Demons Dededede Destruction (ONA) Episode 0
+      type: ona
       tvdbid: 418123
       tvdbseason: 0
       start: 0
