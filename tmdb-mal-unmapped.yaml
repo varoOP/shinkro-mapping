@@ -1119,10 +1119,6 @@ animeMovies:
       tmdbid: 0
       malid: 13971
 
-    - mainTitle: 'Hanasaku Iroha Movie: Home Sweet Home'
-      tmdbid: 0
-      malid: 14175
-
     - mainTitle: Ribbon no Kishi (1999)
       tmdbid: 0
       malid: 14249
@@ -1538,10 +1534,6 @@ animeMovies:
     - mainTitle: 'Precure All Stars Movie New Stage 3: Eien no Tomodachi'
       tmdbid: 0
       malid: 21031
-
-    - mainTitle: Kenji no Trunk
-      tmdbid: 0
-      malid: 21099
 
     - mainTitle: Katta-kun Monogatari
       tmdbid: 0
@@ -7119,10 +7111,6 @@ animeMovies:
       tmdbid: 0
       malid: 57089
 
-    - mainTitle: 'Princess Principal: Crown Handler Movie 4'
-      tmdbid: 0
-      malid: 57093
-
     - mainTitle: 'Gegege no Kitarou: Kappa no Terraforming'
       tmdbid: 0
       malid: 57107
@@ -7146,6 +7134,10 @@ animeMovies:
     - mainTitle: Sheng ANIMA
       tmdbid: 0
       malid: 57222
+
+    - mainTitle: Gaekkum
+      tmdbid: 0
+      malid: 57273
 
     - mainTitle: Salgijohgo Balgeunnala, Naegagajin i Hanpyolo
       tmdbid: 0
@@ -7519,10 +7511,6 @@ animeMovies:
       tmdbid: 0
       malid: 59694
 
-    - mainTitle: Jinling Yu Mao
-      tmdbid: 0
-      malid: 59696
-
     - mainTitle: Niwatori Hajimete Toya ni Tsuku
       tmdbid: 0
       malid: 59703
@@ -7530,10 +7518,6 @@ animeMovies:
     - mainTitle: Imomushi
       tmdbid: 0
       malid: 59704
-
-    - mainTitle: 'Inazuma Eleven: Soushuuhen Densetsu no Kickoff'
-      tmdbid: 0
-      malid: 59709
 
     - mainTitle: 'Planetarium Doraemon: Uchuu no Mokei'
       tmdbid: 0
@@ -7550,10 +7534,6 @@ animeMovies:
     - mainTitle: Watashi wa, Watashi to, Watashi ga, Watashi wo,
       tmdbid: 0
       malid: 59723
-
-    - mainTitle: 'Shinran: Jinsei no Mokuteki'
-      tmdbid: 0
-      malid: 59729
 
     - mainTitle: Tokyo Montage
       tmdbid: 0
@@ -7858,4 +7838,32 @@ animeMovies:
     - mainTitle: Shita-kiri Suzume (1928)
       tmdbid: 0
       malid: 61004
+
+    - mainTitle: Han Seisaku Sakuhin
+      tmdbid: 0
+      malid: 61031
+
+    - mainTitle: Galaxy Apartment☆Cosmo Hills
+      tmdbid: 0
+      malid: 61038
+
+    - mainTitle: Hoshi no Kodomo to Hajimari no Ki
+      tmdbid: 0
+      malid: 61039
+
+    - mainTitle: Trust (Movie)
+      tmdbid: 0
+      malid: 61040
+
+    - mainTitle: Dive In!
+      tmdbid: 0
+      malid: 61041
+
+    - mainTitle: Zao Wang Chuan
+      tmdbid: 0
+      malid: 61042
+
+    - mainTitle: Nishi no Mantra
+      tmdbid: 0
+      malid: 61054
 
