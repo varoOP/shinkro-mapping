@@ -1139,10 +1139,6 @@ animeMovies:
       tmdbid: 0
       malid: 15139
 
-    - mainTitle: Yukiwatari
-      tmdbid: 0
-      malid: 15141
-
     - mainTitle: Inazuma Eleven Go vs. Danball Senki W Movie
       tmdbid: 0
       malid: 15785
@@ -1571,7 +1567,7 @@ animeMovies:
       tmdbid: 0
       malid: 21933
 
-    - mainTitle: 'Sore Ike! Anpanman: Anpanman to Okashi na Nakama'
+    - mainTitle: 'Sore Ike! Anpanman: Anpanman to Okashina Nakama'
       tmdbid: 0
       malid: 21935
 
@@ -7423,10 +7419,6 @@ animeMovies:
       tmdbid: 0
       malid: 59186
 
-    - mainTitle: 'Kimetsu no Yaiba Movie: Mugen Jou-hen'
-      tmdbid: 0
-      malid: 59192
-
     - mainTitle: 'SINoALICE: Ichiban Saigo no Monogatari'
       tmdbid: 0
       malid: 59224
@@ -7679,10 +7671,6 @@ animeMovies:
       tmdbid: 0
       malid: 60417
 
-    - mainTitle: 'Meitantei Conan Movie 28: Sekigan no Flashback'
-      tmdbid: 0
-      malid: 60445
-
     - mainTitle: 'Pipilu He Lu Xixi: 309 Anshi'
       tmdbid: 0
       malid: 60454
@@ -7719,6 +7707,10 @@ animeMovies:
       tmdbid: 0
       malid: 60575
 
+    - mainTitle: Hateshinaki Scarlet
+      tmdbid: 0
+      malid: 60610
+
     - mainTitle: 'Oshiri Tantei Movie 6: Star and Moon'
       tmdbid: 0
       malid: 60613
@@ -7746,10 +7738,6 @@ animeMovies:
     - mainTitle: Hiru no Yume
       tmdbid: 0
       malid: 60801
-
-    - mainTitle: Juroring Dongmultanjeong Geukjangpan
-      tmdbid: 0
-      malid: 60804
 
     - mainTitle: Fukusuke (1984)
       tmdbid: 0
@@ -7866,4 +7854,36 @@ animeMovies:
     - mainTitle: Nishi no Mantra
       tmdbid: 0
       malid: 61054
+
+    - mainTitle: Tori-tachi no Sumu Tokoro
+      tmdbid: 0
+      malid: 61060
+
+    - mainTitle: Toki no Butou wo Mou Ichido
+      tmdbid: 0
+      malid: 61061
+
+    - mainTitle: Berizanna
+      tmdbid: 0
+      malid: 61068
+
+    - mainTitle: Sei Elmo no Hi
+      tmdbid: 0
+      malid: 61069
+
+    - mainTitle: 'Dragon Heart: Reikai Tanbouki'
+      tmdbid: 0
+      malid: 61077
+
+    - mainTitle: 'Hito no Kurashi no Hyakuman-nen: Manimani March'
+      tmdbid: 0
+      malid: 61103
+
+    - mainTitle: 'Fukuji to Yumihiko: Umi wo Watatte Kita Ushikai Shounen'
+      tmdbid: 0
+      malid: 61111
+
+    - mainTitle: 'King of Prism: Your Endless Call - Mi~nna Kirameki! Prism☆Tours'
+      tmdbid: 0
+      malid: 61120
 
