@@ -1865,6 +1865,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 35249
+      title: 'Uma Musume: Pretty Derby'
+      type: tv
+      tvdbid: 344220
+      tvdbseason: 1
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 35262
       title: 'Boku no Hero Academia: Hero Note'
       type: tv_special
@@ -2144,6 +2153,15 @@ AnimeMap:
       tvdbid: 271591
       tvdbseason: 6
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37916
+      title: 'Uma Musume: Pretty Derby - BNW no Chikai'
+      type: special
+      tvdbid: 344220
+      tvdbseason: 0
+      start: 1
       useMapping: false
       animeMapping: []
 
@@ -2810,6 +2828,15 @@ AnimeMap:
       tvdbid: 357488
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 42941
+      title: 'Uma Musume: Pretty Derby Season 2'
+      type: tv
+      tvdbid: 344220
+      tvdbseason: 2
+      start: 1
       useMapping: false
       animeMapping: []
 
@@ -3596,6 +3623,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 51225
+      title: 'Uma Musume: Pretty Derby - 1st Anniversary Special Animation'
+      type: special
+      tvdbid: 344220
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 51366
       title: Bastard!! Ankoku no Hakaishin Part 2 (ONA)
       type: ona
@@ -3638,6 +3674,15 @@ AnimeMap:
       tvdbid: 418665
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 51761
+      title: 'Uma Musume: Pretty Derby - Road to the Top'
+      type: ona
+      tvdbid: 430212
+      tvdbseason: 1
+      start: 1
       useMapping: false
       animeMapping: []
 
@@ -3944,6 +3989,15 @@ AnimeMap:
       tvdbid: 426703
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53526
+      title: 'Uma Musume: Pretty Derby Season 3'
+      type: tv
+      tvdbid: 344220
+      tvdbseason: 3
+      start: 1
       useMapping: false
       animeMapping: []
 
@@ -5000,6 +5054,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57647
+      title: 'Uma Musume: Pretty Derby - Shin Jidai no Tobira'
+      type: movie
+      tvdbid: 353579
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57648
       title: Nihon e Youkoso Elf-san.
       type: tv
@@ -5726,6 +5789,15 @@ AnimeMap:
       tvdbid: 453605
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59636
+      title: 'Uma Musume: Cinderella Gray'
+      type: tv
+      tvdbid: 453673
+      tvdbseason: 1
+      start: 1
       useMapping: false
       animeMapping: []
 
