@@ -6035,10 +6035,6 @@ animeMovies:
       tmdbid: 0
       malid: 52958
 
-    - mainTitle: Versailles no Bara (Movie)
-      tmdbid: 0
-      malid: 52967
-
     - mainTitle: 'Aikatsu! 10th Story: Mirai e no Starway'
       tmdbid: 0
       malid: 52993
@@ -7739,6 +7735,10 @@ animeMovies:
       tmdbid: 0
       malid: 60801
 
+    - mainTitle: Juroring Dongmultanjeong Geukjangpan
+      tmdbid: 0
+      malid: 60804
+
     - mainTitle: Fukusuke (1984)
       tmdbid: 0
       malid: 60807
@@ -7886,4 +7886,16 @@ animeMovies:
     - mainTitle: 'King of Prism: Your Endless Call - Mi~nna Kirameki! Prism☆Tours'
       tmdbid: 0
       malid: 61120
+
+    - mainTitle: As One
+      tmdbid: 0
+      malid: 61139
+
+    - mainTitle: Boku no Hero Academia Reigi Kouza
+      tmdbid: 0
+      malid: 61149
+
+    - mainTitle: 'Chinpui: Eri-sama no Good Luck'
+      tmdbid: 0
+      malid: 61162
 
