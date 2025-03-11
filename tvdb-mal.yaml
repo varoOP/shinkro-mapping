@@ -3722,6 +3722,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52080
+      title: Murai no Koi
+      type: ona
+      tvdbid: 427822
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 52196
       title: Date A Live V
       type: tv
@@ -4124,6 +4133,15 @@ AnimeMap:
       tvdbid: 245821
       tvdbseason: 16
       start: 27
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54275
+      title: Temple
+      type: tv
+      tvdbid: 429896
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -4753,6 +4771,15 @@ AnimeMap:
       type: tv
       tvdbid: 398555
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56741
+      title: Temple Specials
+      type: special
+      tvdbid: 429896
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
