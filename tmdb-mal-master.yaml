@@ -59,10 +59,6 @@ animeMovies:
       tmdbid: 0
       malid: 2173
 
-    - mainTitle: 'Hokuto no Ken: Raoh Gaiden Gekitou-hen'
-      tmdbid: 0
-      malid: 2174
-
     - mainTitle: Jumping
       tmdbid: 47217
       malid: 2211
@@ -194,10 +190,6 @@ animeMovies:
     - mainTitle: Ninkuu (Movie)
       tmdbid: 0
       malid: 2851
-
-    - mainTitle: Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie
-      tmdbid: 68537
-      malid: 2901
 
     - mainTitle: 'Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu'
       tmdbid: 599921
@@ -354,10 +346,6 @@ animeMovies:
     - mainTitle: High School! Kimengumi (Movie)
       tmdbid: 0
       malid: 5956
-
-    - mainTitle: Patchin shite! Obaachan
-      tmdbid: 0
-      malid: 6018
 
     - mainTitle: 'Duel Masters Movie 2: Lunatic God Saga'
       tmdbid: 0
@@ -755,10 +743,6 @@ animeMovies:
       tmdbid: 0
       malid: 9291
 
-    - mainTitle: Kiki to Lala no Aoi Tori
-      tmdbid: 0
-      malid: 9292
-
     - mainTitle: Samero
       tmdbid: 0
       malid: 9318
@@ -790,10 +774,6 @@ animeMovies:
     - mainTitle: Junod
       tmdbid: 0
       malid: 9525
-
-    - mainTitle: Shirahata no Shoujo Ryuuko
-      tmdbid: 0
-      malid: 9546
 
     - mainTitle: Alps no Shoujo Heidi (1979)
       tmdbid: 0
@@ -1267,10 +1247,6 @@ animeMovies:
       tmdbid: 0
       malid: 17113
 
-    - mainTitle: 'Aoi Kioku: Manmou Kaitaku to Shounen-tachi'
-      tmdbid: 0
-      malid: 17117
-
     - mainTitle: SF Saiyuuki Starzinger (Movie)
       tmdbid: 0
       malid: 17165
@@ -1278,10 +1254,6 @@ animeMovies:
     - mainTitle: 'Sore Ike! Anpanman: Dadandan to Futago no Hoshi'
       tmdbid: 0
       malid: 17213
-
-    - mainTitle: Kankara Sanshin
-      tmdbid: 0
-      malid: 17217
 
     - mainTitle: 'Sore Ike! Anpanman: Roll to Laura Ukigumojou no Himitsu'
       tmdbid: 0
@@ -1322,10 +1294,6 @@ animeMovies:
     - mainTitle: 'Uchuu Kyoudai: Itten no Hikari'
       tmdbid: 0
       malid: 17573
-
-    - mainTitle: Dohyou no Oni-tachi
-      tmdbid: 0
-      malid: 17665
 
     - mainTitle: Kyubi no Kitsune to Tobimaru (Sesshoseki)
       tmdbid: 0
@@ -1423,10 +1391,6 @@ animeMovies:
       tmdbid: 0
       malid: 18943
 
-    - mainTitle: Tobe! Pegasus Kokoro no Goal ni Shoot
-      tmdbid: 0
-      malid: 19049
-
     - mainTitle: Kaitou Jigoma Ongaku-hen
       tmdbid: 0
       malid: 19053
@@ -1491,10 +1455,6 @@ animeMovies:
       tmdbid: 0
       malid: 20007
 
-    - mainTitle: Furiten-kun
-      tmdbid: 0
-      malid: 20093
-
     - mainTitle: Gamba to Kawauso no Bouken
       tmdbid: 0
       malid: 20175
@@ -1530,10 +1490,6 @@ animeMovies:
     - mainTitle: 'Precure All Stars Movie New Stage 3: Eien no Tomodachi'
       tmdbid: 0
       malid: 21031
-
-    - mainTitle: Katta-kun Monogatari
-      tmdbid: 0
-      malid: 21101
 
     - mainTitle: Wake Up, Girls! Shichinin no Idol
       tmdbid: 0
@@ -1623,10 +1579,6 @@ animeMovies:
       tmdbid: 0
       malid: 22037
 
-    - mainTitle: 'Kattobase! Dreamers: Carp Tanjou Monogatari'
-      tmdbid: 0
-      malid: 22111
-
     - mainTitle: Train Heroes Movie
       tmdbid: 0
       malid: 22131
@@ -1683,10 +1635,6 @@ animeMovies:
       tmdbid: 0
       malid: 22847
 
-    - mainTitle: 'Apo Apo World: Giant Baba 90-pun 1-pon Shoubu'
-      tmdbid: 0
-      malid: 22851
-
     - mainTitle: 'Obake no Q-Tarou: Susume! 1/100 Daisakusen'
       tmdbid: 0
       malid: 22991
@@ -1711,17 +1659,9 @@ animeMovies:
       tmdbid: 0
       malid: 23009
 
-    - mainTitle: 'Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari'
-      tmdbid: 0
-      malid: 23031
-
     - mainTitle: Kaidan
       tmdbid: 0
       malid: 23065
-
-    - mainTitle: Kikansha Sensei
-      tmdbid: 0
-      malid: 23085
 
     - mainTitle: Kousagi Monogatari
       tmdbid: 0
@@ -1759,18 +1699,6 @@ animeMovies:
       tmdbid: 0
       malid: 23343
 
-    - mainTitle: Yukiguni no Oujisama
-      tmdbid: 0
-      malid: 23345
-
-    - mainTitle: Bunna yo Ki kara Orite Koi
-      tmdbid: 0
-      malid: 23611
-
-    - mainTitle: Kakkun Cafe
-      tmdbid: 0
-      malid: 23613
-
     - mainTitle: 'Poppoya-san: Nonki Kikanshi'
       tmdbid: 0
       malid: 23635
@@ -1803,10 +1731,6 @@ animeMovies:
       tmdbid: 0
       malid: 23849
 
-    - mainTitle: Ojisan Kaizou Kouza
-      tmdbid: 0
-      malid: 23865
-
     - mainTitle: Fuku-chan no Kishuu
       tmdbid: 0
       malid: 23969
@@ -1838,10 +1762,6 @@ animeMovies:
     - mainTitle: 'Imokawa Mukuzo: Chuugaeri no Maki'
       tmdbid: 0
       malid: 24577
-
-    - mainTitle: Manzai Taikouki
-      tmdbid: 0
-      malid: 24683
 
     - mainTitle: Tobidasu Ehon 3D
       tmdbid: 0
@@ -1898,10 +1818,6 @@ animeMovies:
     - mainTitle: '"Aesop" no Ohanashi yori: Ushi to Kaeru, Yokubatta Inu'
       tmdbid: 0
       malid: 25627
-
-    - mainTitle: Obake Entotsu no Uta
-      tmdbid: 0
-      malid: 26033
 
     - mainTitle: Kurumiwari Ningyou (2014)
       tmdbid: 0
@@ -2627,10 +2543,6 @@ animeMovies:
       tmdbid: 0
       malid: 32593
 
-    - mainTitle: Pokopon no Yukai na Saiyuuki
-      tmdbid: 0
-      malid: 32621
-
     - mainTitle: Hello Kitty no Oyayubi-hime
       tmdbid: 0
       malid: 32622
@@ -2846,10 +2758,6 @@ animeMovies:
     - mainTitle: 'Youkai Watch Movie 4: Shadow Side - Oni-ou no Fukkatsu'
       tmdbid: 0
       malid: 34471
-
-    - mainTitle: 'Gou-chan.: Moko to Chinjuu no Mori no Nakama-tachi'
-      tmdbid: 0
-      malid: 34527
 
     - mainTitle: Koisuru Shirokuma
       tmdbid: 0
@@ -3122,10 +3030,6 @@ animeMovies:
     - mainTitle: Complex x Complex
       tmdbid: 0
       malid: 37146
-
-    - mainTitle: 'Go-chan.: Moko to Koori no Ue no Yakusoku'
-      tmdbid: 0
-      malid: 37267
 
     - mainTitle: 'K: Seven Stories Movie 3 - Side:Green - Uwagaki Sekai'
       tmdbid: 0
@@ -4226,10 +4130,6 @@ animeMovies:
     - mainTitle: Xiao Ya Ga Ga
       tmdbid: 0
       malid: 43490
-
-    - mainTitle: Long Ya Xing
-      tmdbid: 0
-      malid: 43493
 
     - mainTitle: Shan Liang De Xia Wu Dong
       tmdbid: 0
@@ -5639,10 +5539,6 @@ animeMovies:
       tmdbid: 0
       malid: 49351
 
-    - mainTitle: Hyaku
-      tmdbid: 0
-      malid: 49366
-
     - mainTitle: 'Sore Ike! Anpanman: Rhythm de Utaou! Anpanman Natsumatsuri'
       tmdbid: 0
       malid: 49391
@@ -6719,10 +6615,6 @@ animeMovies:
       tmdbid: 0
       malid: 54661
 
-    - mainTitle: Kaitou Queen no Yuuga na Vacances
-      tmdbid: 0
-      malid: 54705
-
     - mainTitle: 'Planetarium Chibi Maruko-chan: Minamijuujisei ni Miserarete'
       tmdbid: 0
       malid: 54832
@@ -6818,10 +6710,6 @@ animeMovies:
     - mainTitle: Wasure Hoshi no Volicia
       tmdbid: 0
       malid: 55640
-
-    - mainTitle: Boku to Roboko Movie
-      tmdbid: 0
-      malid: 55709
 
     - mainTitle: 'Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen'
       tmdbid: 0
@@ -7002,10 +6890,6 @@ animeMovies:
     - mainTitle: Liqiu
       tmdbid: 0
       malid: 56594
-
-    - mainTitle: Junk World
-      tmdbid: 0
-      malid: 56640
 
     - mainTitle: 'Boku no Hero Academia: UA Heroes Battle'
       tmdbid: 0
@@ -7234,10 +7118,6 @@ animeMovies:
     - mainTitle: Tori no Machi
       tmdbid: 0
       malid: 57619
-
-    - mainTitle: 'Uta no☆Prince-sama♪ Movie: Taboo Night Kisses'
-      tmdbid: 0
-      malid: 57622
 
     - mainTitle: Kennedy Knights Pilot Film
       tmdbid: 0
@@ -7898,4 +7778,16 @@ animeMovies:
     - mainTitle: 'Chinpui: Eri-sama no Good Luck'
       tmdbid: 0
       malid: 61162
+
+    - mainTitle: Tabekko Doubutsu The Movie
+      tmdbid: 0
+      malid: 61198
+
+    - mainTitle: 'Mononoke Movie: Dai San Shou - Hebigami'
+      tmdbid: 0
+      malid: 61202
+
+    - mainTitle: Ochibi-san SMT Gekijou Manner CM
+      tmdbid: 0
+      malid: 61204
 
