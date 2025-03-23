@@ -35,10 +35,6 @@ animeMovies:
       tmdbid: 0
       malid: 1796
 
-    - mainTitle: 'Slam Dunk: Zenkoku Seiha Da! - Sakuragi Hanamichi'
-      tmdbid: 0
-      malid: 1861
-
     - mainTitle: Paprika
       tmdbid: 0
       malid: 1943
@@ -102,10 +98,6 @@ animeMovies:
     - mainTitle: 'Touch 3: Kimi ga Toorisugita Ato ni - Don''t Pass Me By'
       tmdbid: 0
       malid: 2493
-
-    - mainTitle: 'Slam Dunk: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi'
-      tmdbid: 0
-      malid: 2498
 
     - mainTitle: 'The☆Doraemons: Mushimushi Pyonpyon Daisakusen!'
       tmdbid: 0
@@ -6711,10 +6703,6 @@ animeMovies:
       tmdbid: 0
       malid: 55640
 
-    - mainTitle: 'Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen'
-      tmdbid: 0
-      malid: 55748
-
     - mainTitle: Meitantei Pork
       tmdbid: 0
       malid: 55758
@@ -7787,7 +7775,11 @@ animeMovies:
       tmdbid: 0
       malid: 61202
 
-    - mainTitle: Ochibi-san SMT Gekijou Manner CM
+    - mainTitle: Saishuu Gakushou Hibike! Euphonium
       tmdbid: 0
-      malid: 61204
+      malid: 61230
+
+    - mainTitle: Sumikko Gurashi Movie 4
+      tmdbid: 0
+      malid: 61278
 
