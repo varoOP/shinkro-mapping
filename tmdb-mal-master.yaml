@@ -719,10 +719,6 @@ animeMovies:
       tmdbid: 0
       malid: 8663
 
-    - mainTitle: 'Kindaichi Shounen no Jikenbo Movie 2: Satsuriku no Deep Blue'
-      tmdbid: 0
-      malid: 9154
-
     - mainTitle: 'Hana no Ko Lunlun: Konnichiwa Sakura no Kuni'
       tmdbid: 0
       malid: 9264
@@ -1094,10 +1090,6 @@ animeMovies:
     - mainTitle: Ribbon no Kishi (1999)
       tmdbid: 0
       malid: 14249
-
-    - mainTitle: My Melody no Akazukin
-      tmdbid: 0
-      malid: 14253
 
     - mainTitle: Tsukumo
       tmdbid: 0
@@ -2435,6 +2427,10 @@ animeMovies:
       tmdbid: 0
       malid: 31269
 
+    - mainTitle: Shounen to Sakura
+      tmdbid: 0
+      malid: 31321
+
     - mainTitle: 'K: Missing Kings - Manner Movie'
       tmdbid: 0
       malid: 31344
@@ -3343,6 +3339,10 @@ animeMovies:
       tmdbid: 0
       malid: 40109
 
+    - mainTitle: Nezha Zhi Mo Tong Jiang Shi
+      tmdbid: 0
+      malid: 40111
+
     - mainTitle: Hana (2006)
       tmdbid: 0
       malid: 40164
@@ -3590,6 +3590,10 @@ animeMovies:
     - mainTitle: Wu Sheng Guan Gong
       tmdbid: 0
       malid: 42456
+
+    - mainTitle: Hei Mao Jing Zhan Zhi Fei Cui Zhi Xing
+      tmdbid: 0
+      malid: 42466
 
     - mainTitle: 'Meitantei Conan: Shakunetsu no Ginga Tetsudou'
       tmdbid: 0
@@ -4823,10 +4827,6 @@ animeMovies:
       tmdbid: 0
       malid: 44671
 
-    - mainTitle: 'Zhen Gongfu: Aoyun Zai Wojia'
-      tmdbid: 0
-      malid: 44673
-
     - mainTitle: Kuaile Benpao
       tmdbid: 0
       malid: 44674
@@ -5395,6 +5395,10 @@ animeMovies:
       tmdbid: 0
       malid: 48279
 
+    - mainTitle: Jeonsa Ryan
+      tmdbid: 0
+      malid: 48320
+
     - mainTitle: 'Taoleujima Beoseuteo: Beullaeg-Eosseolteuui Gwihwan'
       tmdbid: 0
       malid: 48345
@@ -5866,6 +5870,10 @@ animeMovies:
     - mainTitle: Shuizhong de Nuhai
       tmdbid: 0
       malid: 52714
+
+    - mainTitle: Hudie Guojiang
+      tmdbid: 0
+      malid: 52715
 
     - mainTitle: Sihanpogtan
       tmdbid: 0
@@ -6375,10 +6383,6 @@ animeMovies:
       tmdbid: 0
       malid: 54135
 
-    - mainTitle: Future Kid Takara
-      tmdbid: 0
-      malid: 54160
-
     - mainTitle: Joseito (Movie)
       tmdbid: 0
       malid: 54193
@@ -6618,10 +6622,6 @@ animeMovies:
     - mainTitle: Chang An San Wan Li
       tmdbid: 0
       malid: 54945
-
-    - mainTitle: 'Sylvanian Families Movie: Freya kara no Okurimono'
-      tmdbid: 0
-      malid: 54989
 
     - mainTitle: Ojing-eoui Nwiuchim
       tmdbid: 0
@@ -7094,10 +7094,6 @@ animeMovies:
     - mainTitle: Kara He Mayi Lixian Ji
       tmdbid: 0
       malid: 57463
-
-    - mainTitle: 'Chainsaw Man Movie: Reze-hen'
-      tmdbid: 0
-      malid: 57555
 
     - mainTitle: Tokyo
       tmdbid: 0
@@ -7587,10 +7583,6 @@ animeMovies:
       tmdbid: 0
       malid: 60773
 
-    - mainTitle: ChaO
-      tmdbid: 0
-      malid: 60774
-
     - mainTitle: Kingyo no Ohirune
       tmdbid: 0
       malid: 60780
@@ -7782,4 +7774,8 @@ animeMovies:
     - mainTitle: Sumikko Gurashi Movie 4
       tmdbid: 0
       malid: 61278
+
+    - mainTitle: Jixian Chengshi
+      tmdbid: 0
+      malid: 61303
 
