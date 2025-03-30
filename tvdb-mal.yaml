@@ -6054,7 +6054,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59369
-      title: 'Lycoris Recoil: Friends are Thieves of Time.'
+      title: 'Lycoris Recoil: Friends Are Thieves of Time.'
       type: ona
       tvdbid: 459092
       tvdbseason: 1
@@ -6487,7 +6487,7 @@ AnimeMap:
 
     - malid: 60521
       title: Twins Hinahima
-      type: tv
+      type: tv_special
       tvdbid: 457822
       tvdbseason: 1
       start: 0
