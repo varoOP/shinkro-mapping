@@ -2859,6 +2859,10 @@ animeMovies:
       tmdbid: 0
       malid: 35312
 
+    - mainTitle: Fengshen Bang
+      tmdbid: 0
+      malid: 35379
+
     - mainTitle: Misemono Kenbutsu
       tmdbid: 0
       malid: 35395
@@ -3339,10 +3343,6 @@ animeMovies:
       tmdbid: 0
       malid: 40109
 
-    - mainTitle: Nezha Zhi Mo Tong Jiang Shi
-      tmdbid: 0
-      malid: 40111
-
     - mainTitle: Hana (2006)
       tmdbid: 0
       malid: 40164
@@ -3590,10 +3590,6 @@ animeMovies:
     - mainTitle: Wu Sheng Guan Gong
       tmdbid: 0
       malid: 42456
-
-    - mainTitle: Hei Mao Jing Zhan Zhi Fei Cui Zhi Xing
-      tmdbid: 0
-      malid: 42466
 
     - mainTitle: 'Meitantei Conan: Shakunetsu no Ginga Tetsudou'
       tmdbid: 0
@@ -5395,10 +5391,6 @@ animeMovies:
       tmdbid: 0
       malid: 48279
 
-    - mainTitle: Jeonsa Ryan
-      tmdbid: 0
-      malid: 48320
-
     - mainTitle: 'Taoleujima Beoseuteo: Beullaeg-Eosseolteuui Gwihwan'
       tmdbid: 0
       malid: 48345
@@ -5870,10 +5862,6 @@ animeMovies:
     - mainTitle: Shuizhong de Nuhai
       tmdbid: 0
       malid: 52714
-
-    - mainTitle: Hudie Guojiang
-      tmdbid: 0
-      malid: 52715
 
     - mainTitle: Sihanpogtan
       tmdbid: 0
@@ -6655,10 +6643,6 @@ animeMovies:
       tmdbid: 0
       malid: 55353
 
-    - mainTitle: Bocchi the Rock! Movie
-      tmdbid: 0
-      malid: 55357
-
     - mainTitle: Cemedine Bond to G17-gou
       tmdbid: 0
       malid: 55373
@@ -7247,6 +7231,10 @@ animeMovies:
       tmdbid: 0
       malid: 58951
 
+    - mainTitle: Yaku nara Mug Cup mo Movie
+      tmdbid: 0
+      malid: 58954
+
     - mainTitle: Pororo Sinnaneun Ujuyeohaeng
       tmdbid: 0
       malid: 58993
@@ -7523,10 +7511,6 @@ animeMovies:
       tmdbid: 0
       malid: 60343
 
-    - mainTitle: Lupin the IIIrd the Movie
-      tmdbid: 0
-      malid: 60408
-
     - mainTitle: Tenohira no Haru
       tmdbid: 0
       malid: 60417
@@ -7778,4 +7762,16 @@ animeMovies:
     - mainTitle: Jixian Chengshi
       tmdbid: 0
       malid: 61303
+
+    - mainTitle: 'Oshiri Tantei: Yume no Jumbo Sweet Potato Matsuri'
+      tmdbid: 0
+      malid: 61313
+
+    - mainTitle: 'Oshiri Tantei: Nandemo Kaiketsu Club vs. Kaitou U'
+      tmdbid: 0
+      malid: 61314
+
+    - mainTitle: 'Overlord: Sei Oukoku-hen - Manner Movie'
+      tmdbid: 0
+      malid: 61345
 
