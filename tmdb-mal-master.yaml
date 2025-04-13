@@ -947,10 +947,6 @@ animeMovies:
       tmdbid: 0
       malid: 10918
 
-    - mainTitle: 'Tsuyoshi Shikkari Shinasai: Tsuyoshi no Time Machine de Shikkari Shinasai'
-      tmdbid: 0
-      malid: 10943
-
     - mainTitle: 'Inazuma Eleven Go: Kyuukyoku no Kizuna Gryphon'
       tmdbid: 0
       malid: 10999
@@ -1435,10 +1431,6 @@ animeMovies:
       tmdbid: 0
       malid: 19957
 
-    - mainTitle: Hi Gekiga Ukiyoe Senya Ichiya
-      tmdbid: 0
-      malid: 20007
-
     - mainTitle: Gamba to Kawauso no Bouken
       tmdbid: 0
       malid: 20175
@@ -1647,6 +1639,10 @@ animeMovies:
       tmdbid: 0
       malid: 23065
 
+    - mainTitle: Ponsuke no Haru
+      tmdbid: 0
+      malid: 23089
+
     - mainTitle: Kousagi Monogatari
       tmdbid: 0
       malid: 23097
@@ -1678,6 +1674,14 @@ animeMovies:
     - mainTitle: Chokin no Susume
       tmdbid: 0
       malid: 23191
+
+    - mainTitle: 'Genroku Koi Moyou: Sankichi to Osayo'
+      tmdbid: 0
+      malid: 23265
+
+    - mainTitle: Osaru no Tairyou
+      tmdbid: 0
+      malid: 23267
 
     - mainTitle: Futari no Oujisama
       tmdbid: 0
@@ -2222,10 +2226,6 @@ animeMovies:
     - mainTitle: Shan T Lao Fu Zi
       tmdbid: 0
       malid: 30097
-
-    - mainTitle: Hong Gil Dong 2084
-      tmdbid: 0
-      malid: 30134
 
     - mainTitle: Kamiusagi Rope 3
       tmdbid: 0
@@ -7171,6 +7171,10 @@ animeMovies:
       tmdbid: 0
       malid: 58323
 
+    - mainTitle: Pig Movie Butaodor
+      tmdbid: 0
+      malid: 58429
+
     - mainTitle: 'Uma Musume: Pretty Derby - Road to the Top (Movie)'
       tmdbid: 0
       malid: 58517
@@ -7186,10 +7190,6 @@ animeMovies:
     - mainTitle: 'SpoGomi: Machi no Kizunazukuri-hen'
       tmdbid: 0
       malid: 58619
-
-    - mainTitle: Hanarokushou ga Akeru Hi ni
-      tmdbid: 0
-      malid: 58735
 
     - mainTitle: 'Hiro & Hana: Rakko no Okiniiri'
       tmdbid: 0
@@ -7774,4 +7774,16 @@ animeMovies:
     - mainTitle: 'Overlord: Sei Oukoku-hen - Manner Movie'
       tmdbid: 0
       malid: 61345
+
+    - mainTitle: Hug
+      tmdbid: 0
+      malid: 61396
+
+    - mainTitle: Kusunoki no Bannin
+      tmdbid: 0
+      malid: 61418
+
+    - mainTitle: Pan no Akachan
+      tmdbid: 0
+      malid: 61462
 
