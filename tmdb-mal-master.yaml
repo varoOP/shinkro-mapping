@@ -7475,10 +7475,6 @@ animeMovies:
       tmdbid: 0
       malid: 60076
 
-    - mainTitle: 'Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen Part 2'
-      tmdbid: 0
-      malid: 60159
-
     - mainTitle: Origami
       tmdbid: 0
       malid: 60170
@@ -7562,10 +7558,6 @@ animeMovies:
     - mainTitle: Seikatsu wa Psychopath no Shi no You ni
       tmdbid: 0
       malid: 60770
-
-    - mainTitle: Kimi to Idol Precure♪ Movie
-      tmdbid: 0
-      malid: 60773
 
     - mainTitle: Kingyo no Ohirune
       tmdbid: 0
@@ -7786,4 +7778,12 @@ animeMovies:
     - mainTitle: Pan no Akachan
       tmdbid: 0
       malid: 61462
+
+    - mainTitle: 'Entotsu Machi no Poupelle: Yakusoku no Tokei-dai'
+      tmdbid: 0
+      malid: 61492
+
+    - mainTitle: Hinagiku no Jinsei
+      tmdbid: 0
+      malid: 61495
 
