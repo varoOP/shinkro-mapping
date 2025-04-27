@@ -611,10 +611,6 @@ animeMovies:
       tmdbid: 0
       malid: 8146
 
-    - mainTitle: 'Gegege no Kitarou: Youkai Daisensou'
-      tmdbid: 0
-      malid: 8153
-
     - mainTitle: 'Gegege no Kitarou: Gekitotsu!! Ijigen Youkai no Daihanran'
       tmdbid: 0
       malid: 8155
@@ -774,10 +770,6 @@ animeMovies:
     - mainTitle: Amanatsu
       tmdbid: 0
       malid: 9595
-
-    - mainTitle: Kaba no Potomasu
-      tmdbid: 0
-      malid: 9606
 
     - mainTitle: 'Sengoku Basara Movie: The Last Party'
       tmdbid: 81531
@@ -5563,10 +5555,6 @@ animeMovies:
       tmdbid: 0
       malid: 50110
 
-    - mainTitle: 'Zombieland Saga Movie: Yumeginga Paradise'
-      tmdbid: 0
-      malid: 50159
-
     - mainTitle: Sigh of Sighs
       tmdbid: 0
       malid: 50241
@@ -7215,14 +7203,6 @@ animeMovies:
       tmdbid: 0
       malid: 58828
 
-    - mainTitle: 'Odekake Kozame Movie: Tokai no Otomodachi'
-      tmdbid: 0
-      malid: 58837
-
-    - mainTitle: Hyakuemu.
-      tmdbid: 0
-      malid: 58919
-
     - mainTitle: Emerald no Wa
       tmdbid: 0
       malid: 58941
@@ -7314,10 +7294,6 @@ animeMovies:
     - mainTitle: Super Oneechan
       tmdbid: 0
       malid: 59376
-
-    - mainTitle: Binan Koukou Chikyuu Bouei-bu Eternal Love!
-      tmdbid: 0
-      malid: 59406
 
     - mainTitle: Jjangttung-ine Ttonghwangto
       tmdbid: 0
@@ -7786,4 +7762,8 @@ animeMovies:
     - mainTitle: Hinagiku no Jinsei
       tmdbid: 0
       malid: 61495
+
+    - mainTitle: 'Aikatsu! x PriPara the Movie: Deai no Kiseki!'
+      tmdbid: 0
+      malid: 61558
 
