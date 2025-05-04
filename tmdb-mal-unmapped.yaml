@@ -6707,10 +6707,6 @@ animeMovies:
       tmdbid: 0
       malid: 55893
 
-    - mainTitle: Ultraman Company
-      tmdbid: 0
-      malid: 55949
-
     - mainTitle: Dooppel!
       tmdbid: 0
       malid: 56007
@@ -7523,10 +7519,6 @@ animeMovies:
       tmdbid: 0
       malid: 60575
 
-    - mainTitle: Hateshinaki Scarlet
-      tmdbid: 0
-      malid: 60610
-
     - mainTitle: 'Oshiri Tantei Movie 6: Star and Moon'
       tmdbid: 0
       malid: 60613
@@ -7562,6 +7554,10 @@ animeMovies:
     - mainTitle: Vision
       tmdbid: 0
       malid: 60816
+
+    - mainTitle: IDOLiSH7 Movie
+      tmdbid: 0
+      malid: 60831
 
     - mainTitle: Yoru no Hitomi
       tmdbid: 0
@@ -7762,6 +7758,10 @@ animeMovies:
     - mainTitle: Hinagiku no Jinsei
       tmdbid: 0
       malid: 61495
+
+    - mainTitle: Umi no Triton (2000)
+      tmdbid: 0
+      malid: 61547
 
     - mainTitle: 'Aikatsu! x PriPara the Movie: Deai no Kiseki!'
       tmdbid: 0
