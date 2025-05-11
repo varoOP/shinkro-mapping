@@ -3,6 +3,10 @@ animeMovies:
       tmdbid: 0
       malid: 47
 
+    - mainTitle: X/1999
+      tmdbid: 0
+      malid: 155
+
     - mainTitle: Ace wo Nerae! (1979)
       tmdbid: 0
       malid: 313
@@ -170,10 +174,6 @@ animeMovies:
     - mainTitle: Heisei Inu Monogatari Bow Movie
       tmdbid: 0
       malid: 2750
-
-    - mainTitle: 'Hi no Tori 2772: Ai no CosmoZone'
-      tmdbid: 0
-      malid: 2793
 
     - mainTitle: Chibikko Remi to Meiken Kapi
       tmdbid: 0
@@ -482,10 +482,6 @@ animeMovies:
     - mainTitle: 'Mahou Sensei Negima! Movie: Anime Final'
       tmdbid: 0
       malid: 7135
-
-    - mainTitle: 'Uchuu Senkan Yamato: Fukkatsu-hen'
-      tmdbid: 0
-      malid: 7144
 
     - mainTitle: Oni
       tmdbid: 0
@@ -5815,10 +5811,6 @@ animeMovies:
       tmdbid: 0
       malid: 52520
 
-    - mainTitle: Ye Che
-      tmdbid: 0
-      malid: 52585
-
     - mainTitle: Ke Ai
       tmdbid: 0
       malid: 52630
@@ -7694,10 +7686,6 @@ animeMovies:
     - mainTitle: 'King of Prism: Your Endless Call - Mi~nna Kirameki! Prism☆Tours'
       tmdbid: 0
       malid: 61120
-
-    - mainTitle: As One
-      tmdbid: 0
-      malid: 61139
 
     - mainTitle: Boku no Hero Academia Reigi Kouza
       tmdbid: 0
