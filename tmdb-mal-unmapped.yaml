@@ -307,10 +307,6 @@ animeMovies:
       tmdbid: 0
       malid: 5314
 
-    - mainTitle: Ark
-      tmdbid: 0
-      malid: 5421
-
     - mainTitle: Kaumori
       tmdbid: 0
       malid: 5631
@@ -958,6 +954,10 @@ animeMovies:
     - mainTitle: Zou no Inai Doubutsuen
       tmdbid: 0
       malid: 11097
+
+    - mainTitle: Micro Teukgongdae Diatron 5
+      tmdbid: 0
+      malid: 11357
 
     - mainTitle: Tetsu no Ko Kanahiru
       tmdbid: 0
@@ -5339,6 +5339,10 @@ animeMovies:
       tmdbid: 0
       malid: 46848
 
+    - mainTitle: 'Toku: Touken Ranbu - Hanamaru - Setsugetsuka'
+      tmdbid: 0
+      malid: 47777
+
     - mainTitle: Xiu Rong Zhen
       tmdbid: 0
       malid: 48056
@@ -7631,14 +7635,6 @@ animeMovies:
       tmdbid: 0
       malid: 61031
 
-    - mainTitle: Galaxy Apartment☆Cosmo Hills
-      tmdbid: 0
-      malid: 61038
-
-    - mainTitle: Hoshi no Kodomo to Hajimari no Ki
-      tmdbid: 0
-      malid: 61039
-
     - mainTitle: Trust (Movie)
       tmdbid: 0
       malid: 61040
@@ -7671,10 +7667,6 @@ animeMovies:
       tmdbid: 0
       malid: 61069
 
-    - mainTitle: 'Dragon Heart: Reikai Tanbouki'
-      tmdbid: 0
-      malid: 61077
-
     - mainTitle: 'Hito no Kurashi no Hyakuman-nen: Manimani March'
       tmdbid: 0
       malid: 61103
@@ -7687,7 +7679,7 @@ animeMovies:
       tmdbid: 0
       malid: 61120
 
-    - mainTitle: Boku no Hero Academia Reigi Kouza
+    - mainTitle: Boku no Hero Academia Original Eiga Manner Kouza
       tmdbid: 0
       malid: 61149
 
@@ -7754,4 +7746,12 @@ animeMovies:
     - mainTitle: 'Aikatsu! x PriPara the Movie: Deai no Kiseki!'
       tmdbid: 0
       malid: 61558
+
+    - mainTitle: 'Gokusaishoku Nikuhitsu Emaki: Zashikirou'
+      tmdbid: 0
+      malid: 61667
+
+    - mainTitle: Akuru Hi no Aru ka Nai Ashi
+      tmdbid: 0
+      malid: 61688
 
