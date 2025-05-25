@@ -1415,6 +1415,10 @@ animeMovies:
       tmdbid: 0
       malid: 19909
 
+    - mainTitle: Kimu no Juujika
+      tmdbid: 0
+      malid: 19941
+
     - mainTitle: Huckleberry no Bouken (Movie)
       tmdbid: 0
       malid: 19957
@@ -6099,10 +6103,6 @@ animeMovies:
       tmdbid: 0
       malid: 53779
 
-    - mainTitle: 'Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train'
-      tmdbid: 0
-      malid: 53780
-
     - mainTitle: Cycle Race
       tmdbid: 0
       malid: 53788
@@ -7171,6 +7171,10 @@ animeMovies:
       tmdbid: 0
       malid: 58619
 
+    - mainTitle: Hanarokushou ga Akeru Hi ni
+      tmdbid: 0
+      malid: 58735
+
     - mainTitle: 'Hiro & Hana: Rakko no Okiniiri'
       tmdbid: 0
       malid: 58738
@@ -7270,10 +7274,6 @@ animeMovies:
     - mainTitle: Trip
       tmdbid: 0
       malid: 59278
-
-    - mainTitle: Akai Inei
-      tmdbid: 0
-      malid: 59279
 
     - mainTitle: -Socket-
       tmdbid: 0
@@ -7754,4 +7754,8 @@ animeMovies:
     - mainTitle: Akuru Hi no Aru ka Nai Ashi
       tmdbid: 0
       malid: 61688
+
+    - mainTitle: Toritsukare Otoko
+      tmdbid: 0
+      malid: 61736
 
