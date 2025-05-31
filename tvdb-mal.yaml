@@ -788,6 +788,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 6213
+      title: Toaru Kagaku no Railgun
+      type: tv
+      tvdbid: 114921
+      tvdbseason: 1
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 6479
       title: 'Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron'
       type: special
@@ -877,12 +886,39 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 8023
+      title: 'Toaru Kagaku no Railgun: Motto Marutto Railgun'
+      type: special
+      tvdbid: 114921
+      tvdbseason: 0
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 8888
       title: 'Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita'
       type: movie
       tvdbid: 79525
       tvdbseason: 0
       start: 7
+      useMapping: false
+      animeMapping: []
+
+    - malid: 9047
+      title: 'Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato desu kara'
+      type: ova
+      tvdbid: 114921
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 9063
+      title: 'Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.'
+      type: ova
+      tvdbid: 114921
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -1147,6 +1183,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 16049
+      title: Toaru Kagaku no Railgun S
+      type: tv
+      tvdbid: 114921
+      tvdbseason: 2
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 17074
       title: 'Monogatari Series: Second Season'
       type: tv
@@ -1225,6 +1270,15 @@ AnimeMap:
       tvdbid: 271591
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 19697
+      title: 'Toaru Kagaku no Railgun S: Motto Marutto Railgun'
+      type: special
+      tvdbid: 114921
+      tvdbseason: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -1321,6 +1375,15 @@ AnimeMap:
       tvdbid: 81472
       tvdbseason: 0
       start: 29
+      useMapping: false
+      animeMapping: []
+
+    - malid: 22759
+      title: 'Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta'
+      type: ova
+      tvdbid: 114921
+      tvdbseason: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -2318,6 +2381,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 38481
+      title: Toaru Kagaku no Railgun T
+      type: tv
+      tvdbid: 114921
+      tvdbseason: 3
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 38555
       title: Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...
       type: tv
@@ -2918,6 +2990,15 @@ AnimeMap:
       tvdbid: 344220
       tvdbseason: 2
       start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 43483
+      title: 'Toaru Kagaku no Railgun T: Motto Marutto Railgun'
+      type: special
+      tvdbid: 114921
+      tvdbseason: 0
+      start: 12
       useMapping: false
       animeMapping: []
 
@@ -6554,6 +6635,15 @@ AnimeMap:
       tvdbid: 459332
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61012
+      title: Toaru Kagaku no Railgun 4th Season
+      type: tv
+      tvdbid: 114921
+      tvdbseason: 4
+      start: 1
       useMapping: false
       animeMapping: []
 
