@@ -555,10 +555,6 @@ animeMovies:
       tmdbid: 0
       malid: 7529
 
-    - mainTitle: Onbu Obake
-      tmdbid: 0
-      malid: 7531
-
     - mainTitle: 'Komadori Movie: Komaneko'
       tmdbid: 0
       malid: 7547
@@ -898,6 +894,10 @@ animeMovies:
     - mainTitle: 'Houkago no Pleiades: Manner Movie'
       tmdbid: 0
       malid: 10710
+
+    - mainTitle: 'Towa no Quon 6: Towa no Quon'
+      tmdbid: 0
+      malid: 10717
 
     - mainTitle: 'Tennis no Oujisama Movie 2: Eikokushiki Teikyuu Shiro Kessen!'
       tmdbid: 0
@@ -1471,10 +1471,6 @@ animeMovies:
       tmdbid: 0
       malid: 21467
 
-    - mainTitle: 'Ikkyuu-san: Haru Da! Yancha Hime'
-      tmdbid: 0
-      malid: 21475
-
     - mainTitle: 'Shin Dokonjou Gaeru: Dokonjou Yumemakura'
       tmdbid: 0
       malid: 21489
@@ -1758,10 +1754,6 @@ animeMovies:
     - mainTitle: Bunbuku Chagama
       tmdbid: 0
       malid: 24881
-
-    - mainTitle: Chibikko Kamu no Bouken
-      tmdbid: 0
-      malid: 24923
 
     - mainTitle: Chuuchuu Banban
       tmdbid: 0
@@ -7423,10 +7415,6 @@ animeMovies:
       tmdbid: 0
       malid: 59925
 
-    - mainTitle: Kaguya-hime
-      tmdbid: 0
-      malid: 59930
-
     - mainTitle: 'Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen'
       tmdbid: 0
       malid: 59971
@@ -7758,4 +7746,8 @@ animeMovies:
     - mainTitle: Toritsukare Otoko
       tmdbid: 0
       malid: 61736
+
+    - mainTitle: 'Liaozhai: Lanre Si'
+      tmdbid: 0
+      malid: 61751
 
