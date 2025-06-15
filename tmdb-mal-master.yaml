@@ -267,10 +267,6 @@ animeMovies:
       tmdbid: 0
       malid: 4385
 
-    - mainTitle: Mazinger Z tai Ankoku Daishougun
-      tmdbid: 0
-      malid: 4406
-
     - mainTitle: Wanghu Sim Cheong
       tmdbid: 0
       malid: 4544
@@ -2395,7 +2391,7 @@ animeMovies:
       tmdbid: 0
       malid: 31259
 
-    - mainTitle: Ghost
+    - mainTitle: Ghost (1984)
       tmdbid: 0
       malid: 31262
 
@@ -2974,10 +2970,6 @@ animeMovies:
     - mainTitle: 'Meitantei Conan: Hoshikage no Majutsushi'
       tmdbid: 0
       malid: 36760
-
-    - mainTitle: Golden Time (Movie)
-      tmdbid: 0
-      malid: 36789
 
     - mainTitle: Chikyuu wa Guruguru Merry-Go-Round
       tmdbid: 0
@@ -7758,4 +7750,8 @@ animeMovies:
     - mainTitle: 'Foxing: Kitsuné-tsuki'
       tmdbid: 0
       malid: 61783
+
+    - mainTitle: Ghost
+      tmdbid: 0
+      malid: 61813
 
