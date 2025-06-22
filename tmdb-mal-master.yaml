@@ -75,10 +75,6 @@ animeMovies:
       tmdbid: 98613
       malid: 2393
 
-    - mainTitle: 'Digimon Adventure: Bokura no War Game!'
-      tmdbid: 0
-      malid: 2397
-
     - mainTitle: Keroro Gunsou Movie 1
       tmdbid: 0
       malid: 2407
@@ -1938,10 +1934,6 @@ animeMovies:
     - mainTitle: Ninja & Soldier
       tmdbid: 0
       malid: 28991
-
-    - mainTitle: Jeremy no Ki
-      tmdbid: 0
-      malid: 29207
 
     - mainTitle: 'Ninja Hattori-kun Plus Perman: Ninja Kaijuu Jippou tai Miracle Tamago'
       tmdbid: 0
@@ -5603,6 +5595,10 @@ animeMovies:
       tmdbid: 0
       malid: 50914
 
+    - mainTitle: Ishi kara
+      tmdbid: 0
+      malid: 50924
+
     - mainTitle: Wanhua Jing
       tmdbid: 0
       malid: 50957
@@ -7754,4 +7750,8 @@ animeMovies:
     - mainTitle: Ghost
       tmdbid: 0
       malid: 61813
+
+    - mainTitle: 'Wasure Hoshi no Volicia: Dai-2 Shou - Gunjou'
+      tmdbid: 0
+      malid: 61865
 
