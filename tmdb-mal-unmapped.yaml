@@ -107,10 +107,6 @@ animeMovies:
       tmdbid: 0
       malid: 2633
 
-    - mainTitle: 'Dorami-chan: Aoi Straw Hat'
-      tmdbid: 0
-      malid: 2642
-
     - mainTitle: 'Doraemon Movie: Boku, Momotarou no Nanna no Sa'
       tmdbid: 0
       malid: 2650
@@ -5375,10 +5371,6 @@ animeMovies:
       tmdbid: 0
       malid: 48646
 
-    - mainTitle: 'Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen'
-      tmdbid: 0
-      malid: 48780
-
     - mainTitle: 'Oshiri Tantei Movie 3: Sufure-tou no Himitsu'
       tmdbid: 0
       malid: 48784
@@ -7151,6 +7143,10 @@ animeMovies:
       tmdbid: 0
       malid: 58756
 
+    - mainTitle: Keroro Gunsou Movie
+      tmdbid: 0
+      malid: 58773
+
     - mainTitle: Parking Area
       tmdbid: 0
       malid: 58806
@@ -7210,6 +7206,10 @@ animeMovies:
     - mainTitle: 'Fuuto Tantei Movie: Kamen Rider Skull no Shouzou'
       tmdbid: 0
       malid: 59186
+
+    - mainTitle: Grotesque
+      tmdbid: 0
+      malid: 59217
 
     - mainTitle: 'SINoALICE: Ichiban Saigo no Monogatari'
       tmdbid: 0
@@ -7738,4 +7738,16 @@ animeMovies:
     - mainTitle: Summer Pockets Movie
       tmdbid: 0
       malid: 61926
+
+    - mainTitle: 'Zhu Zhu Xia: Yi Zhi Lao Zhu De Ni Xi'
+      tmdbid: 0
+      malid: 61947
+
+    - mainTitle: 'Xi Yangyang Yu Hui Tailang: Yiguo Poxiao'
+      tmdbid: 0
+      malid: 61949
+
+    - mainTitle: Meikyuu no Shiori
+      tmdbid: 0
+      malid: 61964
 
