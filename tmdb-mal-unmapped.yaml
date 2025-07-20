@@ -1219,10 +1219,6 @@ animeMovies:
       tmdbid: 0
       malid: 17219
 
-    - mainTitle: Jib
-      tmdbid: 0
-      malid: 17233
-
     - mainTitle: Kyojin no Hoshi (Movie)
       tmdbid: 0
       malid: 17439
@@ -1758,10 +1754,6 @@ animeMovies:
     - mainTitle: Hyakubanme no Saru
       tmdbid: 0
       malid: 25091
-
-    - mainTitle: Shiawase no Ouji
-      tmdbid: 0
-      malid: 25093
 
     - mainTitle: Dosukoi! Wanpaku Dohyou
       tmdbid: 0
@@ -2599,10 +2591,6 @@ animeMovies:
       tmdbid: 0
       malid: 33348
 
-    - mainTitle: Charanpo Land no Bouken
-      tmdbid: 0
-      malid: 33388
-
     - mainTitle: Walking Meat
       tmdbid: 0
       malid: 33438
@@ -2838,6 +2826,10 @@ animeMovies:
     - mainTitle: Kamishibai Itazura Tanuki no Maki
       tmdbid: 0
       malid: 35399
+
+    - mainTitle: ?/Sankaku no Rhythm/Trump no Arasoi
+      tmdbid: 0
+      malid: 35405
 
     - mainTitle: Rhythm
       tmdbid: 0
@@ -7395,10 +7387,6 @@ animeMovies:
       tmdbid: 0
       malid: 59925
 
-    - mainTitle: 'Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen'
-      tmdbid: 0
-      malid: 59971
-
     - mainTitle: Taiyou wo Nakushita Hi
       tmdbid: 0
       malid: 59981
@@ -7519,7 +7507,7 @@ animeMovies:
       tmdbid: 0
       malid: 60816
 
-    - mainTitle: IDOLiSH7 Movie
+    - mainTitle: 'IDOLiSH7: First Beat'
       tmdbid: 0
       malid: 60831
 
@@ -7643,13 +7631,13 @@ animeMovies:
       tmdbid: 0
       malid: 61162
 
-    - mainTitle: Tabekko Doubutsu The Movie
-      tmdbid: 0
-      malid: 61198
-
     - mainTitle: 'Mononoke Movie: Dai San Shou - Hebigami'
       tmdbid: 0
       malid: 61202
+
+    - mainTitle: 'Girls & Panzer: Motto Love Love Sakusen desu!'
+      tmdbid: 0
+      malid: 61227
 
     - mainTitle: Saishuu Gakushou Hibike! Euphonium
       tmdbid: 0
@@ -7750,4 +7738,20 @@ animeMovies:
     - mainTitle: Meikyuu no Shiori
       tmdbid: 0
       malid: 61964
+
+    - mainTitle: Kimi shika Inai
+      tmdbid: 0
+      malid: 62042
+
+    - mainTitle: Warmth in a Puddle
+      tmdbid: 0
+      malid: 62057
+
+    - mainTitle: 'Golden Kamuy: Sapporo Beer Koujou-hen'
+      tmdbid: 0
+      malid: 62067
+
+    - mainTitle: First Light
+      tmdbid: 0
+      malid: 62072
 
