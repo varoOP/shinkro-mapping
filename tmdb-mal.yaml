@@ -27,10 +27,6 @@ animeMovies:
       tmdbid: 47217
       malid: 2211
 
-    - mainTitle: Choujin Densetsu Urotsukidouji Movie
-      tmdbid: 48624
-      malid: 2359
-
     - mainTitle: Choujin Densetsu Urotsukidouji 2
       tmdbid: 48626
       malid: 2360
@@ -94,10 +90,6 @@ animeMovies:
     - mainTitle: 'Doraemon Movie 05: Nobita no Makai Daibouken'
       tmdbid: 161699
       malid: 2672
-
-    - mainTitle: Aoki Densetsu Shoot! (Movie)
-      tmdbid: 1001412
-      malid: 2682
 
     - mainTitle: Chibikko Remi to Meiken Kapi
       tmdbid: 355345
