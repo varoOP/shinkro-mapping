@@ -23,6 +23,10 @@ animeMovies:
       tmdbid: 0
       malid: 796
 
+    - mainTitle: Street Fighter Zero The Animation
+      tmdbid: 0
+      malid: 979
+
     - mainTitle: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
       tmdbid: 322686
       malid: 1078
@@ -62,10 +66,6 @@ animeMovies:
     - mainTitle: Jumping
       tmdbid: 47217
       malid: 2211
-
-    - mainTitle: Choujin Densetsu Urotsukidouji Movie
-      tmdbid: 48624
-      malid: 2359
 
     - mainTitle: Choujin Densetsu Urotsukidouji 2
       tmdbid: 48626
@@ -155,10 +155,6 @@ animeMovies:
       tmdbid: 161699
       malid: 2672
 
-    - mainTitle: Aoki Densetsu Shoot! (Movie)
-      tmdbid: 1001412
-      malid: 2682
-
     - mainTitle: MiniPato
       tmdbid: 0
       malid: 2733
@@ -234,10 +230,6 @@ animeMovies:
     - mainTitle: 'Sekai Meisaku Douwa: Mori wa Ikiteiru'
       tmdbid: 0
       malid: 3751
-
-    - mainTitle: 'Sekai Meisaku Douwa: Oyayubi Hime'
-      tmdbid: 0
-      malid: 3755
 
     - mainTitle: Panda no Daibouken
       tmdbid: 105224
@@ -322,10 +314,6 @@ animeMovies:
     - mainTitle: High School! Kimengumi (Movie)
       tmdbid: 0
       malid: 5956
-
-    - mainTitle: 'Duel Masters Movie 2: Lunatic God Saga'
-      tmdbid: 0
-      malid: 6062
 
     - mainTitle: Penguin no Mondai Movie
       tmdbid: 0
@@ -694,6 +682,14 @@ animeMovies:
     - mainTitle: Yokoo's 3 Animation Films
       tmdbid: 0
       malid: 8663
+
+    - mainTitle: Akai Ito
+      tmdbid: 0
+      malid: 8713
+
+    - mainTitle: Forestry
+      tmdbid: 0
+      malid: 8749
 
     - mainTitle: 'Hana no Ko Lunlun: Konnichiwa Sakura no Kuni'
       tmdbid: 0
@@ -2371,10 +2367,6 @@ animeMovies:
       tmdbid: 0
       malid: 31258
 
-    - mainTitle: Thunder
-      tmdbid: 0
-      malid: 31259
-
     - mainTitle: Ghost (1984)
       tmdbid: 0
       malid: 31262
@@ -3522,10 +3514,6 @@ animeMovies:
     - mainTitle: Hei Mao Jing Zhang (2010)
       tmdbid: 0
       malid: 42329
-
-    - mainTitle: Benkai to Ushiwakamaru
-      tmdbid: 0
-      malid: 42397
 
     - mainTitle: Honnouji no Hen
       tmdbid: 0
@@ -4822,6 +4810,10 @@ animeMovies:
     - mainTitle: Qiudao
       tmdbid: 0
       malid: 44712
+
+    - mainTitle: Xiang Qian Chong, Xiang Qian Chong
+      tmdbid: 0
+      malid: 44713
 
     - mainTitle: Qi Jian Shang Tianshan
       tmdbid: 0
@@ -6647,7 +6639,7 @@ animeMovies:
       tmdbid: 0
       malid: 55789
 
-    - mainTitle: 'Synapusyu The Movie: Push Hoppe New World'
+    - mainTitle: 'Synapusyu The Movie: Pushu Hoppe New World'
       tmdbid: 0
       malid: 55846
 
@@ -7375,10 +7367,6 @@ animeMovies:
       tmdbid: 0
       malid: 59876
 
-    - mainTitle: Da Sheng Jiang Yao
-      tmdbid: 0
-      malid: 59877
-
     - mainTitle: Goyang-iga Doeeossda
       tmdbid: 0
       malid: 59896
@@ -7754,4 +7742,16 @@ animeMovies:
     - mainTitle: First Light
       tmdbid: 0
       malid: 62072
+
+    - mainTitle: Wanted
+      tmdbid: 0
+      malid: 62104
+
+    - mainTitle: 'Synapusyu The Movie: Pushu Hoppe Dancing Party'
+      tmdbid: 0
+      malid: 62108
+
+    - mainTitle: Storm
+      tmdbid: 0
+      malid: 62109
 
