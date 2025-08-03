@@ -559,6 +559,10 @@ animeMovies:
       tmdbid: 0
       malid: 7939
 
+    - mainTitle: Tetsuro no Kanata
+      tmdbid: 0
+      malid: 7982
+
     - mainTitle: 'Tottoko Hamtarou Movie 3: Ham Ham Grand Prix Aurora Tani no Kiseki - Ribon-chan Kiki Ippatsu!'
       tmdbid: 0
       malid: 8108
@@ -818,10 +822,6 @@ animeMovies:
     - mainTitle: 'Bikkuriman: Daiichiji Seima Taisen'
       tmdbid: 0
       malid: 10203
-
-    - mainTitle: 'Berserk: Ougon Jidai-hen I - Haou no Tamago'
-      tmdbid: 0
-      malid: 10218
 
     - mainTitle: Hybrid Deka
       tmdbid: 0
@@ -1843,11 +1843,7 @@ animeMovies:
       tmdbid: 0
       malid: 27579
 
-    - mainTitle: 'Ginga Tetsudou 999: Niji no Michishirube'
-      tmdbid: 0
-      malid: 27651
-
-    - mainTitle: 'Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daisuugeki'
+    - mainTitle: 'Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daishuugeki'
       tmdbid: 0
       malid: 27653
 
@@ -3066,10 +3062,6 @@ animeMovies:
     - mainTitle: Shayou
       tmdbid: 0
       malid: 38641
-
-    - mainTitle: 'King of Prism: Shiny Seven Stars II - Kakeru x Joji x Minato'
-      tmdbid: 0
-      malid: 38646
 
     - mainTitle: 'Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo'
       tmdbid: 0
@@ -4826,10 +4818,6 @@ animeMovies:
     - mainTitle: Diao Man Gonzhu Gan Fu Ma
       tmdbid: 0
       malid: 44725
-
-    - mainTitle: Hu Wang Guilai
-      tmdbid: 0
-      malid: 44742
 
     - mainTitle: Xiyu Chuanqi
       tmdbid: 0
@@ -7367,6 +7355,10 @@ animeMovies:
       tmdbid: 0
       malid: 59876
 
+    - mainTitle: 'Geugjangpan Beuledeu Movie: Ppangseutaui Tansaeng'
+      tmdbid: 0
+      malid: 59882
+
     - mainTitle: Goyang-iga Doeeossda
       tmdbid: 0
       malid: 59896
@@ -7687,17 +7679,9 @@ animeMovies:
       tmdbid: 0
       malid: 61688
 
-    - mainTitle: Toritsukare Otoko
-      tmdbid: 0
-      malid: 61736
-
     - mainTitle: 'Liaozhai: Lanre Si'
       tmdbid: 0
       malid: 61751
-
-    - mainTitle: Kono Hon wo Nusumu Mono wa
-      tmdbid: 0
-      malid: 61770
 
     - mainTitle: 'Foxing: Kitsuné-tsuki'
       tmdbid: 0
@@ -7754,4 +7738,8 @@ animeMovies:
     - mainTitle: Storm
       tmdbid: 0
       malid: 62109
+
+    - mainTitle: Souki Monochrome
+      tmdbid: 0
+      malid: 62134
 
