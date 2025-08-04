@@ -4145,6 +4145,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52619
+      title: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
+      type: tv
+      tvdbid: 423121
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 52635
       title: 'Kami no Tou: Ouji no Kikan'
       type: tv
@@ -6863,6 +6872,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59745
+      title: Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita
+      type: tv
+      tvdbid: 454149
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 59791
       title: Ruri no Houseki
       type: tv
@@ -7391,6 +7409,15 @@ AnimeMap:
       tvdbid: 114921
       tvdbseason: 4
       start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61023
+      title: Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite
+      type: ona
+      tvdbid: 460340
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
