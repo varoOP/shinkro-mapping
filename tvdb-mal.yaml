@@ -7151,6 +7151,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 60489
+      title: Takopii no Genzai
+      type: ona
+      tvdbid: 457645
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 60505
       title: Necronomico no Cosmic Horror Show
       type: tv
