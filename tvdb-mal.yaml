@@ -1351,6 +1351,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 22319
+      title: Tokyo Ghoul
+      type: tv
+      tvdbid: 281249
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 22537
       title: Yami Shibai 2
       type: tv
@@ -1477,6 +1486,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 27899
+      title: Tokyo Ghoul √A
+      type: tv
+      tvdbid: 281249
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 28121
       title: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
       type: tv
@@ -1492,6 +1510,15 @@ AnimeMap:
       tvdbid: 299746
       tvdbseason: 1
       start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 30458
+      title: 'Tokyo Ghoul: "Jack"'
+      type: ova
+      tvdbid: 281249
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -1574,6 +1601,15 @@ AnimeMap:
       tvdbid: 245821
       tvdbseason: 6
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31297
+      title: 'Tokyo Ghoul: "Pinto"'
+      type: ova
+      tvdbid: 281249
+      tvdbseason: 0
+      start: 1
       useMapping: false
       animeMapping: []
 
@@ -2126,6 +2162,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36511
+      title: Tokyo Ghoul:re
+      type: tv
+      tvdbid: 281249
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 36538
       title: 'Natsume Yuujinchou Movie: Utsusemi ni Musubu'
       type: movie
@@ -2267,6 +2312,15 @@ AnimeMap:
       tvdbid: 70668
       tvdbseason: 0
       start: 8
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37799
+      title: Tokyo Ghoul:re 2nd Season
+      type: tv
+      tvdbid: 281249
+      tvdbseason: 3
+      start: 13
       useMapping: false
       animeMapping: []
 
