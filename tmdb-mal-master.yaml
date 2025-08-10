@@ -1387,7 +1387,7 @@ animeMovies:
       tmdbid: 0
       malid: 19587
 
-    - mainTitle: New Initial D Movie: Legend 1 - Kakusei
+    - mainTitle: 'New Initial D Movie: Legend 1 - Kakusei'
       tmdbid: 271709
       malid: 19613
 
@@ -1907,7 +1907,7 @@ animeMovies:
       tmdbid: 0
       malid: 28759
       
-    - mainTitle: New Initial D Movie: Legend 2 - Tousou
+    - mainTitle: 'New Initial D Movie: Legend 2 - Tousou'
       tmdbid: 321487
       malid: 28881
 
@@ -2327,7 +2327,7 @@ animeMovies:
       tmdbid: 0
       malid: 30870
 
-    - mainTitle: New Initial D Movie: Legend 3 - Mugen
+    - mainTitle: 'New Initial D Movie: Legend 3 - Mugen'
       tmdbid: 372758
       malid: 30952
 
