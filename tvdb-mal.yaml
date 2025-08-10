@@ -1712,6 +1712,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 32182
+      title: Mob Psycho 100
+      type: tv
+      tvdbid: 307375
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 32188
       title: 'Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero'
       type: tv_special
@@ -2180,6 +2189,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36616
+      title: 'Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha'
+      type: special
+      tvdbid: 307375
+      tvdbseason: 0
+      start: 7
+      useMapping: false
+      animeMapping: []
+
     - malid: 36633
       title: Date A Live III
       type: tv
@@ -2294,6 +2312,24 @@ AnimeMap:
       tvdbid: 339268
       tvdbseason: 0
       start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37504
+      title: Mob Psycho Mini
+      type: special
+      tvdbid: 307375
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37510
+      title: Mob Psycho 100 II
+      type: tv
+      tvdbid: 307375
+      tvdbseason: 2
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -2630,6 +2666,15 @@ AnimeMap:
       tvdbid: 352408
       tvdbseason: 0
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 39651
+      title: 'Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi'
+      type: ova
+      tvdbid: 307375
+      tvdbseason: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
@@ -3691,6 +3736,15 @@ AnimeMap:
       type: tv
       tvdbid: 259635
       tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 50172
+      title: Mob Psycho 100 III
+      type: tv
+      tvdbid: 307375
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
