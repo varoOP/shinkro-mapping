@@ -63,6 +63,10 @@ animeMovies:
       tmdbid: 0
       malid: 2173
 
+    - mainTitle: Waga Seishun no Arcadia
+      tmdbid: 0
+      malid: 2202
+
     - mainTitle: Jumping
       tmdbid: 0
       malid: 2211
@@ -4779,7 +4783,7 @@ animeMovies:
       tmdbid: 0
       malid: 44691
 
-    - mainTitle: Mao
+    - mainTitle: Mao (Movie)
       tmdbid: 0
       malid: 44693
 
@@ -5791,10 +5795,6 @@ animeMovies:
       tmdbid: 0
       malid: 52766
 
-    - mainTitle: Xiong Shi Shaonian
-      tmdbid: 0
-      malid: 52769
-
     - mainTitle: Shi Tu
       tmdbid: 0
       malid: 52772
@@ -6298,6 +6298,10 @@ animeMovies:
     - mainTitle: Minna to Manner wo Manabou
       tmdbid: 0
       malid: 54209
+
+    - mainTitle: 'Made in Abyss: Mezameru Shinpi'
+      tmdbid: 0
+      malid: 54250
 
     - mainTitle: Time Machine
       tmdbid: 0
@@ -7011,10 +7015,6 @@ animeMovies:
       tmdbid: 0
       malid: 57828
 
-    - mainTitle: 'Yun Zhongju San Zi: Ni Nu Po'
-      tmdbid: 0
-      malid: 57837
-
     - mainTitle: Tomoya!
       tmdbid: 0
       malid: 57875
@@ -7647,10 +7647,6 @@ animeMovies:
       tmdbid: 0
       malid: 61396
 
-    - mainTitle: Kusunoki no Bannin
-      tmdbid: 0
-      malid: 61418
-
     - mainTitle: Pan no Akachan
       tmdbid: 0
       malid: 61462
@@ -7670,6 +7666,10 @@ animeMovies:
     - mainTitle: 'Aikatsu! x PriPara the Movie: Deai no Kiseki!'
       tmdbid: 0
       malid: 61558
+
+    - mainTitle: Lang Lang Shan Xiao Yaoguai
+      tmdbid: 0
+      malid: 61617
 
     - mainTitle: 'Gokusaishoku Nikuhitsu Emaki: Zashikirou'
       tmdbid: 0
@@ -7742,4 +7742,12 @@ animeMovies:
     - mainTitle: Souki Monochrome
       tmdbid: 0
       malid: 62134
+
+    - mainTitle: Gwang-jang
+      tmdbid: 0
+      malid: 62157
+
+    - mainTitle: 'Kimetsu no Yaiba Movie: Mugen Jou-hen Manner Eizou'
+      tmdbid: 0
+      malid: 62184
 
