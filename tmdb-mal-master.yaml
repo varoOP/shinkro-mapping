@@ -7,10 +7,6 @@ animeMovies:
       tmdbid: 0
       malid: 155
 
-    - mainTitle: Ace wo Nerae! (1979)
-      tmdbid: 144920
-      malid: 313
-
     - mainTitle: Neko no Ongaeshi
       tmdbid: 15370
       malid: 597
@@ -403,10 +399,6 @@ animeMovies:
       tmdbid: 0
       malid: 6855
 
-    - mainTitle: 'Higashi no Eden: Air Communication'
-      tmdbid: 0
-      malid: 6927
-
     - mainTitle: 'Enkinhou no Hako: Hakase no Sagashimono'
       tmdbid: 0
       malid: 6935
@@ -786,10 +778,6 @@ animeMovies:
     - mainTitle: 'Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana'
       tmdbid: 0
       malid: 9979
-
-    - mainTitle: 'Tetsujin 28-gou: Hakuchuu no Zangetsu'
-      tmdbid: 0
-      malid: 10005
 
     - mainTitle: Shouwa Monogatari (Movie)
       tmdbid: 0
@@ -2418,6 +2406,10 @@ animeMovies:
     - mainTitle: 'Kizumonogatari III: Reiketsu-hen'
       tmdbid: 0
       malid: 31758
+
+    - mainTitle: 'Sinbad: Mahou no Lamp to Ugoku Shima'
+      tmdbid: 0
+      malid: 31829
 
     - mainTitle: Fantasy
       tmdbid: 0
@@ -6827,10 +6819,6 @@ animeMovies:
       tmdbid: 0
       malid: 56891
 
-    - mainTitle: Ddotty Yeongwonui Tab
-      tmdbid: 0
-      malid: 56910
-
     - mainTitle: Xuyuan Shu
       tmdbid: 0
       malid: 56968
@@ -7750,4 +7738,36 @@ animeMovies:
     - mainTitle: 'Kimetsu no Yaiba Movie: Mugen Jou-hen Manner Eizou'
       tmdbid: 0
       malid: 62184
+
+    - mainTitle: 'Da Yu Hai Tang: Rong Song Chuan'
+      tmdbid: 0
+      malid: 62211
+
+    - mainTitle: Ryuujinnuma
+      tmdbid: 0
+      malid: 62212
+
+    - mainTitle: Kieta Akazukin-chan
+      tmdbid: 0
+      malid: 62213
+
+    - mainTitle: Joe-san no Osanpo
+      tmdbid: 0
+      malid: 62252
+
+    - mainTitle: 'Fei Ren Zai: Xian Shi Wan Jia'
+      tmdbid: 0
+      malid: 62260
+
+    - mainTitle: 'Kidou Senshi Gundam: Tekketsu no Orphans - Makuai no Kusabi'
+      tmdbid: 0
+      malid: 62264
+
+    - mainTitle: Kinuginu no Hanayuki
+      tmdbid: 0
+      malid: 62269
+
+    - mainTitle: 'Gintama Movie 3: Yoshiwara Daienjou'
+      tmdbid: 0
+      malid: 62277
 
