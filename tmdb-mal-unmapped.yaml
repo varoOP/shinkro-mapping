@@ -10,11 +10,7 @@ animeMovies:
     - mainTitle: Initial D Third Stage
       tmdbid: 0
       malid: 187
-
-    - mainTitle: Ace wo Nerae! (1979)
-      tmdbid: 0
-      malid: 313
-
+      
     - mainTitle: Neko no Ongaeshi
       tmdbid: 0
       malid: 597
@@ -66,6 +62,10 @@ animeMovies:
     - mainTitle: 'Kouchuu Ouja Mushiking Super Battle Movie: Yami no Kaizou Kouchuu'
       tmdbid: 0
       malid: 2173
+
+    - mainTitle: Waga Seishun no Arcadia
+      tmdbid: 0
+      malid: 2202
 
     - mainTitle: Jumping
       tmdbid: 0
@@ -402,10 +402,6 @@ animeMovies:
     - mainTitle: Da Nao Tiangong
       tmdbid: 0
       malid: 6855
-
-    - mainTitle: 'Higashi no Eden: Air Communication'
-      tmdbid: 0
-      malid: 6927
 
     - mainTitle: 'Enkinhou no Hako: Hakase no Sagashimono'
       tmdbid: 0
@@ -790,10 +786,6 @@ animeMovies:
     - mainTitle: 'Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana'
       tmdbid: 0
       malid: 9979
-
-    - mainTitle: 'Tetsujin 28-gou: Hakuchuu no Zangetsu'
-      tmdbid: 0
-      malid: 10005
 
     - mainTitle: Shouwa Monogatari (Movie)
       tmdbid: 0
@@ -2430,6 +2422,10 @@ animeMovies:
     - mainTitle: 'Kizumonogatari III: Reiketsu-hen'
       tmdbid: 0
       malid: 31758
+
+    - mainTitle: 'Sinbad: Mahou no Lamp to Ugoku Shima'
+      tmdbid: 0
+      malid: 31829
 
     - mainTitle: Fantasy
       tmdbid: 0
@@ -4795,7 +4791,7 @@ animeMovies:
       tmdbid: 0
       malid: 44691
 
-    - mainTitle: Mao
+    - mainTitle: Mao (Movie)
       tmdbid: 0
       malid: 44693
 
@@ -5807,10 +5803,6 @@ animeMovies:
       tmdbid: 0
       malid: 52766
 
-    - mainTitle: Xiong Shi Shaonian
-      tmdbid: 0
-      malid: 52769
-
     - mainTitle: Shi Tu
       tmdbid: 0
       malid: 52772
@@ -6314,6 +6306,10 @@ animeMovies:
     - mainTitle: Minna to Manner wo Manabou
       tmdbid: 0
       malid: 54209
+
+    - mainTitle: 'Made in Abyss: Mezameru Shinpi'
+      tmdbid: 0
+      malid: 54250
 
     - mainTitle: Time Machine
       tmdbid: 0
@@ -6839,10 +6835,6 @@ animeMovies:
       tmdbid: 0
       malid: 56891
 
-    - mainTitle: Ddotty Yeongwonui Tab
-      tmdbid: 0
-      malid: 56910
-
     - mainTitle: Xuyuan Shu
       tmdbid: 0
       malid: 56968
@@ -7026,10 +7018,6 @@ animeMovies:
     - mainTitle: 'Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru - Saikai'
       tmdbid: 0
       malid: 57828
-
-    - mainTitle: 'Yun Zhongju San Zi: Ni Nu Po'
-      tmdbid: 0
-      malid: 57837
 
     - mainTitle: Tomoya!
       tmdbid: 0
@@ -7663,10 +7651,6 @@ animeMovies:
       tmdbid: 0
       malid: 61396
 
-    - mainTitle: Kusunoki no Bannin
-      tmdbid: 0
-      malid: 61418
-
     - mainTitle: Pan no Akachan
       tmdbid: 0
       malid: 61462
@@ -7686,6 +7670,10 @@ animeMovies:
     - mainTitle: 'Aikatsu! x PriPara the Movie: Deai no Kiseki!'
       tmdbid: 0
       malid: 61558
+
+    - mainTitle: Lang Lang Shan Xiao Yaoguai
+      tmdbid: 0
+      malid: 61617
 
     - mainTitle: 'Gokusaishoku Nikuhitsu Emaki: Zashikirou'
       tmdbid: 0
@@ -7758,4 +7746,44 @@ animeMovies:
     - mainTitle: Souki Monochrome
       tmdbid: 0
       malid: 62134
+
+    - mainTitle: Gwang-jang
+      tmdbid: 0
+      malid: 62157
+
+    - mainTitle: 'Kimetsu no Yaiba Movie: Mugen Jou-hen Manner Eizou'
+      tmdbid: 0
+      malid: 62184
+
+    - mainTitle: 'Da Yu Hai Tang: Rong Song Chuan'
+      tmdbid: 0
+      malid: 62211
+
+    - mainTitle: Ryuujinnuma
+      tmdbid: 0
+      malid: 62212
+
+    - mainTitle: Kieta Akazukin-chan
+      tmdbid: 0
+      malid: 62213
+
+    - mainTitle: Joe-san no Osanpo
+      tmdbid: 0
+      malid: 62252
+
+    - mainTitle: 'Fei Ren Zai: Xian Shi Wan Jia'
+      tmdbid: 0
+      malid: 62260
+
+    - mainTitle: 'Kidou Senshi Gundam: Tekketsu no Orphans - Makuai no Kusabi'
+      tmdbid: 0
+      malid: 62264
+
+    - mainTitle: Kinuginu no Hanayuki
+      tmdbid: 0
+      malid: 62269
+
+    - mainTitle: 'Gintama Movie 3: Yoshiwara Daienjou'
+      tmdbid: 0
+      malid: 62277
 
