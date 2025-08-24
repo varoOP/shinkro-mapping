@@ -203,6 +203,10 @@ animeMovies:
       tmdbid: 672384
       malid: 3276
 
+    - mainTitle: 'Biohazard: Degeneration'
+      tmdbid: 0
+      malid: 3446
+
     - mainTitle: A.LI.CE
       tmdbid: 0
       malid: 3463
@@ -1207,6 +1211,10 @@ animeMovies:
       tmdbid: 0
       malid: 17219
 
+    - mainTitle: Jib
+      tmdbid: 0
+      malid: 17233
+
     - mainTitle: Kyojin no Hoshi (Movie)
       tmdbid: 0
       malid: 17439
@@ -1378,10 +1386,6 @@ animeMovies:
     - mainTitle: Gu-Gu Ganmo (Movie)
       tmdbid: 0
       malid: 19751
-
-    - mainTitle: 'Kuiba III: Zhanshen Jue Qi'
-      tmdbid: 0
-      malid: 19781
 
     - mainTitle: Ohayou! Spank (Movie)
       tmdbid: 0
@@ -2123,10 +2127,6 @@ animeMovies:
       tmdbid: 0
       malid: 29986
 
-    - mainTitle: 'Kaze no Kokyuu: Animation ni Yoru Oufuku Shokan'
-      tmdbid: 0
-      malid: 29989
-
     - mainTitle: Norakuro Ittouhei
       tmdbid: 0
       malid: 30019
@@ -2810,10 +2810,6 @@ animeMovies:
     - mainTitle: Kamishibai Itazura Tanuki no Maki
       tmdbid: 0
       malid: 35399
-
-    - mainTitle: ?/Sankaku no Rhythm/Trump no Arasoi
-      tmdbid: 0
-      malid: 35405
 
     - mainTitle: Rhythm
       tmdbid: 0
@@ -7163,10 +7159,6 @@ animeMovies:
       tmdbid: 0
       malid: 59174
 
-    - mainTitle: 'Fuuto Tantei Movie: Kamen Rider Skull no Shouzou'
-      tmdbid: 0
-      malid: 59186
-
     - mainTitle: Grotesque
       tmdbid: 0
       malid: 59217
@@ -7683,10 +7675,6 @@ animeMovies:
       tmdbid: 0
       malid: 61865
 
-    - mainTitle: Summer Pockets Movie
-      tmdbid: 0
-      malid: 61926
-
     - mainTitle: 'Zhu Zhu Xia: Yi Zhi Lao Zhu De Ni Xi'
       tmdbid: 0
       malid: 61947
@@ -7770,4 +7758,8 @@ animeMovies:
     - mainTitle: 'Gintama Movie 3: Yoshiwara Daienjou'
       tmdbid: 0
       malid: 62277
+
+    - mainTitle: 'Odekake Kozame Movie: Tokai no Otomodachi x Yoru wa Neko to Issho Manner Eizou'
+      tmdbid: 0
+      malid: 62329
 
