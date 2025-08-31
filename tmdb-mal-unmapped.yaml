@@ -91,9 +91,9 @@ animeMovies:
       tmdbid: 0
       malid: 2470
 
-    - mainTitle: 'Touch 2: Sayonara no Okurimono'
+    - mainTitle: 'Touch: Sebangou no Nai Ace'
       tmdbid: 0
-      malid: 2492
+      malid: 2491
 
     - mainTitle: 'Touch 3: Kimi ga Toorisugita Ato ni - Don''t Pass Me By'
       tmdbid: 0
@@ -390,10 +390,6 @@ animeMovies:
     - mainTitle: Docchi ni Suru?
       tmdbid: 0
       malid: 6797
-
-    - mainTitle: Shoujouji no Tanuki-bayashi Ban Danemon
-      tmdbid: 0
-      malid: 6832
 
     - mainTitle: Dekobou no Jidousha Ryokou
       tmdbid: 0
@@ -1462,6 +1458,10 @@ animeMovies:
     - mainTitle: Ari to Hato (1953)
       tmdbid: 0
       malid: 21763
+
+    - mainTitle: 'Gintama: Yorinuki Gintama-san on Theater 2D'
+      tmdbid: 0
+      malid: 21899
 
     - mainTitle: 'Sore Ike! Anpanman: Anpanman to Happy Otanjoubi'
       tmdbid: 0
@@ -4350,6 +4350,10 @@ animeMovies:
     - mainTitle: Gudu De Lily
       tmdbid: 0
       malid: 43664
+
+    - mainTitle: Ai Ni
+      tmdbid: 0
+      malid: 43665
 
     - mainTitle: Zhong Shu
       tmdbid: 0
@@ -7591,6 +7595,10 @@ animeMovies:
       tmdbid: 0
       malid: 61162
 
+    - mainTitle: Futsuu no Seikatsu
+      tmdbid: 0
+      malid: 61183
+
     - mainTitle: 'Mononoke Movie: Dai San Shou - Hebigami'
       tmdbid: 0
       malid: 61202
@@ -7683,10 +7691,6 @@ animeMovies:
       tmdbid: 0
       malid: 61949
 
-    - mainTitle: Meikyuu no Shiori
-      tmdbid: 0
-      malid: 61964
-
     - mainTitle: Kimi shika Inai
       tmdbid: 0
       malid: 62042
@@ -7751,10 +7755,6 @@ animeMovies:
       tmdbid: 0
       malid: 62264
 
-    - mainTitle: Kinuginu no Hanayuki
-      tmdbid: 0
-      malid: 62269
-
     - mainTitle: 'Gintama Movie 3: Yoshiwara Daienjou'
       tmdbid: 0
       malid: 62277
@@ -7762,4 +7762,16 @@ animeMovies:
     - mainTitle: 'Odekake Kozame Movie: Tokai no Otomodachi x Yoru wa Neko to Issho Manner Eizou'
       tmdbid: 0
       malid: 62329
+
+    - mainTitle: Gogo 2-ji Onshitsu nite
+      tmdbid: 0
+      malid: 62350
+
+    - mainTitle: Mahou no Murasaki Usagi
+      tmdbid: 0
+      malid: 62383
+
+    - mainTitle: Meitantei Conan Movie 29
+      tmdbid: 0
+      malid: 62387
 
