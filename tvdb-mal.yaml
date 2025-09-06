@@ -7546,3 +7546,12 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 57969
+      title: Nukitashi the Animation
+      type: tv
+      tvdbid: 445390
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
