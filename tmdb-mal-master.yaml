@@ -3043,7 +3043,7 @@ animeMovies:
       tmdbid: 0
       malid: 38614
 
-    - mainTitle: Shimajirou no Wow! Movie 7: Shimajirou to Ururu no Hero Land
+    - mainTitle: 'Shimajirou no Wow! Movie 7: Shimajirou to Ururu no Hero Land'
       tmdbid: 0
       malid: 38618
 
@@ -3299,7 +3299,7 @@ animeMovies:
       tmdbid: 0
       malid: 40554
 
-    - mainTitle: Shimajirou no Wow! Movie 8: Shimajirou to Soratobu Fune
+    - mainTitle: 'Shimajirou no Wow! Movie 8: Shimajirou to Soratobu Fune'
       tmdbid: 0
       malid: 40621
 
@@ -5951,6 +5951,10 @@ animeMovies:
       tmdbid: 0
       malid: 53196
 
+    - mainTitle: 'Mizu no Sei: Kappa Hyakuzu'
+      tmdbid: 0
+      malid: 53209
+
     - mainTitle: Ikashita Shikaku
       tmdbid: 0
       malid: 53214
@@ -7375,6 +7379,14 @@ animeMovies:
       tmdbid: 0
       malid: 60190
 
+    - mainTitle: Yiqing Qijian de Feitian Gou
+      tmdbid: 0
+      malid: 60236
+
+    - mainTitle: Yiqing Qijian de Luoshuigou
+      tmdbid: 0
+      malid: 60237
+
     - mainTitle: Xiangle Huayuan
       tmdbid: 0
       malid: 60272
@@ -7419,9 +7431,21 @@ animeMovies:
       tmdbid: 0
       malid: 60486
 
+    - mainTitle: Red Table
+      tmdbid: 0
+      malid: 60487
+
     - mainTitle: Geulium
       tmdbid: 0
       malid: 60493
+
+    - mainTitle: Si Nan Zi
+      tmdbid: 0
+      malid: 60500
+
+    - mainTitle: Si Ji
+      tmdbid: 0
+      malid: 60501
 
     - mainTitle: Awaiting
       tmdbid: 0
@@ -7502,10 +7526,6 @@ animeMovies:
     - mainTitle: Mister Robot
       tmdbid: 0
       malid: 60916
-
-    - mainTitle: 'Ahobsan Sup: Gisaenghon'
-      tmdbid: 0
-      malid: 60917
 
     - mainTitle: Haru no Akubi
       tmdbid: 0
@@ -7699,6 +7719,10 @@ animeMovies:
       tmdbid: 0
       malid: 62057
 
+    - mainTitle: 'Meitantei Conan: Senkou no Payload'
+      tmdbid: 0
+      malid: 62061
+
     - mainTitle: 'Golden Kamuy: Sapporo Beer Koujou-hen'
       tmdbid: 0
       malid: 62067
@@ -7774,4 +7798,28 @@ animeMovies:
     - mainTitle: Meitantei Conan Movie 29
       tmdbid: 0
       malid: 62387
+
+    - mainTitle: Gomen ne
+      tmdbid: 0
+      malid: 62396
+
+    - mainTitle: Sakana no Koushin
+      tmdbid: 0
+      malid: 62397
+
+    - mainTitle: Yoru no Denpa wo Sagashiteru
+      tmdbid: 0
+      malid: 62400
+
+    - mainTitle: Screen no Maboroshi
+      tmdbid: 0
+      malid: 62407
+
+    - mainTitle: Ringo no Ki no Shima
+      tmdbid: 0
+      malid: 62411
+
+    - mainTitle: Kloka
+      tmdbid: 0
+      malid: 62418
 
