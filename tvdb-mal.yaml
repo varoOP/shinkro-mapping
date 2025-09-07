@@ -7555,3 +7555,75 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 30123
+      title: Akagami no Shirayuki-hime
+      type: tv
+      tvdbid: 295205
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+      
+    - malid: 31173
+      title: Akagami no Shirayuki-hime 2nd Season
+      type: tv
+      tvdbid: 295205
+      tvdbseason: 1
+      start: 13
+      useMapping: false
+      animeMapping: []
+            
+    - malid: 37475
+      title: Kishuku Gakkou no Juliet
+      type: tv
+      tvdbid: 350555
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+      
+    - malid: 42826
+      title: Seijo no Maryoku wa Bannou desu
+      type: tv
+      tvdbid: 397831
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+      
+    - malid: 51215
+      title: Seijo no Maryoku wa Bannou desu Season 2
+      type: tv
+      tvdbid: 397831
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+      
+    - malid: 34822
+      title: Tsuki ga Kirei
+      type: tv
+      tvdbid: 325197
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53379
+      title: Uchi no Kaisha no Chiisai Senpai no Hanashi
+      type: tv
+      tvdbid: 426080
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+      
+    - malid: 55889
+      title: Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi
+      type: ova
+      tvdbid: 418665
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
