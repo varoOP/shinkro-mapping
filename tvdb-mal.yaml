@@ -6516,8 +6516,8 @@ AnimeMap:
       title: Pokemon Concierge Part 2
       type: ona
       tvdbid: 431703
-      tvdbseason: 2
-      start: 0
+      tvdbseason: 1
+      start: 5
       useMapping: false
       animeMapping: []
 
