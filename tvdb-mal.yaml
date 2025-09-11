@@ -3029,6 +3029,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 41812
+      title: Megami-ryou no Ryoubo-kun.
+      type: tv
+      tvdbid: 400642
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 41923
       title: Yi Nian Yong Heng
       type: ona
@@ -3483,6 +3492,15 @@ AnimeMap:
       title: Sono Bisque Doll wa Koi wo Suru
       type: tv
       tvdbid: 401233
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 48779
+      title: Deaimon
+      type: tv
+      tvdbid: 409329
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -8065,6 +8083,15 @@ AnimeMap:
       type: tv
       tvdbid: 466376
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62349
+      title: 'Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite: Kooriyama Yui Sonogo...'
+      type: special
+      tvdbid: 460340
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
