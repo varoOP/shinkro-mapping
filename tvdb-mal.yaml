@@ -4253,6 +4253,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 51614
+      title: Ao no Orchestra
+      type: tv
+      tvdbid: 418904
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 51761
       title: 'Uma Musume: Pretty Derby - Road to the Top'
       type: ona
@@ -5698,6 +5707,15 @@ AnimeMap:
       type: tv
       tvdbid: 440502
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56877
+      title: Ao no Orchestra Season 2
+      type: tv
+      tvdbid: 418904
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
