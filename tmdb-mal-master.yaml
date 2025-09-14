@@ -27,6 +27,10 @@ animeMovies:
       tmdbid: 322686
       malid: 1078
 
+    - mainTitle: 'Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.'
+      tmdbid: 0
+      malid: 1379
+
     - mainTitle: 'Lupin III: Pilot Film (1978)'
       tmdbid: 0
       malid: 1428
@@ -82,10 +86,6 @@ animeMovies:
     - mainTitle: 'Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!'
       tmdbid: 0
       malid: 2408
-
-    - mainTitle: 'Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu'
-      tmdbid: 37280
-      malid: 2450
 
     - mainTitle: 'Uchuu Kaizoku Captain Herlock: Arcadia-gou no Nazo'
       tmdbid: 0
@@ -2407,10 +2407,6 @@ animeMovies:
       tmdbid: 0
       malid: 31758
 
-    - mainTitle: 'Sinbad: Mahou no Lamp to Ugoku Shima'
-      tmdbid: 0
-      malid: 31829
-
     - mainTitle: Fantasy
       tmdbid: 0
       malid: 31831
@@ -3271,7 +3267,7 @@ animeMovies:
       tmdbid: 0
       malid: 40164
 
-    - mainTitle: Luo Xiao Hei Zhan Ji (Movie)
+    - mainTitle: Luo Xiaohei Zhanji (Movie)
       tmdbid: 0
       malid: 40211
 
@@ -5731,6 +5727,10 @@ animeMovies:
       tmdbid: 0
       malid: 52316
 
+    - mainTitle: 'Doraemon Movie 42: Nobita to Sora no Utopia'
+      tmdbid: 0
+      malid: 52318
+
     - mainTitle: Sono Saki no Taniji
       tmdbid: 0
       malid: 52438
@@ -6959,10 +6959,6 @@ animeMovies:
       tmdbid: 0
       malid: 57386
 
-    - mainTitle: 'Xiong Chumo: Nizhuan Shikong'
-      tmdbid: 0
-      malid: 57416
-
     - mainTitle: Huo Feng Zhong Tian
       tmdbid: 0
       malid: 57439
@@ -7822,4 +7818,32 @@ animeMovies:
     - mainTitle: Kloka
       tmdbid: 0
       malid: 62418
+
+    - mainTitle: 'Ansatsu Kyoushitsu Movie: Minna no Jikan'
+      tmdbid: 0
+      malid: 62421
+
+    - mainTitle: Shoujo Kou
+      tmdbid: 0
+      malid: 62429
+
+    - mainTitle: Jingzi
+      tmdbid: 0
+      malid: 62441
+
+    - mainTitle: 'Hou Yi: Jian Shen'
+      tmdbid: 0
+      malid: 62442
+
+    - mainTitle: Sanguo de Xingkong
+      tmdbid: 0
+      malid: 62443
+
+    - mainTitle: 'Dinoman: Mudeungsan Gonglyongui Tansaeng'
+      tmdbid: 0
+      malid: 62460
+
+    - mainTitle: Suo He Yaoshi
+      tmdbid: 0
+      malid: 62468
 
