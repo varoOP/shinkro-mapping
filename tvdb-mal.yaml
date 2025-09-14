@@ -1093,6 +1093,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 12413
+      title: Jormungand
+      type: tv
+      tvdbid: 257756
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 13145
       title: 'Cardfight!! Vanguard: Asia Circuit-hen'
       type: tv
@@ -2177,6 +2186,15 @@ AnimeMap:
       tvdbid: 82788
       tvdbseason: 0
       start: 5
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36407
+      title: Kenja no Mago
+      type: tv
+      tvdbid: 354602
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
