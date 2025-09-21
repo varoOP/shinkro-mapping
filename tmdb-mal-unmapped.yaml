@@ -2295,10 +2295,6 @@ animeMovies:
       tmdbid: 0
       malid: 30814
 
-    - mainTitle: 'Aikatsu! Music Award: Minna de Shou wo MoracchaimaShow!'
-      tmdbid: 0
-      malid: 30845
-
     - mainTitle: Happy Bogeys
       tmdbid: 0
       malid: 30861
@@ -3998,10 +3994,6 @@ animeMovies:
     - mainTitle: 'Effendi Xin Chuan: Bu Ting Hua De Gou'
       tmdbid: 0
       malid: 43449
-
-    - mainTitle: 'Effendi Xin Chuan: Zhong Jin Ji'
-      tmdbid: 0
-      malid: 43454
 
     - mainTitle: Ba Bai Bian Zi
       tmdbid: 0
@@ -7023,10 +7015,6 @@ animeMovies:
       tmdbid: 0
       malid: 57928
 
-    - mainTitle: 'Xiong Haizi: Tanxian Xiong Bing'
-      tmdbid: 0
-      malid: 57933
-
     - mainTitle: 'Rakuen Tsuihou: Kokoro no Resonance'
       tmdbid: 0
       malid: 57961
@@ -7747,7 +7735,7 @@ animeMovies:
       tmdbid: 0
       malid: 62157
 
-    - mainTitle: 'Kimetsu no Yaiba Movie: Mugen Jou-hen Manner Eizou'
+    - mainTitle: 'Kimetsu no Yaiba Movie: Mugenjou-hen Manner Eizou'
       tmdbid: 0
       malid: 62184
 
@@ -7819,10 +7807,6 @@ animeMovies:
       tmdbid: 0
       malid: 62418
 
-    - mainTitle: 'Ansatsu Kyoushitsu Movie: Minna no Jikan'
-      tmdbid: 0
-      malid: 62421
-
     - mainTitle: Shoujo Kou
       tmdbid: 0
       malid: 62429
@@ -7835,10 +7819,6 @@ animeMovies:
       tmdbid: 0
       malid: 62442
 
-    - mainTitle: Sanguo de Xingkong
-      tmdbid: 0
-      malid: 62443
-
     - mainTitle: 'Dinoman: Mudeungsan Gonglyongui Tansaeng'
       tmdbid: 0
       malid: 62460
@@ -7846,4 +7826,16 @@ animeMovies:
     - mainTitle: Suo He Yaoshi
       tmdbid: 0
       malid: 62468
+
+    - mainTitle: 'Doraemon Movie 45: Shin Nobita no Kaitei Kiganjou'
+      tmdbid: 0
+      malid: 62508
+
+    - mainTitle: Liushui Cao
+      tmdbid: 0
+      malid: 62509
+
+    - mainTitle: Com Rade Zhi Ni Hao
+      tmdbid: 0
+      malid: 62515
 
