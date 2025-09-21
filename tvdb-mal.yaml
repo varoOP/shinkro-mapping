@@ -8601,3 +8601,12 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 62432
+      title: Jingai Kyoushitsu no Ningengirai Kyoushi
+      type: tv
+      tvdbid: 467839
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
