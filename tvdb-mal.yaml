@@ -474,6 +474,23 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 918
+      title: Gintama
+      type: tv
+      tvdbid: 79895
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+        - tvdbseason: 2
+          start: 50
+        - tvdbseason: 3
+          start: 100
+        - tvdbseason: 4
+          start: 153
+
     - malid: 984
       title: 'Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku'
       type: ova
@@ -967,6 +984,17 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 9969
+      title: Gintama'
+      type: tv
+      tvdbid: 79895
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 5
+          start: 202
+
     - malid: 9982
       title: Fairy Tail OVA
       type: ova
@@ -1173,6 +1201,17 @@ AnimeMap:
       start: 10
       useMapping: false
       animeMapping: []
+
+    - malid: 15417
+      title: 'Gintama'': Enchousen'
+      type: tv
+      tvdbid: 79895
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 6
+          start: 253
 
     - malid: 15583
       title: Date A Live
@@ -1512,6 +1551,17 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 28977
+      title: Gintama°
+      type: tv
+      tvdbid: 79895
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 7
+          start: 266
 
     - malid: 30014
       title: Momokuri
@@ -1919,6 +1969,17 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 34096
+      title: Gintama.
+      type: tv
+      tvdbid: 79895
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 8
+          start: 317
+
     - malid: 34204
       title: Hibike! Euphonium 2 Specials
       type: special
@@ -2162,6 +2223,17 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 35843
+      title: Gintama. Porori-hen
+      type: tv
+      tvdbid: 79895
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 9
+          start: 329
+
     - malid: 35972
       title: 'Fairy Tail: Final Series'
       type: tv
@@ -2260,6 +2332,17 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 36838
+      title: Gintama. Shirogane no Tamashii-hen
+      type: tv
+      tvdbid: 79895
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 10
+          start: 342
 
     - malid: 36896
       title: 'Boku no Hero Academia the Movie 1: Futari no Hero'
