@@ -1581,6 +1581,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 30276
+      title: One Punch Man
+      type: tv
+      tvdbid: 293088
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 30458
       title: 'Tokyo Ghoul: "Jack"'
       type: ova
@@ -1723,6 +1732,24 @@ AnimeMap:
       tvdbid: 289884
       tvdbseason: 0
       start: 8
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31704
+      title: 'One Punch Man: Road to Hero'
+      type: ova
+      tvdbid: 293088
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31772
+      title: One Punch Man Specials
+      type: special
+      tvdbid: 293088
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -1979,6 +2006,15 @@ AnimeMap:
       animeMapping:
         - tvdbseason: 8
           start: 317
+
+    - malid: 34134
+      title: One Punch Man 2nd Season
+      type: tv
+      tvdbid: 293088
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
 
     - malid: 34204
       title: Hibike! Euphonium 2 Specials
@@ -2333,6 +2369,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36754
+      title: Kakuriyo no Yadomeshi
+      type: tv
+      tvdbid: 339922
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 36838
       title: Gintama. Shirogane no Tamashii-hen
       type: tv
@@ -2626,6 +2671,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 38472
+      title: Isekai Quartet
+      type: tv
+      tvdbid: 357471
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 38474
       title: Yuru Camp△ Season 2
       type: tv
@@ -2830,6 +2884,15 @@ AnimeMap:
       tvdbid: 307375
       tvdbseason: 0
       start: 8
+      useMapping: false
+      animeMapping: []
+
+    - malid: 39705
+      title: One Punch Man 2nd Season Specials
+      type: special
+      tvdbid: 293088
+      tvdbseason: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -3063,6 +3126,15 @@ AnimeMap:
       type: tv
       tvdbid: 355480
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 41025
+      title: Fumetsu no Anata e
+      type: tv
+      tvdbid: 375271
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -3445,6 +3517,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 44942
+      title: Shuumatsu no Walküre
+      type: ona
+      tvdbid: 393810
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 45576
       title: 'Mushoku Tensei: Isekai Ittara Honki Dasu Part 2'
       type: tv
@@ -3724,6 +3805,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 49357
+      title: 'Star Wars: Visions'
+      type: ona
+      tvdbid: 393190
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 49363
       title: 'SK∞ OVA: Extra Part'
       type: ova
@@ -3801,6 +3891,24 @@ AnimeMap:
       type: tv
       tvdbid: 408629
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49618
+      title: Shuumatsu no Walküre II
+      type: ona
+      tvdbid: 393810
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49709
+      title: Fumetsu no Anata e Season 2
+      type: tv
+      tvdbid: 375271
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -4705,6 +4813,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53426
+      title: Hyakushou Kizoku
+      type: tv
+      tvdbid: 426432
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 53434
       title: Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
       type: tv
@@ -4975,6 +5092,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54265
+      title: Kekkon Yubiwa Monogatari
+      type: tv
+      tvdbid: 429825
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 54275
       title: Temple
       type: tv
@@ -5038,6 +5164,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54703
+      title: Fumetsu no Anata e Season 3
+      type: tv
+      tvdbid: 375271
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 54714
       title: Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
       type: tv
@@ -5088,6 +5223,15 @@ AnimeMap:
       type: tv
       tvdbid: 402607
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54757
+      title: 3-nen Z-gumi Ginpachi-sensei
+      type: tv
+      tvdbid: 465543
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -5278,6 +5422,15 @@ AnimeMap:
       tvdbid: 433953
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55454
+      title: Shuumatsu no Walküre II Part 2
+      type: ona
+      tvdbid: 393810
+      tvdbseason: 2
+      start: 11
       useMapping: false
       animeMapping: []
 
@@ -6311,6 +6464,15 @@ AnimeMap:
       title: Shiunji-ke no Kodomotachi
       type: tv
       tvdbid: 446141
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58137
+      title: Kagaku x Bouken Survival!
+      type: tv
+      tvdbid: 446208
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -7882,6 +8044,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 60336
+      title: 'Star Wars: Visions Volume 3'
+      type: ona
+      tvdbid: 393190
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 60347
       title: Cat's♥Eye
       type: ona
@@ -8107,6 +8278,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 60551
+      title: Hyakushou Kizoku 3rd Season
+      type: tv
+      tvdbid: 426432
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 60564
+      title: Ranma ½ (2024) 2nd Season
+      type: tv
+      tvdbid: 451479
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 60593
       title: 'Vigilante: Boku no Hero Academia Illegals'
       type: tv
@@ -8251,6 +8440,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 60983
+      title: Kagaku x Bouken Survival! 2nd Season
+      type: tv
+      tvdbid: 446208
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61012
       title: Toaru Kagaku no Railgun 4th Season
       type: tv
@@ -8353,7 +8551,7 @@ AnimeMap:
     - malid: 61174
       title: Sozai Saishuka no Isekai Ryokouki
       type: tv
-      tvdbid: 61265
+      tvdbid: 461265
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -8373,6 +8571,15 @@ AnimeMap:
       type: tv
       tvdbid: 461423
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61200
+      title: Shuumatsu no Walküre III
+      type: ona
+      tvdbid: 393810
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -8413,11 +8620,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61254
+      title: Ugoku! Neko Mukashibanashi
+      type: ona
+      tvdbid: 459743
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61269
       title: Digimon Beatbreak
       type: tv
       tvdbid: 461683
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61271
+      title: 'NEET Kunoichi to Nazeka Dousei Hajimemashita: Nazeka Beach de Dogimagi Shimashita/Nazeka Moto Koutou Youma to Nakayoku Narimashita'
+      type: ona
+      tvdbid: 445965
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -8464,6 +8689,15 @@ AnimeMap:
       tvdbid: 368364
       tvdbseason: 2
       start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61517
+      title: Kingdom 6th Season
+      type: tv
+      tvdbid: 259635
+      tvdbseason: 6
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -8521,6 +8755,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61851
+      title: Isekai Quartet 3
+      type: tv
+      tvdbid: 357471
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61886
       title: Goumon Baito-kun no Nichijou
       type: tv
@@ -8536,6 +8779,24 @@ AnimeMap:
       tvdbid: 465214
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61922
+      title: Shibuya♡Hachi Part 4
+      type: tv
+      tvdbid: 446097
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61930
+      title: 'Uma Musume: Cinderella Gray Part 2'
+      type: tv
+      tvdbid: 453673
+      tvdbseason: 1
+      start: 14
       useMapping: false
       animeMapping: []
 
@@ -8602,10 +8863,28 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62405
+      title: Fujimoto Tatsuki 17-26
+      type: ona
+      tvdbid: 467641
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 62432
       title: Jingai Kyoushitsu no Ningengirai Kyoushi
       type: tv
       tvdbid: 467839
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62496
+      title: 2200-nen Neko no Kuni Nippon
+      type: tv
+      tvdbid: 468366
       tvdbseason: 1
       start: 0
       useMapping: false
