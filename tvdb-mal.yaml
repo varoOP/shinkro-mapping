@@ -273,7 +273,7 @@ AnimeMap:
       tvdbid: 76666
       tvdbseason: 0
       start: 1
-      useMapping: true
+      useMapping: false
       animeMapping: []
 
     - malid: 631
@@ -336,7 +336,7 @@ AnimeMap:
       tvdbid: 76666
       tvdbseason: 0
       start: 2
-      useMapping: true
+      useMapping: false
       animeMapping: []
 
     - malid: 892
@@ -345,7 +345,7 @@ AnimeMap:
       tvdbid: 76666
       tvdbseason: 0
       start: 3
-      useMapping: true
+      useMapping: false
       animeMapping: []
 
     - malid: 893
@@ -354,7 +354,7 @@ AnimeMap:
       tvdbid: 76666
       tvdbseason: 0
       start: 4
-      useMapping: true
+      useMapping: false
       animeMapping: []
 
     - malid: 894
@@ -590,6 +590,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1723
+      title: Clannad Movie
+      type: movie
+      tvdbid: 80644
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 1735
       title: 'Naruto: Shippuuden'
       type: tv
@@ -652,6 +661,19 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2167
+      title: Clannad
+      type: tv
+      tvdbid: 80644
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 23
+        - tvdbseason: 1
+          start: 0
+
     - malid: 2217
       title: 'Hand Maid May: Akiramemasen'
       type: special
@@ -711,6 +733,24 @@ AnimeMap:
       type: tv
       tvdbid: 83807
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4059
+      title: 'Clannad: Mou Hitotsu no Sekai, Tomoyo-hen'
+      type: special
+      tvdbid: 80644
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4181
+      title: 'Clannad: After Story'
+      type: tv
+      tvdbid: 80644
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -811,6 +851,15 @@ AnimeMap:
       tvdbid: 114921
       tvdbseason: 1
       start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 6351
+      title: 'Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen'
+      type: special
+      tvdbid: 80644
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
