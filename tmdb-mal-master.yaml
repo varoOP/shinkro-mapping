@@ -7179,10 +7179,6 @@ animeMovies:
       tmdbid: 0
       malid: 59273
 
-    - mainTitle: 'King of Prism: Dramatic Prism.1'
-      tmdbid: 0
-      malid: 59275
-
     - mainTitle: Trip
       tmdbid: 0
       malid: 59278
@@ -7603,7 +7599,7 @@ animeMovies:
       tmdbid: 0
       malid: 61183
 
-    - mainTitle: 'Mononoke Movie: Dai San Shou - Hebigami'
+    - mainTitle: 'Mononoke Movie 3: Hebigami'
       tmdbid: 0
       malid: 61202
 
@@ -7827,6 +7823,10 @@ animeMovies:
       tmdbid: 0
       malid: 62468
 
+    - mainTitle: Shi Wai (2025)
+      tmdbid: 0
+      malid: 62497
+
     - mainTitle: 'Doraemon Movie 45: Shin Nobita no Kaitei Kiganjou'
       tmdbid: 0
       malid: 62508
@@ -7838,4 +7838,8 @@ animeMovies:
     - mainTitle: Com Rade Zhi Ni Hao
       tmdbid: 0
       malid: 62515
+
+    - mainTitle: Seishun Buta Yarou wa Dear Friend no Yume wo Minai
+      tmdbid: 0
+      malid: 62582
 
