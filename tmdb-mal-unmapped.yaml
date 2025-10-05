@@ -3527,6 +3527,10 @@ animeMovies:
       tmdbid: 0
       malid: 42593
 
+    - mainTitle: 'Kono Sekai no Tanoshimikata: Secret Story Film'
+      tmdbid: 0
+      malid: 42750
+
     - mainTitle: 'Young Alive!: iPS Saibou ga Hiraku Mirai'
       tmdbid: 0
       malid: 42840
@@ -7475,10 +7479,6 @@ animeMovies:
       tmdbid: 0
       malid: 60816
 
-    - mainTitle: 'IDOLiSH7: First Beat'
-      tmdbid: 0
-      malid: 60831
-
     - mainTitle: Yoru no Hitomi
       tmdbid: 0
       malid: 60833
@@ -7802,6 +7802,10 @@ animeMovies:
     - mainTitle: Kloka
       tmdbid: 0
       malid: 62418
+
+    - mainTitle: Dekadeka
+      tmdbid: 0
+      malid: 62427
 
     - mainTitle: Shoujo Kou
       tmdbid: 0
