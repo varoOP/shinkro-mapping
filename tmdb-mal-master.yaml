@@ -215,10 +215,6 @@ animeMovies:
       tmdbid: 0
       malid: 3575
 
-    - mainTitle: 'Duel Masters Movie 1: Yami no Shiro no Maryuuou'
-      tmdbid: 0
-      malid: 3669
-
     - mainTitle: Murder
       tmdbid: 0
       malid: 3743
@@ -1751,10 +1747,6 @@ animeMovies:
       tmdbid: 0
       malid: 25299
 
-    - mainTitle: Sensuikan ni Koi wo Shita Kujira no Hanashi
-      tmdbid: 0
-      malid: 25329
-
     - mainTitle: 'Doraemon Movie 35: Nobita no Space Heroes'
       tmdbid: 0
       malid: 25383
@@ -3047,10 +3039,6 @@ animeMovies:
       tmdbid: 0
       malid: 38641
 
-    - mainTitle: 'Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo'
-      tmdbid: 0
-      malid: 38716
-
     - mainTitle: Kidou Senshi Gundam UC Perfectibility
       tmdbid: 0
       malid: 38739
@@ -3387,10 +3375,6 @@ animeMovies:
       tmdbid: 0
       malid: 41714
 
-    - mainTitle: An Instant
-      tmdbid: 0
-      malid: 41745
-
     - mainTitle: Omukaisan
       tmdbid: 0
       malid: 41796
@@ -3526,10 +3510,6 @@ animeMovies:
     - mainTitle: 'Kesshouban: Eigakan e Iku'
       tmdbid: 0
       malid: 42593
-
-    - mainTitle: 'Kono Sekai no Tanoshimikata: Secret Story Film'
-      tmdbid: 0
-      malid: 42750
 
     - mainTitle: 'Young Alive!: iPS Saibou ga Hiraku Mirai'
       tmdbid: 0
@@ -4714,10 +4694,6 @@ animeMovies:
     - mainTitle: Wai Mao Zhan Zaosheng
       tmdbid: 0
       malid: 44656
-
-    - mainTitle: Guai Zai
-      tmdbid: 0
-      malid: 44657
 
     - mainTitle: Da Tang Fengyun
       tmdbid: 0
@@ -6815,10 +6791,6 @@ animeMovies:
       tmdbid: 0
       malid: 56828
 
-    - mainTitle: Nappeungyejibae
-      tmdbid: 0
-      malid: 56891
-
     - mainTitle: Xuyuan Shu
       tmdbid: 0
       malid: 56968
@@ -7082,10 +7054,6 @@ animeMovies:
     - mainTitle: 'SpoGomi: Machi no Kizunazukuri-hen'
       tmdbid: 0
       malid: 58619
-
-    - mainTitle: Hanarokushou ga Akeru Hi ni
-      tmdbid: 0
-      malid: 58735
 
     - mainTitle: 'Hiro & Hana: Rakko no Okiniiri'
       tmdbid: 0
@@ -7675,6 +7643,10 @@ animeMovies:
       tmdbid: 0
       malid: 61783
 
+    - mainTitle: 'Love Live! Hasunosora Jogakuin School Idol Club Movie: Bloom Garden Party'
+      tmdbid: 0
+      malid: 61806
+
     - mainTitle: Ghost
       tmdbid: 0
       malid: 61813
@@ -7846,4 +7818,8 @@ animeMovies:
     - mainTitle: Seishun Buta Yarou wa Dear Friend no Yume wo Minai
       tmdbid: 0
       malid: 62582
+
+    - mainTitle: Oshirimae Man The Movie
+      tmdbid: 0
+      malid: 62690
 
