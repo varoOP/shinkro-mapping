@@ -3307,6 +3307,10 @@ animeMovies:
       tmdbid: 0
       malid: 40745
 
+    - mainTitle: Kuroi Neko
+      tmdbid: 0
+      malid: 40811
+
     - mainTitle: Furidashi
       tmdbid: 0
       malid: 40812
@@ -5754,10 +5758,6 @@ animeMovies:
     - mainTitle: Shuizhong de Nuhai
       tmdbid: 0
       malid: 52714
-
-    - mainTitle: Sihanpogtan
-      tmdbid: 0
-      malid: 52766
 
     - mainTitle: Shi Tu
       tmdbid: 0
