@@ -1203,10 +1203,6 @@ animeMovies:
       tmdbid: 0
       malid: 17219
 
-    - mainTitle: Jib
-      tmdbid: 0
-      malid: 17233
-
     - mainTitle: Kyojin no Hoshi (Movie)
       tmdbid: 0
       malid: 17439
@@ -6679,6 +6675,10 @@ animeMovies:
       tmdbid: 0
       malid: 56380
 
+    - mainTitle: Specter From the Abyssal Zone
+      tmdbid: 0
+      malid: 56382
+
     - mainTitle: Byeoleul Dameun Sonyeon
       tmdbid: 0
       malid: 56383
@@ -7142,10 +7142,6 @@ animeMovies:
     - mainTitle: 'Mayi Chuanqi: Liehuo Chongsheng'
       tmdbid: 0
       malid: 59244
-
-    - mainTitle: Marine Snow
-      tmdbid: 0
-      malid: 59271
 
     - mainTitle: Zero no Hakken
       tmdbid: 0
@@ -7791,6 +7787,10 @@ animeMovies:
       tmdbid: 0
       malid: 62442
 
+    - mainTitle: Sanguo de Xingkong
+      tmdbid: 0
+      malid: 62443
+
     - mainTitle: 'Dinoman: Mudeungsan Gonglyongui Tansaeng'
       tmdbid: 0
       malid: 62460
@@ -7822,4 +7822,20 @@ animeMovies:
     - mainTitle: Oshirimae Man The Movie
       tmdbid: 0
       malid: 62690
+
+    - mainTitle: 'Kidou Senshi Gundam: Tekketsu no Orphans - Urdr Hunt: Chiisana Chousensha no Kiseki'
+      tmdbid: 0
+      malid: 62805
+
+    - mainTitle: Rest (Movie)
+      tmdbid: 0
+      malid: 62817
+
+    - mainTitle: Oyaji no Asobi
+      tmdbid: 0
+      malid: 62835
+
+    - mainTitle: Kusuriya no Hitorigoto Movie
+      tmdbid: 0
+      malid: 62844
 
