@@ -311,10 +311,6 @@ animeMovies:
       tmdbid: 0
       malid: 5929
 
-    - mainTitle: High School! Kimengumi (Movie)
-      tmdbid: 0
-      malid: 5956
-
     - mainTitle: Penguin no Mondai Movie
       tmdbid: 0
       malid: 6063
@@ -6791,6 +6787,10 @@ animeMovies:
       tmdbid: 0
       malid: 56828
 
+    - mainTitle: Nappeungyejibae
+      tmdbid: 0
+      malid: 56891
+
     - mainTitle: Xuyuan Shu
       tmdbid: 0
       malid: 56968
@@ -7571,10 +7571,6 @@ animeMovies:
       tmdbid: 0
       malid: 61227
 
-    - mainTitle: Saishuu Gakushou Hibike! Euphonium
-      tmdbid: 0
-      malid: 61230
-
     - mainTitle: 'Sumikko Gurashi Movie 4: Sora no Oukoku to Futari no Ko'
       tmdbid: 0
       malid: 61278
@@ -7838,4 +7834,8 @@ animeMovies:
     - mainTitle: Kusuriya no Hitorigoto Movie
       tmdbid: 0
       malid: 62844
+
+    - mainTitle: 'Aikatsu! Memorial Stage: Kagayaki no Unit Cup'
+      tmdbid: 0
+      malid: 62873
 
