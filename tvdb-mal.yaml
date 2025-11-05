@@ -1,4 +1,13 @@
 AnimeMap:
+    - malid: 6
+      title: Trigun
+      type: tv
+      tvdbid: 77680
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 20
       title: Naruto
       type: tv
@@ -291,6 +300,15 @@ AnimeMap:
       tvdbid: 79035
       tvdbseason: 0
       start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 714
+      title: High School! Kimengumi
+      type: tv
+      tvdbid: 248423
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -2510,6 +2528,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 37258
+      title: Omae wa Mada Gunma wo Shiranai
+      type: tv
+      tvdbid: 342345
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 37341
       title: Yuru Camp△ Specials
       type: special
@@ -4610,6 +4637,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52034
+      title: '[Oshi no Ko]'
+      type: tv
+      tvdbid: 421069
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 52079
       title: 'Cardfight!! Vanguard: will+Dress Season 3'
       type: tv
@@ -4623,6 +4659,15 @@ AnimeMap:
       title: Murai no Koi
       type: ona
       tvdbid: 427822
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 52093
+      title: Trigun Stampede
+      type: tv
+      tvdbid: 421378
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -5438,6 +5483,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54863
+      title: Trigun Stargaze
+      type: tv
+      tvdbid: 421378
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 54865
       title: Blue Lock vs. U-20 Japan
       type: tv
@@ -6100,6 +6154,15 @@ AnimeMap:
       type: tv
       tvdbid: 440820
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56906
+      title: 'Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (TV Special)'
+      type: tv_special
+      tvdbid: 423653
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -7175,6 +7238,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59019
+      title: MF Ghost Battle Digest
+      type: ona
+      tvdbid: 414207
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 59027
       title: Spy x Family Season 3
       type: tv
@@ -7967,6 +8039,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 60058
+      title: '[Oshi no Ko] 3rd Season'
+      type: tv
+      tvdbid: 421069
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 60070
       title: Kaijuu Sekai Seifuku (TV)
       type: tv
@@ -8079,6 +8160,15 @@ AnimeMap:
       title: Watashi wo Tabetai, Hitodenashi
       type: tv
       tvdbid: 455749
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 60223
+      title: Kaya-chan wa Kowakunai
+      type: tv
+      tvdbid: 456159
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -8444,6 +8534,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 60602
+      title: MF Ghost 3rd Season
+      type: tv
+      tvdbid: 414207
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 60603
       title: Puniru wa Kawaii Slime 2nd Season
       type: tv
@@ -8498,6 +8597,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 60692
+      title: 'Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru'
+      type: tv
+      tvdbid: 458508
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 60697
       title: Fermat no Ryouri
       type: tv
@@ -8538,6 +8646,15 @@ AnimeMap:
       title: Alma-chan wa Kazoku ni Naritai
       type: tv
       tvdbid: 459058
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 60810
+      title: Majutsushi Kunon wa Mieteiru
+      type: tv
+      tvdbid: 459339
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -8732,6 +8849,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61211
+      title: Mayonaka Heart Tune
+      type: tv
+      tvdbid: 461472
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61217
       title: Yuusha no Kuzu
       type: tv
@@ -8813,6 +8939,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61325
+      title: Douse, Koishite Shimaunda. Season 2
+      type: tv
+      tvdbid: 446692
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61333
+      title: 'Ao no Miburo: Serizawa Ansatsu-hen'
+      type: tv
+      tvdbid: 439531
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61335
       title: Medalist 2nd Season
       type: tv
@@ -8831,11 +8975,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61359
+      title: Osananajimi to wa Love Comedy ni Naranai
+      type: tv
+      tvdbid: 462226
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61517
       title: Kingdom 6th Season
       type: tv
       tvdbid: 259635
       tvdbseason: 6
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61549
+      title: 'Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni'
+      type: tv
+      tvdbid: 462789
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -8867,10 +9029,28 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61694
+      title: Android wa Keiken Ninzuu ni Hairimasu ka??
+      type: tv
+      tvdbid: 463638
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61773
       title: 'Let''s Play: Quest-darake no My Life'
       type: tv
       tvdbid: 440965
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61782
+      title: Kirei ni Shitemoraemasu ka.
+      type: tv
+      tvdbid: 464460
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -8899,6 +9079,15 @@ AnimeMap:
       type: tv
       tvdbid: 357471
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61884
+      title: Maou no Musume wa Yasashisugiru!!
+      type: tv
+      tvdbid: 464963
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -8936,6 +9125,24 @@ AnimeMap:
       tvdbid: 453673
       tvdbseason: 1
       start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61942
+      title: 'Vigilante: Boku no Hero Academia Illegals 2nd Season'
+      type: tv
+      tvdbid: 458058
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61969
+      title: Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!
+      type: tv
+      tvdbid: 469053
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -8984,6 +9191,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62359
+      title: 'Towa no Yuugure: Asa wo Kokoro ni, Ichi, Ni to Kazoe yo'
+      type: tv_special
+      tvdbid: 465214
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 62378
       title: Ganglion
       type: tv
@@ -9024,6 +9240,24 @@ AnimeMap:
       title: 2200-nen Neko no Kuni Nippon
       type: tv
       tvdbid: 468366
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62521
+      title: '#Kanagawa ni Sunderu Elf'
+      type: tv
+      tvdbid: 467330
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62804
+      title: High School! Kimengumi (2026)
+      type: tv
+      tvdbid: 469342
       tvdbseason: 1
       start: 0
       useMapping: false
