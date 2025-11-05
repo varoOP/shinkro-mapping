@@ -2074,6 +2074,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 34213
+      title: Getsuyoubi no Tawawa
+      type: ona
+      tvdbid: 318271
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 34437
       title: 'Code Geass: Fukkatsu no Lelouch'
       type: movie
@@ -2134,6 +2143,15 @@ AnimeMap:
       tvdbid: 289909
       tvdbseason: 0
       start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34481
+      title: Getsuyoubi no Tawawa Specials
+      type: special
+      tvdbid: 318271
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -4034,12 +4052,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 49854
+      title: Getsuyoubi no Tawawa 2
+      type: ona
+      tvdbid: 318271
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 49858
       title: Shinigami Bocchan to Kuro Maid 2nd Season
       type: tv
       tvdbid: 398555
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49866
+      title: Getsuyoubi no Tawawa 2 Special
+      type: special
+      tvdbid: 318271
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
