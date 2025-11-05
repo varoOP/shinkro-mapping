@@ -2445,6 +2445,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36817
+      title: Sunohara-sou no Kanrinin-san
+      type: tv
+      tvdbid: 347468
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 36838
       title: Gintama. Shirogane no Tamashii-hen
       type: tv
@@ -3611,6 +3620,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 45613
+      title: Kawaii dake ja Nai Shikimori-san
+      type: tv
+      tvdbid: 402117
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 45753
       title: 'Tensei shitara Slime Datta Ken: Kanwa - Hinata Sakaguchi'
       type: tv_special
@@ -3931,6 +3949,15 @@ AnimeMap:
       type: ona
       tvdbid: 361013
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49470
+      title: Mamahaha no Tsurego ga Motokano datta
+      type: tv
+      tvdbid: 415240
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -4646,6 +4673,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52305
+      title: Tomo-chan wa Onnanoko!
+      type: tv
+      tvdbid: 421994
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 52578
       title: Boku no Kokoro no Yabai Yatsu
       type: tv
@@ -4696,6 +4732,15 @@ AnimeMap:
       type: tv
       tvdbid: 293088
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 52865
+      title: Romantic Killer
+      type: ona
+      tvdbid: 423787
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -6009,6 +6054,15 @@ AnimeMap:
       title: 'Code Geass: Dakkan no Rozé'
       type: ona
       tvdbid: 443905
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56838
+      title: One Room, Hiatari Futsuu, Tenshi-tsuki.
+      type: tv
+      tvdbid: 440450
       tvdbseason: 1
       start: 0
       useMapping: false
