@@ -6492,7 +6492,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57658
-      title: Jujutsu Kaisen 3rd Season
+      title: 'Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen'
       type: tv
       tvdbid: 377543
       tvdbseason: 3
@@ -7028,15 +7028,6 @@ AnimeMap:
       tvdbid: 355966
       tvdbseason: 0
       start: 4
-      useMapping: false
-      animeMapping: []
-
-    - malid: 58772
-      title: Kakuriyo no Yadomeshi Ni
-      type: tv
-      tvdbid: 339922
-      tvdbseason: 2
-      start: 0
       useMapping: false
       animeMapping: []
 
