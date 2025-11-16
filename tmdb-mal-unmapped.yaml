@@ -107,10 +107,6 @@ animeMovies:
       tmdbid: 0
       malid: 2633
 
-    - mainTitle: 'Doraemon Movie: Boku, Momotarou no Nanna no Sa'
-      tmdbid: 0
-      malid: 2650
-
     - mainTitle: 'Doraemon: Kaette Kita Doraemon (Movie)'
       tmdbid: 0
       malid: 2651
@@ -2947,6 +2943,10 @@ animeMovies:
       tmdbid: 0
       malid: 37402
 
+    - mainTitle: 'City Hunter Movie: Shinjuku Private Eyes'
+      tmdbid: 0
+      malid: 37516
+
     - mainTitle: 'Hibike! Euphonium Movie: Photo Session e Youkoso'
       tmdbid: 0
       malid: 37577
@@ -3114,6 +3114,10 @@ animeMovies:
     - mainTitle: Risu no Matoi
       tmdbid: 0
       malid: 39151
+
+    - mainTitle: 'Girls & Panzer: Saishuushou Part 5'
+      tmdbid: 0
+      malid: 39168
 
     - mainTitle: Ohanashi no Hana
       tmdbid: 0
@@ -5403,10 +5407,6 @@ animeMovies:
       tmdbid: 0
       malid: 49257
 
-    - mainTitle: Mori no Yakyuudan
-      tmdbid: 0
-      malid: 49258
-
     - mainTitle: 'Tokyo 7th Sisters: Bokura wa Aozora ni Naru: Character Butai Aisatsu Eizou'
       tmdbid: 0
       malid: 49341
@@ -6675,10 +6675,6 @@ animeMovies:
       tmdbid: 0
       malid: 56382
 
-    - mainTitle: Byeoleul Dameun Sonyeon
-      tmdbid: 0
-      malid: 56383
-
     - mainTitle: Big Fish
       tmdbid: 0
       malid: 56384
@@ -7834,4 +7830,12 @@ animeMovies:
     - mainTitle: 'Aikatsu! Memorial Stage: Kagayaki no Unit Cup'
       tmdbid: 0
       malid: 62873
+
+    - mainTitle: Furyou Ritsu
+      tmdbid: 0
+      malid: 62914
+
+    - mainTitle: Loca!
+      tmdbid: 0
+      malid: 62942
 
