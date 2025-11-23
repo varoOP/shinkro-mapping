@@ -276,6 +276,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 457
+      title: Mushishi
+      type: tv
+      tvdbid: 79214
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 502
       title: 'Dragon Ball Movie 1: Shen Long no Densetsu'
       type: movie
@@ -1424,6 +1433,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 21329
+      title: 'Mushishi: Hihamukage'
+      type: tv_special
+      tvdbid: 79214
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 21415
       title: Machine-Doll wa Kizutsukanai Specials
       type: special
@@ -1438,6 +1456,15 @@ AnimeMap:
       type: tv
       tvdbid: 245821
       tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 21939
+      title: Mushishi Zoku Shou
+      type: tv
+      tvdbid: 79214
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -1565,6 +1592,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 24687
+      title: 'Mushishi Zoku Shou: Odoro no Michi'
+      type: tv_special
+      tvdbid: 79214
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 24701
+      title: Mushishi Zoku Shou 2nd Season
+      type: tv
+      tvdbid: 79214
+      tvdbseason: 2
+      start: 11
+      useMapping: false
+      animeMapping: []
+
     - malid: 25389
       title: 'Dragon Ball Z Movie 15: Fukkatsu no "F"'
       type: movie
@@ -1616,6 +1661,15 @@ AnimeMap:
       tvdbid: 289882
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 28957
+      title: 'Mushishi Zoku Shou: Suzu no Shizuku'
+      type: movie
+      tvdbid: 79214
+      tvdbseason: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -2996,6 +3050,15 @@ AnimeMap:
       tvdbid: 293088
       tvdbseason: 0
       start: 9
+      useMapping: false
+      animeMapping: []
+
+    - malid: 39738
+      title: Mushishi Recap
+      type: tv_special
+      tvdbid: 79214
+      tvdbseason: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
