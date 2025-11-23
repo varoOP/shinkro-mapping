@@ -6987,10 +6987,6 @@ animeMovies:
       tmdbid: 0
       malid: 57928
 
-    - mainTitle: 'Rakuen Tsuihou: Kokoro no Resonance'
-      tmdbid: 0
-      malid: 57961
-
     - mainTitle: Ran
       tmdbid: 0
       malid: 57971
@@ -7611,10 +7607,6 @@ animeMovies:
       tmdbid: 0
       malid: 61558
 
-    - mainTitle: Lang Lang Shan Xiao Yaoguai
-      tmdbid: 0
-      malid: 61617
-
     - mainTitle: 'Gokusaishoku Nikuhitsu Emaki: Zashikirou'
       tmdbid: 0
       malid: 61667
@@ -7838,4 +7830,8 @@ animeMovies:
     - mainTitle: Loca!
       tmdbid: 0
       malid: 62942
+
+    - mainTitle: Wareware wa Uchuujin
+      tmdbid: 0
+      malid: 62973
 
