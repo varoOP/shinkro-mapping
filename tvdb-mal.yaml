@@ -2245,6 +2245,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 34599
+      title: Made in Abyss
+      type: tv
+      tvdbid: 326109
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 34626
       title: 'Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!'
       type: ova
@@ -2537,6 +2546,15 @@ AnimeMap:
         - tvdbseason: 10
           start: 342
 
+    - malid: 36862
+      title: 'Made in Abyss Movie 3: Fukaki Tamashii no Reimei'
+      type: movie
+      tvdbid: 326109
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 36896
       title: 'Boku no Hero Academia the Movie 1: Futari no Hero'
       type: movie
@@ -2678,6 +2696,24 @@ AnimeMap:
       tvdbid: 307375
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37514
+      title: 'Made in Abyss Movie 1: Tabidachi no Yoake'
+      type: movie
+      tvdbid: 326109
+      tvdbseason: 0
+      start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37515
+      title: 'Made in Abyss Movie 2: Hourou Suru Tasogare'
+      type: movie
+      tvdbid: 326109
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -3311,6 +3347,15 @@ AnimeMap:
       tvdbid: 330692
       tvdbseason: 0
       start: 17
+      useMapping: false
+      animeMapping: []
+
+    - malid: 41084
+      title: 'Made in Abyss: Retsujitsu no Ougonkyou'
+      type: tv
+      tvdbid: 326109
+      tvdbseason: 2
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -4742,6 +4787,15 @@ AnimeMap:
       tvdbid: 421378
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 52149
+      title: 'Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho'
+      type: special
+      tvdbid: 326109
+      tvdbseason: 0
+      start: 14
       useMapping: false
       animeMapping: []
 
