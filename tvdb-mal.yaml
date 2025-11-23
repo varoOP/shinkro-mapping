@@ -3251,6 +3251,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 41094
+      title: Xian Wang de Richang Shenghuo
+      type: ona
+      tvdbid: 376751
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 41283
       title: 'Cardfight!! Vanguard Gaiden: If'
       type: tv
@@ -4871,6 +4880,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53126
+      title: Yamada-kun to Lv999 no Koi wo Suru
+      type: tv
+      tvdbid: 423413
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 53127
       title: 'Fate/strange Fake: Whispers of Dawn'
       type: tv_special
@@ -6297,6 +6315,15 @@ AnimeMap:
       title: Dandadan
       type: tv
       tvdbid: 432832
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57353
+      title: Mofa Gongzhu de Xiao Fannao
+      type: ona
+      tvdbid: 468582
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -8503,6 +8530,15 @@ AnimeMap:
       type: tv
       tvdbid: 426432
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 60560
+      title: Xian Wang de Richang Shenghuo 5
+      type: ona
+      tvdbid: 376751
+      tvdbseason: 5
       start: 0
       useMapping: false
       animeMapping: []
