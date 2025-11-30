@@ -3427,10 +3427,6 @@ animeMovies:
       tmdbid: 0
       malid: 42248
 
-    - mainTitle: Tonbo
-      tmdbid: 0
-      malid: 42256
-
     - mainTitle: Spin
       tmdbid: 0
       malid: 42258
@@ -7287,10 +7283,6 @@ animeMovies:
       tmdbid: 0
       malid: 59882
 
-    - mainTitle: Goyang-iga Doeeossda
-      tmdbid: 0
-      malid: 59896
-
     - mainTitle: Kaguya-hime (1972)
       tmdbid: 0
       malid: 59925
@@ -7591,10 +7583,6 @@ animeMovies:
       tmdbid: 0
       malid: 61462
 
-    - mainTitle: 'Entotsu Machi no Poupelle: Yakusoku no Tokei-dai'
-      tmdbid: 0
-      malid: 61492
-
     - mainTitle: Hinagiku no Jinsei
       tmdbid: 0
       malid: 61495
@@ -7795,6 +7783,10 @@ animeMovies:
       tmdbid: 0
       malid: 62515
 
+    - mainTitle: Tanglang
+      tmdbid: 0
+      malid: 62575
+
     - mainTitle: Seishun Buta Yarou wa Dear Friend no Yume wo Minai
       tmdbid: 0
       malid: 62582
@@ -7834,4 +7826,8 @@ animeMovies:
     - mainTitle: Wareware wa Uchuujin
       tmdbid: 0
       malid: 62973
+
+    - mainTitle: 'Chiikawa Movie: Ningyo no Shima no Himitsu'
+      tmdbid: 0
+      malid: 63011
 
