@@ -3863,6 +3863,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 43523
+      title: Tsuki ga Michibiku Isekai Douchuu
+      type: tv
+      tvdbid: 390832
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 43608
       title: 'Kaguya-sama wa Kokurasetai: Ultra Romantic'
       type: tv
@@ -7882,6 +7891,15 @@ AnimeMap:
       type: tv
       tvdbid: 451531
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59139
+      title: Tsuki ga Michibiku Isekai Douchuu 3rd Season
+      type: tv
+      tvdbid: 390832
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
