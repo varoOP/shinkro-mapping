@@ -7571,6 +7571,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 58772
+      title: Kakuriyo no Yadomeshi Ni
+      type: tv
+      tvdbid: 339922
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 58779
       title: Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2nd Season
       type: ona
