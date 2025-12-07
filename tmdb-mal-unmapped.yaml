@@ -659,6 +659,10 @@ animeMovies:
       tmdbid: 0
       malid: 8495
 
+    - mainTitle: 'Dr. Slump Movie 10: Arale no Bikkuriman'
+      tmdbid: 0
+      malid: 8550
+
     - mainTitle: Chikyuu Monogatari Telepath 2500
       tmdbid: 0
       malid: 8563
@@ -2783,6 +2787,10 @@ animeMovies:
       tmdbid: 0
       malid: 35399
 
+    - mainTitle: An Expression
+      tmdbid: 0
+      malid: 35402
+
     - mainTitle: Rhythm
       tmdbid: 0
       malid: 35407
@@ -4687,10 +4695,6 @@ animeMovies:
       tmdbid: 0
       malid: 44655
 
-    - mainTitle: Wai Mao Zhan Zaosheng
-      tmdbid: 0
-      malid: 44656
-
     - mainTitle: Da Tang Fengyun
       tmdbid: 0
       malid: 44665
@@ -6591,10 +6595,6 @@ animeMovies:
       tmdbid: 0
       malid: 55846
 
-    - mainTitle: 'Doraemon Movie 43: Nobita no Chikyuu Symphony'
-      tmdbid: 0
-      malid: 55874
-
     - mainTitle: Watashi no Numa
       tmdbid: 0
       malid: 55893
@@ -7119,6 +7119,10 @@ animeMovies:
       tmdbid: 0
       malid: 59224
 
+    - mainTitle: First Line
+      tmdbid: 0
+      malid: 59231
+
     - mainTitle: Luo Fanchen (Movie)
       tmdbid: 0
       malid: 59237
@@ -7286,6 +7290,10 @@ animeMovies:
     - mainTitle: Kaguya-hime (1972)
       tmdbid: 0
       malid: 59925
+
+    - mainTitle: 'Doraemon Movie 44: Nobita no E Sekai Monogatari'
+      tmdbid: 0
+      malid: 59980
 
     - mainTitle: Taiyou wo Nakushita Hi
       tmdbid: 0
@@ -7551,10 +7559,6 @@ animeMovies:
       tmdbid: 0
       malid: 61202
 
-    - mainTitle: 'Girls & Panzer: Motto Love Love Sakusen desu!'
-      tmdbid: 0
-      malid: 61227
-
     - mainTitle: 'Sumikko Gurashi Movie 4: Sora no Oukoku to Futari no Ko'
       tmdbid: 0
       malid: 61278
@@ -7715,10 +7719,6 @@ animeMovies:
       tmdbid: 0
       malid: 62383
 
-    - mainTitle: Meitantei Conan Movie 29
-      tmdbid: 0
-      malid: 62387
-
     - mainTitle: Gomen ne
       tmdbid: 0
       malid: 62396
@@ -7771,17 +7771,13 @@ animeMovies:
       tmdbid: 0
       malid: 62497
 
-    - mainTitle: 'Doraemon Movie 45: Shin Nobita no Kaitei Kiganjou'
-      tmdbid: 0
-      malid: 62508
-
-    - mainTitle: Liushui Cao
-      tmdbid: 0
-      malid: 62509
-
     - mainTitle: Com Rade Zhi Ni Hao
       tmdbid: 0
       malid: 62515
+
+    - mainTitle: 'Ginga Tokkyuu Milky☆Subway Movie: Kakueki Teisha Gekijou Iki'
+      tmdbid: 0
+      malid: 62518
 
     - mainTitle: Tanglang
       tmdbid: 0
