@@ -1584,10 +1584,23 @@ AnimeMap:
       title: 'Monogatari Series: Second Season'
       type: tv
       tvdbid: 102261
-      tvdbseason: 3
+      tvdbseason: 0
       start: 0
-      useMapping: false
-      animeMapping: []
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            7: 6
+            8: 11
+            9: 16
+        - tvdbseason: 3
+          start: 1
+          skipMalEpisodes:
+            - 6
+            - 11
+            - 16
 
     - malid: 17389
       title: Kingdom 2nd Season
