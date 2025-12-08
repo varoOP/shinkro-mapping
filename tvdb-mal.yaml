@@ -9392,6 +9392,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 60226
+      title: Isekai no Sata wa Shachiku Shidai
+      type: tv
+      tvdbid: 456099
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 60253
       title: 'Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku'
       type: tv
@@ -9757,6 +9766,15 @@ AnimeMap:
       type: tv
       tvdbid: 451479
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 60582
+      title: Cengjing You Yongshi
+      type: ona
+      tvdbid: 469890
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -10265,6 +10283,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61587
+      title: '"Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai'
+      type: tv
+      tvdbid: 463013
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61608
       title: Jigoku Sensei Nube (2025) Part 2
       type: tv
@@ -10418,6 +10445,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61983
+      title: Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.
+      type: tv
+      tvdbid: 465505
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61990
       title: 'Cyberpunk: Edgerunners 2'
       type: ona
@@ -10548,6 +10584,15 @@ AnimeMap:
       title: High School! Kimengumi (2026)
       type: tv
       tvdbid: 469342
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63019
+      title: Prism Rondo
+      type: ona
+      tvdbid: 470980
       tvdbseason: 1
       start: 0
       useMapping: false
