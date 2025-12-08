@@ -44,6 +44,26 @@
                                 },
                                 "start": {
                                     "type": "integer"
+                                },
+                                "mappingType": {
+                                    "type": "string",
+                                    "enum": ["explicit", "range"]
+                                },
+                                "explicitEpisodes": {
+                                    "type": "object",
+                                    "additionalProperties": {
+                                        "type": "integer",
+                                        "minimum": 1
+                                    },
+                                    "description": "Map of TVDB episode number to MAL episode number (tvdbEp -> malEp)"
+                                },
+                                "skipMalEpisodes": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "integer",
+                                        "minimum": 1
+                                    },
+                                    "description": "List of MAL episode numbers to skip when using range mapping"
                                 }
                             },
                             "required": [
