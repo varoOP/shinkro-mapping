@@ -43,7 +43,10 @@ animeMapping:
   - tvdbseason: 3
     start: 1
     mappingType: "range"  # Optional, defaults to "range"
-    skipMalEpisodes: [6, 11, 16]
+    skipMalEpisodes:
+      - 6
+      - 11
+      - 16
 ```
 
 #### Explicit Mapping
@@ -97,7 +100,10 @@ animeMapping:
       9: 16  # TVDB S00E09 → MAL E16 (summary)
   - tvdbseason: 3
     start: 1
-    skipMalEpisodes: [6, 11, 16]  # Skip the summary episodes
+    skipMalEpisodes:   # Skip the summary episodes
+      - 6
+      - 11
+      - 16
 ```
 
 #### Scenario 4: Range Mapping with Skipped Episodes
@@ -108,7 +114,10 @@ useMapping: true
 animeMapping:
   - tvdbseason: 3
     start: 1
-    skipMalEpisodes: [6, 11, 16]
+    skipMalEpisodes:
+      - 6
+      - 11
+      - 16
 ```
 
 This maps TVDB S03E01-E23 to MAL episodes, skipping MAL E06, E11, and E16. The algorithm counts non-skipped episodes: S03E06 → MAL E07 (6th non-skipped), S03E23 → MAL E26 (23rd non-skipped).
