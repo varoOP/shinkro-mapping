@@ -8802,6 +8802,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59435
+      title: 'Undead Unluck: Winter-hen'
+      type: special
+      tvdbid: 423030
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 59452
       title: Katainaka no Ossan, Kensei ni Naru
       type: tv
@@ -10112,6 +10121,15 @@ AnimeMap:
       type: ona
       tvdbid: 393810
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61207
+      title: Tensei shitara Dragon no Tamago datta
+      type: tv
+      tvdbid: 461466
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
