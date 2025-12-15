@@ -5814,6 +5814,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52830
+      title: 'Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta'
+      type: tv
+      tvdbid: 423653
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 52865
       title: Romantic Killer
       type: ona
@@ -6449,6 +6458,15 @@ AnimeMap:
       type: tv_special
       tvdbid: 426294
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54697
+      title: Terror Man
+      type: ona
+      tvdbid: 471483
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -8829,6 +8847,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59458
+      title: 'Duel Masters LOST: Gekka no Shinigami'
+      type: ona
+      tvdbid: 446908
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 59459
       title: 'Silent Witch: Chinmoku no Majo no Kakushigoto'
       type: tv
@@ -10053,6 +10080,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61119
+      title: 'Duel Masters LOST: Boukyaku no Taiyou'
+      type: ona
+      tvdbid: 446908
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61128
       title: Yuusha Party wo Oidasareta Kiyoubinbou
       type: tv
@@ -10611,10 +10647,46 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62649
+      title: 'Cardfight!! Vanguard: Divinez Genma Seisen-hen'
+      type: tv
+      tvdbid: 245821
+      tvdbseason: 17
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 62804
       title: High School! Kimengumi (2026)
       type: tv
       tvdbid: 469342
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62896
+      title: Chou Kaguya-hime!
+      type: ona
+      tvdbid: 371008
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62897
+      title: 'Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani'
+      type: ona
+      tvdbid: 467751
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62987
+      title: 'Hokuto no Ken: Kenougun Zako-tachi no Banka'
+      type: tv
+      tvdbid: 468079
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -10625,6 +10697,15 @@ AnimeMap:
       type: ona
       tvdbid: 470980
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63087
+      title: Yami Shibai 16
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 16
       start: 0
       useMapping: false
       animeMapping: []
