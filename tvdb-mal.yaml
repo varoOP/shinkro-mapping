@@ -10575,6 +10575,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62246
+      title: Yi Ren Zhi Xia 6th Season
+      type: ona
+      tvdbid: 313488
+      tvdbseason: 6
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 62349
       title: 'Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite: Kooriyama Yui Sonogo...'
       type: special
