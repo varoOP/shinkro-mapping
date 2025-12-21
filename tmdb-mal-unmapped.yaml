@@ -519,10 +519,6 @@ animeMovies:
       tmdbid: 0
       malid: 7529
 
-    - mainTitle: 'Komadori Movie: Komaneko'
-      tmdbid: 0
-      malid: 7547
-
     - mainTitle: Michi (Movie)
       tmdbid: 0
       malid: 7616
@@ -666,10 +662,6 @@ animeMovies:
     - mainTitle: 'Dr. Slump Movie 10: Arale no Bikkuriman'
       tmdbid: 0
       malid: 8550
-
-    - mainTitle: Chikyuu Monogatari Telepath 2500
-      tmdbid: 0
-      malid: 8563
 
     - mainTitle: Future War 198X-nen
       tmdbid: 0
@@ -7055,7 +7047,7 @@ animeMovies:
       tmdbid: 0
       malid: 58756
 
-    - mainTitle: Keroro Gunsou Movie
+    - mainTitle: 'Keroro Gunsou Movie 6: Fukkatsu shite Sokkou Chikyuu Metsubou no Kiki de Arimasu!'
       tmdbid: 0
       malid: 58773
 
@@ -7703,10 +7695,6 @@ animeMovies:
       tmdbid: 0
       malid: 62260
 
-    - mainTitle: 'Kidou Senshi Gundam: Tekketsu no Orphans - Makuai no Kusabi'
-      tmdbid: 0
-      malid: 62264
-
     - mainTitle: 'Gintama Movie 3: Yoshiwara Daienjou'
       tmdbid: 0
       malid: 62277
@@ -7778,10 +7766,6 @@ animeMovies:
     - mainTitle: Com Rade Zhi Ni Hao
       tmdbid: 0
       malid: 62515
-
-    - mainTitle: 'Ginga Tokkyuu Milky☆Subway Movie: Kakueki Teisha Gekijou Iki'
-      tmdbid: 0
-      malid: 62518
 
     - mainTitle: Tanglang
       tmdbid: 0
