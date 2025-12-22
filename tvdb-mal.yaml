@@ -2578,12 +2578,10 @@ AnimeMap:
       title: Gintama.
       type: tv
       tvdbid: 79895
-      tvdbseason: 0
+      tvdbseason: 8
       start: 0
-      useMapping: true
-      animeMapping:
-        - tvdbseason: 8
-          start: 317
+      useMapping: false
+      animeMapping: []
 
     - malid: 34134
       title: One Punch Man 2nd Season
