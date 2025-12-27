@@ -10465,6 +10465,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61903
+      title: 'Kaguya-sama wa Kokurasetai: Otona e no Kaidan'
+      type: tv_special
+      tvdbid: 354198
+      tvdbseason: 0
+      start: 15
+      useMapping: false
+      animeMapping: []
+
     - malid: 61917
       title: Towa no Yuugure
       type: tv
@@ -10650,6 +10659,15 @@ AnimeMap:
       type: tv
       tvdbid: 467330
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62543
+      title: Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) (Zoku-hen)
+      type: tv
+      tvdbid: 456835
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
