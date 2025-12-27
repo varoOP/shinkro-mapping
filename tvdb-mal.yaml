@@ -9736,6 +9736,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 60522
+      title: Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II
+      type: tv
+      tvdbid: 401279
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 60523
       title: Tsuihousha Shokudou e Youkoso!
       type: tv
