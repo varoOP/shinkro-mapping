@@ -303,10 +303,6 @@ animeMovies:
       tmdbid: 0
       malid: 5868
 
-    - mainTitle: Hi no Ame ga Furu
-      tmdbid: 0
-      malid: 5929
-
     - mainTitle: Penguin no Mondai Movie
       tmdbid: 0
       malid: 6063
@@ -4511,6 +4507,10 @@ animeMovies:
       tmdbid: 0
       malid: 43850
 
+    - mainTitle: Xue Hu
+      tmdbid: 0
+      malid: 43851
+
     - mainTitle: Shui De Zhangfu Li De Zui Yuan
       tmdbid: 0
       malid: 43866
@@ -7078,6 +7078,10 @@ animeMovies:
     - mainTitle: Yaku nara Mug Cup mo Movie
       tmdbid: 0
       malid: 58954
+
+    - mainTitle: 'Haikyuu!! Movie: vs. Chiisana Kyojin'
+      tmdbid: 0
+      malid: 58967
 
     - mainTitle: Pororo Sinnaneun Ujuyeohaeng
       tmdbid: 0
