@@ -7,6 +7,10 @@ animeMovies:
       tmdbid: 0
       malid: 155
 
+    - mainTitle: Initial D Third Stage
+      tmdbid: 0
+      malid: 187
+      
     - mainTitle: Neko no Ongaeshi
       tmdbid: 0
       malid: 597
@@ -394,6 +398,10 @@ animeMovies:
     - mainTitle: 'Kaiketsu Zorori: Mahoutsukai no Deshi/Dai Kaizoku no Takara Sagashi'
       tmdbid: 0
       malid: 6965
+
+    - mainTitle: 'New Initial D Movie: Legend 1 - Kakusei'
+      tmdbid: 0
+      malid: 19613
 
     - mainTitle: Fashion
       tmdbid: 0
@@ -1871,6 +1879,10 @@ animeMovies:
       tmdbid: 0
       malid: 28759
 
+    - mainTitle: 'New Initial D Movie: Legend 2 - Tousou'
+      tmdbid: 0
+      malid: 28881
+
     - mainTitle: Bouken-tachi Gamba to Nanbiki no Nakama
       tmdbid: 0
       malid: 28983
@@ -2278,6 +2290,10 @@ animeMovies:
     - mainTitle: 'Ajin Part 3: Shougeki'
       tmdbid: 0
       malid: 30870
+
+    - mainTitle: 'New Initial D Movie: Legend 3 - Mugen'
+      tmdbid: 0
+      malid: 30952
 
     - mainTitle: Crazy Monkey
       tmdbid: 0
