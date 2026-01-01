@@ -643,10 +643,6 @@ animeMovies:
       tmdbid: 0
       malid: 10056
 
-    - mainTitle: 'Sore Ike! Anpanman: Kyouryuu Nosshii no Daibouken'
-      tmdbid: 0
-      malid: 10056
-
     - mainTitle: 'Sore Ike! Anpanman: Tobe! Tobe! Chibigon'
       tmdbid: 0
       malid: 10057
@@ -822,10 +818,6 @@ animeMovies:
     - mainTitle: Tora-chan to Hanayome
       tmdbid: 0
       malid: 12603
-
-    - mainTitle: 'Umeboshi Denka: Uchuu no Hate kara Panparopan!'
-      tmdbid: 0
-      malid: 12861
 
     - mainTitle: 'Umeboshi Denka: Uchuu no Hate kara Panparopan!'
       tmdbid: 0
@@ -7106,6 +7098,10 @@ animeMovies:
     - mainTitle: 'Chiikawa Movie: Ningyo no Shima no Himitsu'
       tmdbid: 0
       malid: 63011
+
+    - mainTitle: Wani no Shokuji
+      tmdbid: 0
+      malid: 63211
 
     - mainTitle: Kaguya-sama wa Kokurasetai Movie
       tmdbid: 0
