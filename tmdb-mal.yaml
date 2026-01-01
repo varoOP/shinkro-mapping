@@ -1,12 +1,4 @@
 animeMovies:
-    - mainTitle: Akira
-      tmdbid: 149
-      malid: 47
-
-    - mainTitle: Neko no Ongaeshi
-      tmdbid: 15370
-      malid: 597
-
     - mainTitle: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
       tmdbid: 322686
       malid: 1078
@@ -15,14 +7,6 @@ animeMovies:
       tmdbid: 139287
       malid: 1549
 
-    - mainTitle: Hana yori Dango (Movie)
-      tmdbid: 411273
-      malid: 2071
-
-    - mainTitle: Jumping
-      tmdbid: 47217
-      malid: 2211
-
     - mainTitle: Choujin Densetsu Urotsukidouji 2
       tmdbid: 48626
       malid: 2360
@@ -30,10 +14,6 @@ animeMovies:
     - mainTitle: 'Doraemon Movie 24: Nobita to Fushigi Kaze Tsukai'
       tmdbid: 98613
       malid: 2393
-
-    - mainTitle: 'Touch 3: Kimi ga Toorisugita Ato ni - Don''t Pass Me By'
-      tmdbid: 334900
-      malid: 2493
 
     - mainTitle: 'The☆Doraemons: Mushimushi Pyonpyon Daisakusen!'
       tmdbid: 139274
@@ -131,10 +111,6 @@ animeMovies:
       tmdbid: 136601
       malid: 4095
 
-    - mainTitle: 'Pokemon: Pikapika Hoshizora Camp'
-      tmdbid: 211814
-      malid: 4795
-
     - mainTitle: 'Major Movie: Yuujou no Winning Shot'
       tmdbid: 77940
       malid: 5029
@@ -142,10 +118,6 @@ animeMovies:
     - mainTitle: 'Sengoku Basara Movie: The Last Party'
       tmdbid: 81531
       malid: 9745
-
-    - mainTitle: 'One Piece 3D: Gekisou! Trap Coaster'
-      tmdbid: 462387
-      malid: 12001
 
     - mainTitle: "663114"
       tmdbid: 178143
