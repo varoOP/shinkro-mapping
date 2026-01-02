@@ -31,10 +31,6 @@ animeMovies:
       tmdbid: 98613
       malid: 2393
 
-    - mainTitle: 'Touch 3: Kimi ga Toorisugita Ato ni - Don''t Pass Me By'
-      tmdbid: 334900
-      malid: 2493
-
     - mainTitle: 'The☆Doraemons: Mushimushi Pyonpyon Daisakusen!'
       tmdbid: 139274
       malid: 2626
@@ -131,10 +127,6 @@ animeMovies:
       tmdbid: 136601
       malid: 4095
 
-    - mainTitle: 'Pokemon: Pikapika Hoshizora Camp'
-      tmdbid: 211814
-      malid: 4795
-
     - mainTitle: 'Major Movie: Yuujou no Winning Shot'
       tmdbid: 77940
       malid: 5029
@@ -142,10 +134,6 @@ animeMovies:
     - mainTitle: 'Sengoku Basara Movie: The Last Party'
       tmdbid: 81531
       malid: 9745
-
-    - mainTitle: 'One Piece 3D: Gekisou! Trap Coaster'
-      tmdbid: 462387
-      malid: 12001
 
     - mainTitle: "663114"
       tmdbid: 178143
