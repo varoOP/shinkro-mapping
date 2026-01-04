@@ -71,10 +71,6 @@ animeMovies:
       tmdbid: 48626
       malid: 2360
 
-    - mainTitle: 'Doraemon Movie 24: Nobita to Fushigi Kaze Tsukai'
-      tmdbid: 98613
-      malid: 2393
-
     - mainTitle: Keroro Gunsou Movie 1
       tmdbid: 0
       malid: 2407
@@ -358,6 +354,10 @@ animeMovies:
     - mainTitle: Aos
       tmdbid: 0
       malid: 6950
+
+    - mainTitle: 'Kaiketsu Zorori: Mahoutsukai no Deshi/Dai Kaizoku no Takara Sagashi'
+      tmdbid: 0
+      malid: 6965
 
     - mainTitle: 'Kaiketsu Zorori: Mahoutsukai no Deshi/Dai Kaizoku no Takara Sagashi'
       tmdbid: 0
@@ -727,6 +727,10 @@ animeMovies:
       tmdbid: 0
       malid: 10058
 
+    - mainTitle: 'Sore Ike! Anpanman: Yuurei Sen wo Yattsukero!!'
+      tmdbid: 0
+      malid: 10058
+
     - mainTitle: 'Sore Ike! Anpanman: Tsumikijou no Himitsu'
       tmdbid: 0
       malid: 10059
@@ -810,6 +814,10 @@ animeMovies:
     - mainTitle: 'Towa no Quon 6: Towa no Quon'
       tmdbid: 0
       malid: 10717
+
+    - mainTitle: Shita-kiri Suzume
+      tmdbid: 0
+      malid: 10756
 
     - mainTitle: Shita-kiri Suzume
       tmdbid: 0
@@ -3895,10 +3903,6 @@ animeMovies:
       tmdbid: 0
       malid: 43456
 
-    - mainTitle: Ding Ding Zhan Hou Wang
-      tmdbid: 0
-      malid: 43458
-
     - mainTitle: Jiao Jiao De Qi Yu
       tmdbid: 0
       malid: 43459
@@ -5274,10 +5278,6 @@ animeMovies:
     - mainTitle: Under the Sun
       tmdbid: 0
       malid: 49029
-
-    - mainTitle: Haru wo Irodoru
-      tmdbid: 0
-      malid: 49090
 
     - mainTitle: Zhangda Weiba De Tuzi
       tmdbid: 0
@@ -7874,4 +7874,8 @@ animeMovies:
     - mainTitle: Kaguya-sama wa Kokurasetai Movie
       tmdbid: 0
       malid: 63212
+
+    - mainTitle: 'Norman the Snowman: Kodomo-tachi no Hitotsuboshi'
+      tmdbid: 0
+      malid: 63221
 
