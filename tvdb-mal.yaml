@@ -3751,6 +3751,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 40082
+      title: 'Lupin III: The First'
+      type: movie
+      tvdbid: 133489
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 40167
       title: 'Cardfight!! Vanguard: Shinemon-hen'
       type: tv
