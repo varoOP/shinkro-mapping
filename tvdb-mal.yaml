@@ -10369,9 +10369,9 @@ AnimeMap:
     - malid: 61608
       title: Jigoku Sensei Nube (2025) Part 2
       type: tv
-      tvdbid: 460693
-      tvdbseason: 2
-      start: 0
+      tvdbid: 452421
+      tvdbseason: 1
+      start: 14
       useMapping: false
       animeMapping: []
 
