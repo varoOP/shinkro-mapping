@@ -43,10 +43,6 @@ animeMovies:
       tmdbid: 0
       malid: 1943
 
-    - mainTitle: Hana yori Dango (Movie)
-      tmdbid: 411273
-      malid: 2071
-
     - mainTitle: 'Rockman.EXE Movie: Hikari to Yami no Program'
       tmdbid: 0
       malid: 2111
@@ -3895,10 +3891,6 @@ animeMovies:
       tmdbid: 0
       malid: 43456
 
-    - mainTitle: Ding Ding Zhan Hou Wang
-      tmdbid: 0
-      malid: 43458
-
     - mainTitle: Jiao Jiao De Qi Yu
       tmdbid: 0
       malid: 43459
@@ -7199,10 +7191,6 @@ animeMovies:
       tmdbid: 0
       malid: 59655
 
-    - mainTitle: Crevice
-      tmdbid: 0
-      malid: 59691
-
     - mainTitle: Saba Ningen
       tmdbid: 0
       malid: 59692
@@ -7874,4 +7862,12 @@ animeMovies:
     - mainTitle: Kaguya-sama wa Kokurasetai Movie
       tmdbid: 0
       malid: 63212
+
+    - mainTitle: 'Norman the Snowman: Kodomo-tachi no Hitotsuboshi'
+      tmdbid: 0
+      malid: 63221
+
+    - mainTitle: Majo no Tabitabi Movie
+      tmdbid: 0
+      malid: 63253
 
