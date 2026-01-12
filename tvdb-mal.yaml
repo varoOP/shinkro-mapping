@@ -728,6 +728,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1575
+      title: 'Code Geass: Hangyaku no Lelouch'
+      type: tv
+      tvdbid: 79525
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 1593
       title: Azumanga Web Daiou
       type: ona
