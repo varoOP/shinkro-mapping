@@ -43,10 +43,6 @@ animeMovies:
       tmdbid: 0
       malid: 1943
 
-    - mainTitle: Hana yori Dango (Movie)
-      tmdbid: 411273
-      malid: 2071
-
     - mainTitle: 'Rockman.EXE Movie: Hikari to Yami no Program'
       tmdbid: 0
       malid: 2111
@@ -58,10 +54,6 @@ animeMovies:
     - mainTitle: 'Kouchuu Ouja Mushiking Super Battle Movie: Yami no Kaizou Kouchuu'
       tmdbid: 0
       malid: 2173
-
-    - mainTitle: Waga Seishun no Arcadia
-      tmdbid: 0
-      malid: 2202
 
     - mainTitle: Jumping
       tmdbid: 47217
@@ -3895,10 +3887,6 @@ animeMovies:
       tmdbid: 0
       malid: 43456
 
-    - mainTitle: Ding Ding Zhan Hou Wang
-      tmdbid: 0
-      malid: 43458
-
     - mainTitle: Jiao Jiao De Qi Yu
       tmdbid: 0
       malid: 43459
@@ -5655,10 +5643,6 @@ animeMovies:
       tmdbid: 0
       malid: 52630
 
-    - mainTitle: (Mi) Liu
-      tmdbid: 0
-      malid: 52691
-
     - mainTitle: Yin Shun Daoshi Fu
       tmdbid: 0
       malid: 52696
@@ -5902,10 +5886,6 @@ animeMovies:
     - mainTitle: Tomorrow
       tmdbid: 0
       malid: 53666
-
-    - mainTitle: 'Shanhai Jing: Zaijian Gaoshou'
-      tmdbid: 0
-      malid: 53676
 
     - mainTitle: S-Watch
       tmdbid: 0
@@ -7199,10 +7179,6 @@ animeMovies:
       tmdbid: 0
       malid: 59655
 
-    - mainTitle: Crevice
-      tmdbid: 0
-      malid: 59691
-
     - mainTitle: Saba Ningen
       tmdbid: 0
       malid: 59692
@@ -7327,7 +7303,7 @@ animeMovies:
       tmdbid: 0
       malid: 60007
 
-    - mainTitle: 'Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen Part 3'
+    - mainTitle: 'Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen Saishuushou'
       tmdbid: 0
       malid: 60160
 
@@ -7731,7 +7707,7 @@ animeMovies:
       tmdbid: 0
       malid: 62260
 
-    - mainTitle: BanG Dream! Ave Mujica Movie
+    - mainTitle: 'BanG Dream! Ave Mujica: Prima Aurora'
       tmdbid: 0
       malid: 62270
 
@@ -7874,4 +7850,36 @@ animeMovies:
     - mainTitle: Kaguya-sama wa Kokurasetai Movie
       tmdbid: 0
       malid: 63212
+
+    - mainTitle: 'Norman the Snowman: Kodomo-tachi no Hitotsuboshi'
+      tmdbid: 0
+      malid: 63221
+
+    - mainTitle: Majo no Tabitabi Movie
+      tmdbid: 0
+      malid: 63253
+
+    - mainTitle: King of Kings
+      tmdbid: 0
+      malid: 63262
+
+    - mainTitle: Kkokdu
+      tmdbid: 0
+      malid: 63298
+
+    - mainTitle: Osawaga! Super Baby
+      tmdbid: 0
+      malid: 63306
+
+    - mainTitle: Taiheiyou Hikouki Ichibannori
+      tmdbid: 0
+      malid: 63312
+
+    - mainTitle: 'Sinbi Apartment 10-junyeon Geugjangpan: Han Beon Deo, Sohwan'
+      tmdbid: 0
+      malid: 63317
+
+    - mainTitle: Medalist Movie
+      tmdbid: 0
+      malid: 63326
 
