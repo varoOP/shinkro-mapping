@@ -9378,7 +9378,7 @@ AnimeMap:
 
     - malid: 59435
       title: 'Undead Unluck: Winter-hen'
-      type: special
+      type: tv_special
       tvdbid: 423030
       tvdbseason: 0
       start: 0
@@ -11231,7 +11231,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62543
-      title: Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) (2026)
+      title: Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) (TV Special)
       type: tv_special
       tvdbid: 456835
       tvdbseason: 0
