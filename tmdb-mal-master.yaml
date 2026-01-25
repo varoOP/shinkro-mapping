@@ -659,10 +659,6 @@ animeMovies:
       tmdbid: 0
       malid: 9525
 
-    - mainTitle: Alps no Shoujo Heidi (1979)
-      tmdbid: 0
-      malid: 9547
-
     - mainTitle: 'Alps no Shoujo Heidi: Alm no Yama-hen'
       tmdbid: 0
       malid: 9548
@@ -7107,10 +7103,6 @@ animeMovies:
       tmdbid: 0
       malid: 59167
 
-    - mainTitle: 'Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen'
-      tmdbid: 0
-      malid: 59174
-
     - mainTitle: Grotesque
       tmdbid: 0
       malid: 59217
@@ -7882,4 +7874,8 @@ animeMovies:
     - mainTitle: Medalist Movie
       tmdbid: 0
       malid: 63326
+
+    - mainTitle: 'Sore Ike! Anpanman: Pantan to Yakusoku no Hoshi'
+      tmdbid: 0
+      malid: 63356
 
