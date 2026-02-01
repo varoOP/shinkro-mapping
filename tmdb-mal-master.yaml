@@ -659,10 +659,6 @@ animeMovies:
       tmdbid: 0
       malid: 9525
 
-    - mainTitle: Alps no Shoujo Heidi (1979)
-      tmdbid: 0
-      malid: 9547
-
     - mainTitle: 'Alps no Shoujo Heidi: Alm no Yama-hen'
       tmdbid: 0
       malid: 9548
@@ -2190,10 +2186,6 @@ animeMovies:
     - mainTitle: 'Ajin Part 3: Shougeki'
       tmdbid: 0
       malid: 30870
-
-    - mainTitle: Crazy Monkey
-      tmdbid: 0
-      malid: 30955
 
     - mainTitle: Yukidaruma
       tmdbid: 0
@@ -6723,10 +6715,6 @@ animeMovies:
       tmdbid: 0
       malid: 56769
 
-    - mainTitle: 'Kung Fu Wang: Meng Hu Shangshan'
-      tmdbid: 0
-      malid: 56797
-
     - mainTitle: Ming Jing Gao Xuan
       tmdbid: 0
       malid: 56806
@@ -7067,6 +7055,10 @@ animeMovies:
       tmdbid: 0
       malid: 58828
 
+    - mainTitle: Etaspe Komuy
+      tmdbid: 0
+      malid: 58864
+
     - mainTitle: Emerald no Wa
       tmdbid: 0
       malid: 58941
@@ -7106,10 +7098,6 @@ animeMovies:
     - mainTitle: Dame da yo
       tmdbid: 0
       malid: 59167
-
-    - mainTitle: 'Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen'
-      tmdbid: 0
-      malid: 59174
 
     - mainTitle: Grotesque
       tmdbid: 0
@@ -7158,6 +7146,10 @@ animeMovies:
     - mainTitle: Super Oneechan
       tmdbid: 0
       malid: 59376
+
+    - mainTitle: Stinky Winky
+      tmdbid: 0
+      malid: 59454
 
     - mainTitle: Jjangttung-ine Ttonghwangto
       tmdbid: 0
@@ -7278,6 +7270,10 @@ animeMovies:
     - mainTitle: 'Doraemon & F-Chara All Stars: Yume no Machi, F Land'
       tmdbid: 0
       malid: 59859
+
+    - mainTitle: 'Kyouryuu Chou Densetsu: Darwin ga Kita Movie!'
+      tmdbid: 0
+      malid: 59862
 
     - mainTitle: Senlin Fei Xia
       tmdbid: 0
@@ -7627,10 +7623,6 @@ animeMovies:
       tmdbid: 0
       malid: 61806
 
-    - mainTitle: Ghost
-      tmdbid: 0
-      malid: 61813
-
     - mainTitle: 'Bousei no Volicia: Dai-2 Shou - Gunjou'
       tmdbid: 0
       malid: 61865
@@ -7882,4 +7874,12 @@ animeMovies:
     - mainTitle: Medalist Movie
       tmdbid: 0
       malid: 63326
+
+    - mainTitle: 'Sore Ike! Anpanman: Pantan to Yakusoku no Hoshi'
+      tmdbid: 0
+      malid: 63356
+
+    - mainTitle: 'Kyouryuu Chou Densetsu 2: Darwin ga Kita Movie!'
+      tmdbid: 0
+      malid: 63393
 
