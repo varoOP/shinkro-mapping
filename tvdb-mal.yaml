@@ -9433,6 +9433,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 58573
+      title: Baki-dou
+      type: ona
+      tvdbid: 467753
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 58600
       title: Ameku Takao no Suiri Karte
       type: tv
@@ -10878,6 +10887,15 @@ AnimeMap:
       type: tv
       tvdbid: 456678
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 60294
+      title: 'Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi'
+      type: tv_special
+      tvdbid: 447240
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
