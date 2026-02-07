@@ -704,6 +704,24 @@ AnimeMap:
         - tvdbseason: 4
           start: 153
 
+    - malid: 975
+      title: Yokohama Kaidashi Kikou
+      type: ova
+      tvdbid: 84509
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 976
+      title: 'Yokohama Kaidashi Kikou: Quiet Country Cafe'
+      type: ova
+      tvdbid: 84509
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 984
       title: 'Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku'
       type: ova
