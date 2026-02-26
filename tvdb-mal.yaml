@@ -9056,7 +9056,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57779
-      title: Dorohedoro 2nd Season
+      title: Dorohedoro Season 2
       type: ona
       tvdbid: 370761
       tvdbseason: 2
@@ -12261,7 +12261,7 @@ AnimeMap:
 
     - malid: 62155
       title: Iya na Kao sare nagara Opantsu Misete Moraitai Returns
-      type: ova
+      type: unknown
       tvdbid: 466439
       tvdbseason: 1
       start: 0
