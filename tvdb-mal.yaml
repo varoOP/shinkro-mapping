@@ -3576,6 +3576,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 34933
+      title: Kakegurui
+      type: tv
+      tvdbid: 327572
+      tvdbseason: 1
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 34944
       title: 'Bungou Stray Dogs: Dead Apple'
       type: movie
@@ -4018,6 +4027,15 @@ AnimeMap:
       tvdbid: 315500
       tvdbseason: 0
       start: 15
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37086
+      title: Kakegurui××
+      type: tv
+      tvdbid: 327572
+      tvdbseason: 2
+      start: 1
       useMapping: false
       animeMapping: []
 
