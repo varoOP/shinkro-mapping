@@ -1797,6 +1797,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 10087
+      title: Fate/Zero
+      type: tv
+      tvdbid: 275798
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 10152
       title: 'Kimi ni Todoke: Kataomoi'
       type: tv_special
@@ -1929,6 +1938,15 @@ AnimeMap:
       tvdbid: 248035
       tvdbseason: 0
       start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 11741
+      title: Fate/Zero 2nd Season
+      type: tv
+      tvdbid: 275798
+      tvdbseason: 1
+      start: 14
       useMapping: false
       animeMapping: []
 
@@ -2928,6 +2946,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31580
+      title: Ajin
+      type: tv
+      tvdbid: 300835
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 31665
       title: 'Hibike! Euphonium: Kakedasu Monaka'
       type: special
@@ -3240,6 +3267,15 @@ AnimeMap:
       tvdbid: 81844
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 33253
+      title: Ajin Part 2
+      type: tv
+      tvdbid: 300835
+      tvdbseason: 1
+      start: 14
       useMapping: false
       animeMapping: []
 
@@ -6909,6 +6945,15 @@ AnimeMap:
       type: tv
       tvdbid: 188551
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 52299
+      title: Ore dake Level Up na Ken
+      type: tv
+      tvdbid: 389597
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
