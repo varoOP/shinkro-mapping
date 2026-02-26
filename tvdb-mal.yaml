@@ -5176,6 +5176,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 41915
+      title: Zuihou de Zhaohuan Shi
+      type: ona
+      tvdbid: 419444
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 41923
       title: Yi Nian Yong Heng
       type: ona
@@ -7205,6 +7214,15 @@ AnimeMap:
       title: UniteUp!
       type: tv
       tvdbid: 426861
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53149
+      title: Oemojisangjuui
+      type: ona
+      tvdbid: 425285
       tvdbseason: 1
       start: 0
       useMapping: false
