@@ -10210,9 +10210,9 @@ AnimeMap:
     - malid: 59369
       title: 'Lycoris Recoil: Friends Are Thieves of Time.'
       type: ona
-      tvdbid: 459092
-      tvdbseason: 1
-      start: 0
+      tvdbid: 414057
+      tvdbseason: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -10356,6 +10356,15 @@ AnimeMap:
       type: tv
       tvdbid: 446097
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59490
+      title: 'Kaijuu 8-gou: Hoshina no Kyuujitsu'
+      type: special
+      tvdbid: 423075
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -11626,6 +11635,15 @@ AnimeMap:
       tvdbid: 445261
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61114
+      title: Beastars Final Season Part 2
+      type: ona
+      tvdbid: 361013
+      tvdbseason: 3
+      start: 13
       useMapping: false
       animeMapping: []
 
