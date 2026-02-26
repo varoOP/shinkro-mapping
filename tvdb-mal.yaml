@@ -4420,6 +4420,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 38668
+      title: Dorohedoro
+      type: tv
+      tvdbid: 370761
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 38671
       title: Enen no Shouboutai
       type: tv
@@ -9046,6 +9055,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57779
+      title: Dorohedoro 2nd Season
+      type: ona
+      tvdbid: 370761
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 57796
       title: 'Touhai: Ura Rate Mahjong Touhairoku'
       type: tv
@@ -11881,6 +11899,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61425
+      title: Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi
+      type: tv
+      tvdbid: 462400
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61443
       title: 'Shunkashuutou Daikousha: Haru no Mai'
       type: tv
@@ -11948,6 +11975,15 @@ AnimeMap:
       title: Uruwashi no Yoi no Tsuki
       type: tv
       tvdbid: 463481
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61687
+      title: Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.
+      type: tv
+      tvdbid: 463583
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -12349,11 +12385,29 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62495
+      title: Nezumi-kun no Chokki (TV)
+      type: tv
+      tvdbid: 474174
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 62496
       title: 2200-nen Neko no Kuni Nippon
       type: tv
       tvdbid: 468366
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62512
+      title: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season
+      type: tv
+      tvdbid: 423121
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -12493,10 +12547,37 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62981
+      title: Kami no Shizuku
+      type: tv
+      tvdbid: 470659
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62983
+      title: Marika-chan no Koukando wa Bukkowareteiru
+      type: tv
+      tvdbid: 471300
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 62987
       title: 'Hokuto no Ken: Kenougun Zako-tachi no Banka'
       type: tv
       tvdbid: 468079
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63014
+      title: Tadaima, Ojamasaremasu!
+      type: tv
+      tvdbid: 470864
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -12526,5 +12607,32 @@ AnimeMap:
       tvdbid: 305074
       tvdbseason: 0
       start: 23
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63276
+      title: Candy Caries
+      type: tv
+      tvdbid: 472974
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63304
+      title: 'Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru'
+      type: tv
+      tvdbid: 472764
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63310
+      title: Ingoku Danchi
+      type: tv
+      tvdbid: 473930
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
