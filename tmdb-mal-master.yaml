@@ -23,10 +23,6 @@ animeMovies:
       tmdbid: 322686
       malid: 1078
 
-    - mainTitle: 'Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.'
-      tmdbid: 0
-      malid: 1379
-
     - mainTitle: 'Lupin III: Pilot Film (1978)'
       tmdbid: 0
       malid: 1428
@@ -410,10 +406,6 @@ animeMovies:
     - mainTitle: 'Tottoko Hamtarou Movie 2: Ham-Ham Hamuuja! Maboroshi no Princess'
       tmdbid: 0
       malid: 7330
-
-    - mainTitle: 'Boku no Chikyuu wo Mamotte: Alice kara, Rin-kun e'
-      tmdbid: 0
-      malid: 7366
 
     - mainTitle: 'Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito'
       tmdbid: 0
@@ -7850,4 +7842,8 @@ animeMovies:
     - mainTitle: AI Shitteru
       tmdbid: 0
       malid: 63492
+
+    - mainTitle: 'Crayon Shin-chan Movie 34: Kikikaikai! Ora no Youkai Bake-shon'
+      tmdbid: 0
+      malid: 63512
 
