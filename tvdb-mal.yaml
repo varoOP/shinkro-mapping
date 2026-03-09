@@ -5810,8 +5810,8 @@ AnimeMap:
       title: 'Shingeki no Kyojin: The Final Season Part 2'
       type: tv
       tvdbid: 267440
-      tvdbseason: 17
-      start: 0
+      tvdbseason: 4
+      start: 17
       useMapping: false
       animeMapping: []
 
