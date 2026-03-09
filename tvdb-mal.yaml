@@ -1274,6 +1274,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 5042
+      title: Kiss x Sis
+      type: ova
+      tvdbid: 84768
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 5081
       title: Bakemonogatari
       type: tv
@@ -2792,6 +2801,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 30240
+      title: Prison School
+      type: tv
+      tvdbid: 293267
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 30276
       title: One Punch Man
       type: tv
@@ -3105,6 +3123,15 @@ AnimeMap:
       tvdbid: 303867
       tvdbseason: 0
       start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 32485
+      title: 'Prison School: Mad Wax'
+      type: ova
+      tvdbid: 293267
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -7534,6 +7561,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53802
+      title: 2.5-jigen no Ririsa
+      type: tv
+      tvdbid: 428168
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 53835
       title: Unnamed Memory
       type: tv
@@ -11265,6 +11301,15 @@ AnimeMap:
       type: tv
       tvdbid: 457766
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 60510
+      title: 2.5-jigen no Ririsa 2nd Season
+      type: tv
+      tvdbid: 428168
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
