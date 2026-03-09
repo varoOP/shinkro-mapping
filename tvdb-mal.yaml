@@ -12551,8 +12551,8 @@ AnimeMap:
       title: 'Cardfight!! Vanguard: Divinez Genma Seisen-hen'
       type: tv
       tvdbid: 245821
-      tvdbseason: 17
-      start: 0
+      tvdbseason: 16
+      start: 52
       useMapping: false
       animeMapping: []
 
