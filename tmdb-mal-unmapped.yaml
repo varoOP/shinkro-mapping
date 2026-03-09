@@ -15,17 +15,9 @@ animeMovies:
       tmdbid: 0
       malid: 796
 
-    - mainTitle: Street Fighter Zero The Animation
-      tmdbid: 0
-      malid: 979
-
     - mainTitle: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
       tmdbid: 0
       malid: 1078
-
-    - mainTitle: 'Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.'
-      tmdbid: 0
-      malid: 1379
 
     - mainTitle: 'Lupin III: Pilot Film (1978)'
       tmdbid: 0
@@ -410,10 +402,6 @@ animeMovies:
     - mainTitle: 'Tottoko Hamtarou Movie 2: Ham-Ham Hamuuja! Maboroshi no Princess'
       tmdbid: 0
       malid: 7330
-
-    - mainTitle: 'Boku no Chikyuu wo Mamotte: Alice kara, Rin-kun e'
-      tmdbid: 0
-      malid: 7366
 
     - mainTitle: 'Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito'
       tmdbid: 0
@@ -930,10 +918,6 @@ animeMovies:
     - mainTitle: Anima
       tmdbid: 0
       malid: 13513
-
-    - mainTitle: Afro Samurai Movie
-      tmdbid: 0
-      malid: 13709
 
     - mainTitle: Kamiusagi Rope
       tmdbid: 0
@@ -6011,7 +5995,7 @@ animeMovies:
       tmdbid: 0
       malid: 53970
 
-    - mainTitle: 'Crayon Shin-chan: Uchuu kara no Raihousha Kasube Dai Panic'
+    - mainTitle: 'Crayon Shin-chan: Uchuu kara no Raihousha Kasukabe Dai Panic'
       tmdbid: 0
       malid: 53971
 
@@ -6975,10 +6959,6 @@ animeMovies:
       tmdbid: 0
       malid: 58429
 
-    - mainTitle: 'Uma Musume: Pretty Derby - Road to the Top (Movie)'
-      tmdbid: 0
-      malid: 58517
-
     - mainTitle: Hodong Wangjawa Laglang Gongju (2022)
       tmdbid: 0
       malid: 58527
@@ -7511,7 +7491,7 @@ animeMovies:
       tmdbid: 0
       malid: 61111
 
-    - mainTitle: Gochuumon wa Usagi desu ka? Movie
+    - mainTitle: 'Gochuumon wa Usagi desu ka? Movie: We Are Family!'
       tmdbid: 0
       malid: 61115
 
@@ -7522,6 +7502,10 @@ animeMovies:
     - mainTitle: Futsuu no Seikatsu
       tmdbid: 0
       malid: 61183
+
+    - mainTitle: 'Animated Self Portraits: Renzo Kinoshita'
+      tmdbid: 0
+      malid: 61225
 
     - mainTitle: 'Sumikko Gurashi Movie 4: Sora no Oukoku to Futari no Ko'
       tmdbid: 0
@@ -7850,4 +7834,12 @@ animeMovies:
     - mainTitle: AI Shitteru
       tmdbid: 0
       malid: 63492
+
+    - mainTitle: 'Crayon Shin-chan Movie 34: Kikikaikai! Ora no Youkai Bake-shon'
+      tmdbid: 0
+      malid: 63512
+
+    - mainTitle: Uri Ban Jandibat
+      tmdbid: 0
+      malid: 63647
 
