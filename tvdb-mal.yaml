@@ -12691,6 +12691,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63248
+      title: Ookii Onnanoko wa Suki desu ka?
+      type: ona
+      tvdbid: 471791
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63276
       title: Candy Caries
       type: tv
@@ -12713,6 +12722,24 @@ AnimeMap:
       title: Ingoku Danchi
       type: tv
       tvdbid: 473930
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63352
+      title: Onegai AiPri
+      type: tv
+      tvdbid: 474655
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63572
+      title: Dandelion
+      type: ona
+      tvdbid: 474691
       tvdbseason: 1
       start: 0
       useMapping: false
