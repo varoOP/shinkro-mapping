@@ -6940,6 +6940,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 40911
+      title: Yuukoku no Moriarty
+      type: tv
+      tvdbid: 385542
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 40935
       title: Beastars 2nd Season
       type: tv
@@ -7324,6 +7333,15 @@ AnimeMap:
       tvdbid: 380654
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 43325
+      title: Yuukoku no Moriarty Part 2
+      type: tv
+      tvdbid: 385542
+      tvdbseason: 1
+      start: 12
       useMapping: false
       animeMapping: []
 
