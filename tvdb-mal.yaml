@@ -12394,6 +12394,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59551
+      title: Ganbare! Nakamura-kun!!
+      type: tv
+      tvdbid: 453319
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 59561
       title: Around 40 Otoko no Isekai Tsuuhan
       type: tv
@@ -12642,6 +12651,15 @@ AnimeMap:
       type: tv
       tvdbid: 432531
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59889
+      title: 'Kidou Keisatsu Patlabor: EZY'
+      type: unknown
+      tvdbid: 462547
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -13582,6 +13600,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61013
+      title: Replica datte, Koi wo Suru.
+      type: tv
+      tvdbid: 460313
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61023
       title: Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite
       type: ona
@@ -13632,6 +13659,15 @@ AnimeMap:
       type: tv
       tvdbid: 445261
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61107
+      title: GANSO! BanG Dream Chan
+      type: ona
+      tvdbid: 469213
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -13947,6 +13983,15 @@ AnimeMap:
       type: tv
       tvdbid: 462446
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61469
+      title: 'Steel Ball Run: JoJo no Kimyou na Bouken'
+      type: ona
+      tvdbid: 262954
+      tvdbseason: 6
       start: 0
       useMapping: false
       animeMapping: []
@@ -14536,6 +14581,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62852
+      title: 'Ghost Concert: Missing Songs'
+      type: tv
+      tvdbid: 469599
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 62893
       title: Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
       type: tv
@@ -14567,6 +14621,15 @@ AnimeMap:
       title: Needy Girl Overdose
       type: tv
       tvdbid: 470270
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62927
+      title: Fangkai Nage Nuwu
+      type: ona
+      tvdbid: 474881
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -14689,11 +14752,65 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63330
+      title: Android wa Keiken Ninzuu ni Hairimasu ka?? Special
+      type: special
+      tvdbid: 463638
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63352
       title: Onegai AiPri
       type: tv
       tvdbid: 474655
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63375
+      title: Nippon Sangoku
+      type: tv
+      tvdbid: 473228
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63376
+      title: Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"
+      type: tv
+      tvdbid: 473229
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63433
+      title: Daikenja Riddle no Jikan Gyakkou
+      type: tv
+      tvdbid: 473668
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63469
+      title: Hyakki Yakoushou
+      type: tv
+      tvdbid: 473925
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63503
+      title: 'Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita'
+      type: special
+      tvdbid: 456099
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
