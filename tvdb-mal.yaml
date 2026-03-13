@@ -10486,6 +10486,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 56646
+      title: 'Hokuto no Ken: Fist of the North Star'
+      type: unknown
+      tvdbid: 465216
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 56647
       title: Ao no Miburo
       type: tv
