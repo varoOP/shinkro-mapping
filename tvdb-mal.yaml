@@ -4305,6 +4305,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 30831
+      title: Kono Subarashii Sekai ni Shukufuku wo!
+      type: tv
+      tvdbid: 303867
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 31096
       title: 'Hibike! Euphonium: Suisougaku-bu no Nichijou'
       type: special
@@ -8871,6 +8880,15 @@ AnimeMap:
       type: tv
       tvdbid: 355480
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 51958
+      title: Kono Subarashii Sekai ni Bakuen wo!
+      type: tv
+      tvdbid: 420657
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -13929,6 +13947,15 @@ AnimeMap:
       type: ona
       tvdbid: 393810
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61203
+      title: Kono Subarashii Sekai ni Shukufuku wo! 4
+      type: tv
+      tvdbid: 303867
+      tvdbseason: 4
       start: 0
       useMapping: false
       animeMapping: []
