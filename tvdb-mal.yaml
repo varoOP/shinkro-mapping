@@ -4741,8 +4741,8 @@ AnimeMap:
       title: Ajin Part 2
       type: tv
       tvdbid: 300835
-      tvdbseason: 1
-      start: 14
+      tvdbseason: 2
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -5190,9 +5190,9 @@ AnimeMap:
     - malid: 35320
       title: 'Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma'
       type: ova
-      tvdbid: 149865
+      tvdbid: 70668
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -8025,7 +8025,7 @@ AnimeMap:
       type: special
       tvdbid: 392491
       tvdbseason: 0
-      start: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -12640,7 +12640,7 @@ AnimeMap:
     - malid: 59732
       title: Pochars
       type: tv
-      tvdbid: 454087
+      tvdbid: 474219
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -12678,7 +12678,7 @@ AnimeMap:
       type: tv_special
       tvdbid: 432455
       tvdbseason: 0
-      start: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -13585,11 +13585,17 @@ AnimeMap:
     - malid: 60651
       title: 'Yu-Gi-Oh! Card Game: The Chronicles'
       type: ona
-      tvdbid: 458029
-      tvdbseason: 1
+      tvdbid: 466457
+      tvdbseason: 0
       start: 0
-      useMapping: false
-      animeMapping: []
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+        - tvdbseason: 2
+          start: 3
+        - tvdbseason: 3
+          start: 9
 
     - malid: 60658
       title: Hibi wa Sugiredo Meshi Umashi
@@ -13999,7 +14005,7 @@ AnimeMap:
     - malid: 61238
       title: 'Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku'
       type: tv
-      tvdbid: 461564
+      tvdbid: 465527
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -14071,7 +14077,7 @@ AnimeMap:
     - malid: 61293
       title: Koisuru One Piece
       type: ona
-      tvdbid: 461820
+      tvdbid: 461883
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -14586,6 +14592,15 @@ AnimeMap:
       type: tv
       tvdbid: 466524
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62214
+      title: Koisuru One Piece Zenyasai Tokubetsu-hen
+      type: ona
+      tvdbid: 461883
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
