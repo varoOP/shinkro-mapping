@@ -2425,6 +2425,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 8676
+      title: Amagami SS
+      type: tv
+      tvdbid: 172921
+      tvdbseason: 1
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 8769
       title: Ore no Imouto ga Konnani Kawaii Wake ga Nai
       type: tv
@@ -2476,6 +2485,15 @@ AnimeMap:
       tvdbid: 114921
       tvdbseason: 0
       start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 9117
+      title: Amagami SS OVA
+      type: ova
+      tvdbid: 172921
+      tvdbseason: 0
+      start: 1
       useMapping: false
       animeMapping: []
 
@@ -2548,6 +2566,15 @@ AnimeMap:
       tvdbid: 248035
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 9925
+      title: 'Amagami SS: Tachibana Miya-hen - Imouto'
+      type: special
+      tvdbid: 172921
+      tvdbseason: 0
+      start: 18
       useMapping: false
       animeMapping: []
 
@@ -2703,6 +2730,15 @@ AnimeMap:
       tvdbid: 254349
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 11235
+      title: Amagami SS+ Plus
+      type: tv
+      tvdbid: 172921
+      tvdbseason: 2
+      start: 1
       useMapping: false
       animeMapping: []
 
@@ -2892,6 +2928,15 @@ AnimeMap:
       tvdbid: 257756
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 12669
+      title: 'Amagami SS+ Plus: Extra Episode+ Plus'
+      type: special
+      tvdbid: 172921
+      tvdbseason: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
@@ -3137,6 +3182,15 @@ AnimeMap:
       tvdbid: 245821
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 15951
+      title: Amagami SS+ Plus Picture Drama
+      type: special
+      tvdbid: 172921
+      tvdbseason: 0
+      start: 14
       useMapping: false
       animeMapping: []
 
