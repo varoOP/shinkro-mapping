@@ -2975,10 +2975,6 @@ animeMovies:
       tmdbid: 0
       malid: 39151
 
-    - mainTitle: 'Girls & Panzer: Saishuushou Part 5'
-      tmdbid: 0
-      malid: 39168
-
     - mainTitle: 'Girls & Panzer: Saishuushou Part 6'
       tmdbid: 0
       malid: 39169
@@ -6559,10 +6555,6 @@ animeMovies:
       tmdbid: 0
       malid: 56380
 
-    - mainTitle: Specter From the Abyssal Zone
-      tmdbid: 0
-      malid: 56382
-
     - mainTitle: Big Fish
       tmdbid: 0
       malid: 56384
@@ -7499,10 +7491,6 @@ animeMovies:
       tmdbid: 0
       malid: 61278
 
-    - mainTitle: 'Oshiri Tantei: Yume no Jumbo Sweet Potato Matsuri'
-      tmdbid: 0
-      malid: 61313
-
     - mainTitle: 'Oshiri Tantei: Nandemo Kaiketsu Club vs. Kaitou U'
       tmdbid: 0
       malid: 61314
@@ -7634,6 +7622,10 @@ animeMovies:
     - mainTitle: 'BanG Dream! Ave Mujica: Prima Aurora'
       tmdbid: 0
       malid: 62270
+
+    - mainTitle: 'Sekiro: No Defeat'
+      tmdbid: 0
+      malid: 62312
 
     - mainTitle: 'Odekake Kozame Movie: Tokai no Otomodachi x Yoru wa Neko to Issho Manner Eizou'
       tmdbid: 0
@@ -7827,7 +7819,15 @@ animeMovies:
       tmdbid: 0
       malid: 63512
 
-    - mainTitle: Uri Ban Jandibat
+    - mainTitle: Football Animals
       tmdbid: 0
-      malid: 63647
+      malid: 63646
+
+    - mainTitle: Moshi, Korekara Umareru no Nara
+      tmdbid: 0
+      malid: 63739
+
+    - mainTitle: Maebashi Witches Movie
+      tmdbid: 0
+      malid: 63772
 
