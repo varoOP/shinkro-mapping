@@ -1,4 +1,13 @@
 AnimeMap:
+    - malid: 5
+      title: 'Cowboy Bebop: Tengoku no Tobira'
+      type: movie
+      tvdbid: 76885
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 6
       title: Trigun
       type: tv
@@ -840,6 +849,15 @@ AnimeMap:
       title: Shakugan no Shana
       type: tv
       tvdbid: 78962
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 356
+      title: Fate/stay night
+      type: tv
+      tvdbid: 79151
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -1814,6 +1832,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 4037
+      title: 'Cowboy Bebop: Yose Atsume Blues'
+      type: tv_special
+      tvdbid: 76885
+      tvdbseason: 0
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 4056
       title: 'Masuda Kousuke Gekijou: Gag Manga Biyori 3'
       type: tv
@@ -1936,6 +1963,15 @@ AnimeMap:
       type: ova
       tvdbid: 84768
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5060
+      title: Hetalia Axis Powers
+      type: ona
+      tvdbid: 88161
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -2272,6 +2308,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 7337
+      title: 'Hetalia Axis Powers Movie: Paint it, White'
+      type: movie
+      tvdbid: 88161
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 7559
+      title: Fate/stay night TV Reproduction
+      type: ova
+      tvdbid: 79151
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 7592
       title: Nurarihyon no Mago
       type: tv
@@ -2340,6 +2394,15 @@ AnimeMap:
       type: tv
       tvdbid: 221281
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 8479
+      title: Hetalia World Series
+      type: ona
+      tvdbid: 88161
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -2470,6 +2533,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 9774
+      title: Morita-san wa Mukuchi
+      type: ova
+      tvdbid: 247461
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 9919
       title: Ao no Exorcist
       type: tv
@@ -2571,6 +2643,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 10497
+      title: Hetalia World Series Specials
+      type: special
+      tvdbid: 88161
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
     - malid: 10620
       title: Mirai Nikki (TV)
       type: tv
@@ -2585,6 +2666,15 @@ AnimeMap:
       type: special
       tvdbid: 248035
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 10671
+      title: Morita-san wa Mukuchi.
+      type: tv
+      tvdbid: 247461
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -2647,6 +2737,15 @@ AnimeMap:
       title: Nisemonogatari
       type: tv
       tvdbid: 102261
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 11615
+      title: Morita-san wa Mukuchi. 2
+      type: tv
+      tvdbid: 247461
       tvdbseason: 2
       start: 0
       useMapping: false
@@ -2796,12 +2895,39 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 12921
+      title: Morita-san wa Mukuchi. Specials
+      type: special
+      tvdbid: 247461
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 13145
       title: 'Cardfight!! Vanguard: Asia Circuit-hen'
       type: tv
       tvdbid: 245821
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 13183
+      title: Fate/Zero Remix
+      type: tv_special
+      tvdbid: 275798
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 13263
+      title: 'Fate/Zero: Onegai! Einzbern Soudanshitsu'
+      type: special
+      tvdbid: 275798
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -2940,6 +3066,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 15195
+      title: 'Hetalia: The Beautiful World'
+      type: ona
+      tvdbid: 88161
+      tvdbseason: 3
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 15197
       title: 'Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu'
       type: movie
@@ -3063,12 +3198,30 @@ AnimeMap:
             - 11
             - 16
 
+    - malid: 17205
+      title: 'Cowboy Bebop: Ein no Natsuyasumi'
+      type: special
+      tvdbid: 76885
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 17265
       title: Log Horizon
       type: tv
       tvdbid: 272128
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 17273
+      title: 'Hetalia: The Beautiful World Specials'
+      type: special
+      tvdbid: 88161
+      tvdbseason: 0
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -3113,6 +3266,15 @@ AnimeMap:
       type: tv
       tvdbid: 262856
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 18139
+      title: Tonari no Seki-kun
+      type: tv
+      tvdbid: 275583
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -3225,6 +3387,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 18851
+      title: 'Fate/kaleid liner Prisma☆Illya: Undoukai de Dance!'
+      type: ova
+      tvdbid: 269319
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
     - malid: 18893
       title: 'Aoki Hagane no Arpeggio: Ars Nova'
       type: tv
@@ -3239,6 +3410,15 @@ AnimeMap:
       type: tv
       tvdbid: 275670
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 19109
+      title: Fate/kaleid liner Prisma☆Illya Specials
+      type: special
+      tvdbid: 269319
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -3306,6 +3486,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 20509
+      title: Fate/kaleid liner Prisma☆Illya 2wei!
+      type: tv
+      tvdbid: 269319
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 20651
       title: 'Natsume Yuujinchou: Itsuka Yuki no Hi ni'
       type: ova
@@ -3330,6 +3519,24 @@ AnimeMap:
       tvdbid: 262954
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 20977
+      title: Tonari no Seki-kun OVA
+      type: ova
+      tvdbid: 275583
+      tvdbseason: 0
+      start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 21075
+      title: 'Hetalia: The Beautiful World Extra Disc'
+      type: ova
+      tvdbid: 88161
+      tvdbseason: 0
+      start: 17
       useMapping: false
       animeMapping: []
 
@@ -3407,6 +3614,15 @@ AnimeMap:
       type: tv
       tvdbid: 83996
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 22297
+      title: 'Fate/stay night: Unlimited Blade Works'
+      type: tv
+      tvdbid: 278626
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -3726,6 +3942,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 24365
+      title: Tonari no Seki-kun Specials
+      type: special
+      tvdbid: 275583
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 24405
       title: World Trigger
       type: tv
@@ -3843,6 +4068,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 25011
+      title: Fate/kaleid liner Prisma☆Illya 2wei! Specials
+      type: special
+      tvdbid: 269319
+      tvdbseason: 0
+      start: 7
+      useMapping: false
+      animeMapping: []
+
     - malid: 25013
       title: Akatsuki no Yona
       type: tv
@@ -3885,6 +4119,33 @@ AnimeMap:
       tvdbid: 262954
       tvdbseason: 2
       start: 25
+      useMapping: false
+      animeMapping: []
+
+    - malid: 26057
+      title: 'Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou'
+      type: ova
+      tvdbid: 269319
+      tvdbseason: 0
+      start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 26349
+      title: Danna ga Nani wo Itteiru ka Wakaranai Ken
+      type: tv
+      tvdbid: 285357
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 27525
+      title: Fate/kaleid liner Prisma☆Illya 2wei Herz!
+      type: tv
+      tvdbid: 269319
+      tvdbseason: 3
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -3965,6 +4226,15 @@ AnimeMap:
       type: tv
       tvdbid: 245821
       tvdbseason: 5
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 27821
+      title: 'Fate/stay night: Unlimited Blade Works Prologue'
+      type: tv_special
+      tvdbid: 278626
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -4131,6 +4401,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 28607
+      title: 'Hetalia: The World Twinkle'
+      type: ona
+      tvdbid: 88161
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 28701
+      title: 'Fate/stay night: Unlimited Blade Works 2nd Season'
+      type: tv
+      tvdbid: 278626
+      tvdbseason: 1
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 28825
       title: Himouto! Umaru-chan
       type: tv
@@ -4168,6 +4456,15 @@ AnimeMap:
       animeMapping:
         - tvdbseason: 7
           start: 266
+
+    - malid: 29067
+      title: Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me
+      type: tv
+      tvdbid: 285357
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
 
     - malid: 29803
       title: Overlord
@@ -4314,12 +4611,30 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31056
+      title: Fate/kaleid liner Prisma☆Illya 2wei Herz! Specials
+      type: special
+      tvdbid: 269319
+      tvdbseason: 0
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 31096
       title: 'Hibike! Euphonium: Suisougaku-bu no Nichijou'
       type: special
       tvdbid: 289884
       tvdbseason: 0
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31158
+      title: 'Hetalia: The World Twinkle Specials'
+      type: special
+      tvdbid: 88161
+      tvdbseason: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -4386,6 +4701,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31389
+      title: 'Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day'
+      type: special
+      tvdbid: 278626
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 31448
       title: Yoku Wakaru Mahouka! - Saiseitte Nani?
       type: special
@@ -4427,6 +4751,15 @@ AnimeMap:
       type: ova
       tvdbid: 293088
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31706
+      title: Fate/kaleid liner Prisma☆Illya 3rei!!
+      type: tv
+      tvdbid: 269319
+      tvdbseason: 4
       start: 0
       useMapping: false
       animeMapping: []
@@ -4508,6 +4841,24 @@ AnimeMap:
       type: tv
       tvdbid: 271591
       tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31997
+      title: 'Hetalia: The World Twinkle Extra Disc'
+      type: ova
+      tvdbid: 88161
+      tvdbseason: 0
+      start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 32013
+      title: Oshiete! Galko-chan
+      type: tv
+      tvdbid: 304489
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -4764,6 +5115,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 33456
+      title: Fate/kaleid liner Prisma☆Illya 3rei!! Specials
+      type: special
+      tvdbid: 269319
+      tvdbseason: 0
+      start: 18
+      useMapping: false
+      animeMapping: []
+
     - malid: 33486
       title: Boku no Hero Academia 2nd Season
       type: tv
@@ -4795,6 +5155,15 @@ AnimeMap:
       title: 'Boku no Hero Academia: Sukue! Kyuujo Kunren!'
       type: ova
       tvdbid: 305074
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 33949
+      title: 'Oshiete! Galko-chan: Natsuyasumi tte Hontou desu ka?'
+      type: ova
+      tvdbid: 304489
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -4842,6 +5211,15 @@ AnimeMap:
       tvdbid: 79895
       tvdbseason: 8
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34100
+      title: 'Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai'
+      type: movie
+      tvdbid: 269319
+      tvdbseason: 0
+      start: 24
       useMapping: false
       animeMapping: []
 
@@ -5612,6 +5990,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36833
+      title: 'Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai - Kuro Sakura no Heya'
+      type: special
+      tvdbid: 269319
+      tvdbseason: 0
+      start: 25
+      useMapping: false
+      animeMapping: []
+
     - malid: 36838
       title: Gintama. Shirogane no Tamashii-hen
       type: tv
@@ -6334,6 +6721,15 @@ AnimeMap:
       tvdbid: 352408
       tvdbseason: 0
       start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38897
+      title: 'Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm'
+      type: movie
+      tvdbid: 269319
+      tvdbseason: 0
+      start: 26
       useMapping: false
       animeMapping: []
 
@@ -7183,6 +7579,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 42030
+      title: 'Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo'
+      type: movie
+      tvdbid: 269319
+      tvdbseason: 0
+      start: 27
+      useMapping: false
+      animeMapping: []
+
     - malid: 42192
       title: Edens Zero
       type: tv
@@ -7385,6 +7790,15 @@ AnimeMap:
       title: Tsuki ga Michibiku Isekai Douchuu
       type: tv
       tvdbid: 390832
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 43591
+      title: Hetalia World★Stars
+      type: ona
+      tvdbid: 400245
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -7756,6 +8170,15 @@ AnimeMap:
       tvdbid: 267440
       tvdbseason: 4
       start: 17
+      useMapping: false
+      animeMapping: []
+
+    - malid: 48627
+      title: Hetalia World★Stars Specials
+      type: special
+      tvdbid: 400245
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
