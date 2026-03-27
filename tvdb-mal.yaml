@@ -1487,6 +1487,23 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1453
+      title: Maison Ikkoku
+      type: tv
+      tvdbid: 71776
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+        - tvdbseason: 2
+          start: 27
+        - tvdbseason: 3
+          start: 53
+        - tvdbseason: 4
+          start: 77
+
     - malid: 1519
       title: 'Black Lagoon: The Second Barrage'
       type: tv
@@ -1742,6 +1759,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2459
+      title: 'Maison Ikkoku: Bangai-hen - Ikkokujima Nanpa Shimatsuki'
+      type: ova
+      tvdbid: 71776
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 2460
+      title: 'Maison Ikkoku: Kanketsu-hen'
+      type: movie
+      tvdbid: 71776
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 2476
       title: School Days
       type: tv
@@ -1829,6 +1864,24 @@ AnimeMap:
       tvdbid: 87991
       tvdbseason: 0
       start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 3483
+      title: 'Maison Ikkoku: Shiki Utsuriyuku Kisetsu no Naka de'
+      type: ova
+      tvdbid: 71776
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 3484
+      title: 'Maison Ikkoku: Prelude - Meguru Haru no Sakura no You ni...'
+      type: special
+      tvdbid: 71776
+      tvdbseason: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
