@@ -4818,6 +4818,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31771
+      title: Amanchu!
+      type: tv
+      tvdbid: 304900
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 31772
       title: One Punch Man Specials
       type: special
@@ -5202,6 +5211,15 @@ AnimeMap:
       tvdbid: 283947
       tvdbseason: 0
       start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 33818
+      title: 'Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto'
+      type: ova
+      tvdbid: 304900
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -6031,6 +6049,15 @@ AnimeMap:
       type: tv
       tvdbid: 342010
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36800
+      title: Amanchu! Advance
+      type: tv
+      tvdbid: 304900
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -6973,6 +7000,15 @@ AnimeMap:
       tvdbid: 293088
       tvdbseason: 0
       start: 9
+      useMapping: false
+      animeMapping: []
+
+    - malid: 39709
+      title: 'Amanchu!: Upyopyo Dive Tsukkome! Umi no Sekai!'
+      type: special
+      tvdbid: 304900
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -9367,6 +9403,15 @@ AnimeMap:
       tvdbid: 420657
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 51991
+      title: 'Amanchu!: Upyopyo Dive Tsukkome! Amazon no Sekai!'
+      type: special
+      tvdbid: 304900
+      tvdbseason: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
