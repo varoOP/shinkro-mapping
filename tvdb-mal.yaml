@@ -6456,6 +6456,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 37884
+      title: 'Golden Kamuy: Barato no Youjinbou/Kaiki! Nazo no Kyodai Tori'
+      type: ova
+      tvdbid: 338455
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 37885
       title: Super Dragon Ball Heroes
       type: ona
@@ -6834,6 +6843,15 @@ AnimeMap:
       tvdbid: 305074
       tvdbseason: 0
       start: 5
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38710
+      title: Golden Kamuy 2nd Season OVA
+      type: ova
+      tvdbid: 338455
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -14940,6 +14958,15 @@ AnimeMap:
       tvdbid: 455684
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61834
+      title: 'Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga'
+      type: ova
+      tvdbid: 338455
+      tvdbseason: 0
+      start: 42
       useMapping: false
       animeMapping: []
 
