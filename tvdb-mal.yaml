@@ -935,6 +935,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 477
+      title: Aria the Animation
+      type: tv
+      tvdbid: 79839
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 502
       title: 'Dragon Ball Movie 1: Shen Long no Densetsu'
       type: movie
@@ -1751,6 +1760,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2563
+      title: 'Aria the OVA: Arietta'
+      type: ova
+      tvdbid: 79839
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 2787
       title: Shakugan no Shana II (Second)
       type: tv
@@ -1783,6 +1801,15 @@ AnimeMap:
       type: tv
       tvdbid: 81178
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 3297
+      title: Aria the Origination
+      type: tv
+      tvdbid: 79839
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -1913,6 +1940,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 4772
+      title: 'Aria the Origination: Sono Choppiri Himitsu no Basho ni...'
+      type: special
+      tvdbid: 79839
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 4841
       title: 'Doukyuusei: Climax'
       type: ova
@@ -2018,6 +2054,24 @@ AnimeMap:
       tvdbid: 80787
       tvdbseason: 0
       start: 5
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5196
+      title: Aria the Origination Picture Drama
+      type: special
+      tvdbid: 79839
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5244
+      title: 'Aria the Natural: Sono Futatabi Deaeru Kiseki ni...'
+      type: special
+      tvdbid: 79839
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -4526,6 +4580,15 @@ AnimeMap:
       tvdbid: 294002
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 29893
+      title: Aria the Avvenire
+      type: special
+      tvdbid: 79839
+      tvdbseason: 0
+      start: 11
       useMapping: false
       animeMapping: []
 
@@ -7638,6 +7701,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 41674
+      title: Aria the Crepuscolo
+      type: movie
+      tvdbid: 79839
+      tvdbseason: 0
+      start: 14
+      useMapping: false
+      animeMapping: []
+
     - malid: 41710
       title: Genjitsu Shugi Yuusha no Oukoku Saikenki
       type: tv
@@ -8175,6 +8247,15 @@ AnimeMap:
       tvdbid: 278329
       tvdbseason: 0
       start: 9
+      useMapping: false
+      animeMapping: []
+
+    - malid: 48411
+      title: Aria the Benedizione
+      type: movie
+      tvdbid: 79839
+      tvdbseason: 0
+      start: 15
       useMapping: false
       animeMapping: []
 
@@ -10182,6 +10263,15 @@ AnimeMap:
       tvdbid: 429055
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54062
+      title: Aria the Avvenire Sound Novel
+      type: special
+      tvdbid: 79839
+      tvdbseason: 0
+      start: 16
       useMapping: false
       animeMapping: []
 
