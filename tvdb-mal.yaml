@@ -5740,12 +5740,10 @@ AnimeMap:
       title: Gintama. Porori-hen
       type: tv
       tvdbid: 79895
-      tvdbseason: 0
+      tvdbseason: 9
       start: 0
-      useMapping: true
-      animeMapping:
-        - tvdbseason: 9
-          start: 329
+      useMapping: false
+      animeMapping: []
 
     - malid: 35847
       title: SSSS.Gridman
@@ -6084,12 +6082,10 @@ AnimeMap:
       title: Gintama. Shirogane no Tamashii-hen
       type: tv
       tvdbid: 79895
-      tvdbseason: 0
+      tvdbseason: 10
       start: 0
-      useMapping: true
-      animeMapping:
-        - tvdbseason: 10
-          start: 342
+      useMapping: false
+      animeMapping: []
 
     - malid: 36862
       title: 'Made in Abyss Movie 3: Fukaki Tamashii no Reimei'
@@ -6304,6 +6300,15 @@ AnimeMap:
       tvdbid: 305077
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37491
+      title: Gintama. Shirogane no Tamashii-hen - Kouhan-sen
+      type: tv
+      tvdbid: 79895
+      tvdbseason: 10
+      start: 13
       useMapping: false
       animeMapping: []
 
