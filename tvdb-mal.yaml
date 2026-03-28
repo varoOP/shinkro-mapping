@@ -935,6 +935,78 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 459
+      title: One Piece Movie 01
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 460
+      title: 'One Piece Movie 02: Nejimaki-jima no Daibouken'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 461
+      title: 'One Piece Movie 03: Chinjuu-jima no Chopper Oukoku'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
+    - malid: 462
+      title: 'One Piece Movie 04: Dead End no Bouken'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 8
+      useMapping: false
+      animeMapping: []
+
+    - malid: 463
+      title: 'One Piece Movie 05: Norowareta Seiken'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 11
+      useMapping: false
+      animeMapping: []
+
+    - malid: 464
+      title: 'One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 465
+      title: 'One Piece Movie 07: Karakuri-jou no Mecha Kyohei'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 15
+      useMapping: false
+      animeMapping: []
+
+    - malid: 466
+      title: 'One Piece: Taose! Kaizoku Ganzack'
+      type: ova
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 477
       title: Aria the Animation
       type: tv
@@ -1379,6 +1451,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1094
+      title: 'One Piece: Umi no Heso no Daibouken-hen'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 1195
       title: Zero no Tsukaima
       type: tv
@@ -1484,6 +1565,24 @@ AnimeMap:
       tvdbid: 81953
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1237
+      title: 'One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 9
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1238
+      title: 'One Piece: Mamore! Saigo no Oobutai'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 10
       useMapping: false
       animeMapping: []
 
@@ -1701,6 +1800,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2020
+      title: 'One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 14
+      useMapping: false
+      animeMapping: []
+
     - malid: 2026
       title: Hayate no Gotoku!
       type: tv
@@ -1716,6 +1824,15 @@ AnimeMap:
       tvdbid: 80901
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 2107
+      title: 'One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 16
       useMapping: false
       animeMapping: []
 
@@ -1747,6 +1864,24 @@ AnimeMap:
       tvdbid: 80421
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 2385
+      title: 'One Piece: Jango no Dance Carnival'
+      type: special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
+    - malid: 2386
+      title: 'One Piece: Yume no Soccer Ou!'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -1783,6 +1918,15 @@ AnimeMap:
       tvdbid: 80478
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 2490
+      title: 'One Piece: Mezase! Kaizoku Yakyuu Ou'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 12
       useMapping: false
       animeMapping: []
 
@@ -1903,6 +2047,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 3848
+      title: 'One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 17
+      useMapping: false
+      animeMapping: []
+
     - malid: 3901
       title: Baccano! Specials
       type: special
@@ -1936,6 +2089,15 @@ AnimeMap:
       tvdbid: 80644
       tvdbseason: 0
       start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4155
+      title: 'One Piece Film: Strong World'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 19
       useMapping: false
       animeMapping: []
 
@@ -2125,6 +2287,15 @@ AnimeMap:
       tvdbid: 79839
       tvdbseason: 0
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5252
+      title: 'One Piece: Romance Dawn Story'
+      type: ova
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 18
       useMapping: false
       animeMapping: []
 
@@ -2487,6 +2658,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 8171
+      title: One Piece Recap
+      type: ova
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 31
+      useMapping: false
+      animeMapping: []
+
     - malid: 8407
       title: Sora no Otoshimono Forte
       type: tv
@@ -2538,6 +2718,15 @@ AnimeMap:
       tvdbid: 172921
       tvdbseason: 1
       start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 8740
+      title: 'One Piece Film: Strong World Episode 0'
+      type: ova
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 20
       useMapping: false
       animeMapping: []
 
@@ -2711,6 +2900,15 @@ AnimeMap:
       tvdbid: 247958
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 9999
+      title: 'One Piece 3D: Mugiwara Chase'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 21
       useMapping: false
       animeMapping: []
 
@@ -2984,6 +3182,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 12001
+      title: 'One Piece 3D: Gekisou! Trap Coaster'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 22
+      useMapping: false
+      animeMapping: []
+
     - malid: 12029
       title: Uchuu Senkan Yamato 2199
       type: ova
@@ -3044,6 +3251,15 @@ AnimeMap:
       tvdbid: 172921
       tvdbseason: 0
       start: 8
+      useMapping: false
+      animeMapping: []
+
+    - malid: 12859
+      title: 'One Piece Film: Z'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 26
       useMapping: false
       animeMapping: []
 
@@ -3263,6 +3479,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 15323
+      title: 'One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 23
+      useMapping: false
+      animeMapping: []
+
     - malid: 15417
       title: 'Gintama'': Enchousen'
       type: tv
@@ -3307,6 +3532,33 @@ AnimeMap:
       tvdbid: 114921
       tvdbseason: 2
       start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 16143
+      title: 'One Piece: Kinkyuu Kikaku One Piece Kanzen Kouryakuhou'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 27
+      useMapping: false
+      animeMapping: []
+
+    - malid: 16239
+      title: 'One Piece: Episode of Luffy - Hand Island no Bouken'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 24
+      useMapping: false
+      animeMapping: []
+
+    - malid: 16468
+      title: 'One Piece: Glorious Island'
+      type: ona
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 25
       useMapping: false
       animeMapping: []
 
@@ -3581,6 +3833,15 @@ AnimeMap:
       tvdbid: 269319
       tvdbseason: 0
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 19123
+      title: 'One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 28
       useMapping: false
       animeMapping: []
 
@@ -4247,6 +4508,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 25161
+      title: 'One Piece 3D2Y: Ace no Shi wo Koete! Luffy Nakama to no Chikai'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 29
+      useMapping: false
+      animeMapping: []
+
     - malid: 25389
       title: 'Dragon Ball Z Movie 15: Fukkatsu no "F"'
       type: movie
@@ -4853,6 +5123,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31289
+      title: 'One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 30
+      useMapping: false
+      animeMapping: []
+
     - malid: 31297
       title: 'Tokyo Ghoul: "Pinto"'
       type: ova
@@ -4895,6 +5174,15 @@ AnimeMap:
       tvdbid: 305075
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31490
+      title: 'One Piece Film: Gold'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 33
       useMapping: false
       animeMapping: []
 
@@ -5039,6 +5327,15 @@ AnimeMap:
       tvdbid: 304489
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 32051
+      title: 'One Piece: Adventure of Nebulandia'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 32
       useMapping: false
       animeMapping: []
 
@@ -5285,6 +5582,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 33338
+      title: 'One Piece: Heart of Gold'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 34
+      useMapping: false
+      animeMapping: []
+
     - malid: 33354
       title: 'Cardcaptor Sakura: Clear Card-hen'
       type: tv
@@ -5327,6 +5633,15 @@ AnimeMap:
       tvdbid: 283947
       tvdbseason: 0
       start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 33606
+      title: 'One Piece Film: Gold Episode 0 - 711 ver.'
+      type: ona
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 35
       useMapping: false
       animeMapping: []
 
@@ -6032,6 +6347,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36215
+      title: 'One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 36
+      useMapping: false
+      animeMapping: []
+
     - malid: 36245
       title: Evil or Live
       type: tv
@@ -6548,6 +6872,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 37902
+      title: 'One Piece: Episode of Sorajima'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 37
+      useMapping: false
+      animeMapping: []
+
     - malid: 37916
       title: 'Uma Musume: Pretty Derby - BNW no Chikai'
       type: special
@@ -6752,6 +7085,15 @@ AnimeMap:
       tvdbid: 360593
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38234
+      title: 'One Piece Movie 14: Stampede'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 38
       useMapping: false
       animeMapping: []
 
@@ -9104,6 +9446,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 50410
+      title: 'One Piece Film: Red'
+      type: movie
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 46
+      useMapping: false
+      animeMapping: []
+
     - malid: 50416
       title: Skip to Loafer
       type: tv
@@ -9653,6 +10004,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52199
+      title: 'One Piece: Dai Tettei Kaibou! Kouzuki Oden Densetsu!'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 42
+      useMapping: false
+      animeMapping: []
+
     - malid: 52211
       title: Mashle
       type: tv
@@ -9815,6 +10175,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52921
+      title: 'One Piece: Densetsu no Log! Akagami no Shanks!'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 43
+      useMapping: false
+      animeMapping: []
+
     - malid: 52955
       title: Mahoutsukai no Yome Season 2
       type: tv
@@ -9965,6 +10334,15 @@ AnimeMap:
       tvdbid: 259635
       tvdbseason: 5
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53235
+      title: 'One Piece: Dai Tettei Kaibou! Gekitou! 5-nin no Shin Sedai'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 44
       useMapping: false
       animeMapping: []
 
@@ -10298,6 +10676,15 @@ AnimeMap:
       tvdbid: 248035
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 53890
+      title: 'One Piece: Dai Gekisen Tokushuu! Mugiwara no Ichimi vs. Tobi Roppou'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 45
       useMapping: false
       animeMapping: []
 
@@ -10805,6 +11192,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 55289
+      title: 'One Piece: Dai Gekisen Tokushuu! Zoro vs. Ookanban!'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 47
+      useMapping: false
+      animeMapping: []
+
     - malid: 55318
       title: Medalist
       type: tv
@@ -10865,6 +11261,15 @@ AnimeMap:
       tvdbid: 355774
       tvdbseason: 3
       start: 12
+      useMapping: false
+      animeMapping: []
+
+    - malid: 55647
+      title: 'One Piece: Dai Gekisen Tokushuu! Hangeki Doumei vs. Big Mom'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 48
       useMapping: false
       animeMapping: []
 
@@ -11687,6 +12092,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 57556
+      title: 'One Piece: Dai Tokushuu! Momonosuke no Mei Shougun e no Michi'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 51
+      useMapping: false
+      animeMapping: []
+
     - malid: 57559
       title: MF Ghost 2nd Season
       type: tv
@@ -11954,6 +12368,15 @@ AnimeMap:
       tvdbid: 445390
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 58015
+      title: 'One Piece: Dai Tannou Kikaku! "Shi no Gekai" Trafalgar Law'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 52
       useMapping: false
       animeMapping: []
 
@@ -12326,6 +12749,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 58663
+      title: 'One Piece: Innen no Log! Mugiwara no Ichimi to Cipher Pol'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 53
+      useMapping: false
+      animeMapping: []
+
     - malid: 58714
       title: Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru
       type: tv
@@ -12638,6 +13070,15 @@ AnimeMap:
       tvdbid: 405920
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59029
+      title: 'One Piece: Kizamareru Rekishi! Gekidou no Shinkyuu Yonkou!'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 54
       useMapping: false
       animeMapping: []
 
@@ -13208,6 +13649,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59596
+      title: 'One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 55
+      useMapping: false
+      animeMapping: []
+
     - malid: 59597
       title: Witch Watch
       type: tv
@@ -13487,6 +13937,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59908
+      title: 'One Piece: Yuruganu Seigi! Kaigun no Hokoritakaki Log!'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 56
+      useMapping: false
+      animeMapping: []
+
     - malid: 59914
       title: 'Kinnikuman: Kanpeki Choujin Shiso-hen Season 2'
       type: tv
@@ -13592,6 +14051,15 @@ AnimeMap:
       tvdbid: 455062
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 60022
+      title: One Piece Fan Letter
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 57
       useMapping: false
       animeMapping: []
 
@@ -14843,6 +15311,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61393
+      title: One Piece Egghead Arc Recap
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 58
+      useMapping: false
+      animeMapping: []
+
     - malid: 61398
       title: Make Heroine ga Oosugiru! 2nd Season
       type: tv
@@ -14951,6 +15428,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61674
+      title: 'One Piece: Dr. Chopper no Bouken Karte - Chichi to Musume no Ballad'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 59
+      useMapping: false
+      animeMapping: []
+
     - malid: 61687
       title: Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.
       type: tv
@@ -15056,6 +15542,15 @@ AnimeMap:
       tvdbid: 464977
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61892
+      title: 'One Piece: Dr. Chopper no Bouken Karte - Shinyuu-tachi no Crossroad'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 60
       useMapping: false
       animeMapping: []
 
@@ -15392,6 +15887,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62394
+      title: 'One Piece: Dr. Chopper no Bouken Karte - Hokoritakaki Gigant Dream'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 61
+      useMapping: false
+      animeMapping: []
+
     - malid: 62405
       title: Fujimoto Tatsuki 17-26
       type: ona
@@ -15524,6 +16028,15 @@ AnimeMap:
       tvdbid: 355774
       tvdbseason: 4
       start: 25
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62593
+      title: 'One Piece: Dr. Chopper no Bouken Karte - Uragirimono-tachi no Masquerade'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 62
       useMapping: false
       animeMapping: []
 
@@ -15677,6 +16190,15 @@ AnimeMap:
       tvdbid: 470519
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62969
+      title: 'One Piece: Dr. Chopper no Bouken Karte - Tensai ga Nokoshita "Last Records"'
+      type: tv_special
+      tvdbid: 81797
+      tvdbseason: 0
+      start: 63
       useMapping: false
       animeMapping: []
 
