@@ -1586,6 +1586,23 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1293
+      title: Urusei Yatsura
+      type: tv
+      tvdbid: 75113
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+        - tvdbseason: 2
+          start: 55
+        - tvdbseason: 3
+          start: 107
+        - tvdbseason: 4
+          start: 150
+
     - malid: 1453
       title: Maison Ikkoku
       type: tv
@@ -1602,6 +1619,15 @@ AnimeMap:
           start: 53
         - tvdbseason: 4
           start: 77
+
+    - malid: 1481
+      title: 'Urusei Yatsura: Haru da, Tobidase!'
+      type: special
+      tvdbid: 75113
+      tvdbseason: 0
+      start: 25
+      useMapping: false
+      animeMapping: []
 
     - malid: 1519
       title: 'Black Lagoon: The Second Barrage'
@@ -1788,6 +1814,72 @@ AnimeMap:
       tvdbid: 80177
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1919
+      title: Urusei Yatsura OVA
+      type: ova
+      tvdbid: 75113
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+
+    - malid: 1920
+      title: 'Urusei Yatsura Movie 1: Only You'
+      type: movie
+      tvdbid: 75113
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1921
+      title: 'Urusei Yatsura 2: Beautiful Dreamer'
+      type: movie
+      tvdbid: 75113
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1922
+      title: 'Urusei Yatsura Movie 3: Remember My Love'
+      type: movie
+      tvdbid: 75113
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1923
+      title: 'Urusei Yatsura Movie 4: Lum The Forever'
+      type: movie
+      tvdbid: 75113
+      tvdbseason: 0
+      start: 7
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1924
+      title: 'Urusei Yatsura Movie 5: Kanketsu-hen'
+      type: movie
+      tvdbid: 75113
+      tvdbseason: 0
+      start: 10
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1925
+      title: 'Urusei Yatsura Movie 6: Itsudatte My Darling'
+      type: movie
+      tvdbid: 75113
+      tvdbseason: 0
+      start: 19
       useMapping: false
       animeMapping: []
 
@@ -2431,6 +2523,15 @@ AnimeMap:
       tvdbid: 150471
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 6567
+      title: 'Urusei Yatsura: The Shougaibutsu Suieitaikai'
+      type: special
+      tvdbid: 75113
+      tvdbseason: 0
+      start: 20
       useMapping: false
       animeMapping: []
 
