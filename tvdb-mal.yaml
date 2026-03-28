@@ -1074,6 +1074,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 762
+      title: 'Bleach: Memories in the Rain'
+      type: special
+      tvdbid: 74796
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 792
       title: 'Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!'
       type: movie
@@ -1109,6 +1118,15 @@ AnimeMap:
           start: 220
         - tvdbseason: 9
           start: 254
+
+    - malid: 834
+      title: 'Bleach: The Sealed Sword Frenzy'
+      type: special
+      tvdbid: 74796
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
 
     - malid: 853
       title: Ouran Koukou Host Club
@@ -1737,6 +1755,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1686
+      title: 'Bleach Movie 1: Memories of Nobody'
+      type: movie
+      tvdbid: 74796
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 1723
       title: Clannad Movie
       type: movie
@@ -2049,6 +2076,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2889
+      title: 'Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru'
+      type: movie
+      tvdbid: 74796
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 2904
       title: 'Code Geass: Hangyaku no Lelouch R2'
       type: tv
@@ -2253,6 +2289,15 @@ AnimeMap:
       tvdbid: 79839
       tvdbseason: 0
       start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4835
+      title: 'Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu'
+      type: movie
+      tvdbid: 74796
+      tvdbseason: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -2765,6 +2810,15 @@ AnimeMap:
       tvdbid: 81797
       tvdbseason: 0
       start: 31
+      useMapping: false
+      animeMapping: []
+
+    - malid: 8247
+      title: 'Bleach Movie 4: Jigoku-hen'
+      type: movie
+      tvdbid: 74796
+      tvdbseason: 0
+      start: 6
       useMapping: false
       animeMapping: []
 
@@ -7384,6 +7438,15 @@ AnimeMap:
       tvdbid: 352408
       tvdbseason: 0
       start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38810
+      title: 'Bleach: Gotei 13 Omake'
+      type: special
+      tvdbid: 74796
+      tvdbseason: 0
+      start: 99
       useMapping: false
       animeMapping: []
 
