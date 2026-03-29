@@ -26,6 +26,8 @@ jobs:
           version: "0.2.4"
 
       - name: GenerateMaps
+        env:
+          SHINKRODB_MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
         run: |
           shinkrodb genmap
 
