@@ -39,3 +39,35 @@ jobs:
           use_gitignore: false
           yaml_as_json: true
           exclude_file: "./.github/exclude-tvdb"
+
+  checkDeletions:
+    name: CheckDeletions
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Check no mapped entries deleted (TVDB)
+        run: |
+          base=$(git show origin/main:tvdb-mal-master.yaml | yq '.AnimeMap[] | select(.useMapping == true or .tvdbid != 0) | .malid' | sort)
+          pr=$(yq '.AnimeMap[] | select(.useMapping == true or .tvdbid != 0) | .malid' tvdb-mal-master.yaml | sort)
+          missing=$(comm -23 <(echo "$base") <(echo "$pr"))
+          if [ -n "$missing" ]; then
+            echo "ERROR: Mapped entries deleted from tvdb-mal-master.yaml (malids):"
+            echo "$missing"
+            exit 1
+          fi
+
+      - name: Check no mapped entries deleted (TMDB)
+        run: |
+          base=$(git show origin/main:tmdb-mal-master.yaml | yq '.animeMovies[] | select(.tmdbid != 0) | .malid' | sort)
+          pr=$(yq '.animeMovies[] | select(.tmdbid != 0) | .malid' tmdb-mal-master.yaml | sort)
+          missing=$(comm -23 <(echo "$base") <(echo "$pr"))
+          if [ -n "$missing" ]; then
+            echo "ERROR: Mapped entries deleted from tmdb-mal-master.yaml (malids):"
+            echo "$missing"
+            exit 1
+          fi
