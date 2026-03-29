@@ -16411,6 +16411,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63042
+      title: Meitantei Precure!
+      type: tv
+      tvdbid: 470961
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63082
       title: Reiwa no Dara-san
       type: tv
