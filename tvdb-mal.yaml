@@ -5362,6 +5362,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31636
+      title: Dagashi Kashi
+      type: tv
+      tvdbid: 303725
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 31665
       title: 'Hibike! Euphonium: Kakedasu Monaka'
       type: special
