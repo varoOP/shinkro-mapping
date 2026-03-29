@@ -26,5 +26,7 @@ jobs:
           version: "0.2.4"
 
       - name: Check Format
+        env:
+          SHINKRODB_MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
         run: |
           shinkrodb format
