@@ -575,10 +575,6 @@ animeMovies:
       tmdbid: 0
       malid: 8491
 
-    - mainTitle: 'Gegege no Kitarou: Kitarou no Yuurei Densha'
-      tmdbid: 0
-      malid: 8493
-
     - mainTitle: 'Kikansha Yaemon: D51 no Daibouken'
       tmdbid: 0
       malid: 8494
@@ -1019,10 +1015,6 @@ animeMovies:
       tmdbid: 0
       malid: 16796
 
-    - mainTitle: Miraesonyeon Kunta Beomyuda 5000 Nyeon
-      tmdbid: 0
-      malid: 16800
-
     - mainTitle: Solar I.II.III
       tmdbid: 0
       malid: 16804
@@ -1399,10 +1391,6 @@ animeMovies:
       tmdbid: 0
       malid: 22171
 
-    - mainTitle: Yume 10 Yoru
-      tmdbid: 0
-      malid: 22173
-
     - mainTitle: Madonna (Movie)
       tmdbid: 0
       malid: 22177
@@ -1510,10 +1498,6 @@ animeMovies:
     - mainTitle: Osaru no Tairyou
       tmdbid: 0
       malid: 23267
-
-    - mainTitle: Futari no Oujisama
-      tmdbid: 0
-      malid: 23343
 
     - mainTitle: 'Poppoya-san: Nonki Kikanshi'
       tmdbid: 0
@@ -2079,10 +2063,6 @@ animeMovies:
       tmdbid: 0
       malid: 30407
 
-    - mainTitle: Tokyo SOS
-      tmdbid: 0
-      malid: 30408
-
     - mainTitle: Kachikachi Yama no Shouboutai
       tmdbid: 0
       malid: 30457
@@ -2318,10 +2298,6 @@ animeMovies:
     - mainTitle: 'Aikatsu!: Nerawareta Mahou no Aikatsu! Card'
       tmdbid: 0
       malid: 32806
-
-    - mainTitle: Ganbare!! Tabuchi-kun!!
-      tmdbid: 0
-      malid: 32835
 
     - mainTitle: 'Duel Masters: Hamukatsu to Dogiragon no Curry-pan Daibouken'
       tmdbid: 0
@@ -2935,10 +2911,6 @@ animeMovies:
       tmdbid: 0
       malid: 38875
 
-    - mainTitle: U.F.O
-      tmdbid: 0
-      malid: 38876
-
     - mainTitle: Get Back on the Hill
       tmdbid: 0
       malid: 38877
@@ -3270,10 +3242,6 @@ animeMovies:
     - mainTitle: 'Suirin: Karma (Ni)'
       tmdbid: 0
       malid: 42233
-
-    - mainTitle: Ringo to Shoujo
-      tmdbid: 0
-      malid: 42234
 
     - mainTitle: Oumagatoki
       tmdbid: 0
@@ -5007,10 +4975,6 @@ animeMovies:
       tmdbid: 0
       malid: 45073
 
-    - mainTitle: Wukong Qiyu Ji
-      tmdbid: 0
-      malid: 45081
-
     - mainTitle: Fengkuang Menghuan Cheng
       tmdbid: 0
       malid: 45090
@@ -5743,10 +5707,6 @@ animeMovies:
       tmdbid: 0
       malid: 53158
 
-    - mainTitle: MaMa (Movie)
-      tmdbid: 0
-      malid: 53171
-
     - mainTitle: White Fireworks
       tmdbid: 0
       malid: 53172
@@ -6130,10 +6090,6 @@ animeMovies:
     - mainTitle: Wakamono, Gendai, Kougai
       tmdbid: 0
       malid: 54217
-
-    - mainTitle: 'Made in Abyss: Mezameru Shinpi'
-      tmdbid: 0
-      malid: 54250
 
     - mainTitle: Time Machine
       tmdbid: 0
@@ -7543,10 +7499,6 @@ animeMovies:
       tmdbid: 0
       malid: 61806
 
-    - mainTitle: 'Bousei no Volicia: Dai-2 Shou - Gunjou'
-      tmdbid: 0
-      malid: 61865
-
     - mainTitle: 'Zhu Zhu Xia: Yi Zhi Lao Zhu De Ni Xi'
       tmdbid: 0
       malid: 61947
@@ -7715,10 +7667,6 @@ animeMovies:
       tmdbid: 0
       malid: 62575
 
-    - mainTitle: Seishun Buta Yarou wa Dear Friend no Yume wo Minai
-      tmdbid: 0
-      malid: 62582
-
     - mainTitle: 'Oshirimae Man: Fukkatsu no Oshirimae Teikoku'
       tmdbid: 0
       malid: 62690
@@ -7830,4 +7778,8 @@ animeMovies:
     - mainTitle: Maebashi Witches Movie
       tmdbid: 0
       malid: 63772
+
+    - mainTitle: Friend Ship
+      tmdbid: 0
+      malid: 63836
 
