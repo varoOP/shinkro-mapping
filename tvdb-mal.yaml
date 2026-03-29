@@ -875,7 +875,7 @@ AnimeMap:
     - malid: 371
       title: Cardcaptor Sakura Movie 1
       type: movie
-      tvdbid: 29022
+      tvdbid: 70668
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -884,9 +884,9 @@ AnimeMap:
     - malid: 372
       title: 'Cardcaptor Sakura Movie 2: Fuuin Sareta Card'
       type: movie
-      tvdbid: 20225
+      tvdbid: 70668
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -1499,9 +1499,9 @@ AnimeMap:
     - malid: 1078
       title: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
       type: movie
-      tvdbid: 164297
+      tvdbid: 70668
       tvdbseason: 0
-      start: 0
+      start: 6
       useMapping: false
       animeMapping: []
 
