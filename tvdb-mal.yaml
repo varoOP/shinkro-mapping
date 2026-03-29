@@ -5758,6 +5758,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 33142
+      title: Re:Zero kara Hajimeru Break Time
+      type: tv_special
+      tvdbid: 305089
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 33161
       title: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA
       type: ova
@@ -6604,6 +6613,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36286
+      title: Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow
+      type: movie
+      tvdbid: 305089
+      tvdbseason: 0
+      start: 26
+      useMapping: false
+      animeMapping: []
+
     - malid: 36407
       title: Kenja no Mago
       type: tv
@@ -7363,6 +7381,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 38414
+      title: Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna
+      type: movie
+      tvdbid: 305089
+      tvdbseason: 0
+      start: 28
+      useMapping: false
+      animeMapping: []
+
     - malid: 38472
       title: Isekai Quartet
       type: tv
@@ -7783,6 +7810,15 @@ AnimeMap:
       tvdbid: 289884
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 39921
+      title: Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow - Manner Movie
+      type: movie
+      tvdbid: 305089
+      tvdbseason: 0
+      start: 27
       useMapping: false
       animeMapping: []
 
@@ -8344,6 +8380,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 41590
+      title: Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie
+      type: movie
+      tvdbid: 305089
+      tvdbseason: 0
+      start: 29
+      useMapping: false
+      animeMapping: []
+
     - malid: 41674
       title: Aria the Crepuscolo
       type: movie
@@ -8458,6 +8503,15 @@ AnimeMap:
       tvdbid: 385278
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 42364
+      title: Re:Zero kara Hajimeru Break Time 2nd Season
+      type: special
+      tvdbid: 305089
+      tvdbseason: 0
+      start: 30
       useMapping: false
       animeMapping: []
 
@@ -14281,6 +14335,15 @@ AnimeMap:
       tvdbid: 455062
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 60012
+      title: Re:Zero kara Hajimeru Break Time 3rd Season
+      type: special
+      tvdbid: 305089
+      tvdbseason: 0
+      start: 55
       useMapping: false
       animeMapping: []
 
