@@ -1,8 +1,9 @@
 {
     "$id": "https://github.com/varoOP/shinkro-mapping/blob/main/.github/schema-tmdb.json",
+    "title": "shinkro tmdb-mal custom mapping schema",
     "type": "object",
     "default": {},
-    "title": "shinkro tmdb-mal custom mapping scheme",
+    "additionalProperties": false,
     "required": [
         "animeMovies"
     ],
@@ -12,6 +13,7 @@
             "default": [],
             "items": {
                 "type": "object",
+                "additionalProperties": false,
                 "required": [
                     "mainTitle",
                     "tmdbid",
@@ -20,6 +22,7 @@
                 "properties": {
                     "mainTitle": {
                         "type": "string",
+                        "minLength": 1,
                         "examples": [
                             "Tokyo Godfathers",
                             "Ramayana: The Legend of Prince",

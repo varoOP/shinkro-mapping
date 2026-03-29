@@ -3,6 +3,7 @@
     "title": "shinkro tvdb-mal custom mapping schema",
     "default": {},
     "type": "object",
+    "additionalProperties": false,
     "required": [
         "AnimeMap"
     ],
@@ -11,16 +12,19 @@
             "type": "array",
             "items": {
                 "type": "object",
+                "additionalProperties": false,
                 "properties": {
                     "malid": {
                         "type": "integer",
                         "minimum": 1
                     },
                     "title": {
-                        "type": "string"
+                        "type": "string",
+                        "minLength": 1
                     },
                     "type": {
-                        "type": "string"
+                        "type": "string",
+                        "enum": ["tv", "movie", "ova", "ona", "music", "special", "tv_special", "cm", "pv", "unknown"]
                     },
                     "tvdbid": {
                         "type": "integer"
@@ -38,6 +42,7 @@
                         "type": "array",
                         "items": {
                             "type": "object",
+                            "additionalProperties": false,
                             "properties": {
                                 "tvdbseason": {
                                     "type": "integer"
@@ -47,7 +52,8 @@
                                 },
                                 "mappingType": {
                                     "type": "string",
-                                    "enum": ["explicit", "range"]
+                                    "enum": ["explicit", "range"],
+                                    "default": "range"
                                 },
                                 "explicitEpisodes": {
                                     "type": "object",
@@ -55,7 +61,7 @@
                                         "type": "integer",
                                         "minimum": 1
                                     },
-                                    "description": "Map of TVDB episode number to MAL episode number (tvdbEp -> malEp)"
+                                    "description": "Map of TVDB episode number to MAL episode number (tvdbEp -> malEp). Only valid when mappingType is 'explicit'."
                                 },
                                 "skipMalEpisodes": {
                                     "type": "array",
@@ -63,12 +69,41 @@
                                         "type": "integer",
                                         "minimum": 1
                                     },
-                                    "description": "List of MAL episode numbers to skip when using range mapping"
+                                    "description": "List of MAL episode numbers to skip when using range mapping. Only valid when mappingType is 'range' or omitted."
                                 }
                             },
                             "required": [
                                 "tvdbseason",
                                 "start"
+                            ],
+                            "allOf": [
+                                {
+                                    "if": {
+                                        "properties": {
+                                            "mappingType": { "const": "explicit" }
+                                        },
+                                        "required": ["mappingType"]
+                                    },
+                                    "then": {
+                                        "required": ["explicitEpisodes"],
+                                        "not": {
+                                            "required": ["skipMalEpisodes"]
+                                        }
+                                    }
+                                },
+                                {
+                                    "if": {
+                                        "properties": {
+                                            "mappingType": { "const": "range" }
+                                        },
+                                        "required": ["mappingType"]
+                                    },
+                                    "then": {
+                                        "not": {
+                                            "required": ["explicitEpisodes"]
+                                        }
+                                    }
+                                }
                             ]
                         }
                     }
