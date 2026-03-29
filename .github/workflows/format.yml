@@ -28,5 +28,6 @@ jobs:
       - name: Check Format
         env:
           SHINKRODB_MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
+          SHINKRODB_TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           shinkrodb format
