@@ -926,6 +926,42 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 449
+      title: 'InuYasha Movie 4: Guren no Houraijima'
+      type: movie
+      tvdbid: 71361
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 450
+      title: 'InuYasha Movie 2: Kagami no Naka no Mugenjou'
+      type: movie
+      tvdbid: 71361
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 451
+      title: 'InuYasha Movie 3: Tenka Hadou no Ken'
+      type: movie
+      tvdbid: 71361
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
+    - malid: 452
+      title: 'InuYasha Movie 1: Toki wo Koeru Omoi'
+      type: movie
+      tvdbid: 71361
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 457
       title: Mushishi
       type: tv
@@ -2328,6 +2364,15 @@ AnimeMap:
       tvdbid: 273223
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4886
+      title: 'InuYasha: Kuroi Tessaiga'
+      type: special
+      tvdbid: 71361
+      tvdbseason: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
