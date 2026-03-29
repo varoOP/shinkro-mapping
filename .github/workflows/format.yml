@@ -1,7 +1,7 @@
 name: formatMaps
 
 on:
-  pull_request:
+  pull_request_target:
 
 permissions:
   contents: write
@@ -21,10 +21,13 @@ jobs:
       - name: SetupShinkrodb
         uses: supplypike/setup-bin@v3
         with:
-          uri: "https://github.com/varoOP/shinkrodb/releases/download/v0.1.5/shinkrodb_v0.1.5_linux_amd64.tar.gz"
+          uri: "https://github.com/shinkro/shinkrodb/releases/download/v0.2.4/shinkrodb_v0.2.4_linux_amd64.tar.gz"
           name: "shinkrodb"
-          version: "0.1.5"
+          version: "0.2.4"
 
       - name: Check Format
+        env:
+          SHINKRODB_MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
+          SHINKRODB_TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           shinkrodb format
