@@ -21,9 +21,9 @@ jobs:
       - name: SetupShinkrodb
         uses: supplypike/setup-bin@v3
         with:
-          uri: "https://github.com/varoOP/shinkrodb/releases/download/v0.1.5/shinkrodb_v0.1.5_linux_amd64.tar.gz"
+          uri: "https://github.com/shinkro/shinkrodb/releases/download/v0.2.4/shinkrodb_v0.2.4_linux_amd64.tar.gz"
           name: "shinkrodb"
-          version: "0.1.5"
+          version: "0.2.4"
 
       - name: GenerateMaps
         run: |
