@@ -1,10 +1,10 @@
 name: formatMaps
 
 on:
-  pull_request_target:
+  pull_request:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   formatMaps:
@@ -13,21 +13,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.sha }}
-          persist-credentials: false  
 
       - name: SetupShinkrodb
         uses: supplypike/setup-bin@v3
         with:
-          uri: "https://github.com/shinkro/shinkrodb/releases/download/v0.2.4/shinkrodb_v0.2.4_linux_amd64.tar.gz"
+          uri: "https://github.com/shinkro/shinkrodb/releases/download/v0.2.5/shinkrodb_v0.2.5_linux_amd64.tar.gz"
           name: "shinkrodb"
-          version: "0.2.4"
+          version: "0.2.5"
 
       - name: Check Format
-        env:
-          SHINKRODB_MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
-          SHINKRODB_TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           shinkrodb format
