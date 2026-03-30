@@ -3940,6 +3940,22 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 18397
+      title: Shingeki no Kyojin OVA
+      type: ova
+      tvdbid: 267440
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            7: 1
+            12: 2
+            13: 3
+
     - malid: 18411
       title: Gingitsune
       type: tv
@@ -4066,6 +4082,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 19285
+      title: 'Shingeki no Kyojin: Ano Hi Kara'
+      type: tv_special
+      tvdbid: 267440
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 19383
       title: Yami Shibai
       type: tv
@@ -4074,6 +4099,28 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 19391
+      title: Shingeki no Kyojin Picture Drama
+      type: special
+      tvdbid: 267440
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            2: 1
+            3: 2
+            4: 3
+            5: 4
+            6: 5
+            8: 6
+            9: 7
+            10: 8
+            11: 9
 
     - malid: 19697
       title: 'Toaru Kagaku no Railgun S: Motto Marutto Railgun'
@@ -4468,6 +4515,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 23775
+      title: 'Shingeki no Kyojin Movie 1: Guren no Yumiya'
+      type: movie
+      tvdbid: 267440
+      tvdbseason: 0
+      start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 23777
+      title: 'Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa'
+      type: movie
+      tvdbid: 267440
+      tvdbseason: 0
+      start: 18
+      useMapping: false
+      animeMapping: []
+
     - malid: 23787
       title: Hi☆sCoool! SeHa Girls
       type: tv
@@ -4755,6 +4820,21 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 25781
+      title: 'Shingeki no Kyojin: Kuinaki Sentaku'
+      type: ova
+      tvdbid: 267440
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            15: 1
+            17: 2
 
     - malid: 26055
       title: 'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen'
@@ -6568,6 +6648,22 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36106
+      title: 'Shingeki no Kyojin: Lost Girls'
+      type: ova
+      tvdbid: 267440
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            20: 1
+            22: 2
+            23: 3
+
     - malid: 36108
       title: Takunomi.
       type: tv
@@ -6709,6 +6805,15 @@ AnimeMap:
       tvdbid: 343384
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36702
+      title: 'Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou'
+      type: movie
+      tvdbid: 267440
+      tvdbseason: 0
+      start: 21
       useMapping: false
       animeMapping: []
 
@@ -7624,6 +7729,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 39477
+      title: Shingeki no Kyojin Season 3 Specials
+      type: special
+      tvdbid: 267440
+      tvdbseason: 0
+      start: 24
+      useMapping: false
+      animeMapping: []
+
     - malid: 39491
       title: Psycho-Pass 3
       type: tv
@@ -8440,6 +8554,15 @@ AnimeMap:
       tvdbid: 269319
       tvdbseason: 0
       start: 27
+      useMapping: false
+      animeMapping: []
+
+    - malid: 42091
+      title: 'Shingeki no Kyojin: Chronicle'
+      type: movie
+      tvdbid: 267440
+      tvdbseason: 0
+      start: 31
       useMapping: false
       animeMapping: []
 
@@ -9370,6 +9493,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 49627
+      title: 'Shingeki no Kyojin: The Final Season Specials'
+      type: special
+      tvdbid: 267440
+      tvdbseason: 0
+      start: 36
+      useMapping: false
+      animeMapping: []
+
     - malid: 49709
       title: Fumetsu no Anata e Season 2
       type: tv
@@ -10121,8 +10253,8 @@ AnimeMap:
       title: 'Shingeki no Kyojin: The Final Season - Kanketsu-hen'
       type: tv_special
       tvdbid: 267440
-      tvdbseason: 29
-      start: 0
+      tvdbseason: 4
+      start: 29
       useMapping: false
       animeMapping: []
 
@@ -13921,6 +14053,15 @@ AnimeMap:
       tvdbid: 453353
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59571
+      title: 'Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack'
+      type: movie
+      tvdbid: 267440
+      tvdbseason: 0
+      start: 50
       useMapping: false
       animeMapping: []
 
