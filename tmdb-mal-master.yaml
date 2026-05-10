@@ -1239,10 +1239,6 @@ animeMovies:
       tmdbid: 0
       malid: 19909
 
-    - mainTitle: Kimu no Juujika
-      tmdbid: 0
-      malid: 19941
-
     - mainTitle: Huckleberry no Bouken (Movie)
       tmdbid: 0
       malid: 19957
@@ -1590,10 +1586,6 @@ animeMovies:
     - mainTitle: '"Aesop" no Ohanashi yori: Ushi to Kaeru, Yokubatta Inu'
       tmdbid: 0
       malid: 25627
-
-    - mainTitle: 'Futari wa Precure: Splash☆Star Maji★Doki♥ Theater'
-      tmdbid: 0
-      malid: 26053
 
     - mainTitle: Okori Jizou
       tmdbid: 0
@@ -2906,10 +2898,6 @@ animeMovies:
     - mainTitle: 'Tezuka Osamu no Uchuu Wonder 3: Ginga Renmei no Shisha'
       tmdbid: 0
       malid: 39359
-
-    - mainTitle: Shinsengumi
-      tmdbid: 0
-      malid: 39360
 
     - mainTitle: Tetsuwan Atom to Sagurou! Dosei wo Mawaru Shinpi no Hoshi Titan
       tmdbid: 0
@@ -6859,10 +6847,6 @@ animeMovies:
       tmdbid: 0
       malid: 58993
 
-    - mainTitle: 'Qian Ting Zong Dong Yuan: Xun Long'
-      tmdbid: 0
-      malid: 59041
-
     - mainTitle: Huanying Lai Dao Duo Li Zhi Jia
       tmdbid: 0
       malid: 59043
@@ -7275,10 +7259,6 @@ animeMovies:
       tmdbid: 0
       malid: 61031
 
-    - mainTitle: Trust (Movie)
-      tmdbid: 0
-      malid: 61040
-
     - mainTitle: Dive In!
       tmdbid: 0
       malid: 61041
@@ -7575,10 +7555,6 @@ animeMovies:
       tmdbid: 0
       malid: 62942
 
-    - mainTitle: Wareware wa Uchuujin
-      tmdbid: 0
-      malid: 62973
-
     - mainTitle: Wani no Shokuji
       tmdbid: 0
       malid: 63211
@@ -7662,4 +7638,32 @@ animeMovies:
     - mainTitle: 'Ginga Tetsudou 999: Glass no Clair 3D'
       tmdbid: 0
       malid: 63999
+
+    - mainTitle: Beni Bara, Shiro Bara
+      tmdbid: 0
+      malid: 64065
+
+    - mainTitle: 'Sumikko Gurashi: Hiroi Uchuu to Aurora no Hikari'
+      tmdbid: 0
+      malid: 64100
+
+    - mainTitle: Kujira wo Yumemu
+      tmdbid: 0
+      malid: 64102
+
+    - mainTitle: I
+      tmdbid: 0
+      malid: 64110
+
+    - mainTitle: Mahiru no Obake
+      tmdbid: 0
+      malid: 64111
+
+    - mainTitle: Dango no Yukue
+      tmdbid: 0
+      malid: 64138
+
+    - mainTitle: 'Chuuou Kishodai Shidou: Otenki Gakkou'
+      tmdbid: 0
+      malid: 64140
 
