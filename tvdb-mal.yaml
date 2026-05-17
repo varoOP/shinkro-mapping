@@ -14361,15 +14361,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 5953
-      title: 'Mahou no Princess Minky Momo: Yume wo Dakishimete'
-      type: tv
-      tvdbid: 74504
-      tvdbseason: 2
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 5958
       title: Sora no Otoshimono
       type: tv
@@ -44098,15 +44089,6 @@ AnimeMap:
       type: tv
       tvdbid: 434704
       tvdbseason: 2
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 59135
-      title: Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.
-      type: tv
-      tvdbid: 451527
-      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
